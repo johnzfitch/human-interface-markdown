@@ -1,0 +1,5 @@
+<!-- Chunk 33 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 254 -->
+Many applications provide license agreementsto which users must agree before using the applications. Such an agreement (often called an end-user license agreement, or EULA) sets forth various terms and conditions that can describe liability limits and govern usage. If you need to provide an end-user license agreement for your iPhone application, follow the guidelines in this section to ensure an appropriate and convenient user experience.  
+#### **CHAPTER 4**  
+Handling Common Tasks  
+The end-user license agreement for an iPhone application is displayed in the App Store, where people can choose to view it before purchasing the application. Your application should not display the license agreement at any time, including, but not limited to, installation and first launch. In addition, you should not provide any user interface elements that display the license agreement while your application is running. Following these guidelines allows you to obtain the consent you require without hindering your users.

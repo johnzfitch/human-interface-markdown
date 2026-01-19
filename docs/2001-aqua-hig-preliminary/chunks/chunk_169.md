@@ -1,0 +1,14 @@
+<!-- Chunk 169 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 459 -->
+- Are the Apple, application, File, Edit, and Window menus present, with at least the standard items?
+- Does the application support Undo, Cut, Copy, and Paste, and are these items in the Edit menu?
+- Does your application menu contain About, Preferences, Hide, and Quit?
+- Do the unique menus of the application have names that are appropriate? Are the names sufficiently different from the standard system menu names? Can the user understand and remember their meaning?
+- Are frequently used menu items available at the top level rather than in a submenu or a dialog? If not, can the user change their location?
+- Are unavailable items dimmed (rather than being omitted)? Are dimmed items unselectable? If all items in a menu are unavailable, is the menu title dimmed? Can the user still pull down the menu and see the dimmed names of the operations?
+- Are toggled menu items either unambiguously a verb or unambiguously a state of being?
+- Are menu titles and items in caps/lowercase unless there is a compelling reason to have a different style, such as an ALL CAPS item in a Style menu?
+- Do menu items have an ellipsis character (…) if more information is required from the user before completing the command?
+- Are the menu items truly menu items? Menu items should not be used as text, section titles, or status indicators.
+- In a hierarchical menu, does the title of the submenu have a right-pointing triangle? Are submenus used only for lists of related items?
+- Can the user see all the commands, items, and submenu titles in a menu without scrolling? Scrolling should be necessary only for menus that users have added to or for menus that spill over because the user has selected a large system font.
+- If the application is text oriented, can the user change the font and style with menu commands or the system Font dialog?

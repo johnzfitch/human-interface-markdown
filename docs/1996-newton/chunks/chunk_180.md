@@ -1,0 +1,8 @@
+<!-- Chunk 180 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 345 -->
+In addition to the system-supplied variations on the Find slip, your application can modify or completely replace the Find slip when it is frontmost. Typically, your application would do this in order to provide a customized user interface for specialized searches. For example, your application could add a labeled input line with a picker that enables a user to conduct specialized finds.  
+If your application specifies custom interface elements, the system adds them to the top portion of the standard Find slip whenever two conditions are met. First, your application must be frontmost. Second, a user must select your application's radio button in the Find slip.  
+Find **8-9**  
+Keep in mind that a user may need to scroll among found items while the Find slip is displayed; therefore, when customizing or replacing this slip, avoid making it so large that it obscures the display of the found items. Figure 8-9 shows a sample application named Checkbook that adds a labeled input line with a picker to the standard Find slip.  
+**Figure 8-9** A custom Find slip displays application-specific criteria at the top  
+![](images/_page_251_Picture_4.jpeg)  
+Besides adding criteria to the top of the Find slip, your application can suppress the Find slip's standard input line. If necessary, your application can completely replace the standard Find slip with a slip of its own.

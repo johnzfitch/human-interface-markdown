@@ -1,0 +1,8 @@
+<!-- Chunk 54 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 378 -->
+12-point Chicago gives an overall height of 16 pixels, so the height of the resource rectangle surrounding text in Chicago should be 16 pixels.  
+In aligning static text with other elements of dialog boxes or alert boxes, you should carefully choose the letter on which to base the alignment. The glyphs of a font include pixel space before each letter or number. However, while a font can include letters and numbers having the same amount of preceding space measured in pixels, it can also include characters with more or less than the standard preceding pixel space.  
+For 12-point Chicago, a standard character includes 2 preceding pixels. If you assume that the first word of a text string starts with a capital "M", which is a standard letter, you will align text correctly for all strings, not just the one you are currently placing. Figure 3-14 shows the correct alignment based on the capital "M" and the amount of space between the icon and the text.  
+**Figure 3-14** Alignment of text based on a 12-point Chicago standard letter  
+![](images/_page_69_Figure_7.jpeg)  
+12-point Chicago font includes some characters that could cause misalignment if you use them as your guide. In 12-point Chicago, the letters "J", "T", and "j"  
+<span id="page-70-0"></span>outdent 1 pixel to the left beyond the font's standard letters for left-aligned text. The letter "I" and the number "1" have an additional pixel to the left for left-aligned text resulting in a total of 3 preceding pixels for these characters.

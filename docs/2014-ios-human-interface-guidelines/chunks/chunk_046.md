@@ -1,0 +1,7 @@
+<!-- Chunk 46 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 287 -->
+Consistency lets people transfer their knowledge and skills from one part of an app's UI to another and from one app to another app. A consistent app isn't a slavish copy of other apps and it isn't stylistically stagnant; rather, it pays attention to the standards and paradigms people are comfortable with and it provides an internally consistent experience.  
+![](images/_page_67_Picture_3.jpeg)  
+To determine whether an iOS app follows the principle of consistency, think about these questions:  
+- Isthe app consistent with iOS standards? Doesit use system-provided controls, views, and icons correctly? Does it incorporate device features in ways that users expect?
+- Isthe app consistent within itself? Doestext use uniform terminology and style? Do the same icons always mean the same thing? Can people predict what will happen when they perform the same action in different places? Do custom UI elements look and behave the same throughout the app?
+- Within reason, is the app consistent with its earlier versions? Have the terms and meanings remained the same? Are the fundamental concepts and primary functionality essentially unchanged?

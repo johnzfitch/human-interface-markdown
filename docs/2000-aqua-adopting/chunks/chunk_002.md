@@ -1,0 +1,7 @@
+<!-- Chunk 2 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 298 -->
+The window layering model in Mac OS X is different from previous versions of Mac OS. In Mac OS 9 and earlier, all windows belonging to a particular application are in the same layer. In Mac OS X, document windows and an application's main  
+New in Aqua **3**  
+#### **CHAPTER 1**  
+#### Adopting the Aqua Interface  
+windows are in their own individual layers. This allows a user to have documents from different applications interleaved. Three or four TextEdit documents, three or four Preview documents, and so on, may be interleaved so that the user can click any one of them to bring it to the front and not disturb the layering of any other window. The user determines the layering order of windows; the depth of a particular window is determined by when the window was last accessed. It is possible to bring all windows of a given application forward by clicking on the application's icon in the Dock or by using the Bring All to Front command in the Window menu.  
+In the section ["Sheets" \(page 4\),](#page-3-0) a new type of dialog is introduced. This new type of dialog is designed to ensure that a dialog does not get lost when a user accesses windows from different applications.

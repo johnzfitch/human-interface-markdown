@@ -1,0 +1,3 @@
+<!-- Chunk 165 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 156 -->
+A transport should stop an ongoing send or receive operation as soon as possible under two conditions. One is when a user taps the Stop button in the transport's status slip. The second is when the system notifies the transport that it wants to turn off power.  
+If the system is about to turn power off while a transport is engaged (not idle), the transport should handle the situation gracefully. Generally this means displaying a confirmation alert asking for the user to confirm that it is OK to break the connection. After the user consents, the system waits for the transport to become idle before turning off the power.

@@ -1,0 +1,2 @@
+<!-- Chunk 146 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 49 -->
+While the user is dragging an item to a text area, an insertion indicator (a vertical bar) should appear in the text where the dragged item would be inserted if the user releases the mouse button.

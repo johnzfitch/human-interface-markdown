@@ -1,0 +1,9 @@
+<!-- Chunk 17 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 381 -->
+Accessibility meansthat individuals with disabilities can have full use ofsystem features, perhaps with the help of an assistive device, such as a screen reader. Internationalization means that an app's text, layout, and images can be adapted to the user's locale. Great Mac apps integrate both of these qualities so that they can appeal to a worldwide audience.  
+OS X includes many built-in features that help individuals with disabilities use their Mac, such as:  
+- VoiceOver screen-reading technology
+- Braille display support
+- Customizable keyboard shortcuts, trackpad gestures, and an onscreen keyboard
+- Speakable items  
+The OS X accessibility programming interfaces make it easy for apps to be fully accessible. To find out more about designing your app with accessibility in mind, see ["Accessibility"](#page-83-0) (page 84). To learn about the easy programmatic steps you need to take to make your app accessible, see *Accessibility Overview for OS X* .  
+Great apps use the language and images that make their users feel at home, regardless of the country they're in. OS X provides several features that make localization easier, including Autolayout in Interface Builder. Using Autolayout, you can define how text and layout are related, so that an app's appearance can remain consistent regardless of the length of the text. To learn more about Autolayout, see *Auto Layout Guide* . To learn more about designing your app with internationalization in mind, see ["Internationalization"](#page-83-1) (page 84).

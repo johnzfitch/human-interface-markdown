@@ -1,0 +1,2 @@
+<!-- Chunk 121 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 45 -->
+Modifier keys alter the way other keystrokes or mouse clicks are interpreted. You should use these keys—Shift, Caps Lock, Option, Command, and Control—consistently as described here.

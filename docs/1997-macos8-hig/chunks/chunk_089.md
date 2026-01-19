@@ -1,0 +1,2 @@
+<!-- Chunk 89 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 74 -->
+Because older control panels did not generate their own menus, some users are likely to assume that Mac OS 8 control panels also do not. Custom menus and menu items therefore should be used sparingly, and only minor or infrequently used features should be accessed exclusively through menu items. ▲

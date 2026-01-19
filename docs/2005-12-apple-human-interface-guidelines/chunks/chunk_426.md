@@ -1,0 +1,2 @@
+<!-- Chunk 426 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+The placement of controls or text where every item is centered on an imaginary vertical line in the center of a window.

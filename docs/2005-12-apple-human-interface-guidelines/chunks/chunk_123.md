@@ -1,0 +1,2 @@
+<!-- Chunk 123 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 61 -->
+When activated, the Caps Lock key has the same effect on alphabetic keys as the Shift key, but it has no effect on nonalphabetic keys. When the Caps Lock key is down, the user must press Shift to type the upper character on a nonalphabetic key.

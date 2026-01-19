@@ -1,0 +1,6 @@
+<!-- Chunk 11 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 266 -->
+This book does not explain how to create Newton software with Newton Toolkit, the Newton development environment. For that you'll need to refer to these other books, all of which come with Newton Toolkit:  
+■ *Newton Programmer's Guide***.** This set of books is the definitive guide and reference for Newton programming. This book explains how to write Newton programs and describes the system software routines that you can use to do so.  
+- *Newton Toolkit User's Guide.* This book introduces the Newton Toolkit (NTK) development environment and shows how to develop Newton applications using Newton Toolkit. You should read this book first if you are a new Newton application developer.
+- *Newton Book Maker User's Guide.* This book describes how to use Newton Book Maker and Newton Toolkit to make Newton digital books and to add online help to Newton applications. You have this book only if you purchased the Newton Toolkit package that includes Book Maker.
+- *The NewtonScript Programming Language.* This book describes the NewtonScript programming language.

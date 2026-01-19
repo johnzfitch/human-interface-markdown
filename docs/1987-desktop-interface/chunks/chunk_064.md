@@ -1,0 +1,11 @@
+<!-- Chunk 64 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 475 -->
+The menu bar extends across the top of the screen and displays the title of each available menu (Figure 3-18).  
+![](images/_page_78_Picture_4.jpeg)  
+Figure 3-18 Menu bar  
+If the user moves the pointer to the Edit portion of the menu bar and presses the mouse button, the Edit menu appears, as shown in Figure 3-19. A menu becomes visible when the user selects it by pressing its title.  
+Nothing but menu titles can appear in the menu bar. Menu titles should remain constant within a given application. If all the operations in <sup>a</sup> given menu are currently disabled (that is, the user can't choose them), the menu title should be dimmed (drawn in gray) but should remain visible in the menu bar. The user must always be able to pull down the menu and see the names of the operations even when none of them can, at the moment, be chosen.  
+![](images/_page_78_Picture_8.jpeg)  
+Figure 3-19 Menu  
+#### Menu items  
+Menu items should be either verbs or adjectives. Use verbs (or verb phrases) to show the user what can be *done*—Copy, Find, and Show Page, for example. Use adjectives (or adjective phrases) to let the user specify an attribute of a selected object—Chicago [font], Underline, and Double Space, for example. Adjectives in menus *imply* actions—think of "Chicago" as shorthand for "*change* the selected text to Chicago font." Menu items usually apply to the current selection, although some may apply to the whole document or window.  
+When you're designing an application program, don't assume that *everything* has to be done through menus. Menus are often the best method, but sometimes it's more appropriate for an operation to take place as a result of direct user manipulation of a graphic object on the screen, such as a control or icon. Alternatively, a single menu item can start to execute complicated instructions by bringing up a dialog box for the user to fill in.

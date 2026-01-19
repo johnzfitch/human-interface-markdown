@@ -1,0 +1,5 @@
+<!-- Chunk 259 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 202 -->
+<span id="page-285-4"></span><span id="page-285-3"></span>A **checkbox** describes a state, action, or value that can be either on or off. In a group of checkboxes, each checkbox should be independent of all the others, unless interdependency is clearly indicated (for example, by displaying a subordinate checkbox indented below a superior checkbox).  
+For example, in Sound preferences (shown in Figure 15-23), checkboxes allow users to make choices about sound effects and choose whether to display the volume setting in the menu bar. Notice that users can select or deselect any of the three sound effects checkboxes, because these controls are independent of each other.  
+<span id="page-285-1"></span>**Figure 15-23** Checkboxes provide on-off choices to the user  
+![](images/_page_285_Picture_6.jpeg)

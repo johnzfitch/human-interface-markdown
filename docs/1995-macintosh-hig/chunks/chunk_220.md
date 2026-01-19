@@ -1,0 +1,3 @@
+<!-- Chunk 220 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 118 -->
+In general, the only use of color in your application's menus should be in menus used to choose colors. However, color could also be useful for directing the user's choices in training and tutorial materials: for example, one color could lead a user through a lesson.  
+For display on color screens, use true gray wherever you previously used a 50 percent gray pattern. Use true gray in menus for the dotted separator lines between groups of items and for dimmed menu items.

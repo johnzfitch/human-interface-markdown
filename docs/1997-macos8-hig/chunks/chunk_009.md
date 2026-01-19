@@ -1,0 +1,5 @@
+<!-- Chunk 9 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 236 -->
+This document describes the additions and changes to *Macintosh Human Interface Guidelines* related to the release of Mac OS 8. Specifically, it presents guidelines for taking advantage of the Mac OS platinum appearance and the Appearance Manager. The Appearance Manager is described in *Mac OS 8 Toolbox Reference.*  
+This document does not replace *Macintosh Human Interface Guidelines*. Please consult that document for all user interface issues not specifically covered here. *Macintosh Human Interface Guidelines* is available, in both PDF (Adobe Acrobat) and HTML formats, on the World Wide Web at:  
+http://devworld.apple.com/dev/insidemac/techsupport/HIGuidelines  
+This chapter provides a brief overview of the human interface changes in Mac OS 8. It introduces the Appearance Manager and discusses its effect on the Mac OS human interface. It also provides an introduction to the most visible change in Mac OS 8, the platinum appearance.

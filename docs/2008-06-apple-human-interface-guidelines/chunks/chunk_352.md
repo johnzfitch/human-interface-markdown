@@ -1,0 +1,2 @@
+<!-- Chunk 352 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 53 -->
+<span id="page-276-4"></span><span id="page-276-3"></span>Checkboxes are available in Interface Builder. To create one using Application Kit programming interfaces, create an NSButton object of type NSSwitchButton.

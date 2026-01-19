@@ -1,0 +1,34 @@
+---
+chunk_index: 493
+ref: "e664cb40171f"
+id: "e664cb40171f46d8f849dc287519dfcb12194d6c41916acf010aab646c6ee337"
+slug: "full-document--character-keys"
+path: "marker/1985 Apple II Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [471, 488]
+token_estimate: 454
+content_sha256: "4041c94f1e514dc35761aac30eed6255829ef4c79c8e7c860468d7fbc073df00"
+compacted: false
+heading_path: ["THE KEYBOARD","Character Keys"]
+symbol: null
+address: null
+asset_path: null
+---
+
+### Character Keys
+
+Character keys include keys for letters, numbers, and symbols, as well as the Space bar. If the user presses one of these keys while entering text, the corresponding character is added to the text. Other keys, such as the Tab, Return, Delete, and Escape keys, are also considered character keys. However, the result of pressing one of these keys depends on the application and the context.
+
+The Tab key is a signal to proceed: It signals movement to the next item in a sequence. Tab often implies an Enter operation before the Tab motion is performed.
+
+The Return key tells the application that the user is through entering information in a particular area of the document, such as a field in an array. Most applications add information to a document as soon as the user types or draws it. However, the application may need to wait until a whole collection of information is available before processing it. In this case, the user presses the Return key to signal that the information is complete. Return must do the job of both Enter and Return in the Apple II world. On the Macintosh, Enter accepts the information but causes no movement, whereas Return accepts the information, then moves down and to the left. On the Apple II, you
+
+THE KEYBOARD
+
+35
+
+must consider what your users will expect. In two-dimentional arrays, have Return enter the information and move directly down one row. This gives the user the Tab key to enter and move right and the Return key to enter and move down. In text processing, have Return accept the information and move down and to the left in the traditional way.
+
+Return and Space dismiss dialog and alert boxes (see "Dialogs and Alerts").
+
+Delete is used to delete text or graphics. The exact use of Delete in text is described in the section on text editing.

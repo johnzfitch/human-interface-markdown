@@ -1,0 +1,7 @@
+<!-- Chunk 63 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 347 -->
+A **segmented control** is a linear set of segments, each of which functions as a button that can display a different view. When users tap a segment in a segmented control, an instantaneous action or visible result should occur. For example, Settings displays different information when users use the segmented control to select an email protocol, as shown in Figure 9-11.  
+<span id="page-99-1"></span>**Figure 9-11** A segmented control with three segments  
+![](images/_page_99_Picture_3.jpeg)  
+The length of a segmented control is determined by the number of segments you display and by the size of the largest segment. The height of a segmented control is fixed. Although you can specify the number of segmentsto display, be aware that users must be able to comfortably tap a segment without worrying about tapping a neighboring segment. Because hit regions should be 44 x 44 pixels, it's recommended that a segmented control have five or fewer segments.  
+A segmented control can contain text or images; an individual segment can contain either text or an image, but not both. In general, it's best to avoid mixing text and images in a single segmented control.  
+A segmented control ensures that the width of each segment is proportional, based on the total number of segments. This means that you need to ensure that the content you design for each segment is roughly equal in size.

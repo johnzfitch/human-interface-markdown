@@ -1,0 +1,2 @@
+<!-- Chunk 347 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 40 -->
+Radio buttons are available in Interface Builder. To create one using Application Kit programming interfaces, create an NSButton object with type NSRadioButton.

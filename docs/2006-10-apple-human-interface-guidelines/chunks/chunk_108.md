@@ -1,0 +1,2 @@
+<!-- Chunk 108 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 90 -->
+<span id="page-88-6"></span>Like other graphical user interfaces, Mac OS X is optimized for use with a pointing device, such as a mouse. Many users, however, prefer or need to interactwith the computer usingthekeyboard instead of the mouse. In Mac OS X, users have the option of enablingkeyboard access for all functions available using a point-and-click device.

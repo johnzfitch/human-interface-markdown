@@ -1,0 +1,8 @@
+<!-- Chunk 30 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 349 -->
+The program does not ask for unnecessary data, data which can be derived from information already at hand, or data already asked for and received before.  
+#### **Confirmation**  
+The program tries to prevent catastrophic errors. If the user commands that a 100K text file be deleted, the program should require cognizant confirmation:  
+Are you sure you want to destroy 5 days' work? Type DESTROY 5 DAYS' WORK to confirm.  
+If the user commands that a new file be saved under a name already being used for a 100K text file, the program will announce that saving the file under this name will result in the destruction of the original file, and then present a confirmation question similar to the one above if the user says to save the file under the duplicate name anyway.  
+#### **Tree Structures**  
+The tree structure of a program is designed to feel natural to a user, not the programmer. For example, one could design a program which will both create and play music. Saving created music and loading that music for later playing are highly similar programming tasks and can quite possibly be done using the same basic subroutines. But while it is structurally logical to share code between them, it is intuitively wrong to dump the two options adjacent to each other on a menu. Saving should be grouped with other music-creation options; loading with both creation (for editing), and playing.

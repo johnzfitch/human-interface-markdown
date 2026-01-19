@@ -1,0 +1,4 @@
+<!-- Chunk 164 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 202 -->
+<span id="page-146-4"></span>Gorgeous, artistic icons are an important part of the Mac OS X user experience. Users expect beautiful icons that tell an application's story in a clear and memorable way.  
+This section provides tips and a suggested icon-creation process you can follow as you design and create an icon. Then, it describes additional guidelines that help you design and create icons for applications running in Mac OS X v10.5 and later.  
+<span id="page-146-1"></span>If you need to create toolbar icons, you should read this section first for general guidance, because many of the techniques and guidelines apply to both application icons and toolbar icons. Then, read ["Designing](#page-151-0) [Toolbar](#page-151-0) Icons" (page 152) for specific advice on creating icons for use in a toolbar.

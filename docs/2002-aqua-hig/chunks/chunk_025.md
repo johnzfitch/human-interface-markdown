@@ -1,0 +1,3 @@
+<!-- Chunk 25 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 158 -->
+Allow the user, not the computer, to initiate and control actions. Some applications attempt to take care of the user by offering only alternatives judged good for the user or that protect the user from having to make detailed decisions. This approach mistakenly puts the computer, not the user, in control.  
+The key is to create a balance between providing users with the capabilities they need to get their work done and helping them avoid dangerous irreversible actions. For a situation in which a user may destroy data accidentally, for example, you should always provide a warning and still allow the user to proceed if desired.

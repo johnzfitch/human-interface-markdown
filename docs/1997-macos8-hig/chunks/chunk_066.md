@@ -1,0 +1,2 @@
+<!-- Chunk 66 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+To accomodate 12-point Chicago, make static text fields 16 pixels in height. Leave 5 pixels of space between a static text field and the item it defines.

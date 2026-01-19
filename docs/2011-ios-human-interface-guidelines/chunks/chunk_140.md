@@ -1,0 +1,2 @@
+<!-- Chunk 140 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+An activity indicator spins while a task is progressing and disappears when the task completes. Users do not interact with an activity indicator. By default, an activity indicator is white.

@@ -1,0 +1,2 @@
+<!-- Chunk 478 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+A window that is independent of documents and that provides items to be used when other windows are open, such as a palette that provides drawing tools.

@@ -1,0 +1,6 @@
+<!-- Chunk 80 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 237 -->
+<span id="page-72-1"></span>Whenever your application displays a window, you must decide where to put it and how big to make it. For typical document-based applications, or dialog-based applications without supporting utility windows, the preference is to open new windows visually centered on the screen. For the first window, "visually centered" placement is 63 pixels below the menu bar. Subsequent windows are moved to the right 20 pixels and down 20 pixels. Make sure that no part of a new window is obscured by the Dock.  
+<span id="page-73-0"></span>**Figure 5-6** "Visually centered" new window placement]  
+![](images/_page_73_Picture_3.jpeg)  
+Spaces should be equal.  
+If a user changes a window's initial size or location, maintain the user's choices the next time the window opens. If a user opens, moves, and closes a document window without making any other changes, save the new window position but don't modify the file's date stamp.

@@ -1,0 +1,2 @@
+<!-- Chunk 449 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 89 -->
+<span id="page-328-2"></span>Split views are available in Interface Builder. Specify the splitter width by selecting Thick divider or Thin divider from the Style pop-up menu in the Attributes pane of the inspector. To create one using Application Kit programming interfaces, use the NSSplitView class(note that the splitter bars are horizontal by default).

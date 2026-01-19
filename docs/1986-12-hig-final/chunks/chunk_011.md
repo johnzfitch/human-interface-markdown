@@ -1,0 +1,5 @@
+<!-- Chunk 11 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 223 -->
+The user, not the computer, initiates and controls all actions.  
+People learn best when they're actively engaged. Too often, however, the computer acts and the user merely reacts within a limited set of options. In other instances, the computer "takes care" of the user, offering only those alternatives that a judged "good" for the user or that "protect" the user from detailed deliberations.  
+On the surface, the concept of computer as protector may seem quite appealing, but this approach puts the computer, rather than the user, in the driving role—something quite at odds with the basic philosophy of the Apple Desktop Interface.  
+In the Apple Desktop Interface, if the user attempts something risky, the computer provides a warning, but allows the action to proceed if the user confirms that this is what he wants. This "protects" the beginner but allows the user to remain in control.

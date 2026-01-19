@@ -1,0 +1,2 @@
+<!-- Chunk 62 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 88 -->
+If a menu becomes too long to fit on the screen, the menu automatically scrolls to show additional items when the pointer reaches the bottom of the list. This should become necessary only in the case of menus (such as the font menu) to which the user can add items. An application should never create a menu with so many items that scrolling is necessary.

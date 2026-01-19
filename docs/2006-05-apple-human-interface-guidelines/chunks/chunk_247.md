@@ -1,0 +1,19 @@
+<!-- Chunk 247 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 909 -->
+<span id="page-197-2"></span>An item that provides **click-through** is one that a user can activate on an inactive window with one click, instead of clicking first to make the window active and then clicking the item. Click-through provides greater efficiency in performing such tasks as closing or resizing inactive windows, and copying or moving files. In many cases, however, click-through could confuse a user who clicks an item unintentionally.  
+Click-through is not a propertyof a class of controls. Anycontrol, includingtoolbaritems, can support click-through in many contexts, but the same control could disable click-through when its use could be destructive or difficult to reverse in a particular context.  
+<span id="page-197-0"></span>In an inactive window, items that do not provide click-through should appear in their disabled state.  
+![](images/_page_197_Picture_6.jpeg)  
+**Figure 13-20** An inactive window with controls that support click-through  
+In a single window, you can provide click-through for any subset of items; you do not have to choose between supporting click-through for all items or none. Examine the controls in your window to see which items a user might want to activate while the window is inactive. Use the following guidelines to help you determine which items should not support click-through.  
+Don't provide click-through for an item or action that:  
+■ Is potentially harmful and does not allow the user to cancel it (for example, the Delete button in Mail)  
+- Is difficult or impossible to cancel (such as the Send button in Mail)
+- Dismisses a dialog without telling the user what action was taken (for example, the Save button in a Save dialog that overwrites an existing file and automatically dismisses the dialog)
+- Removes the user from the current context (for example, selecting a new item in a Finder column can change the target of the Finder window)  
+<span id="page-198-0"></span>Clickingin anyone of these situations should result in the containingwindowbeingbrought forward, but no action being taken.  
+**Figure 13-21** The Delete button on the inactive window does not support click-through  
+![](images/_page_198_Picture_7.jpeg)  
+In general, you can implement click-through for a command that provides confirmation feedback before executing, even if the command ultimately results in destruction of data. For example, you can provide click-through for a delete button if you make sure to provide the user with the ability to cancel or confirm the action before it executes. For example, in the Accounts preferences, the delete user button provides click-through because it also provides a confirmation dialog before executing.  
+If you want to implement click-through for an item that doesn't provide confirmation feedback, consider how difficult it will be for the user to undo the action after it's performed. For example, in Mail, the Delete button does not provide click-through because it deletes a messagewithout providing feedback first, which is a potentially harmful action and one that is difficult to undo. Click-through for the New button in Mail is fine because its resulting action is not harmful and is easy to undo.  
+**Carbon:** Click-through is *off* by default. You must explicitly enable click-through for specific controls. Do not assume that the default behavior is the correct behavior. Make sure to apply the above guidelines.  
+**Cocoa:** Click-through is *on* by default. You must explicitly disable click-through for specific controls. Do not assume that the default behavior is the correct behavior. Make sure to apply the above guidelines.

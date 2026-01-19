@@ -1,0 +1,22 @@
+<!-- Chunk 23 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 1041 -->
+People tend to be unaware of the navigation experience in an app unless it doesn't meet their expectations. Your job is to implement navigation in a way that supports the structure and purpose of your app without calling attention to itself.  
+Broadly speaking, there are three main styles of navigation, each of which is well suited to a specific app structure:  
+- Hierarchical
+- Flat
+- Content- or experience-driven  
+In a hierarchical app, users navigate by making one choice per screen until they reach their destination. To navigate to another destination, users must retrace some of theirsteps—orstart over from the beginning—and make different choices. Settings and Mail are good examples of apps that use a hierarchical structure.  
+![](images/_page_33_Picture_7.jpeg)  
+In an app with a flat information structure, users can navigate directly from one primary category to another because all primary categories are accessible from the main screen. Music and App Store are good examples of apps that use a flat structure.  
+![](images/_page_33_Picture_9.jpeg)  
+It's no surprise that in an app that uses a content- or experience-driven information structure, navigation is also defined by the content or experience. For example, users navigate through a book by moving from one page to the next or by choosing a page in the table of contents; in a game, navigation is often an important part of the experience.  
+![](images/_page_34_Picture_2.jpeg)  
+In some cases, it works well to combine more than one navigation style in an app. For example, the items in one category of a flat information structure might best be displayed in a hierarchy.  
+**Users should always know where they are in your app and how to get to their next destination.** Regardless of the navigation style that suits the structure of your app, the most important thing is that a user's path through the content is logical, predictable, and easy to follow.  
+UIKit defines some standard UI elements that make it easy to implement hierarchical and flat navigation styles, in addition to some elements that help you enable content-centric navigation, such as in a book-style or media-viewing app. A game or other app that provides an experience-driven navigation style typically relies on custom elements and behaviors.  
+**Use a navigation bar to give users an easy way to traverse a hierarchy of data.** The navigation bar's title can show users their current position in the hierarchy; the back button makes it easy to return to the previous level. To learn more, see ["Navigation](#page-143-0) Bar" (page 144).  
+**Use a tab bar to display several peer categories of content or functionality.** A tab bar is a good way to support a flat information architecture and its persistence lets people switch between categories regardless of their current location. To learn more, see ["Tab](#page-149-0) Bar" (page 150).  
+**Use a page control when each app screen represents an individual instance of the same type of item or page.** A page control is good for showing users how many items or pages are available and which one is currently displayed. For example, Weather uses a page control to show how many location-specific weather pages the user has opened. To learn more about the page control, see "Page [Control"](#page-185-1) (page 186).  
+**In general, it's best to give users one path to each screen.** If there's one screen that users need to see in more than one context, consider using a temporary view, such as a modal view, action sheet, or alert. To learn more, see ["Modal](#page-202-0) View" (page 203), ["Action](#page-199-0) Sheet" (page 200), and ["Alert"](#page-196-1) (page 197).  
+UIKit also provides the following related controls:  
+- ["Segmented](#page-190-1) Control" (page 191). A segmented control can give users a way to see different categories or aspects of the content on the screen; it doesn't enable navigation to a new screen.
+- ["Toolbar"](#page-146-0) (page 147). Although a toolbar looks similar to a navigation bar or a tab bar, it doesn't enable navigation. Instead, a toolbar gives users controls that act on the contents of the current screen.

@@ -1,0 +1,3 @@
+<!-- Chunk 48 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 93 -->
+<span id="page-40-3"></span><span id="page-40-2"></span>Clicking an application icon in the Dock should always result in a window—a document or another appropriate window—becoming active.  
+If the application is not open when the user clicks the Dock icon, the application opens and a new window is active. While the application is open, the Dock icon has a symbol below it.

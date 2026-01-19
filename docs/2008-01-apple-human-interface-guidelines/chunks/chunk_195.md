@@ -1,0 +1,10 @@
+<!-- Chunk 195 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 435 -->
+The **View menu** provides commands that affect howusers see awindow's content; it does not provide commands to select specific document windows to view or to manage a specific document window. Commands to organize, select, and manage windows are in the Window menu (described in ["The](#page-185-1) [Window](#page-185-1) Menu" (page 186)).  
+<span id="page-184-7"></span>For example, the View menu in the Finder contains commands for displaying windows in column, icon, or list mode. Commands for showing, hiding, and customizing a toolbar belong in the View menu. Create a View menu for these commands even if your application doesn't need to have other commands in the View menu. Show/Hide Toolbar should appear right above Customize Toolbar.  
+<span id="page-184-1"></span>Avoid using the View menu to display panels (such as tool palettes); use the Window menu instead.  
+**Figure 13-19** A View menu  
+![](images/_page_184_Picture_8.jpeg)  
+<span id="page-184-4"></span><span id="page-184-3"></span>**Show/Hide Toolbar (Command-Option-T).** Shows or hides a toolbar. The Show/Hide Toolbar command is provided so that people using full keyboard access can implement these functions with the keyboard. It should be a dynamic menu item that toggles based on the current visibility of the toolbar. If the toolbaris currently visible, the menu item says Hide Toolbar. If the toolbaris not visible, it says Show Toolbar.  
+**Customize Toolbar…** Opens a window that allows the user to customize which items are present. Figure 13-20 shows the result of choosing this command in the Finder.  
+<span id="page-185-4"></span><span id="page-185-2"></span>**Figure 13-20** Finder toolbar customization window  
+![](images/_page_185_Picture_3.jpeg)

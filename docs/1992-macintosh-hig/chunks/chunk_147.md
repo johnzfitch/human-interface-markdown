@@ -1,0 +1,2 @@
+<!-- Chunk 147 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 46 -->
+This section describes the controls that are available through the Macintosh Toolbox. It includes descriptions of the appearance and behavior of buttons, radio buttons, and checkboxes.

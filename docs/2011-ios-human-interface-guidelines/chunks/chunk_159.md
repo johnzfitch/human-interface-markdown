@@ -1,0 +1,4 @@
+<!-- Chunk 159 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 183 -->
+Use a page indicator when each view in your application is a peer of every other view. Do not use a page indicator if your application displays information in a hierarchy of views, because a page indicator does not help users retrace their steps through a specific path.  
+**Vertically center a page indicator between the bottom edge of an open view and the bottom edge of the screen**, where it is always visible without getting in users' way. Be sure to avoid trying to display too many dots for the current screen orientation.  
+**On iPad, investigate ways to display your content on a single screen**. On the large iPad screen multiple parallel screens don't work as well, so the need for the page indicator control is decreased.

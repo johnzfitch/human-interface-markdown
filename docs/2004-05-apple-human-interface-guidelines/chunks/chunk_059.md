@@ -1,0 +1,3 @@
+<!-- Chunk 59 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 149 -->
+<span id="page-50-2"></span>Although Mac OS X uses graphics as a primary means of user-computer interaction, text is prevalent throughout the interface for such things as button names, pop-up menu labels, dialog messages, and onscreen help. Using text consistently and clearly is a critical component of interface design.  
+Your product development team should include a skilled writer who is responsible for reviewing all user-visible onscreen text as well the instructional documentation. The writer should refer to the *Apple Publications Style Guide* for guidance on Apple-specific terminology.

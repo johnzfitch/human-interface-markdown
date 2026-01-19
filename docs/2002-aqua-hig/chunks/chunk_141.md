@@ -1,0 +1,3 @@
+<!-- Chunk 141 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 155 -->
+<span id="page-136-6"></span>A **slider control** lets users choose from a continuous range of allowable values. Slider controls can be horizontal or vertical and can display labeled tick marks to represent increments you specify. The slider itself (the thumb) can be directional or round. In deciding whether a slider should be horizontal or vertical, try to meet users' expectations of similar real-world controls.  
+Slider controls support live feedback (live dragging), so users can see the effect of moving the slider as it is dragged. Dock preferences, for example, shows the effect of moving the Dock Size slider.

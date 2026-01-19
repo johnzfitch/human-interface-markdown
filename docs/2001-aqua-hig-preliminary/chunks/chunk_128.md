@@ -1,0 +1,7 @@
+<!-- Chunk 128 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 296 -->
+Icon design in Mac OS X is significantly different from previous versions of the Mac OS. In Mac OS 9 and earlier, graphic limitations constrained designers to use a highly symbolic style. Icons consisted of illustrations that emphasized straight lines rotated in increments of 45 degrees.  
+<span id="page-154-3"></span>**Figure 10-1** Traditional application icon and Mac OS X icon  
+![](images/_page_154_Picture_7.jpeg)  
+<span id="page-154-5"></span>![](images/_page_154_Picture_8.jpeg)  
+Mac OS X offers a new "photo illustrative" icon style (it approaches photo-realism. but icons are still stylized). Icons can be represented in 128 x 128 pixels to allow ample room for detail. Anti-aliasing makes curves and nonrectilinear lines possible. Alpha channels and transparency allow for complex shading and dimensionality. All of these qualities pave the way for lush imagery that enables you to create vibrant icons that communicate in ways never before possible.  
+To represent your application in Mac OS X, it's essential to create high-quality Aqua-style application icons that scale well in the various places the icon appears in the Dock, Finder preview, alert dialogs, and so on.

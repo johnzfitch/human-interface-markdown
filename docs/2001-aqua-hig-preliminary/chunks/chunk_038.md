@@ -1,0 +1,2 @@
+<!-- Chunk 38 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 61 -->
+The **Apple menu** provides items that are available to users at all times, regardless of which application is active, such as Sleep and Log Out. The Apple menu's contents are defined by the system and cannot be modified by users or developers.

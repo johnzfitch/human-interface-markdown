@@ -1,0 +1,4 @@
+<!-- Chunk 195 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 169 -->
+Use **radio buttons** for a set of mutually exclusive but related choices. A set of radio buttons should contain at least two items and a maximum of about five. (For more than five items, consider using a pop-up menu.) A set of radio buttons is never dynamic (that is the contents shouldn't change depending on the context). A radio button should never initiate an action.  
+**Carbon:** Radio buttons are available in Interface Builder. To create one programmatically, use the function CreateRadioButtonControl.  
+**Cocoa:** Radio buttons are available in Interface Builder. Radio buttons have the button type NSRadioButton. See *Buttons* in Cocoa User Experience documentation.

@@ -1,0 +1,3 @@
+<!-- Chunk 122 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 110 -->
+To insert text, the user positions the insertion point by clicking where the text is to go, then starts typing. The application moves the insertion point to the right (or left, depending on the language) as each new character is added.  
+Applications with multiple-line text blocks should support **word wrap,** the automatic continuation of text from the end of one line to the beginning of the next without breaking in the middle of a word.

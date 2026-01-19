@@ -1,0 +1,2 @@
+<!-- Chunk 506 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 41 -->
+Queuing of keystrokes for processing later. It occurs when the user types faster than the computer can handle or when the computer is unable to process the keystrokes.

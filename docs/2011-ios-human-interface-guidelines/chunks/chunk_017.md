@@ -1,0 +1,5 @@
+<!-- Chunk 17 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 239 -->
+People can rotate iOS-based devices at any time and for a variety of reasons. For example, sometimes the task people are performing feels more natural in portrait, and sometimes people feel that they can see more in landscape. Whatever their reason for rotating the device, people expect the app to maintain its focus on the primary functionality.  
+People often launch apps from the Home screen, so they tend to expect all apps to start in the same orientation. Because of the different ways iPhone and iPad display the Home screen, this expectation affects apps in different ways:  
+- On iPhone and iPod touch, the Home screen is displayed in one orientation only, which is portrait, with the Home button at the bottom. This leads users to expect iPhone apps to launch in this orientation by default.
+- On iPad, the Home screen is displayed in all orientations, so users tend to expect iPad apps to launch in the device orientation they're currently using.

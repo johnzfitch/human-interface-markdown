@@ -1,0 +1,10 @@
+<!-- Chunk 21 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 498 -->
+An iPhone webpage or application isinteroperable when it worksseamlessly with built-in iPhone applications and features. It's natural to focus only on your own content, but it's important to remember the other things users can do with their iPhones and the larger environment in which they're operating. The better your content handles interruptions and, when appropriate, integrates with iPhone features, the more useful your webpage or application is.  
+The iPhone environment includes features such as phone, iPod, email, and web browser functionality. There are two main ways to take this environment into account as you design your webpage or iPhone web application:  
+■ Make sure your content can handle frequent interruptions.  
+#### **CHAPTER 3**  
+Principles and Guidelines for Creating Great iPhone Content  
+Users are likely to quickly switch between webpages, applications(both built-in and external), and iPhone functions, so you should perform frequent server-side saves of user data and state. Because there is no concept of quitting an application on iPhone, you won't get any notification when users decide to switch from your webpage to another webpage or to a built-in application.  
+Remember that there is no local storage on iPhone that is available to your application. Therefore, you need to make sure you save important information when you can. And, if users are in the midst of providing information to your webpage (by filling in a form, for example), you should alert them to the possibility of data loss if they navigate away from your webpage before they are finished. (See ["Communication"](#page-25-0) (page 26) for more information on communicating with users.)  
+■ Make it easy for users to use built-in iPhone features and applications.  
+Where appropriate, you can include linksthat allow usersto make a phone call, open Mail, look at Google maps, or view YouTube videos. See *Apple URL Scheme Reference* for details on how to add these links to your content.

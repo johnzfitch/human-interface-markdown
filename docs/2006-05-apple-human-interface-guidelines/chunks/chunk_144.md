@@ -1,0 +1,2 @@
+<!-- Chunk 144 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 31 -->
+<span id="page-108-6"></span>In addition to the methods for selecting text, there are a number of standard ways to edit text.

@@ -1,0 +1,5 @@
+<!-- Chunk 124 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 242 -->
+A **push button** is a rounded rectangle with a text label on it. Clicking a push button performs an instantaneous action, such as saving a document, completing operations defined by a dialog, or acknowledging an error message. Button names should be verbs that describe the action performed—Save, Close, Print, Delete, and so on. Don't use push buttons to indicate a state such as On or Off.  
+<span id="page-115-3"></span>In some circumstances, it's appropriate to implement an Apply button—for example, to permit a user to see the effect of multiple text attributes before committing to them. In cases like these, clicking Cancel should undo any of the applied changes. Be cautious about using an Apply button for operations that take a long time to implement or undo; it might not be obvious to users that they can interrupt or reverse the process.  
+<span id="page-115-2"></span>**Figure 7-1** Example of standard push buttons  
+![](images/_page_115_Picture_8.jpeg)

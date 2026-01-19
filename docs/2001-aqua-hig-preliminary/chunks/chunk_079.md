@@ -1,0 +1,2 @@
+<!-- Chunk 79 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 43 -->
+All interface elements have a new look in Aqua. Controls have new dimensions, colors, and transparency. New controls include combination boxes and round navigation buttons.

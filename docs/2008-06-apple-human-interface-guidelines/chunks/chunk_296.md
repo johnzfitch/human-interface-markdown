@@ -1,0 +1,12 @@
+<!-- Chunk 296 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 576 -->
+<span id="page-246-1"></span>In the Print dialog, user options are provided via the features pop-up menu, which displays panes drawn and controlled by printing dialog extensions(PDEs). PDEs are provided by the operating system, printer modules, and applications. Apple provides a number of printing panes. The standard Print dialog is shown in Figure 14-63.  
+**Figure 14-63** A Print dialog (a sheet attached to a document window)  
+![](images/_page_246_Picture_11.jpeg)  
+Options for choosing paper type and print quality are displayed through the features pop-up menu. The ability to save the document in PDF or PostScript format, fax the document, or save it to iPhoto or other applications is available in the PDF pop-down menu in the lower left. You can create custom print panes by following the interface guidelines provided throughout this document and the layout guidelines described in "Positioning [Regular-Size](#page-336-1) Controlsin a Window Body" (page 337). Here are some specific guidelinesto keep in mind if you implement custom printing features:  
+- Choose a menu item name that doesn't conflict with menu items already in the features pop-up menu.
+- The menu item (the pane name) should help users easily determine the options the pane contains.
+- Make sure the features you implement are appropriate for your application. For example, an option to print in reverse ordershould be provided by the operating system, not by your application. (Implementing this feature requires the application to know the hardware's capabilities.)
+- Make interdependencies among options clear to users. For example, if a user selects double-sided printing, the option to print on transparencies should become unavailable.
+- Separate more advanced features from frequently used features. When the user chooses to display the advanced features, there should be an "advanced options" title above the advanced controls.
+- <span id="page-247-1"></span>■ Provide visual feedback (such as the preview in the Layout pane of the Print dialog) when appropriate. A thumbnail showing the effect of changing a tone control, for example, helps users determine desired settings.
+- Save a user's printing preferences for a document, at least while the document is open. Provide a way for users to save custom settings.

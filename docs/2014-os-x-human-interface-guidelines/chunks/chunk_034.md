@@ -1,0 +1,2 @@
+<!-- Chunk 34 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 50 -->
+Great software design incorporates a number of timeless principles for human-computer interaction. The principles described here form the foundation of elegant, efficient, intuitive, and delightful apps.

@@ -1,0 +1,2 @@
+<!-- Chunk 24 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 32 -->
+Implementation: The Toolkit keeps track of splits and scrolling, even after a save; the application can override these settings.

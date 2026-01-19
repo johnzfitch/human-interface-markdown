@@ -1,0 +1,5 @@
+<!-- Chunk 29 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 239 -->
+Feedback acknowledges people's actions and assures them that processing is occurring. People expect immediate feedback when they operate a control, and they appreciate status updates during lengthy operations.  
+The built-in iOS applications respond to every user action with some perceptible change. For example, list items highlight briefly when people tap them. During operationsthat last more than a few seconds, a control shows elapsing progress, and if appropriate, the app displays an explanatory message.  
+Subtle animation can give people meaningful feedback that helps clarify the results of their actions. For example, lists can animate the addition of a new row to help people track the change visually.  
+<span id="page-21-2"></span>Sound can also give people useful feedback. Butsound shouldn't be the primary orsole feedback mechanism because people may use their devices in places where they can't hear or where they must turn off the sound.

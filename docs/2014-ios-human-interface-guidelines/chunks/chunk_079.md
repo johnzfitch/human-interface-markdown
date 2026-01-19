@@ -1,0 +1,2 @@
+<!-- Chunk 79 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 43 -->
+Whether sound is a primary part of your app's user experience or an optional enhancement, you need to know how users expect sound to behave and how to meet those expectations.

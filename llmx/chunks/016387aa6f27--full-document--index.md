@@ -1,0 +1,44 @@
+---
+chunk_index: 2072
+ref: "016387aa6f27"
+id: "016387aa6f27480ad59a05dd683fd68914158d8ddb9df683cc2fc0f597885557"
+slug: "full-document--index"
+path: "marker/1987 Apple Human Interface Guidelines - The Apple Desktop Interface/full_document.md"
+kind: "markdown"
+lines: [2935, 2961]
+token_estimate: 2001
+content_sha256: "423790c6bcbb327f5208d35913e1596f10d69bdfe79c851ef1c7ad8e00267d19"
+compacted: false
+heading_path: ["Index"]
+symbol: null
+address: null
+asset_path: null
+---
+
+|                                                                                                                                                                                                                                                                                                                                     | consistency<br>of<br>10                                                                                                                                                                                                                                                                                                                                                                                                                                | 6<br>layout,<br>spatial                                                                                                                                                                                                                                                                                                                                            |
+| hand-held<br>devices.<br>See<br>specific                                                                                                                                                                                                                                                                                            | manipulation<br>27<br>direct<br>4,                                                                                                                                                                                                                                                                                                                                                                                                                     | Arrow<br>key<br>102-103<br>Left                                                                                                                                                                                                                                                                                                                                    |
+| device                                                                                                                                                                                                                                                                                                                              | elements,<br>standard<br>of<br>20<br>classes                                                                                                                                                                                                                                                                                                                                                                                                           | letters                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                    |
+
+| lowercase<br>127<br>86,                        | 87-88<br>hierarchical                                | and<br>keys<br>98<br>modifier                      |
+|------------------------------------------------|------------------------------------------------------|----------------------------------------------------|
+| caps<br>86<br>small                            | 69<br>icons<br>in<br>66,                             | mouse-ahead<br>97<br>function                      |
+| uppercase<br>100,<br>30,<br>67,<br>72,<br>86,  | keyboard<br>equivalents<br>for<br>5,                 | pointing<br>27<br>11,<br>xii,                      |
+| 127                                            | 87<br>72-73,<br>86,                                  | saving<br>97<br>buffer<br>in                       |
+| and<br>color<br>33<br>lighting,                | naming<br>25                                         | moving.<br>dragging<br>See<br>also                 |
+| computer<br>124<br>Lisa                        | nouns<br>66<br>in                                    | documents<br>and<br>applications<br>4,             |
+| (one-dimensional<br>107<br>arrays)<br>lists    | opening<br>65                                        | 21                                                 |
+| 125<br>localization<br>42,                     | 90-91<br>palettes<br>70,<br>69,                      | point<br>insertion<br>103                          |
+| modes<br>long-term<br>12                       | pop-up<br>88-90                                      | menus<br>91                                        |
+| event<br>13<br>loop,                           | pull-down<br>66<br>3,                                | box<br>50<br>scroll                                |
+| 127<br>lowercase<br>letters<br>86,             | 71<br>scrolling                                      | windows<br>45                                      |
+| memory<br>low<br>128<br>variable               | 25-26<br>selecting                                   | music<br>applications<br>17                        |
+|                                                | 69<br>characters<br>special<br>in                    | groups<br>mutually<br>exclusive<br>attribute       |
+|                                                | 74-86<br>standard<br>25,                             | (menu<br>67<br>items)                              |
+| M                                              | 91-92<br>tear-off                                    |                                                    |
+| MacDraw<br>115<br>91,<br>46,<br>xii,           | of<br>65<br>titles                                   |                                                    |
+| computer<br>Macintosh<br>48,<br>102,<br>10,    | toggled<br>84<br>68,<br>81,                          | N                                                  |
+| ROM<br>See<br>also<br>124,<br>126.             | 87-92<br>types<br>of                                 | naming<br>objects<br>30                            |
+| Manager<br>Macintosh<br>Resource<br>126        | 66<br>verbs<br>in                                    | New<br>command<br>menu)<br>76<br>(File<br>72,      |
+| and<br>Toolbox,<br>Macintosh<br>56<br>controls | of<br>70<br>visual<br>features<br>69,                | nondedicated<br>keys<br>105<br>function            |
+| MacPaint<br>90-91,<br>115<br>xii,              | messages<br>See<br>also<br>62.<br>alert<br>14,<br>8, | non-Roman<br>alphabets<br>128                      |

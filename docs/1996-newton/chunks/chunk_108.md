@@ -1,0 +1,5 @@
+<!-- Chunk 108 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 259 -->
+The New picker lists the types of data items that can be created in the currently active application, such as a new note, checklist, or outline in the built-in Notepad application. In an application that supports Newton stationery, the New picker lists all the data structures defined for the application. For example, the built-in Names File's New picker lists Person, Company, and Group data structures. The New picker pops up from the standard New button on the left side of the status bar, next to the keyboard button. Figure 4-18 shows the New picker for the Names File application.  
+**Figure 4-18** The New picker lists types of data items that users can create  
+![](images/_page_150_Picture_7.jpeg)  
+Picking an item from a New picker creates a new data item of the type picked. If the currently active application displays multiple data items one after another in a paper roll fashion like the built-in Notepad, then the New picker creates an item after the last item in the current view and automatically scrolls it into view.

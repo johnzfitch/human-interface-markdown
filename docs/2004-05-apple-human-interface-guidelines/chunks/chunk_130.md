@@ -1,0 +1,7 @@
+<!-- Chunk 130 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 314 -->
+A **sheet** is a modal dialog attached to a particular document or window, ensuring that the user never loses track of which window the dialog applies to. The ability to keep a dialog attached to its pertinent window helps users take full advantage of the Mac OS X window layering model (see ["Window Layering"](#page-119-1) (page 120)). Sheets also allow users to perform other tasks before dismissing the dialog, with no sense of the system being "hijacked" by the application.  
+<span id="page-133-1"></span>You lay out sheets as you would any other dialog in Mac OS X.  
+**Figure 9-1** The Save Changes alert: An example of using a sheet to display a document-modal dialog  
+![](images/_page_133_Picture_7.jpeg)  
+**Carbon:** You are responsible for creating, showing, handling the events for, and closing sheets. Other sheet behavior, such as the animation when the sheet appears and is dismissed, is handled automatically by the Window Manager.  
+**Cocoa:** You are responsible for loading, showing, and closing sheets. While a sheet is displayed, events are handled by the Application Kit just as for any other window. Other sheet behavior, such as the animation when the sheet appears and is dismissed, is handled automatically by the Application Kit.

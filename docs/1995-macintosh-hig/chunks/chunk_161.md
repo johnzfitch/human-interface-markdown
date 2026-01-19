@@ -1,0 +1,2 @@
+<!-- Chunk 161 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 80 -->
+This section describes the standard behaviors and issues that you need to consider when you implement modal dialog boxes in your application. It includes discussions of providing access to the menu bar when your application displays a modal dialog box and why to avoid displaying more than one modal dialog box at a time.

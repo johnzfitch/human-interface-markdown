@@ -1,0 +1,3 @@
+<!-- Chunk 123 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 113 -->
+A text view is a rounded rectangle of any height. A text view supports scrolling when the content is too large to fit inside its bounds.  
+If the text view supports user editing, a keyboard appears when the user taps inside the text view. The keyboard's input method and layout are determined by the user's language settings. When users tap the button labeled ".?123," the keyboard changes to display numbers, punctuation marks, and a few common symbols.

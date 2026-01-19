@@ -1,0 +1,7 @@
+<!-- Chunk 46 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 342 -->
+<span id="page-41-5"></span>With Mac OS X 10.1 and later, an open application can use its Dock tile to convey important information if needed.  
+<span id="page-41-4"></span><span id="page-41-2"></span>When appropriate, your application's Dock tile icon can include a small badge superimposed on the icon. In Mail, for example, when a user has unread email, the Dock icon displays a red circle indicating the number of new messages. This type of badging provides important information without being obtrusive or distracting.  
+<span id="page-41-1"></span>**Figure 3-1** An example of a badged Dock icon: The Mail application icon indicates there are unread messages  
+![](images/_page_41_Picture_8.jpeg)  
+<span id="page-41-3"></span>If an open and inactive application needs the user's attention right away and calls the Notification Manager, the application icon in the Dock bounces. This type of notification should be reserved for errors or problems that the user needs to address right away. If you implement this kind of notification, you should also provide a way for the user to turn off the animation.  
+To animate an application or document Dock tile in a Carbon application, look for functions in MacWindows.h that include DockTile. In Cocoa, use the setApplicationIcon: method of the NSApplication class or the setMiniWindowImage: method of the NSWindow class.

@@ -1,0 +1,11 @@
+<!-- Chunk 60 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 488 -->
+Safari on iOS provides a preeminent mobile web-viewing experience on iOS devices. People appreciate the crisp text and sharp images and the ability to adjust their view by rotating the device or pinching and tapping the screen.  
+Standards-based websites display well on iOS devices. In particular, websites that detect the device and do not use plug-ins look great on both iPhone and iPad with little, if any, modification.  
+In addition, the most successful websites typically:  
+- Set the viewport appropriately for the device, if the page width needs to match the device width
+- Avoid CSS fixed positioning, so that content does not move offscreen when users zoom or pan the page
+- Enable a touch-based UI that does not rely on pointer-based interactions  
+Sometimes, other modifications can be appropriate. For example, web apps always set the viewport width appropriately and often hide the UI of Safari on iOS. To learn more about how to make these modifications, see "Configuring the Viewport" and "Configuring Web Applications" in *Safari Web Content Guide* .  
+Websites can adapt the desktop web experience to Safari on iOS in other ways, too:  
+**Accommodate the keyboard in Safari on iOS.** When a keyboard and the form assistant are visible, Safari on iPhone displays your webpage in the area below the URL text field and above the keyboard and form assistant.  
+**Accommodate the pop-up menu control in Safari on iOS.** In Safari on the desktop, a pop-up menu that contains a large number of items displays as it does in an OS X app; that is, the menu opens to display all items, extending past the window boundaries, if necessary. In Safari on iOS, a pop-up menu is displayed using native elements, which provides a much better user experience. For example, on iPhone, the pop-up menu appears in a **picker**, a list of choices from which the user can pick. (To learn more about the picker control, see ["Picker"](#page-187-0) (page 188).)

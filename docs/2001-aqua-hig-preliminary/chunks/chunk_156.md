@@ -1,0 +1,10 @@
+<!-- Chunk 156 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 440 -->
+When an item is dragged from an application or a Finder window to the desktop, the Finder creates a clipping that contains the data in the dragged item. If discontinuous selections are dragged from a source to the Finder, a separate clipping is created for each selected item.  
+Your application should provide a number of representations (such as TEXT, PICT, and native formats) to ensure flexibility with different destinations. Regardless of which representations are stored, round-trip data integrity should be preserved; a clipping dragged back into its source should be identical to the original item.  
+When clippings are created, each clipping is given a default name, which is a concatenation of the type of data that was dragged and the word "clipping" (plus a number, if necessary, to avoid naming conflicts). For example, dragging some text from a document to the Finder would generate a file named "text clipping." If the type is unknown, it is omitted from the clipping name.  
+Clippings **171**  
+#### Drag and Drop  
+The user can open clippings in the Finder and view a representation of the data in a modeless window, similar to the Clipboard window. The user cannot select, copy, or edit any of the contents in these windows.  
+<span id="page-172-3"></span><span id="page-172-0"></span>Mac OS X supports two user help components: Apple Help and Help Tags. Carbon applications can also use these facilities on Mac OS 8.6 and 9.  
+Apple Help enables you to display documents with QuickTime content and AppleScript-based automations, and to provide context-sensitive assistance.  
+<span id="page-172-4"></span>Help Tags, which replace the Balloon Help introduced in System 7, give your application the ability to identify its interface elements.

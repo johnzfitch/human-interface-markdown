@@ -1,0 +1,40 @@
+---
+chunk_index: 605
+ref: "99c068ad2687"
+id: "99c068ad26870881497a52532180db1f408cfa2c94c657b4dee6c5161cd28793"
+slug: "full-document--mousetext"
+path: "marker/1985 Apple II Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [2113, 2136]
+token_estimate: 529
+content_sha256: "72b924988a175c0e1398ec745b917db521189fcd969967aa00e045bcd9a17d73"
+compacted: false
+heading_path: ["MouseText"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# MouseText
+
+Figure 25. A Modal Dialog Box
+
+Because it restricts the user's freedom of action, this type of dialog box should be used sparingly. In particular, the user can't choose a menu item while a modal dialog box is up, and therefore can only do the simplest kinds of text editing.
+
+For these reasons, the main use of a modal dialog box is when it's important for the user to complete an operation before doing anything else.
+
+A modal dialog box usually has at least two buttons: OK and Cancel. clicking on OK or pressing Return dismisses the dialog box and performs the original command according to the information provided; it can be given a more descriptive name than "OK". Clicking on Cancel or pressing Escape dismisses the dialog box and cancels the original command; it must always be called "Cancel".
+
+A dialog box can have other kinds of buttons as well; these may or may not dismiss the dialog box.
+
+[Note to reviewers: Because of the needs of keyboard users, I have tentitively decided to make OK always be selectable with Return and Cancel always be selectable with Escape. This is in conflict with the MacIntosh guideline that follows:
+
+"One of the buttons in the dialog box may be outlined boldly. The outlined button is the default button; if no button is outlined, then
+
+1/15/85 Tognazzini
+
+the OK button is the default button. The default button should be the safest button in the current situation. Pressing the Return or Enter key has the same effect as clicking the default button. If there is no default button, then Return and Enter have no effect."
+
+If you have any ideas on how we could retain the MacIntosh guideline and still make the boxes reasonable for the keyboard user, please let me know.]
+
+A special type of modal dialog box is one with no buttons. This type of box is just to inform the user of a situation without eliciting any response. Usually, it would describe the progress of an ongoing operation. Since it has no buttons, the user has no way to dismiss it. Therefore, the application must leave it up long enough for the user to read it before taking it down again.

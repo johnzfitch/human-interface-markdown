@@ -1,0 +1,8 @@
+<!-- Chunk 49 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 348 -->
+Every application's main view must have a border, even if the border is not visible because the view fills the screen. Generally, an application's main view should have a rounded-corner matte border (as described under ["View](#page-49-0)  [Border" on page 2-6\)](#page-49-0). Alternatively, a main view can have a plain roundedcorner black border. A matte border is a better choice if the view is movable (or might be movable on a large screen), because users historically have associated matte borders with movable views and plain borders with stationary views. Figure 2-12 shows the two border styles.  
+**Figure 2-12** Main views have matte or plain borders with rounded corners  
+![](images/_page_56_Figure_5.jpeg)  
+![](images/_page_56_Figure_6.jpeg)  
+A movable main view is preferable to a fixed view. If users can't move your application's main view, they may have to close your application to work on another application beneath it. If you want a user to be able to leave your application open, make its main view small, matte-bordered, and movable.  
+It's possible for a stationary main view to have a different border style and still look like it belongs on a Newton device. You need a strong reason—something more than personal preference—to give your application's main view anything other than a rounded-corner black border or a rounded-corner matte border.  
+Main Views **2-13**

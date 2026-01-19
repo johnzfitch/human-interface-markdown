@@ -1,0 +1,2 @@
+<!-- Chunk 251 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 91 -->
+The bimonthly journal *Human Factors* presents original papers of scientific merit that contribute to the understanding and advance the systematic consideration of human factors. It features articles on methodology and procedures, literature reviews, broad technical research results; articles on research applications; and papers of general professional interest.

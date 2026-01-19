@@ -1,0 +1,4 @@
+<!-- Chunk 252 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 221 -->
+After a successful drag-and-drop sequence involving a single window, the selection feedback is maintained at the new location. This behavior provides an important user cue and allows the user to reposition the selection without having to make the selection again.  
+<span id="page-215-11"></span><span id="page-215-5"></span><span id="page-215-4"></span>If the user drags an item from an active window to an inactive window, the dragged item becomes a **background selection** at the destination; the selection in the active window remains selected. This guideline also applies in the reverse situation, where an item is dragged from an inactive window to an active window.  
+When content is dropped into a window in which something is selected, your application should deselect everything in the destination before the drop, rather than replacing the selection with the dragged item.

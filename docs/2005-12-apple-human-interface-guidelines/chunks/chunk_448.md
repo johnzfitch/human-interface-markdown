@@ -1,0 +1,2 @@
+<!-- Chunk 448 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+A window containing file-based data that users create and store. See also ["utility window"](#page-326-0) (page 327).

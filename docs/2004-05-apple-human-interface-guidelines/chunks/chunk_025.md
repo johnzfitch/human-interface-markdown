@@ -1,0 +1,11 @@
+<!-- Chunk 25 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 522 -->
+A block of text is a string of characters. A text selection is a substring of this string, which has any length from zero characters to the whole block.  
+The **insertion point** (a zero-length text selection) shows where text will be inserted when the user starts typing, or where the contents of the Clipboard will be pasted. The user establishes the location of the insertion point by clicking somewhere in the text; the insertion point appears at the nearest character boundary. If the user clicks anywhere to the right of the last character on a line, the insertion point appears immediately after the last character. If the user clicks to the left of the first character on a line, the insertion point appears immediately before the first character.  
+Selected text in a window is highlighted with the color chosen by the user in Appearance preferences. When the window becomes inactive, the text should remain highlighted, but in the secondary color, which is a percentage of the original highlight color. Both Carbon and Cocoa provide a way to return the current highlight color, as well as other important colors in the user interface. Your application should use these defined colors in any custom controls you create, rather than hard-coding specific color values.  
+#### Selecting With the Mouse  
+The user can select a range of text by dragging. A range can consist of characters, words, lines, or paragraphs, as defined by the application.  
+In text fields, clicking should perform the following actions:  
+- Single-clicking places the insertion point at the pointer's location in the text.
+- <span id="page-36-1"></span>■ Double-clicking within a word selects the word. The selection should provide "smart" behavior; if the user deletes the selected word, for example, the space after the word should also be deleted.
+- Double-clicking in a space selects the space.
+- <span id="page-36-0"></span>■ Triple-clicking selects the next logical unit, as defined by the application. In a word-processing document, triple-clicking in a word selects the paragraph containing the word.

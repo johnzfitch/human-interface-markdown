@@ -1,0 +1,9 @@
+<!-- Chunk 88 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 362 -->
+Dashboard widgets are small and compact in part because they occupy prime screen space but also because they perform a single, well-defined task. It's especially important to avoid providing functionality that is extraneous to a widget's central task, because this dilutes a widget's usefulness. As with the design of a full-size application, taking the time to carefully define your widget's target audience (see ["Involving](#page-24-1) Users in the Design Process" (page 25)) will help you focus on the task your widget will perform.  
+As you design your widget, keep these high-level guidelines in mind:  
+■ A widget's purpose should be immediately apparent to the user.  
+To achieve this, be sureyou understand the user's mental model of the taskyourwidget performs (for more information on this concept, see ["Reflect](#page-39-0) the User's Mental Model" (page 40)).  
+■ A widget is not the place to display aggressive company advertising or branding.  
+Your widget is not merely an entrance to another application, even if that other application performs the processing for the widget's task. If you take advantage of Dashboard's prominence to display a banner ad, for example, users will be likely to stop including your widget in the Dashboard display.  
+■ A widget is not simply a miniaturized version of a standard application window.  
+Avoid making your widget look crowded by displaying only the controls that are essential to the task.

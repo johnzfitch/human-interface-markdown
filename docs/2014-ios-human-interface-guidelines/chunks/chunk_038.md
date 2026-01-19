@@ -1,0 +1,3 @@
+<!-- Chunk 38 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 128 -->
+Integrating with iOS means giving users a compelling, delightful experience that feels at home on the platform; it doesn't mean creating an app that looks like a copy of a built-in app.  
+The best way to integrate your unique app with the platform is to understand the themes that motivate iOS—these are described in ["Designing](#page-8-0) for iOS 7" (page 9)—and figure out how your app should express them. As you do this, follow the guidelines in this section to help you give users the experience they expect.

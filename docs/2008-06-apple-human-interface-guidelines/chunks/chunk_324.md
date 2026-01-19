@@ -1,0 +1,3 @@
+<!-- Chunk 324 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 102 -->
+**Control sizes**: The round rectangle scope button is available in regular, small, and mini sizes. The height of the control is fixed for each size, but you set the width.  
+**Label spacing and fonts**: If you choose to use text to label scope buttons, use the view font (12-point Lucida Grande). Use the view font in bold for recessed scope buttons and the regular view font for round rectangle scope buttons.

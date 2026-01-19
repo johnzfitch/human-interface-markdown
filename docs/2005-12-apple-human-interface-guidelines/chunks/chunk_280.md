@@ -1,0 +1,3 @@
+<!-- Chunk 280 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 98 -->
+Users can interrupt a quit operation with documents still unsaved. For example, if a user chooses Quit and a save alert (a sheet) opens for a document, the user can work on other documents or switch to another application without addressing the save alert.  
+When a user quits an application in which all open documents have been saved, all documents close immediately and the application quits.

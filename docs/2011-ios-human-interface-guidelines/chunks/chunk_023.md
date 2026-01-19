@@ -1,0 +1,11 @@
+<!-- Chunk 23 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 540 -->
+There are two types of software that you can develop for iOS-based devices:  
+- iOS apps
+- Web content  
+An **iOS app** is an application you develop using the iOS SDK to run natively on iOS-based devices. iOS apps resemble the built-in applications on iOS-based devices in that they reside on the device itself and take advantage of features of the iOS environment. People install iOS apps on their devices and use them just as they use built-in applications, such as Photos, Calendar, and Mail.  
+**Web content** is hosted by a website that people visit through their iOS-based devices. Web content that appears on iOS-based devices can be divided into three categories:  
+**Web apps.** Webpages that provide a focused solution to a task and conform to certain display guidelines are known as web apps because they behave similarly to iOS apps.  
+A web app often hides the UI of Safari on iOS so that it looks more like a native app. Using the web clip feature, a web app can also supply an icon for people to put on the Home screen. This allows people to open web apps in the same way that they open iOS apps.  
+**Optimized webpages.** Webpages that are optimized for Safari on iOS display and operate as designed (with the exception of any elements that rely on unsupported technologies, such as plug-ins, Flash, and Java). In addition, an optimized webpage correctly scales content for the device screen and is often designed to detect when it is being viewed on iOS-based devices, so that it can adjust the content it provides accordingly.  
+**Compatible webpages.** Webpages that are compatible with Safari on iOS display and operate as designed (with the exception of any elementsthat rely on unsupported technologies,such as plug-ins, Flash, and Java). A compatible webpage does not tend to take extra steps to optimize the viewing experience on iOS-based devices, but the device usually displays the page successfully.  
+An iOS app might combine native UI elements with access to web content within a web content–viewing area. Such an app can look and behave like a native iOS app, without drawing attention to the fact that it depends on web sources.

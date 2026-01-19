@@ -1,0 +1,23 @@
+<!-- Chunk 88 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 1105 -->
+Users can reveal an edit menu to perform operations such as Cut, Paste, and Select in a text view, web view, or image view.  
+![](images/_page_135_Picture_2.jpeg)  
+You can adjust some of the behaviors of the menu to give users more control over the content in your app. For example, you can:  
+- Specify which of the standard menu commands are appropriate for the current context
+- Determine the position of the menu before it appears so that you can prevent important parts of your app's UI from being obscured
+- Define the object that is selected by default when users double-tap to reveal the menu  
+You can't change the color or shape of the menu itself.  
+For information on how to implement these behaviors in code, see "Copy, Cut, and Paste Operations" in *iOS App Programming Guide* .  
+To ensure that the edit menu behaves as users expect in your app, you should:  
+**Display commands that make sense in the current context.** For example, if nothing is selected, the menu should not contain Copy or Cut because these commands act on a selection. Similarly, if something is selected, the menu should not contain Select. If you support an edit menu in a custom view, you're responsible for making sure that the commands the menu displays are appropriate for the current context.  
+**Accommodate the menu display in your layout.** iOS displays the edit menu above or below the insertion point or selection, depending on available space, and places the menu pointer so that users can see how the menu commands relate to the content. You can programmatically determine the position of the menu before it appears so that you can prevent important parts of your UI from being obscured, if necessary.  
+**Support both gestures that people can use to invoke the menu.** Although the touch and hold gesture is the primary way users reveal the edit menu, they can also double-tap a word in a text view to select the word and reveal the menu at the same time. If you support the menu in a custom view, be sure to respond to both gestures. In addition, you can define the object that is selected by default when the user double taps.  
+**Avoid creating a button in your UIthat performs a command that's available in the edit menu.** For example, it's better to allow users to perform a copy operation using the edit menu than to provide a Copy button, because users will wonder why there are two ways to do the same thing in your app.  
+**Consider enabling the selection of static text if it's useful to the user.** For example, a user might want to copy the caption of an image, but they're not likely to want to copy the label of a tab item or a screen title, such as Accounts. In a text view, selection by word should be the default.  
+**Don't make button titles selectable.** A selectable button title makes it difficult for users to reveal the edit menu without activating the button. In general, elements that behave as buttons don't need to be selectable.  
+**Combine support for undo and redo with your support of copy and paste.** People often expect to be able to undo recent operations if they change their minds. Because the edit menu doesn't require confirmation before its actions are performed, you should give users the opportunity to undo or redo these actions.  
+Follow these guidelines if you need to create custom edit menu items, such as the ones shown here:  
+![](images/_page_136_Picture_11.jpeg)  
+**Create edit menu items that edit, alter, or otherwise act directly upon the user's selection.** People expect the standard edit menu items to act upon text or objects within the current context, and it's best when your custom menu items behave similarly.  
+**List custom items together after all system-provided items.** Don't intersperse your custom items with the system-provided ones.  
+**Keep the number of custom menu items reasonable.** You don't want to overwhelm your users with too many choices.  
+**Use succinct names for your custom menu items** and make sure the names precisely describe what the commands do. In general, item names should be verbs that describe the action to be performed. Although you should generally use a single capitalized word for an item name, use title-style capitalization if you must use a short phrase. (Briefly, title-style capitalization meansto capitalize every word except articles, coordinating conjunctions, and prepositions of four or fewer letters.)

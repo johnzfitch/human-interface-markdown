@@ -1,0 +1,2 @@
+<!-- Chunk 202 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 76 -->
+Put buttons that affect an entire view at the bottom of the view, and put buttons that only affect part of the view elsewhere. Group buttons that affect content and appearance at the bottom left of a view, and put buttons that control or initiate action at the bottom right. See page [3-11](#page-104-0).

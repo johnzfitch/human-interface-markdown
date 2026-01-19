@@ -1,0 +1,5 @@
+<!-- Chunk 55 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 199 -->
+A **detail disclosure button** reveals additional or more detailed information about something. Usually, you use detail disclosure buttons in table views, where they give users a way to see detailed information about a list item (for more information about this usage, see ["Table-View](#page-83-0) Elements" (page 84)). However, you can use this element in other types of views to provide a way to reveal more information or functionality.  
+<span id="page-91-2"></span>For example, the Maps application displays a detail disclosure button users can tap to access more functionality related to the dropped pin. Figure 9-3 shows an example of a detail disclosure button.  
+**Figure 9-3** A detail disclosure button reveals additional details or functionality  
+![](images/_page_91_Picture_6.jpeg)

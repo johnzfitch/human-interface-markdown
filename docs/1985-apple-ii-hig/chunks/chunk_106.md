@@ -1,0 +1,2 @@
+<!-- Chunk 106 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 36 -->
+Copy is the first stage of a copy operation. Copy puts a copy of the selection in the Clipboard, but the selection also remains in the document.

@@ -1,0 +1,2 @@
+<!-- Chunk 477 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 42 -->
+A set of attribute choices in which the user can select only one item, such as font size. See also ["accumulating](#page-318-4) [attribute group"](#page-318-4) (page 319).

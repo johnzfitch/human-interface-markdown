@@ -1,0 +1,10 @@
+<!-- Chunk 114 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 429 -->
+<span id="page-99-1"></span>iPhone OS does not include multi-item selection controls analogous to menus or pop-up menus, but a table view works well to display a list of options from which the user can choose. This is because table views display items in a simple, uncluttered way. In addition, the table view provides a checkmark image that shows users the currently selected option (or options) in a list, as shown in [Figure](#page-99-1) 8-12 (page 100).  
+**Figure 8-12** A checkmark indicates the current selection in a list  
+![](images/_page_99_Picture_9.jpeg)  
+If you need to display a list of choices users see when they tap an item in a table row, you can use either style of table view. But if you need to display a list of choices users see when they tap a button or other user interface element that is not in a table row, use the plain style.  
+■ **Navigating hierarchical information**.  
+A table view works well to display a hierarchy of information in which each node (that is, list item) can contain its own subset of information, because each subset can be displayed in a separate list. This makes it easy for users to follow a path through the hierarchy by selecting one item in each successive list. The disclosure indicator element tells usersthat tapping anywhere in the row revealsthe subset of information in a new list, as shown in [Figure](#page-100-0) 8-13 (page 101).  
+<span id="page-100-0"></span>**Figure 8-13** A disclosure indicator indicates that a subset of information is on the next screen  
+![](images/_page_100_Picture_4.jpeg)  
+When a table is used for navigation, previously selected table rows do not remain highlighted when users retrace their steps through the hierarchy.

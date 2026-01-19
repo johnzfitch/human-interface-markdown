@@ -1,0 +1,4 @@
+<!-- Chunk 162 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 212 -->
+<span id="page-113-6"></span><span id="page-113-5"></span>After a successful drag-and-drop sequence involving a single window, the selection feedback is maintained at the new location. This behavior provides an important user cue and allows the user to reposition the selection without having to make the selection again.  
+If the user drags an item from an active window to an inactive window, the dragged item becomes a **background selection** at the destination; the selection in the active window remains selected. This guideline also applies in the reverse situation, where an item is dragged from an inactive window to an active window.  
+When content is dropped into a window in which something is selected, your application should deselect everything in the destination before the drop rather than replace the selection with the dragged item.

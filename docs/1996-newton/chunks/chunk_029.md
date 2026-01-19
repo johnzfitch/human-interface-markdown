@@ -1,0 +1,3 @@
+<!-- Chunk 29 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 163 -->
+Your software will coexist with built-in Newton applications and services. On an Apple MessagePad they include the Notepad, Names File, Date Book, In/Out Box, Filing, Routing, Find, Assist, and others. If your application has functions analogous to those in the built-in applications and services, use the same mechanisms. Users will be accustomed to them and will expect other software to work in the same way. You can most easily match the builtin applications and services by using the system proto templates in the Newton Toolkit.  
+You can extend the Newton interface if you need to, but make sure your extensions retain the original look and feel.

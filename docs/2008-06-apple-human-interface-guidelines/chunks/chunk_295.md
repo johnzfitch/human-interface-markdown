@@ -1,0 +1,2 @@
+<!-- Chunk 295 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 81 -->
+In addition to printing, the minimal Print dialog lets users choose a printer and printer settings, save, mail, or fax a document in the PDF or PostScript formats, and preview a document before printing. The expanded Print dialog adds printing-specific settings,such as number of copies, page range, papersettings, and layout.

@@ -1,0 +1,8 @@
+<!-- Chunk 109 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 386 -->
+The single menu bar at the top of the main display screen provides a home for the top-level menus in your app. In addition to the system-provided and user-assigned items (described in "All Apps Use the [Single](#page-15-0) Menu [Bar"](#page-15-0) (page 16)), you determine the menus that appear in the menu bar. For some guidance on how to arrange your app-specific menus, see ["Make](#page-37-0) Your App Easy to Use" (page 38).  
+The following sections provide guidelinesthat help you choose which menus you need and which menu items you should include.  
+**Important:** If a menu item is marked as expected, you should provide it in your app, unless your app cannot support it. A menu item that is not designated as expected is not necessarily appropriate in all apps, but if it is appropriate in yours, you should implement and label it as described.  
+If there is an appropriate keyboard shortcut for a menu item, it is listed. In general, you should enable the appropriate keyboard shortcut for every expected menu item in your app. Provide a keyboard shortcut for other items only if the item will be frequently used. For more discussion on providing keyboard shortcuts for menu items, see ["Keyboard](#page-309-0) Shortcuts" (page 310).  
+#### <span id="page-146-0"></span>The Apple Menu  
+The **Apple menu** provides items that are available to users at all times, regardless of which app is active. The Apple menu's contents are defined by the system and cannot be modified by users or developers.  
+![](images/_page_146_Picture_5.jpeg)

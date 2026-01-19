@@ -1,0 +1,2 @@
+<!-- Chunk 445 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+<span id="page-326-2"></span>Column views are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSBrowser class or an NSOutlineView object in column format.

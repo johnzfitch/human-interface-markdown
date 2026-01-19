@@ -1,0 +1,12 @@
+<!-- Chunk 105 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 553 -->
+The overall look of a modal view should coordinate with the application that displaysit. For example, a modal view often includes a navigation bar that contains a title and buttons that cancel or complete the modal view's task. The navigation bar should have the same background appearance as the navigation bar in the application.  
+A modal view should usually display a title that identifies the task in some way. If appropriate, you can also display text in other areas of the view that more fully describes the task or provides some guidance. For example, the Messages application provides a modal view when users want to compose a text message. This modal view, shown in Figure 7-5, displays a navigation bar with the same background as the application navigation bar and with the title New Message.  
+<span id="page-86-0"></span>**Figure 7-5** A modal view should coordinate with the application screen  
+![](images/_page_86_Picture_3.jpeg)  
+In a modal view, you can use whichever controls are required to accomplish the task. For example, you can include text fields, buttons, and table views.  
+You can choose to reveal a modal view in a way that coordinates with your application and enhances the user's awareness of the temporary context shift the view represents. To do this, you can specify one of the following transition styles:  
+- **Vertical**. The modal view slides up from the bottom edge of the screen and slides back down when dismissed. (This is the default transition style.)
+- **Flip**. The current view flips horizontally from right to left to reveal the modal view. Visually, the modal view looks as if it is the back of the current view. When the modal view is dismissed, it flips horizontally from left to right, revealing the previous view.  
+If you decide to vary the transition styles of the modal views in your application, avoid doing so merely for the sake of variety. Be aware that users notice such differences and will assume that they mean something. For this reason, it's best to establish a logical, consistent pattern that users can easily detect and remember, and avoid changing transition styles gratuitously.  
+#### **CHAPTER 7**  
+Alerts, Action Sheets, and Modal Views

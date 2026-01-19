@@ -1,0 +1,2 @@
+<!-- Chunk 465 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 32 -->
+Group boxes are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSBox class.

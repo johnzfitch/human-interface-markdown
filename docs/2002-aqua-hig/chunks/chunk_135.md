@@ -1,0 +1,4 @@
+<!-- Chunk 135 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 204 -->
+The user opens the list by pressing or clicking the arrows to the right of the text field. The list is a window that descends from the text field; the window is the same width as the text field and has a drop shadow. Don't extend the right edge of the list beyond the right edge of the arrow box; if an item is too long, it gets truncated.  
+When the user selects an item in the list, the item replaces whatever is in the text entry field and the list closes. If the user presses the Up Arrow or Down Arrow key to move through the items, the selected item is highlighted and appears in the text entry field. The user can accept an item by pressing the Space bar, Enter, or Return.  
+<span id="page-129-4"></span>If the list is open and the user clicks outside it, including within the text entry field, the list closes.

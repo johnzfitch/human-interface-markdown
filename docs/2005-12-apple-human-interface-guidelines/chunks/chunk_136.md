@@ -1,0 +1,2 @@
+<!-- Chunk 136 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 110 -->
+<span id="page-98-2"></span>Users may modify your application's keyboard shortcuts and some of the system in Keyboard & Mouse preferences. Even though users can remap keyboard shortcuts, you should adhere to the shortcuts recommended throughout this document. Doing so provides a more consistent user experience. See ["Keyboard Shortcuts Quick Reference"](#page-304-0) (page 305) for a list of all the reserved and recommended combinations.

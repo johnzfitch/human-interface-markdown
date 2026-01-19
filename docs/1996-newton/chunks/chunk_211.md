@@ -1,0 +1,4 @@
+<!-- Chunk 211 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 158 -->
+Don't use ellipses (...) in button names, picker labels, or list-picker items. See pages [3-4](#page-97-0) and [4-3.](#page-128-0)  
+Do put an ellipsis at the end of the title or the message text in a status slip, but use three periods rather than an ellipsis character. Also use an ellipsis to accommodate an item whose text is too long to fit on a line in the space available for it (for example, in overviews). See pages [2-21](#page-64-0), [2-45,](#page-88-0) and [6-5](#page-172-0).  
+Don't use a colon at the end of a title, a heading, or a field label. See pages [2-5](#page-48-0), [3-18](#page-111-0), and [6-2](#page-169-0).

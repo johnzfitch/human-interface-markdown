@@ -1,0 +1,12 @@
+<!-- Chunk 62 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 546 -->
+![](images/_page_84_Picture_4.jpeg)  
+Of course, the additional 176 pixels in height translates into additional lateral space when the device is in landscape orientation. For example, in Messages on iPhone 5 (shown here below Messages on iPhone 4S), the UI stretches to fill the additional width.  
+![](images/_page_85_Picture_2.jpeg)  
+![](images/_page_85_Picture_3.jpeg)  
+The Messages screens shown above illustrate a crucial point: The minor UI adjustments that were made to accommodate the iPhone 5 display do not change the app's functionality in any way. The consistency of the user experience—which is evident in all of the apps described in this section—follows a key design principle of iPhone 5: The larger device display enables users to see more of the content they care about; it does *not* provide an opportunity to squeeze in more app functionality.  
+Because you won't be changing the functionality of your app, there's typically very little you have to do to make your app look great on iPhone 5. If you use Auto Layout to design your app's UI, you might have even less work to do. The following guidelines can help you decide which UI changes are best suited to your app. **Note:** If you don't make any changesto your app, it runsin a compatibility mode on iPhone 5. When an app runs in compatibility mode, iOS automatically centers the app's UI by adding slim black bars above and below it.  
+**Allow more content to be revealed automatically.** If some of your UI is currently hidden below the bottom edge of the screen—requiring users to scroll—you don't have to make any changes to allow the increased display height of iPhone 5 to reveal more of your UI. In Settings, for example, users can see additional table rows on iPhone 5 than they do on iPhone 4S.  
+![](images/_page_86_Picture_3.jpeg)  
+Settings on iPhone 5 Settings on iPhone 4S  
+![](images/_page_86_Picture_5.jpeg)  
+**Stretch content regions.** If you display content in a view, consider vertically expanding the view to show some additional content or to insert more space within the view. For example, users have a larger message body region in Mail on iPhone 5 than they do in Mail on iPhone 4S.

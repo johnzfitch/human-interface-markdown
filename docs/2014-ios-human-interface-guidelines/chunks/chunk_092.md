@@ -1,0 +1,19 @@
+<!-- Chunk 92 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 935 -->
+The **status bar** displays important information about the device and the current environment (shown below on iPhone).  
+| Default<br>(dark)<br>content |  | Light<br>content |  |  |
+|------------------------------|--|------------------|--|--|
+|                              |  |                  |  |  |
+| The<br>status<br>bar:        |  |                  |  |  |
+| Is<br>transparent<br>●       |  |                  |  |  |  
+● Always appears at the upper edge of the device screen  
+**API Note:** You can set the style of the status bar globally for the entire app or you can let individual view controllers set the style as appropriate. To learn more, read *UIApplication Class Reference* for information about the UIStatusBarStyle constant and *UIViewController Class Reference* for information about the preferredStatusBarStyle property.  
+**Don't create a custom status bar.** Users depend on the consistency of the system-provided status bar. Although you might hide the status bar in your app, it's not appropriate to create custom UI that takes its place.  
+**Prevent scrolling content from showing through the status bar.** As users scroll, you don't want them to see a confusing mix of app content and status bar items in the status bar area. To give users the impression of spaciousness while still ensuring maximum readability, make sure the status bar has a background that obscures the content behind it. Here are a few ways to keep scrolling content from showing through the status bar:  
+- Use a navigation controller to display content. A navigation controller automatically displays a status bar background and it ensures that its content views don't appear behind the status bar. (To learn more about navigation controllers, see "Navigation Controllers".)
+- Create a nondistracting custom image—such as a gradient—and display it behind the status bar. To ensure that the image stays behind the status bar, you could use a view controller to keep the image above a scrolling view or you could use a scrolling view to keep it pinned to the top.  
+● Position content to avoid the status bar area (that is, the area defined by the app's statusBarFrame property). If you do this, you should use the window's background color to provide a solid color behind the status bar.  
+**Avoid putting distracting content behind the status bar.** In particular, you don't want to imply that users should tap the status bar to access content or activate controls in your app.  
+**Think twice before permanently hiding the status bar.** Because the status bar is transparent, it's not usually necessary to hide it. Permanently hiding the status bar means that users must switch away from your app to read the time or to find out whether they have a Wi-Fi connection.  
+**Consider hiding the status bar—and all other appUI—while people are actively viewing full-screen media.** If you hide the status bar, be sure to let people retrieve it (and the appropriate app UI) with a single tap. Unless you have a compelling reason to do so, avoid defining a custom gesture to redisplay the status bar because users are unlikely to discover such a gesture or to remember it.  
+**Choose a status bar content color that coordinates with your app.** The default appearance displays dark content, which looks good on top of light-colored app content. The light status bar content looks good on top of dark-colored app content.  
+<span id="page-143-0"></span>**When appropriate, display the network activity indicator.** The network activity indicator can appear in the status bar to show users that lengthy network access is occurring. To learn how to implement this indicator in your code, see "Network Activity [Indicator"](#page-185-0) (page 186).

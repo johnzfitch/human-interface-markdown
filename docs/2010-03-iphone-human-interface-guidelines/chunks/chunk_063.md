@@ -1,0 +1,12 @@
+<!-- Chunk 63 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 614 -->
+iPhone OS gives usersthe ability to undo and redo their typing in text views. Usersinitiate an undo by shaking the device, which displays an alert that allows users to undo what they just typed, redo previously undone typing, or cancel the undo.  
+UIKit allows you to support undo in a more general way in your application (for information on how to implement this behavior in code, see *Undo Architecture*). You can specify:  
+- The actions users can undo or redo
+- When your application should interpret a shake event as the shake to undo gesture
+- How many levels of undo to support  
+To provide a great user experience for the undo and redo capability in your application, you should:  
+- **Supply brief descriptive phrases that tell users precisely what they're undoing or redoing**. UIKit automatically supplies the strings "Undo " and "Redo " for the undo alert button titles, but you need to provide a word or two that describes the action users can undo or redo. (Note that the Cancel button cannot be changed.) For example, you might supply the text "Delete Name" or "Address Change," to create buttons titles such as "Undo Delete Name" or "Redo Address Change."
+- Be sure to avoid supplying text that is too long: A button title that is too long is truncated and is difficult for users to decipher. Also, because this text is in a button title, use title-style capitalization and do not add punctuation. (Briefly, title-style capitalization means to capitalize every word except articles, coordinating conjunctions, and prepositions of four or fewer letters.)
+- **Avoid overloading the shake gesture**. Even though you can programmatically set when your application interprets a shake event as shake to undo, you run the risk of confusing users if they also use shake to perform a different action.
+- The shake gesture is the primary way users expect to initiate undo and redo, but you can also include the system-provided Undo and Redo buttons in a navigation bar, if appropriate. You might do this if it's essential that you display an explicit, dedicated button to perform these functions within the context of your application, but this is unusual.
+- **Consider the context of the actions you allow to be undone or redone**. In general, users expect their changes and actions to take effect immediately. As much as possible, the undo and redo capability should be clearly related to the user's immediate context, and not to an earlier context.

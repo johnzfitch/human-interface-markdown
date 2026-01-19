@@ -1,0 +1,6 @@
+<!-- Chunk 283 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 237 -->
+An **icon button** behaves like a bevel button, but does not have a rectangular edge around it; the entire button is clickable, not just the icon.  
+Icon buttons may have pop-up menus attached. See "Icon [Buttons](#page-245-0) and Bevel Buttons With Pop-Up [Menus](#page-245-0) " (page 246) for more information.  
+<span id="page-237-1"></span>**Figure 14-8** Icon buttons used in a toolbar  
+![](images/_page_237_Picture_4.jpeg)  
+**Carbon:** Create icon buttons programmatically with the function CreateIconControl. **Cocoa:** To create an icon button in Interface Builder, use the bevel button object (NSButton) from the Controls palette. Add the appropriate icon, then select the button and in the Attributes inspector, deselect Bordered. To create one programmatically, use the NSButtonCell method setBezelStylewith NSShadowlessSquareBezelStyle as the argument. See *Button Programming Topics for Cocoa* in Cocoa User Experience Documentation.

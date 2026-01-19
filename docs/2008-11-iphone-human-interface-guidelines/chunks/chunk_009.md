@@ -1,0 +1,22 @@
+<!-- Chunk 9 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 1089 -->
+Before you decide how to present your product to iPhone OS users, you need to understand the range of options you have. Depending on the implementation details of your proposed product and its intended audience, some types of software may be better suited to your needs than others.  
+This section divides software for iPhone OS–based devices into three broad categories, primarily based on implementation method. Roughly speaking, you can create:  
+- An **iPhone application**, which is an application you develop using the iPhone SDK to run natively on iPhone OS–based devices.
+- **Web-only content**, including web applications, which are websites that behave like built-in iPhone applications.
+- <span id="page-16-2"></span>■ A **hybrid application**, which is an iPhone application that provides access to web content primarily through a web-content viewing area, but includes some iPhone OS user interface elements.  
+#### iPhone Applications  
+**iPhone applications** resemble the built-in applications on iPhone OS–based devices in that they reside on the device itself and take advantage of features of the iPhone OS environment. Usersinstall iPhone applications on their devices and use them just as they use built-in applications, such as Stocks, Maps, Calculator, and Mail.  
+<span id="page-16-3"></span>An iPhone application is quick to launch and easy to use. Whether the application enables a task like sending email or provides entertainment to users, it is characterized by responsiveness, simplicity, and a beautiful, streamlined user interface.  
+#### Web-only Content  
+You have a few different options when it comes to providing **web-only content** to iPhone OS users:  
+■ **Web applications**  
+The iPhone OS Platform: Rich with Possibilities  
+Webpagesthat provide a focused solution to a task and conform to certain display guidelines are known as web applications, because they behave similarly to the built-in iPhone OS applications. A web application, like all web-only content, runs in Safari on iPhone; users do not install it on their devices, instead they go to the web application's URL.  
+#### ■ **Optimized webpages**  
+Webpages that are optimized for Safari on iPhone display and operate as designed (with the exception of any elements that rely on unsupported technologies, such as plug-ins, Flash, and Java). In addition, an optimized webpage correctly scales content for the device screen and is often designed to detect when it is being viewed on iPhone OS–based devices, so that it can adjust the content it provides accordingly.  
+#### ■ **Compatible webpages**  
+Webpagesthat are compatible with Safari on iPhone display and operate as designed (with the exception of any elements that rely on unsupported technologies, such as plug-ins, Flash, and Java). A compatible webpage does not tend to take extra steps to optimize the viewing experience on iPhone OS–based devices, but the device usually displays the page successfully.  
+If you have an existing website or web application, first ensure that it works well on iPhone OS–based devices. Also, you should consider creating a custom icon users can put on their Home screens using the Web Clip feature. In effect, this allows users to keep on their Home Screens a bookmark to your website that looks like a native application icon. To learn more about creating a custom icon and how to make web content look great on iPhone OS–based devices, see *iPhone Human Interface Guidelines for Web Applications*.  
+#### <span id="page-17-0"></span>Hybrid Applications  
+With iPhone OS, you can create an application that combines features of native applications and webpages. A **hybrid application** is a native iPhone application that provides most of its structure and functionality through a web viewing area, but also tends to contain standard iPhone OS user interface elements.  
+A hybrid application gives users accessto web content with an element called a web view (described in ["Web](#page-86-0) [Views"](#page-86-0) (page 87)). Precisely how you use a web view in your application is up to you, but it's important to avoid giving users the impression that your application is merely a mini web browser. A hybrid application should behave and appear like a native iPhone application; it should not draw attention to the fact that it depends upon web sources.

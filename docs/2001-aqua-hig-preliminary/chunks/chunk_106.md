@@ -1,0 +1,7 @@
+<!-- Chunk 106 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 278 -->
+Dragging means pressing the mouse button, moving the mouse to a new position, and releasing the mouse button. The uses of dragging include selecting blocks of text, choosing a menu item, selecting a range of objects, moving an icon from one place to another, and shrinking or expanding an object.  
+Dragging a graphic object should move the entire object (or a transparent representation of it), not just the object's outline.  
+Your application can restrict an object from being moved past certain boundaries, such as the edge of a window. If the user drags an object and releases the mouse button outside of the boundary, the object stays in the original location. If the user  
+The Mouse **127**  
+<span id="page-127-6"></span>drags the item out of the boundary and then back in before releasing the mouse button, the object moves to the new location. Your application can also automatically scroll a document if the user moves an object beyond the boundary of a window (see ["Automatic Scrolling" \(page 63\)\)](#page-62-0).  
+<span id="page-127-5"></span>Also see ["Drag and Drop" \(page 163\).](#page-162-0)

@@ -1,0 +1,7 @@
+<!-- Chunk 342 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 328 -->
+A **token field** is a control that creates a token out of the input text. The token field control supports behavior similar to that of the address field in the Mail application.  
+Use a token field control in a text input field. As the user types in the text input field, the token field control invokes text completion after a delay you specify. When the user types the comma character or presses Return, the preceding text input is transformed into a token.  
+A token is draggable and (if you add code to support a menu) displays a disclosure triangle for a contextual menu when the mouse pointer hovers over it. In this menu, you might offer more information about the token andways to manipulate it. In Mail, for example, the token menu displays information about the token (the email address associated with the name) and items that allow the user to edit the token or add its associated information to the Address Book.  
+[Figure](#page-268-1) 14-46 (page 269) shows various states of the token control (no contextual menu support is shown).  
+<span id="page-268-1"></span>**Figure 14-46** A token control in use  
+Selected token (prior to keyboard input) Token changed to user's keyboard input New keyboard input before user presses Return, Enter, or Tab New token with the mouse pointer hovering over it

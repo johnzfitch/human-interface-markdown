@@ -1,0 +1,3 @@
+<!-- Chunk 182 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 134 -->
+If any part of your application's user interface displays two or more sentences in a paragraph, be sure to insert only a single space between the ending punctuation of one sentence and the first word of the next sentence.  
+<span id="page-120-1"></span>Although much of the text in an application's user interface is in the form of labels and short phrases, application help, alerts, and dialogs often contain longer blocks of text. You should examine these blocks of text to make sure that extra spaces do not appear between sentences.

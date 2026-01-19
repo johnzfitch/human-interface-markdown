@@ -1,0 +1,16 @@
+<!-- Chunk 401 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 755 -->
+An **asynchronous progress indicator**shows usersthat processing is occurring but does not give any indication of when the process will finish. For example, Mail briefly displays an asynchronous progress indicator in the To: field of a New Message window while it performs a search on the name the user types, asshown in Figure 15-59.  
+<span id="page-305-0"></span>**Figure 15-59** An asynchronous progress indicator provides feedback on a process  
+![](images/_page_305_Picture_3.jpeg)  
+#### **Asynchronous Progress Indicator Usage**  
+Use an asynchronous progress indicator when space is very constrained, such as in a text field or near a control. Because this indicator is small and unobtrusive, it is especially useful for asynchronous events that take place in the background, such as retrieving messages from a server.  
+Don't use the asynchronous progress indicator in operations that start out indeterminate but could become determinate, because the determinate progressindicator is a differentshape and takes up much more space. If the process might change from indeterminate to determinate, use an indeterminate progress bar instead of an asynchronous progress indicator, because it is the same shape and size as the determinate progress bar. (See ["Indeterminate](#page-303-2) Progress Bars" (page 304) for more information about indeterminate progress bars.)  
+#### **Asynchronous Progress Indicator Contents and Labeling**  
+Because an asynchronous progress indicator typically appears when the user initiates a process, a label may not be necessary. If you decide to provide a label that appears with the indicator, create a complete or partial sentence that briefly describes the process that is occurring.  
+If you decide to provide a label that appears with an asynchronous progress indicator, be sure to use sentence-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and Text" (page 131) for more information on this style). Also, you can end the label with an ellipsis (...) to emphasize the ongoing nature of the processing.  
+#### <span id="page-305-1"></span>**Asynchronous Progress Indicator Specifications**  
+The appearance of the asynchronous progress indicator is provided automatically, but you can choose the size that fits best in your window layout. Asynchronous progress indicators are available in regular, small, and mini sizes. Figure 15-60 shows a regular-size asynchronous progress indicator.  
+**Figure 15-60** A regular-size asynchronous progress indicator  
+![](images/_page_305_Picture_13.jpeg)  
+#### **Asynchronous Progress Indicator Implementation**  
+<span id="page-306-5"></span>Asynchronous progress indicators are available in Interface Builder. In the Attributes pane of the inspector, select Spinning for the style and be sure the Indeterminate checkbox is selected. To create an asynchronous progressindicator using Application Kit programming interfaces, use the NSProgressIndicator class with style NSProgressIndicatorSpinningStyle.

@@ -1,0 +1,2 @@
+<!-- Chunk 10 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 108 -->
+Each folder may be either open, (its body and tab both visible), or closed, (only its title tab visible). Each folder remembers two locations on the screen, one where it resides when open and one for when it is closed. If a folder is open, double-click the mouse button on its title tab to close it and move it to its closed location. If a folder is closed, double-click the tab to open it and restore it to its open position and size.

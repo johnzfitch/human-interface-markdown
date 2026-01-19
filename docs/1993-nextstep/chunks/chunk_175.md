@@ -1,0 +1,4 @@
+<!-- Chunk 175 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 209 -->
+In the list above, the folder labeled *user* stands for the user's home folder. The hom~ folders of other users may also be visible. As is traditional, home folders bear the name of the user-the name that the user logs in under. By default, the user's name is me, and the home folder is fme.  
+If a machine is connected to a file server over a network, users' home folders are likely to be located somewhere on the file server. The figure above simply illustrates the default location for a home folder and where it would be located if it were on the startup disk. Home folders on remote machines are accessed through the **Net** folder described below.  
+When typing in a file name, users can specify their home folder as ..... For example, *....* f **Apps**  refers to the **Apps** folder that's in the home folder of the current user.

@@ -1,0 +1,3 @@
+<!-- Chunk 106 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 166 -->
+A typical application has some of the following standard Newton pickers pop up from buttons on its status bar or on separator bars: the Info picker, New picker, Show picker, Action picker, and People picker. This section describes all of those standard Newton pickers.  
+Additional pickers defined by the Newton system are described in other parts of this book. The Keyboard, Recognition, and Alpha Sorter pickers are described in [Chapter 6, "Data Input."](#page-168-0) The Action picker is described in [Chapter 7, "Routing and Communications."](#page-206-0) The Filing, Folder, Find, and Assist pickers are described in [Chapter 8, "Newton Services."](#page-242-0)

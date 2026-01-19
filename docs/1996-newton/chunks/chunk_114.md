@@ -1,0 +1,4 @@
+<!-- Chunk 114 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 141 -->
+People are good at recognizing patterns and shapes, so make the shape of an icon distinctive. Rectangular, slab-like icons all look the same, particularly without colors or shades of gray to create a pattern on them. Once users have seen a distinctively shaped icon and learned what it represents, they are likely to recognize it again and quickly recall its meaning. Figure 5-1 compares distinctively shaped icons with rectangular icons.  
+**Figure 5-1** Distinctive icon shapes are easier to recognize than rectangular icons  
+![](images/_page_156_Picture_6.jpeg)

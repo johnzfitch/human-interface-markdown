@@ -1,0 +1,5 @@
+<!-- Chunk 15 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 252 -->
+Some applications limit the size of a document to one whose contents can be kept in memory at the same time (for example, LisaCalc). In these applications, any changes the user makes to the document are kept in memory. When the user saves the document, the changes are made to the document on the disk. If the user chooses Revert to Previous Version, the changes are nullified.  
+In other applications, the user can create documents that are too large to fit into memory (for example, LisaList). In this case, the application keeps a file containing the changes to the document. When the user saves the document, the application updates it based on the material in the change file.  
+#### Details:  
+Implementation: The Toolkit implements all Desktop Manager operations on the assumption that the application is following the LisaGalc model (whole document in memory). If it instead follows the LisaList model or some other model, the application must redefine certain methods to specify supplementary behavior.

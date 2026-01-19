@@ -1,0 +1,2 @@
+<!-- Chunk 145 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+**Note:** If the background of your icon is white, don't add a gray overlay in an effort to increase its visibility in Settings. iOS adds a 1-pixel border stroke so that all icons look good on the white background of Settings.

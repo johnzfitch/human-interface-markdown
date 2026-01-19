@@ -1,0 +1,4 @@
+<!-- Chunk 302 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 168 -->
+The Human Factors Society Annual Meeting is usually held in September or October. It includes a technical program consisting of research reports, panel discussions, and workshops; a business meeting; exhibits; an awards ceremony and banquet; and tours of local facilities of interest.  
+#### Human Factors A  
+The bimonthly journal *Human Factors* presents original papers of scientific merit that contribute to the understanding and advance the systematic consideration of human factors. It features articles on methodology and procedures, literature reviews, broad technical research results; articles on research applications; and papers of general professional interest.

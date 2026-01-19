@@ -1,0 +1,2 @@
+<!-- Chunk 198 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 44 -->
+Tapping is faster than writing, so for data input favor pickers, scrolling lists and tables, radio buttons, sliders, and so forth over written input. See page [6-3](#page-170-0).

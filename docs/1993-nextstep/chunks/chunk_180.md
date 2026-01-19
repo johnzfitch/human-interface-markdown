@@ -1,0 +1,3 @@
+<!-- Chunk 180 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 146 -->
+NeXTSTEP applications use file name extensions to identify types of files. The extension consists of the last period in the file name and all characters following it. For example, Mail uses the" .mbox" file name extension to identify its mailboxes. Typical mailbox names are Active.mbox and Outgoing.mbox.  
+The Workspace Manager uses file name extensions not only to identify particular types of files, but also to associate document files with applications. Every application that defines its own data file format appends an identifying extension to the names of its document files.

@@ -1,0 +1,3 @@
+<!-- Chunk 81 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 161 -->
+Bonjour enables automatic discovery of computers, devices, and services on IP networks, and makes file and media sharing easy. If your app needs to communicate with other computers and processes on the Internet or a local area network, you should avoid making assumptions about the user's network settings. In particular, you should not save settings based on the user's IP address, because it might change many times during a single session.  
+<span id="page-93-1"></span>Use Bonjour to support user mobility and free users from the app-management task of having to enter an IP address. For more information about Bonjour, see *Bonjour Overview*.

@@ -1,0 +1,2 @@
+<!-- Chunk 434 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 46 -->
+A menu that appears when the user presses the Control key and clicks an interface item. A contextual menu provides convenient access to frequently used commands associated with the item.

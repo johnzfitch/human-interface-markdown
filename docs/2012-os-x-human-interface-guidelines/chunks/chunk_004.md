@@ -1,0 +1,14 @@
+<!-- Chunk 4 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 641 -->
+Aqua is the overall appearance and behavior of OS X. Adopting the Aqua look and feel helps you provide the best possible user experience for your customers.  
+Interface Builder (a graphical UI editor in Xcode) is the best way to begin building an Aqua-compliant user interface. All the standard UI elements and system-provided icons are available in Interface Builder. To learn more about Interface Builder, see "Designing User Interfaces in Xcode 4".  
+#### <span id="page-10-0"></span>Great Apps Begin with an Understanding of the Fundamentals  
+Before you begin designing your app, you need to get a feel for the OS X environment. Understanding how things work in OS X helps you produce an app that integrates seamlessly with the environment and delights users.  
+Most people are not acquainted with the principles of human interface design, but they can tell when apps follow the guidelines and when they don't. Become familiar with these fundamental principles so that you can use them to inform your app design.  
+**Relevant Chapters:** "The OS X [Environment"](#page-12-0) (page 13) and "The [Philosophy](#page-26-0) of UI Design: [Fundamental](#page-26-0) Principles" (page 27)  
+#### <span id="page-10-1"></span>People Expect a Great User Experience that Integrates OS X Technologies  
+OS X users have high standards for the apps they run. Meet these high expectations by designing a user experience that is enjoyable, streamlined, easy, and adaptable.  
+You want people to feel that your app was designed expressly for the OS X platform. Make sure that you understand the technologies that OS X makes available to you, so that you can incorporate them in your app and give users the features they want.  
+<span id="page-10-2"></span>**Relevant Chapters:** "User Experience [Guidelines"](#page-35-0) (page 36) and "OS X [Technology](#page-64-0) Usage [Guidelines"](#page-64-0) (page 65)  
+#### Attention to Detail Pays Off in a Superlative UI  
+There are myriad details you need to handle as you design the UI of your app, including choosing the right menu items, naming new windows correctly, and using the appropriate controlsin a toolbar. Don't be tempted to ignore the guidelines that govern the use of these UI elements, because users tend to notice even subtle differences in appearance and behavior.  
+<span id="page-10-3"></span>**Relevant Chapters:** "UI Element [Guidelines:](#page-131-0) Menus" (page 132), "UI Element [Guidelines:](#page-167-0) [Windows"](#page-167-0) (page 168), and "UI Element [Guidelines:](#page-239-0) Controls" (page 240)

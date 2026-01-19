@@ -1,0 +1,2 @@
+<!-- Chunk 100 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 46 -->
+Ouit leaves the application. If any open documents have been changed since the last time they were saved, the application presents the same alert box as for Close, once for each document.

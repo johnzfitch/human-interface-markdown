@@ -1,0 +1,2 @@
+<!-- Chunk 472 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+<span id="page-323-3"></span>The strip at the top of the user's primary monitor that contains menu titles. It includes system and application menus.

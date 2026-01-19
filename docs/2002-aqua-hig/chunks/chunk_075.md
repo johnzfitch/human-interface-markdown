@@ -1,0 +1,16 @@
+<!-- Chunk 75 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 774 -->
+An ellipsis character (…) after a menu item or button label indicates to the user that additional information is required to complete a command. You should use an ellipsis in the following cases:  
+- An action that requires further user input to complete or presents an alert allowing the user to cancel the action. Examples include Find, Go To, Open, Page Setup, and Print.
+- An action that opens a settings window. The main function of settings windows is to allow the user to change some aspect of the application, not the document content. Examples include Set Title, Preferences, and Options.  
+#### **CHAPTER 4**  
+#### Menus  
+Don't use an ellipsis in the following cases:  
+- An action that requires no further user input to complete and does not present an alert. Often the item to be acted upon is already selected. Examples include New, Cut, Bold, and Quit.
+- An action that opens an informational, accessory, or tool window. These windows can be implemented as either utility windows (as in the case of a color palette) or modeless windows. These windows provide tools that help create or manage the content in the main window and are frequently left open to assist in accomplishing the task of the main window. Examples include Get Info and Show Tools.  
+<span id="page-68-3"></span><span id="page-68-0"></span>Windows provide a way for people to view and interact with their data. There are various kinds of windows, each with its own function and appearance.  
+<span id="page-68-1"></span>**Document windows** contain file-based user data. They present a view into the content that people create and store. If the document is larger than the window, the window shows a portion of the document's contents, and provides users with the ability to scroll to other areas.  
+Other windows, commonly called **utility windows**, float above other windows and provide tools or controls that users can work with while documents are open. In Mac OS X, utility windows are either application-specific or systemwide. Application-specific utility windows disappear when the application is deactivated. These windows are available in Carbon with the kFloatingWindowClass constant and in Cocoa with NSUtilityWindowMask.  
+<span id="page-68-2"></span>Systemwide utility windows, such as the Colors window and the Fonts window, float above all open windows. These windows are available in Carbon using kUtilityWindowClass; in Cocoa, use NSNonactivatingPanelMask.  
+Some applications are not document-based. Such applications typically still have at least one main window, which can use the standard Aqua document window appearance and features. For Cocoa developers, Mac OS X version 10.2 provides a definition for a new window appearance. For information, see ["Textured](#page-71-1)  [Windows" \(page 72\).](#page-71-1)  
+**Note:** Dialogs and alerts are also types of windows; they are discussed in ["Dialogs" \(page 95\).](#page-94-0)  
+For implementation information, Carbon developers should see *Handling Carbon Windows and Controls,* available on the Mac OS X developer documentation website.

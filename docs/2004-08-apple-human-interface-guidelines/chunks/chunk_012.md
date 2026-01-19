@@ -1,0 +1,3 @@
+<!-- Chunk 12 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 135 -->
+All developers building applications for Mac OS X should read and become familiar with the contents of this document. Although this document is primarily intended for Carbon and Cocoa developers who want their applications to look right and behave correctly in Mac OS X, Java application developers will also find many of these guidelines useful.  
+This document focuses on the mechanics of designing a great user interface. To discover the philosophy behind the guidelines in this document, you should read *Apple Software Design Guidelines*.

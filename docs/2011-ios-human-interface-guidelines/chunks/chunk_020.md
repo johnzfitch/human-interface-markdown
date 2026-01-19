@@ -1,0 +1,3 @@
+<!-- Chunk 20 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 116 -->
+People set certain preferences for an iOS application in the built-in Settings application. They must quit the current app when they want to access those preferences in Settings.  
+<span id="page-15-1"></span>Preferences in the Settings app are of the "set once and rarely change" type. Although some of the built-in applications have this type of preference in the Settings app, most apps do not need this type, so they don't have preferences in the Settings app.

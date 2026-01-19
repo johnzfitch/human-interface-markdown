@@ -1,0 +1,26 @@
+<!-- Chunk 166 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 1303 -->
+<span id="page-151-2"></span>The primary purpose of a set of toolbar icons is to provide users with easy access to frequently used commands (to learn more about the concepts behind toolbar design, see ["Toolbars"](#page-201-0) (page 202)). To represent these commands in a toolbar, you need small, unambiguous icons or images that users can easily distinguish and remember. To accommodate different application styles and appearances, Mac OS X provides a fewdifferent styles of toolbaritems. Dependingon the overall lookofyour application, you can:  
+- Design icons that behave as buttons (see "Icon [Buttons"](#page-271-0) (page 272) for more information on these controls).
+- Design simplified icons to place in capsule-style toolbar controls (see ["Capsule-Style](#page-264-0) Toolbar [Controls"](#page-264-0) (page 265) for more information on these controls).
+- Design small streamlined icons to place in rectangular-style toolbar controls (see ["Rectangular-Style](#page-259-1) Toolbar [Controls"](#page-259-1) (page 260) for more information on these controls).
+- Use system-provided images in rectangular-style or capsule-style toolbar controls. Because you do not need to design these images, this section does not describe them. See ["System-Provided](#page-154-0) [Images"](#page-154-0) (page 155) for more information on the images available toyou, and see ["Window-Frame](#page-259-0) [Controls"](#page-259-0) (page 260) for more information on the controls that can contain them.  
+<span id="page-151-1"></span>Figure 11-23 shows some examples of these types of toolbar items.  
+**Figure 11-23** Three ways to represent toolbar items  
+![](images/_page_151_Picture_12.jpeg)  
+Standard images in rectangular-style toolbar controls and standard toolbar icons  
+A toolbar can also contain icons that represent recognizable interface elements from elsewhere in the system (such as the Colors window icon or the iDisk icon) when they make sense in the context of the application. If you choose to include an icon such as the Colors window icon, be sure to preserve its meaning. Users expect such icons to mean the same thing in every context, so you should not repurpose them when you use them in a toolbar. For example, the Numbers toolbar (the top image in Figure 11-23) contains the Colors window and Fonts window icons, which are standard icons used throughout Mac OS X. In Numbers, clicking these toolbar icons displays the Colors window and the Fonts window, respectively, just as users expect.  
+**Important:** Do not use a system icon, such as the yellow caution icon, in your toolbar. A system icon provides important information to the user in a specific context, such as in an alert window; using it in a toolbar blurs its meaning and dilutes it effectiveness in the system.  
+Regardless ofwhich style of toolbaricon you decide to design, be sure that each toolbaritem represents a unique object or action that is directly related to the command it stands for. The best toolbar icons use familiar visual metaphors that are instantly recognizable to users. As a general rule, a toolbar icon that depicts an identifiable,real-world object orrecognizable user-interface elementgives first-time users a clue to its function and helps experienced users remember it. As much as possible, therefore, identify parts of the user's mental model that lend themselves to visual representation (to learn more about this concept, see ["Reflect](#page-41-0) the User's Mental Model" (page 42)). For example, the iTunes toolbar (shown in Figure 11-24) displays rewind, play, and fast forward controls that use symbols similar to those users see in physical devices, such as iPod.  
+<span id="page-152-0"></span>**Figure 11-24** When possible, use familiar symbols and images to represent toolbar items  
+![](images/_page_152_Picture_6.jpeg)  
+<span id="page-152-1"></span>Making each toolbar icon distinct helps the user associate it with its purpose and locate it quickly. Variations in shape, color, and image all help to differentiate one toolbar icon from another. At the same time, however, an application's toolbar icons should harmonize together as much as possible in their perspective, use of color, size, and visual weight. This holds true whether the icon is free-standing or in a capsule-style toolbar control. As you can see in Figure 11-25, the icons inside the capsule-style toolbar controls in the Mail toolbar are easily distinguishable, yet consistent in size, color usage, and visual weight.  
+**Figure 11-25** Images inside capsule-style toolbar controls should appear balanced and coordinated  
+![](images/_page_152_Picture_9.jpeg)  
+![](images/_page_152_Picture_10.jpeg)  
+![](images/_page_152_Picture_11.jpeg)  
+![](images/_page_152_Picture_12.jpeg)  
+![](images/_page_152_Picture_13.jpeg)  
+![](images/_page_152_Picture_14.jpeg)  
+![](images/_page_152_Picture_15.jpeg)  
+![](images/_page_152_Picture_16.jpeg)  
+How you design icons to represent actions and objects depends on whether you want to use free-standing icon buttons or icons in capsule-style or rectangular-style toolbar controls in your toolbar. The following sections provide some guidelines for each of these situations.

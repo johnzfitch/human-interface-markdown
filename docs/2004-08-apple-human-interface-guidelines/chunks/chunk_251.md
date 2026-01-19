@@ -1,0 +1,3 @@
+<!-- Chunk 251 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 141 -->
+Use smaller versions of controls only when necessary. Your first choice in designing for Aqua should always be to use the full-size controls.  
+<span id="page-213-1"></span>You can use the smaller versions of controls when space is at a premium, such as in tool palettes or other utility windows. Avoid mixing different sizes of controls in the same window. In a window with a changeable pane, it is acceptable to use small or mini controls within the pane and standard controls outside the pane. However, all panes of a window should use controls of the same size.

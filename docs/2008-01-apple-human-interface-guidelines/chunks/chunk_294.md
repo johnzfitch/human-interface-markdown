@@ -1,0 +1,16 @@
+<!-- Chunk 294 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 779 -->
+A **column view** provides a way for users to view and select items from an organized hierarchy of data. When users click an object in one column, its contents (its descendants in the hierarchy) are revealed in a column to the right. Each column displays only those objects that are descendants of the item selected in the previous column. If the item selected in the previous column has no descendants, the column to the right might display details about the item.  
+Columns in a column view are usually resizable. In addition, a column view includes a vertical scroll bar between each pair of columns and a horizontal scroll bar along the bottom of all columns. A good example of a column view is the column-view mode of the Finder, shown in Figure 15-81.  
+<span id="page-338-0"></span>**Figure 15-81** A column view is useful for displaying a hierarchy of objects  
+![](images/_page_338_Picture_3.jpeg)  
+Four columns in a column view  
+#### Column View Usage  
+Use a column view when there is only one way the data can be sorted or when you want to present only one way of sorting the data. A column view is also useful for displaying a deep hierarchy, such as a file system, where users frequently move back and forth among multiple levels.  
+When you use a column view to display a hierarchy, be sure to display the first level of the hierarchy (the root level) in the leftmost column. As users select items, the focus moves to the right, displaying either the child objects at that node or, if there are no more children, the terminal object (a leaf node in the hierarchy). When the user selects a terminal object, you can display additional information about it in the rightmost column.  
+#### Column View Contents and Labeling  
+Column views do not display disclosure triangles. The triangle displayed to the right of an item is merely an indicator that means the item contains other objects (to reveal those objects, users click anywhere on the item's row).  
+Columns in column views do not have headings, because a column view does not behave like a table. A column in a column view contains the objects that exist at a particular node in the hierarchy, it does not contain an attribute of every object in the hierarchy.  
+Although a column view does not require a label, it can be helpful to display the current position in the hierarchy in a way that's easy for users to see at a glance. The Finder does this by using the name of the parent object as the title of the window. For example, in [Figure](#page-338-0) 15-81 (page 339), the title of the window (Java) is the name of the currently selected item's parent.  
+Column views can contain icons in addition to text. Usually, however, the icons in a column view are an integral part of the data items (such as the folder and application icons shown in [Figure](#page-338-0) [15-81](#page-338-0) (page 339)).  
+#### Column View Implementation  
+<span id="page-339-2"></span>Column views are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSBrowser class or an NSOutlineView object in column format.

@@ -1,0 +1,5 @@
+<!-- Chunk 10 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 204 -->
+People appreciate iOS apps that feel as though they were designed expressly for the device. For example, when an app fits well on the device screen and responds to the gestures that people know, it provides much of the experience people are looking for. And, although people might not be aware of human interface  
+Introduction  
+design principles, such as direct manipulation or consistency, they can tell when apps follow them and when they don't. As you begin designing an iOS app, be sure to understand what makes iOS-based devices unique, and learn how to incorporate HI design principles so that you can deliver a user experience people will appreciate.  
+<span id="page-9-0"></span>**Relevant Chapters:** "Platform [Characteristics"](#page-12-0) (page 13) and "Human Interface [Principles"](#page-20-0) (page 21)

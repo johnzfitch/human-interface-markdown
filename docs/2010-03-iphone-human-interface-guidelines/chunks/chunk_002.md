@@ -1,0 +1,2 @@
+<!-- Chunk 2 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 64 -->
+Usage and [Behavior](#page-78-1) 79 Using [Alerts](#page-79-0) 80 Using Action [Sheets](#page-80-0) 81 Using [Modal](#page-80-1) Views 81 [Designing](#page-81-0) an Alert 82 [Designing](#page-83-0) an Action Sheet 84 [Designing](#page-85-0) a Modal View 86

@@ -1,0 +1,4 @@
+<!-- Chunk 130 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 210 -->
+An alert pops up in the middle of the application screen and floats above its views. The unattached appearance of an alert emphasizes the fact that its arrival is due to some change in the application or the device, not necessarily asthe result of the user's most recent action. Users must dismissthe alert before they can continue using the currently running application.  
+An alert always contains at least one button, which users tap to dismiss the alert. An alert always displays a title and might also display a message that provides additional information. The background appearance of an alert is system-defined and cannot be changed.  
+**Note:** A local or push notification can also use an alert to communicate with users. To learn more about local and push notifications, see "Local and Push [Notifications"](#page-91-0) (page 92).

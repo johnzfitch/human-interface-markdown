@@ -1,0 +1,7 @@
+<!-- Chunk 21 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 333 -->
+Save & Put Away can happen in one of three ways:  
+- 1) If the window is open, and the user chooses Save & Put Away, the Desktop Manager deactivates the document, saves it contents, and returns its icon to the location of its ghost. It then returns the icon to the container it was in most recently.
+- 2) If the user has set aside the document on the desktop, and then chooses Save & Put Away, the Desktop Manager saves the contents of the document on the container it was in most recently.
+- 3) If the user has set aside the document on the desktop, and he moves its icon to a container, the Desktop Manager saves the contents of the document on that container.  
+Details: Some tools (eg LisaCalc and LisaList) must do some end processing and consistency checks before a document can be put away. If the document is put away when its window is closed, the Desktop Hanager issues an alert message talling the user that the document must be put away when it is open. The application also issues an alert message if the there are I/O errors or not enough disk space.  
+Implementation: An application keeps a flag called "fCanPutBack" [???] to indicate whether putting away the document could cause invalid data. If this flag is false, then the Desktop Hamager puts up an alert nessage; otherwise, it puts away the document as instructed.

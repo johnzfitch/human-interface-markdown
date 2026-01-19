@@ -1,0 +1,2 @@
+<!-- Chunk 257 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 39 -->
+This section describes the standard dialogs that you use when a user is saving a document for the first time, closing a document, or quitting an application.

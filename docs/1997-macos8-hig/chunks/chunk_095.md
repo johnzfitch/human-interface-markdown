@@ -1,0 +1,4 @@
+<!-- Chunk 95 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 142 -->
+A control panel may generate some sort of screen representation that persists even when the control panel itself is closed. Such screen representations should always include a mechanism for opening the control panel. For example, if a control panel has an associated control strip module, that module should include a command that opens the control panel. [Figure 6-15](#page-125-0) shows control panel access from a control strip module.  
+<span id="page-125-0"></span>**Figure 6-15** Access to a control panel from a control strip  
+![](images/_page_125_Picture_2.jpeg)

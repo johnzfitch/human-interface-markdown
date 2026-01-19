@@ -1,0 +1,4 @@
+<!-- Chunk 3 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 177 -->
+Sheets are a new way to present certain dialogs to the user. Sheets are "attached" to a particular document or window; they are displayed as an animation that appears to emerge from the window's title bar. This attachment ensures that the user never loses track of the association of a sheet with its pertinent window, even when other windows are opened and closed. The ability to keep a dialog attached to its pertinent window enables users to take full advantage of Mac OS X's window layering model. [Figure 1-1](#page-4-0) shows an example of a sheet presenting a modal dialog.  
+<span id="page-4-0"></span>**Figure 1-1** Example of using sheet to display a modal dialog  
+![](images/_page_4_Picture_3.jpeg)

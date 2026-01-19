@@ -1,0 +1,3 @@
+<!-- Chunk 111 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 121 -->
+Each action that can dismiss an attention panel is represented by a separate button inside its content area. In contras"t, an ordinary panel is closed only by its close button (or the Close Window command), never by a button in the content- area.  
+The buttons that dismiss an attention panel should be located along the right and lower edges of the panel, with the default button in the lower right comer. No button except for the default button should be operable by the Return key.

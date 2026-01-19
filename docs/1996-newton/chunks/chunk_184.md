@@ -1,0 +1,5 @@
+<!-- Chunk 184 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 256 -->
+The Newton system's Filing service allows users to associate data items with folders displayed by the user interface. A user can create, edit, and delete folders at will. In addition, users can select a storage location—internal or card—with the Filing service.  
+Filing **8-13**  
+<span id="page-255-0"></span>Filed data items look to a user like they are in folders, but filed items do not actually reside in a folder or directory structure. Instead, the Filing service tags a filed item to identify the folder in which it belongs. When a user wishes to see an application's data items belonging to a particular folder, the application displays the data items having the appropriate tag.  
+Applications use two user interface elements to implement filing: a Filing button and a folder tab. The Filing button enables users to file application data in folders. After filing items in folders, users can locate them by using the folder tab and its picker. (For more information on the folder tab, see [page 8-19](#page-260-0).)

@@ -1,0 +1,7 @@
+<!-- Chunk 103 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 342 -->
+An overview picker presents a one- or two-column extract of stored data, such as names and phone numbers from the Names File data. The first column lists the identities of the individual data items that a user can select, and the second column provides additional information that a user can edit in place. A title in the upper left corner identifies the type of data in the picker. An overview picker can include a number of controls for finding specific entries, including a folder tab, alphabetic index tabs, and scroll arrows. At the bottom an overview picker can have a checkbox for restricting listed items to those currently selected, a New button for adding items to the list, a counter that reports the number of items selected, and a large Close box. [Figure 4-15](#page-145-0) points out features of overview pickers.  
+Overview Pickers **4-19**  
+**Figure 4-15** The parts of overview pickers  
+<span id="page-145-0"></span>![](images/_page_145_Figure_3.jpeg)  
+In most cases, your application is not responsible for the wording, punctuation, or capitalization of items in either column of an overview picker. Nor is your application responsible for the order of the items. The items are generally taken directly from stored data.  
+Overview pickers display items in the bold style of the system font. On an Apple MessagePad, the item names are 10-point text.

@@ -1,0 +1,3 @@
+<!-- Chunk 101 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 83 -->
+To insert text, the user selects an insertion point by clicking where the text is to go, then starts typing. The application continually moves the insertion point to the right as each new character is added.  
+Applications with multiple-line text blocks should support word wraparound. That is, no word should be broken between lines.

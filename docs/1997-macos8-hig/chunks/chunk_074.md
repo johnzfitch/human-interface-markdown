@@ -1,0 +1,4 @@
+<!-- Chunk 74 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 147 -->
+[Windows Under Platinum Appearance 93](#page-98-0) [Document Windows 95](#page-100-0) [Utility Windows 96](#page-101-0) Collapsing a Window 97 [Zoom Boxes 98](#page-103-0)  
+Contents **97**  
+<span id="page-98-0"></span>This chapter describes the changes in Mac OS 8's implementation of document windows, which contain user data, and utility windows, which "float" above other windows and provide tools or other controls that users can work with while document windows are open. For more information on designing and using windows, see "Windows" in *Macintosh Human Interface Guidelines*.

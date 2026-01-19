@@ -1,0 +1,2 @@
+<!-- Chunk 77 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 55 -->
+The SIS package (pack8) contains'routines that allow an application to function correctly with non-Roman scripts (Japanese and Arabic, for example). It also contains useful utility routines for text processing and parsing.

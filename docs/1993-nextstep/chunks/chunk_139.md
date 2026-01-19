@@ -1,0 +1,3 @@
+<!-- Chunk 139 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 100 -->
+There's a great deal to be gained if commands shared by most applications are arranged similarly in similar menus. This section gives the standard arrangement of menus and commands for NeXTSTEP applications.  
+**Note:** This chapter shows the U.S. English command names. For each language, the standard command names should be consistent. For example, *Quit* is *Quitter* in every French application.

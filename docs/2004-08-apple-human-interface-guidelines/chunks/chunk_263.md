@@ -1,0 +1,2 @@
+<!-- Chunk 263 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 32 -->
+and zooming behavior [119](#page-118-6) as standard window control [103](#page-102-2) Zoom command (Window menu) [96](#page-95-8)

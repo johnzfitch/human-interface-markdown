@@ -1,0 +1,4 @@
+<!-- Chunk 455 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 214 -->
+This section describes controls that visually group other controls in a window. When there is more than one logical collection of controls and information in a window, the use of grouping controls helps users distinguish between them.  
+There are two types of grouping controls in Mac OS X: separators and group boxes. For help in deciding whether to use a group box or a separator, and for examples of layouts with them, see ["Grouping](#page-348-0) Controls in a [Window](#page-348-0) Body" (page 349).  
+<span id="page-331-4"></span><span id="page-331-1"></span>**Important:** The controls described in this section are suitable for use in the window body; they should not be used in the window-frame areas. See ["Window-Frame](#page-248-1) Controls" (page 249) for controls designed specifically for use in the toolbar and bottom-bar areas in your window.

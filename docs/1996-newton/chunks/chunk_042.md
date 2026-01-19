@@ -1,0 +1,8 @@
+<!-- Chunk 42 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 364 -->
+A container view should have a title at the top unless the view's identity is obvious from its contents. Ordinarily a title consists of text in the bold style of the system font, an optional small icon, and a triple underline, all centered at the top of the view. If the title of a subordinate view is long or instructional, you can left-justify it and omit the icon and the triple underline. [Figure 2-3](#page-48-0) compares different types of titles.  
+<span id="page-48-0"></span>![](images/_page_48_Figure_2.jpeg)  
+The title only identifies the container view's contents. The title is not a control that the user can tap to change a setting, alter a state, or initiate an action. Controls that do these things are described in [Chapter 3, "Controls."](#page-94-0) For example, if you want users to be able to change a view's title, have them tap a button or choose from a picker in the status bar.  
+A view title should not end with a colon. The title's position, size, and font make a colon unnecessary and distracting.  
+You capitalize view titles according to conventional rules for book titles. That is, you capitalize the first word of a title, and you capitalize all other words except articles (*a, an, the*), coordinating conjunctions (for example, *and, or*), and prepositions of three or fewer letters.  
+On an Apple MessagePad use 10-point text for the title. The optional icon must be no more than 11 pixels tall.  
+How Views Look **2-5**

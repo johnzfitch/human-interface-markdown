@@ -1,0 +1,3 @@
+<!-- Chunk 199 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 115 -->
+Align the top of a picker with the top of its button or label. Make exceptions for overview pickers, for other very wide or very tall pickers, or for small screens. See page [4-8.](#page-133-0)  
+Display a picker so its button or label is at least partially visible, and keep the button or label highlighted while the picker is open. (An overview picker can cover the label or button that makes it appear.) See pages [4-9](#page-134-0) and [4-20](#page-145-0).

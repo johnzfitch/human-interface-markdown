@@ -1,0 +1,11 @@
+<!-- Chunk 189 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 518 -->
+Toolbar items give users easy access to frequently used commands (to learn more about the concepts behind toolbar design,see [Designing](#page-136-0) a Toolbar (page 137)). To represent these commandsin a toolbar, you need small, unambiguous icons that users can easily distinguish and remember.  
+To accommodate different app styles and usages, OS X supports two styles of toolbar items: toolbar controls and freestanding icons that behave as buttons. Don't mix these styles of toolbar items—use one or the other in a toolbar.  
+In general, main and document windows achieve a subtle appearance by using streamlined icons within toolbar controls. For example, the Finder toolbar uses several small icons in toolbar buttons and segmented controls.  
+![](images/_page_323_Picture_4.jpeg)  
+Freestanding icons are occasionally used in the toolbar of a main or document window, such as in the portion of the Keynote toolbar shown here.  
+![](images/_page_323_Picture_6.jpeg)  
+Freestanding icons tend to be more common in the toolbars of preferences windows, where they are often used as pane switchers. For example, the iTunes preferences window displays several icons that give users access to different preferences categories.  
+![](images/_page_323_Picture_8.jpeg)  
+In all cases, the best toolbar icons use familiar visual metaphors that are directly related to the app commands they represent. When a toolbar icon depicts an identifiable, real-world object or recognizable app task, it gives first-time users a clue to its function and helps experienced users remember it.  
+**Make toolbar items distinct, yet harmonious.** When each item is easily distinguishable from the others, users learn to associate it with its purpose and locate it quickly. Variations in shape and image help to differentiate one toolbar item from another. At the same time, an app'stoolbar itemsshould harmonize as much as possible in their perspective, size, and visual weight. This holds true whether the item is represented by a freestanding icon button or in an image in a toolbar control.

@@ -1,0 +1,4 @@
+<!-- Chunk 250 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 220 -->
+If the user drags multiple items, the destination feedback should occur only if it can accept all of the dragged items. If the destination cannot accept all of the dragged items, the user's attempt results in feedback as described in ["Feedback for an](#page-226-2)  [Invalid Drop" \(page 227\)](#page-226-2).  
+When the destination can accept all of the dragged items, the destination should accept them in the order specified by the source. The source application should organize the dragged items in the order in which they were selected, except in two cases. If the dragged items come from ordered views (such as View by Date or an  
+alphabetized list), that view's ordering takes precedence over the selection order. If both the source and destination provide a spatial ordering (such as in graphic applications), the spatial ordering takes precedence over the selection order.

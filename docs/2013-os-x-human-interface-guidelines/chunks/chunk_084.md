@@ -1,0 +1,3 @@
+<!-- Chunk 84 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 144 -->
+Consider how you would want a text label in your app to adapt when users resize a window, adjust the font size, or switch to a different language. With Cocoa Auto Layout, you create user interface constraints to ensure that your app adjusts gracefully to changes. Constraints allow you to design elements of your user interface in relation to each other.  
+You specify constraintsin Interface Builder with Xcode or create them programmatically using ASCII-art inspired format strings. See *Auto Layout Guide* for more information about how to design your app with Auto Layout.

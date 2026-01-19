@@ -1,0 +1,3 @@
+<!-- Chunk 9 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 95 -->
+A folder is drawn as a white rectangle (filled in by the application) with a thin (one pixel) black border. Every folder has a tab, which looks like a tab on a standard manilla folder. The tab is always above the upper left corner of the folder. It is called the title tab.  
+The rectangular portion of the folder that holds the folder's contents is called the body of the folder.

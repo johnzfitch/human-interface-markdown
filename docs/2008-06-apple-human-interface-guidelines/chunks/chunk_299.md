@@ -1,0 +1,4 @@
+<!-- Chunk 299 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 154 -->
+<span id="page-249-1"></span>The rectangular-style toolbar control can be used in both the toolbar and the bottom bar. (The capsule-style toolbar control, described in ["Capsule-Style](#page-253-0) Toolbar Controls" (page 254), should be used in toolbars only.) The rectangular-style toolbar control is a very versatile control that can behave as a push button, a toggle button, a segmented control, or a pop-up menu. Figure 15-1 shows some variations of the rectangular-style toolbar control in Address Book.  
+**Figure 15-1** Variations of the rectangular-style toolbar control  
+![](images/_page_249_Picture_10.jpeg)

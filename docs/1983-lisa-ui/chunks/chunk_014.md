@@ -1,0 +1,2 @@
+<!-- Chunk 14 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 40 -->
+Filling operations are covered in the Lisa Owner's Guide; this section gives some details about the relationship between an application and the Desktop Manager.

@@ -1,0 +1,4 @@
+<!-- Chunk 358 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 185 -->
+zoom boxes [134,](#page-157-0) [168–](#page-191-0)[170](#page-193-0)  
+This Apple manual was written, edited, and composed on a desktop publishing system using Apple Macintosh computers and FrameMaker software. Proof pages were created on an Apple LaserWriter IINTX printer. Final page negatives were output directly from text files on an AGFA ProSet 9800 imagesetter. Line art was created using  $Adobe^{TM} \text{ Illustrator. PostScript}^{TM}, \text{ the page-description language for the LaserWriter, was developed by Adobe Systems Incorporated.}$  
+Text type is Palatino<sup>®</sup> and display type is Helvetica<sup>®</sup>. Bullets are ITC Zapf Dingbats<sup>®</sup>. Some elements, such as program listings, are set in Apple Courier.

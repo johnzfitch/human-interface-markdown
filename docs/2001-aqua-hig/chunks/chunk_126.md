@@ -1,0 +1,10 @@
+<!-- Chunk 126 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 496 -->
+<span id="page-116-2"></span>**Figure 7-3** Push button dimensions  
+![](images/_page_116_Figure_6.jpeg)  
+- **Height:** 20 pixels (fixed), not including the shadow. For small push buttons, height is 17 pixels.
+- **End caps:** 14 pixels wide (fixed). For small push buttons, 10 pixels.
+- **Width:** Depends on button text. If you don't specify a wide enough button, the end caps clip the text. The standard width for OK and Cancel buttons is 69 pixels, as shown in Figure 7-1 (page 116). Push buttons used in other contexts may be sized differently if appropriate.
+- **Text:** System font (13-point Lucida Grande Regular). If you need to use a font larger than the system font, use a bevel button instead. For small push buttons, use the small system font (11-point Lucida Grande Regular).  
+- <span id="page-117-3"></span><span id="page-117-2"></span>■ **Color:** All push buttons are clear except the default button—the button selected by pressing the Return key—which uses the default color (in addition to pulsing). For example, in a dialog containing a default OK button and a Cancel button, the Cancel button is clear and the OK button uses color and pulses. When the user presses a nondefault button such as Cancel, the button acquires color and the default button loses its color. If you use standard controls, this behavior is automatic.
+- **Spacing:** Leave at least 12 pixels of space between buttons placed horizontally or stacked. For small push buttons, leave at least 8 pixels.
+- **Positioning:** The default button should go in the lower-right corner of the dialog. If there's a Cancel button, it should be to the left of the default button. If there's a third, or alternate, button (Don't Save, for example), it should go to the left of the Cancel button. Leave more than 12 pixels between the alternate button and Cancel; you may want to align the left edge of the button with the main dialog text, or put it 12 pixels to the right of the help button, if there is one.

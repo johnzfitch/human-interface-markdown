@@ -1,0 +1,4 @@
+<!-- Chunk 133 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 133 -->
+By: Katie Withey Date: 31 March 87  
+This information will be in the final version of Human Interface Guidelines: the Apple Desktop Interface (to be published by Addison Wesley)  
+The high-quality sound capabilities of some Apple computers lets sound be integrated into the human interface to give users additional information. This section refers to sound as a part of the interface in standard applications, not to the way sound is used in an application that uses the sound itself as data, such as a music composition application.

@@ -1,0 +1,8 @@
+<!-- Chunk 83 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 393 -->
+OS X provides speech technologies that allow software to recognize and speak U.S. English.  
+**Speech recognition** is the ability for the computer to recognize and respond to a person's speech. OS X users can choose to control their computer by voice; consequently,speech-recognition technology is very important for both people with special needs and general users.  
+Using speech recognition, users can accomplish tasks comprising multiple steps—for example, "Schedule a meeting next Friday at 3 p.m. with John, Paul, and George" or "Create a 3-by-3 table"—with one spoken command. Developers can take advantage of the speech engine and API included with OS X, as well as the built-in user interface. (The system-provided speech feedback window is shown here.)  
+![](images/_page_94_Picture_5.jpeg)  
+**Speech synthesis**, also called text-to-speech (TTS), converts text into audible speech. You might want to use speech synthesis to deliver information to users without forcing them to shift attention from their current task. For example, an app could, in the background, deliver messages such as "Your download is complete; one of the files has been corrupted" or "You have email from your boss; would you like to read it now?"  
+TTS is also crucial for users with vision or attention disabilities. As with speech recognition, OS X TTS provides both an API and several UI features.  
+<span id="page-94-1"></span>For information about implementing speech synthesis and recognition, see *Speech Synthesis Programming Guide* and *Speech Recognition Manager Reference* .

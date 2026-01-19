@@ -1,0 +1,3 @@
+<!-- Chunk 70 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 142 -->
+This section describes how to extend the Macintosh user interface when your application needs an element that doesn't already exist. When a need arises that can't be met by the standard elements, you can extend the user interface by creating combinations of standard elements or new elements. This section contains information on how to determine when it's appropriate to go beyond the guidelines, how to use the existing interface elements to build new elements, and pitfalls to avoid when you design additional interface elements.  
+![](images/_page_61_Picture_6.jpeg)

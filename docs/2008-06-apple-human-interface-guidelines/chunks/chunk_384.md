@@ -1,0 +1,4 @@
+<!-- Chunk 384 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 176 -->
+<span id="page-293-2"></span>A **command pop-down menu** is similar to a pull-down menu, but it appears within a window rather than in the menu bar. A command pop-down menu presents a list of commandsthat affect the containing window's contents. For example, the Colors window (shown in Figure 15-45) contains a menu with commands that can be used to change the contents of the Colors window itself. (If your application uses the Colors window, don't create your own menu with these same commands; see "Fonts Window and Colors [Window"](#page-228-0) (page 229) for more information on the Colors window.)  
+**Figure 15-45** A command pop-down menu in the Colors window  
+![](images/_page_293_Picture_9.jpeg)

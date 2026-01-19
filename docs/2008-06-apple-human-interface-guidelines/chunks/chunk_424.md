@@ -1,0 +1,4 @@
+<!-- Chunk 424 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 205 -->
+A scrolling list can get its contents from items you supply or from users. If an item is too long to fit in the list box, insert an ellipsis in the middle and preserve the beginning and end of the item. Users often add version numbers to the end of document names, so both the beginning and end should be visible.  
+The background of a scrolling list can be white or white striped with blue. If the list contains a large number of items that can look similar at a glance, it might be easier for users to view them on a striped background.  
+In most cases, it's a good idea to provide an introductory label for a scrolling list so users understand the types of items that are available to them. Use the regular system font for this label. The list items should be in view font (12-point Lucida Grande Regular), by default.

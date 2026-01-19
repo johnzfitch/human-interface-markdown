@@ -1,0 +1,16 @@
+<!-- Chunk 400 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 810 -->
+<span id="page-303-1"></span>An **indeterminate progress bar** shows users that processing is occurring, but does not give any indication of when it will finish. For example, Keynote displays an indeterminate progress bar as it begins opening a file, as shown in Figure 15-57.  
+**Figure 15-57** An indeterminate progress bar provides feedback on a process of unknown duration  
+![](images/_page_303_Picture_9.jpeg)  
+#### <span id="page-303-3"></span>**Indeterminate Progress Bar Usage**  
+Use an indeterminate progress bar when the duration of a process can't be determined. For example, if your application attemptsto make a dial-up communication connection, you have no way to accurately determine how long it will take, so you can use an indeterminate progress indicator to let users know that processing is ongoing. If an indeterminate process reaches a point where its duration can be determined, switch to a determinate progress bar (see ["Determinate](#page-301-2) Progress Bars" (page 302) for more on determinate progress bars).  
+Indeterminate progress bars work best in a dialog or window that focuses on the occurring process. For example, the indeterminate progress bar Keynote displays is in a dialog that is focused solely on the opening of the file (this dialog is shown in Figure 15-57). If you need to provide an indication of an indeterminate process that's associated with a part of a window, such as a control, or if space is limited, consider using an asynchronous progress indicator instead. (See ["Asynchronous](#page-304-1) Progress Indicators" (page 305) for more information on asynchronous progress indicators.)  
+#### **Indeterminate Progress Bar Contents and Labeling**  
+An indeterminate progress bar displays a spinning striped cylinder to indicate an ongoing process. Mac OS X provides this appearance automatically.  
+If necessary, you can provide a complete or partial sentence that appears as a label with an indeterminate progress bar in a dialog. You can do this so users know what process is occurring. Such a label should have sentence-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and Text" (page 131) for more information on this style). Also, you can end the label with an ellipsis (...) to emphasize the ongoing nature of the processing.  
+#### **Indeterminate Progress Bar Specifications**  
+<span id="page-304-0"></span>Indeterminate progress bars are available in regular and small sizes. The height of an indeterminate progress bar is fixed for each size, but you can specify the length. Figure 15-58 shows both regular-size and small indeterminate progress bars as they look when active and inactive.  
+**Figure 15-58** The active and inactive appearance of an indeterminate progress bar  
+![](images/_page_304_Picture_8.jpeg)  
+#### **Indeterminate Progress Bar Implementation**  
+<span id="page-304-1"></span>Indeterminate progress bars are available in Interface Builder. In the Attributes pane of the inspector, select Bar for the style and be sure the Indeterminate checkbox is selected. To create an indeterminate progress bar using Application Kit programming interfaces, use the NSProgressIndicator class with style NSProgressIndicatorBarStyle.

@@ -1,0 +1,5 @@
+<!-- Chunk 25 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 228 -->
+Branding is most effective when it issubtle and understated. People use your iPhone application to get things done or to be entertained; they don't want to feel as if they're being forced to watch an advertisement. Therefore, you should strive to incorporate your brand's colors or images in a refined, unobtrusive way. For example, you might use a custom color scheme in views and controls.  
+The exception to this is the Home screen icon, which should be focused on your brand. (The Home screen icon is the icon users can see on their Home screens after they install your application.) Because users see your Home screen icon frequently, it's important to spend some time balancing eye-appeal with brand recognition. For some guidelines on creating a Home screen icon, see ["Application](#page-110-1) Icons" (page 111).  
+#### **CHAPTER 3**  
+Designing an iPhone Application: From Product Definition to Branding

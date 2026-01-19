@@ -1,0 +1,4 @@
+<!-- Chunk 450 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 132 -->
+A child window that slides out from a parent window and that the user can open or close (show or hide) while the parent window is open. Drawers contain controls that are fairly frequently accessed but don't need to be visible at all times.  
+#### **dynamic menu item**  
+A menu command that changes when the user presses a modifier key. For example, in the Finder File menu, if the user presses the Option key, the Close Window command changes to Close All. See also ["toggled](#page-325-0) [menu item"](#page-325-0) (page 326).

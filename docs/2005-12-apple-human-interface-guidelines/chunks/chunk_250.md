@@ -1,0 +1,7 @@
+<!-- Chunk 250 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 364 -->
+Windows have different looks based on how the user is interacting with them. The foremost document or application window that is the focus of the user's attention is referred to as the **main window**. The main window is often also the **key window**. The key window is the window that accepts user input, whether from the keyboard, mouse, or alternative input device.  
+The main window is not always the key window though. There are times when a window other than the main window takes the focus of the input device, while the main window still remains the focus of the user's attention. For example, when a person is using an inspector, a Find dialog, or the Fonts or Colors windows, the document is the main window and the other window is the key window.  
+If the main and key window are different windows, they are distinguished from one another by the look of their title bars.  
+<span id="page-190-0"></span>Main and key windows are both active windows. Active windows are visually distinct from **inactive windows** in that their controls have color, while the controls in inactive windows do not have color. Inactive windows are windows the user has open, but are not in the foreground. Main and key windows are always in the foreground and their controls always have color. Note the visual distinctions between main, key, and inactive windows in Figure 13-19.  
+![](images/_page_190_Picture_7.jpeg)  
+**Figure 13-19** Main, key, and inactive windows

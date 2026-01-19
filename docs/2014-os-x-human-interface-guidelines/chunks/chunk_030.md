@@ -1,0 +1,13 @@
+<!-- Chunk 30 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 669 -->
+OS X provides a wide range of built-in UI elements, such as controls, menus, and dialogs. When you use the system-provided elements correctly, you benefit in several important ways:  
+- Users are familiar with the built-in elements, so they already know how to use them in your app.
+- The system-provided elements help ensure consistency within your app and with the rest of the system.
+- System-provided UI elements look and behave appropriately in various translucent contexts (such as light or dark vibrancy).
+- When there are changes to the system-provided controls, your app automatically acquires the updated appearance and behavior.  
+To realize these benefits, it's crucial that you use the built-in elements correctly. Follow these guidelines as you use OS X UI elements in your app.  
+**Don't assign new behaviors to built-in UI elements.** It's essential to use the system-provided elements according to the guidelines in this document. If you misuse OS X elements, you make your UI unpredictable and hard for users to figure out.  
+**In general, don't create a custom UI element that looks or behaves like an OS X UI element.** If your custom element looks too much like an OS X element, users might not notice the difference, and they will be confused when it does not behave as they expect. Similarly, if your custom element behaves the same way an OS X element behaves, users will wonder what, if anything, is different about the custom element.  
+**If you really need a new behavior, design a new element for it.** Don't redefine the behavior of an existing UI element. A custom UI element should provide users with a unique benefit that is difficult to achieve in any other way. If a new UI element doesn't help users, they're likely to feel that they wasted the time they spent learning about it.  
+**Avoid replicating a UI element from another platform.** Users aren't necessarily familiar with other platforms, so you can't assume that they recognize non OS X UI elements. It's better to design a new UI element that coordinates with the design of your app and that supplies the precise behavior you need.  
+**Important:** A custom UI element does not receive automatic updates if the OS X UI changes in the future. When you create a custom UI element, you also accept the responsibility for revising it appropriately when OS X changes.  
+Don't worry that using standard controls and views will cause your app to get lost in the crowd and be indistinguishable from other OS X apps. In reality, using standard UI elements lets you differentiate your app in ways that really matter to users, while giving them a stable foundation of consistency and familiarity.

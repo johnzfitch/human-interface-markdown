@@ -1,0 +1,6 @@
+<!-- Chunk 109 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 249 -->
+<span id="page-109-1"></span>A **source list** is an area of window set off by a movable pane splitter to provide users a way to navigate data. Use a source list when the data presented in it is a primary means of navigating within the application, as in iTunes or the Finder. Users select objects in the source list that they act on in the main part of the window.  
+Source lists are normally used in application windows, not in document windows. The iTunes playlist, the iPhoto library, and the Finder Sidebar are all examples of source lists.  
+<span id="page-110-1"></span>**Figure 8-10** Finder Sidebar as a source list  
+![](images/_page_110_Picture_3.jpeg)  
+<span id="page-110-0"></span>Do not put controls in a source list other than contextual controls used to organize the data itself. You might include controls below the source list to add, remove, or get information about items in the source list. If you need to add other controls, consider using a drawer instead of a source list.

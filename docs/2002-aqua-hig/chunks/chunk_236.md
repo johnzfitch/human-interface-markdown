@@ -1,0 +1,2 @@
+<!-- Chunk 236 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 44 -->
+For each enhancement you make to a larger-version icon, consider whether it is truly adding something to the icon's usability, or whether it is just adding complexity or clutter.

@@ -1,0 +1,2 @@
+<!-- Chunk 437 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 54 -->
+The onscreen representation of the mouse's location. The cursor commonly looks like an arrow, but can also assume such shapes as a pencil, a cross, or a paintbrush, depending on the application and the user's selection.

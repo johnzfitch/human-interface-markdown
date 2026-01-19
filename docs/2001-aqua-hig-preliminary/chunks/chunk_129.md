@@ -1,0 +1,5 @@
+<!-- Chunk 129 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 234 -->
+A new concept in Mac OS X is the notion of icon genres. Applications are classified by role—user applications, utilities, administrator's tools, and so on—and each category has its own icon style. The value of this visual distinction becomes more apparent when you look at icons in juxtaposition. The Dock, for example, can contain icons of different genres. It is important to provide a clear visual indication of an icon's genre so that the user can easily classify and organize open applications.  
+[Figure 10-2](#page-156-4) shows application icons in the top row and utility icons in the bottom row. These two icon genres are described in ["User Application Icons" \(page 157\)](#page-156-5)  and ["Utility Icons" \(page 159\).](#page-158-2)  
+<span id="page-156-4"></span><span id="page-156-3"></span>**Figure 10-2** Two icon genres: Application icons in top row, utility icons in bottom row  
+![](images/_page_156_Picture_3.jpeg)

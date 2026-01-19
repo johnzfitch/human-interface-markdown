@@ -1,0 +1,4 @@
+<!-- Chunk 218 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 156 -->
+<span id="page-222-3"></span>The user moves a window by dragging any part of the window frame (see ["Window](#page-193-0) [Appearance"](#page-193-0) (page 194) for more information on parts of thewindow). As a user drags, the fullwindow and its contents move.  
+Pressing the Command key while dragging an inactive window moves the window but does not make it active. See "Main, Key, and Inactive [Windows"](#page-224-0) (page 225) for more information about active and inactive windows.  
+<span id="page-222-1"></span>Your application should never allow users to move a window to a position from which they can't reposition it.

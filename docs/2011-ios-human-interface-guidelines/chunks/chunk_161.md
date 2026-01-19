@@ -1,0 +1,2 @@
+<!-- Chunk 161 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 96 -->
+A picker is a generic version of the date and time picker. As with a date and time picker, users spin the wheel (or wheels) of a picker until the value they want appears. The overallsize of a picker, including its background, is fixed at the same size as the keyboard on iPhone. (For more information about the date and time picker, see "Date and Time [Picker"](#page-124-0) (page 125).)

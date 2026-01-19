@@ -1,0 +1,2 @@
+<!-- Chunk 204 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 75 -->
+Make every text button 13 pixels high and center the button's name vertically. Make the button just wide enough that with the button's name horizontally centered there are three or four pixels between the name and the button's left and right borders. See pages [3-3](#page-96-0) and [3-7](#page-100-0).

@@ -1,0 +1,2 @@
+<!-- Chunk 422 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 31 -->
+<span id="page-319-0"></span>A selection in an inactive window. In Aqua, such selections are in the secondary highlight color.

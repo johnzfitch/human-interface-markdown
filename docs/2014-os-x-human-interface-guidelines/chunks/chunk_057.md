@@ -1,0 +1,2 @@
+<!-- Chunk 57 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+Sometimes it makes sense to offer a single menu that displays slightly different items depending on the user's action. OS X supports two ways to do this: Dynamic menu items and toggled menu items.

@@ -1,0 +1,2 @@
+<!-- Chunk 176 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 67 -->
+The length of a segmented control is determined by the number of its segments; the height of a segmented control is fixed. The width of each segment is proportional, based on the total number of segments. When users tap a segment, the segment displays a selected state.

@@ -1,0 +1,14 @@
+<!-- Chunk 94 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 638 -->
+A **toolbar** contains controls that perform actions related to objects in the screen or view.  
+![](images/_page_146_Picture_6.jpeg)  
+#### A toolbar:  
+- Is translucent
+- Always appears at the bottom edge of a screen or view on iPhone Can also appear at the top edge of the screen or view on iPad.
+- Can automatically change its height when an iPhone changes orientation Maintains the same height in all orientations on iPad.  
+**API Note:** A toolbar istypically contained in a navigation controller, which is an object that manages the display of a hierarchy of custom views. To learn more about defining a toolbar in your code, see "Displaying a Navigation Toolbar" in *View Controller Catalog for iOS* and "Toolbar".  
+Use a toolbar to provide a set of actions users can take in the current context.  
+**Include the most frequently used commands that make sense in the current context.** As much as possible, avoid using a toolbar to provide commands that are only occasionally useful.  
+**Consider using a segmented control to provide access to different perspectives or modes in the current context.** It's not a good idea to use a segmented control in a toolbar to show app-level tasks or modes, because a toolbar is specific to the current screen or view. If you need to give people access to primary tasks, views, or modes in your app, use a tab bar instead. To learn more about segmented controls, see ["Segmented](#page-190-1) [Control"](#page-190-1) (page 191); to learn more about tab bars, see ["Tab](#page-149-0) Bar" (page 150).  
+**Use icons if you need to put more than three items in a toolbar.** Because text-titled buttons typically use more space than icons, it can be difficult to keep the titles from running together.  
+**Make sure text-titled buttons have enough space between them.** If there isn't enough space between two or more buttonsin a toolbar, the text titles can appear to run together and users can find it difficult to distinguish between them. If button titles look too close in your toolbar, use UIBarButtonSystemItemFixedSpace to add the appropriate spacing between them. (To learn more about this constant, see *UIBarButtonItem Class Reference* .)  
+**On iPhone, be prepared for the change in toolbar height that occurs on device rotation.** In particular, make sure your custom toolbar icons fit well in the thinner bar that appears in landscape orientation. Don't specify the height of a toolbar programmatically; instead, take advantage of the UIBarMetrics constants to ensure that your content fits well.

@@ -1,0 +1,3 @@
+<!-- Chunk 239 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 168 -->
+In the Macintosh interface the user points to and manipulates objects on the screen with the pointing device. The user doesn't have to enter commands from the keyboard, which leaves entering text as the primary use for the keyboard. The keyboard may also be used for navigation. (Keyboard navigation methods are always shortcuts to navigating with the mouse; they should never be the only method of navigation.)  
+There are two kinds of keys: character keys and modifier keys. A **character key** sends characters to the computer. When held down, a **modifier key** can alter the meaning of the character key being pressed, or alter or amplify the meaning of a mouse action.

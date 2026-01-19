@@ -1,0 +1,11 @@
+<!-- Chunk 125 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 549 -->
+Instead of having an Extras Drawer icon highlighted when a user selects it, you can have it appear to move or to change to an alternate state. For example, many of the built-in applications' icons feature this type of simple animation, including In Box, Out Box, Calls, Time Zones, Clock, Prefs, Setup, and Writing Practice.  
+Extras Drawer Icons **5-9**  
+<span id="page-163-0"></span>When a user selects an icon, the Extras Drawer creates the selected form of the icon by combining the unselected form of the icon with the icon's mask. The Extras Drawer uses the same method to animate one icon as it uses to highlight another. The design of the mask determines how the selected form of an icon looks—highlighted or animated. Figure 5-7 compares a mask used for highlighting with a mask used for animation.  
+**Figure 5-7** An icon's mask either highlights or animates the icon  
+Another mask creates an alternate form of the icon An all-black shadow mask highlights an icon **Not selected Mask Selected**  
+> Note: bounding boxes are for illustration only. Actual icons do not have bounding boxes.  
+The selected form of an icon is black only in spots where either the mask is black or the unselected form of the icon is black. The selected form is white wherever both the unselected form and the mask are black as well as where both are white.  
+You create a mask by comparing each pixel of the unselected form of an icon to the corresponding pixel of the selected form. If both forms of the icon have a black pixel in the same position or if both have a white pixel in the same position, the mask has a white pixel there. The mask has a black pixel where one form of the icon or the other has a black pixel, but not where both do. In making this comparison of the pixels, you are following the exclusive-or rule of logic. [Figure 5-8](#page-164-0) shows the masks of several animated icons.  
+<span id="page-164-0"></span>![](images/_page_164_Picture_2.jpeg)  
+If you don't provide a mask for your application's icon, the Extras Drawer automatically creates one that is an all-black shadow of the icon. An all-black shadow mask combines with an icon to create a highlighted form of the icon.

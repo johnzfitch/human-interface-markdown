@@ -1,0 +1,3 @@
+<!-- Chunk 70 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 94 -->
+A modal dialog not attached to a specific document is an application-modal dialog. In Final Cut Pro, for example, the Save dialog is application modal; the application is not document-based and Save stores the state of multiple windows at once.  
+If an application-modal dialog appears as the result of the user choosing a command, the dialog's title should match the command.

@@ -1,0 +1,5 @@
+<!-- Chunk 5 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 187 -->
+You should use sheets for modal dialogs or for modeless dialogs when the user interacts with the dialog and dismisses it before proceeding with work. Here are some examples of when to use sheets:  
+- A modal dialog that is specific to a particular document, such as saving or printing.
+- A modal dialog that is specific to a single-window application that does not create documents. A single-window utility program might use a sheet to request acceptance of a licensing agreement from the user, for example.
+- Other window-specific dialogs typically dismissed by the user before proceeding. Use a sheet when these dialogs benefit from being attached to the window as a modal dialog, even if you might otherwise design the dialogs as a modeless dialog.

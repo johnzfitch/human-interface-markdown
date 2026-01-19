@@ -1,0 +1,3 @@
+<!-- Chunk 87 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 170 -->
+Mac OS X supports two user help components: Apple Help and help tags. Help tags allow you to provide temporarycontext-sensitive helpwhereas Apple Help allowsyou to provide a more thorough discussion of a topic or procedure.  
+Use these mechanisms to provide user help in your application instead of using help mechanisms that are specific to your application. When users refer to help, it is usually because they are having difficulty accomplishing a task and therefore might be frustrated. This is not a good time to make them learn yet another task, such as figuring out a help viewing mechanism that differs from the one they use in all the other applications on their computer.

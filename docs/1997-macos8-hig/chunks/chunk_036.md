@@ -1,0 +1,4 @@
+<!-- Chunk 36 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 151 -->
+The **separator line** is used in dialog boxes to separate groups of controls by delineating horizontal or vertical regions of the content area. It provides an Appearance-compliant alternative to drawing a QuickDraw line.  
+The separator line is two pixels wide. Under platinum appearance, the top pixel of a horizontal separator line creates the line itself and the bottom pixel gives it the engraved effect. For vertical lines, the left pixel creates the line and the right pixel gives it the engraved effect. Figure 2-42 shows a horizontal separator line.  
+**Figure 2-42** A horizontal separator line

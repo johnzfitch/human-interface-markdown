@@ -1,0 +1,3 @@
+<!-- Chunk 21 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 153 -->
+**iPhone applications** resemble the built-in applications on iPhone OS–based devices in that they reside on the device itself and take advantage of features of the iPhone OS environment. Usersinstall iPhone applications on their devices and use them just as they use built-in applications, such as Stocks, Maps, Calculator, and Mail.  
+<span id="page-16-3"></span>An iPhone application is quick to launch and easy to use. Whether the application enables a task like sending email or provides entertainment to users, it is characterized by responsiveness, simplicity, and a beautiful, streamlined user interface.

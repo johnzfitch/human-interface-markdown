@@ -1,0 +1,2 @@
+<!-- Chunk 373 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 33 -->
+A networking technology that provides a way for computers, devices, and services to discover each other dynamically over IP networks.

@@ -1,0 +1,2 @@
+<!-- Chunk 138 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 95 -->
+<span id="page-124-8"></span><span id="page-124-4"></span>When the user releases the mouse button after dragging an item to a destination, feedback should inform the user that the drag-and-drop operation was successful. While this feedback can be visual, it is primarily behavioral in nature. The behavior comes from the semantic operation indicated by the drag-and-drop sequence.

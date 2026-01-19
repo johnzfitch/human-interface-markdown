@@ -1,0 +1,7 @@
+<!-- Chunk 139 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 371 -->
+<span id="page-132-2"></span>Toolbars are useful for giving users immediate access to the most frequently used commands. Any item in a toolbar should also be available as a menu command. An application-wide toolbar in its own window is also called a **tool palette;** for more information, see ["Utility Windows" \(page 91\).](#page-90-0) This section focuses on toolbars that are part of a window with other content. Carbon developers can create a toolbar with the HIToolBarCreate function; Cocoa developers can use the NSToolbar class.  
+The set of toolbar items you provide should fit in the default window size; users should be able to customize which items appear in the toolbar, and in what order. As the default, a toolbar should display icons with text labels; users should be able to change the display to icons only or text only. You can provide these options with a Customize Toolbar command in the View menu.  
+<span id="page-133-5"></span>If your application uses toolbars as part of a window with other content, include a control in the window's title bar for showing and hiding the toolbar, as shown in [Figure 7-16.](#page-133-2) You should also put commands for showing and hiding the toolbar in the View menu (see ["The View Menu" \(page 61\)\)](#page-60-0).  
+<span id="page-133-2"></span>**Figure 7-16** The toolbar control  
+![](images/_page_133_Picture_5.jpeg)  
+For information about designing icons for toolbars, see ["Toolbar Icons" \(page 211\)](#page-210-0).

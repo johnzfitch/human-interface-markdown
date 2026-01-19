@@ -1,0 +1,5 @@
+<!-- Chunk 62 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 210 -->
+Your App Store description is a great opportunity to communicate with potential users. In addition to describing your application accurately and highlighting the qualities you think people might appreciate the most, follow these guidelines:  
+**Be sure to correct all spelling, grammatical, and punctuation errors**. Although such errors don't bother everyone, in some people they can create a negative impression of your application's quality.  
+**Keep all-capital words to a minimum**. The occasional all-capital word can draw people's attention, but capitalizing every letter of every word in a description can make it very difficult to read.  
+**Consider describing specific bug fixes**. If a new version of your application contains bug fixesthat customers have been waiting for, it can be a good idea to mention this in your description.

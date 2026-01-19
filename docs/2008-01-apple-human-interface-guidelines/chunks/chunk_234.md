@@ -1,0 +1,6 @@
+<!-- Chunk 234 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 277 -->
+<span id="page-245-2"></span><span id="page-245-1"></span>A Find window is a modeless dialog that opens in response to the Find command to provide an interface for specifying items to search for. Its appearance can vary depending on the needs of your application, but if your application handles text you might want to make your Find window similar to the one shown in Figure 14-53 to provide a consistent user experience.  
+**Figure 14-53** A Find window  
+![](images/_page_245_Picture_10.jpeg)  
+Find windows are useful in document-creation applications, because users can use one Find window to search for a term in several different documents. If your application is not document-based or if it is a single-window application, however, you might instead choose to offer find or searching  
+functionalityin a scope bar. A scope baris attached to awindowand provides both search and filtering capabilities to users. [Figure](#page-207-0) 14-19 (page 208) shows a scope bar in Safari. For more information about scope bars and how to use them in your application, see ["Scope](#page-206-0) Bars" (page 207).

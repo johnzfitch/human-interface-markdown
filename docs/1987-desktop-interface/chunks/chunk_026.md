@@ -1,0 +1,4 @@
+<!-- Chunk 26 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 151 -->
+People with cognitive or verbal impairments are greatly helped by clear and simple language, icons with obvious meanings, and carefully designed displays. Don't make the user's success depend on his or her ability to remember many different things.  
+Another way to make computers easier for both disabled people and others is to provide macros, making it possible to combine a number of keystrokes and mouse movements into one keystroke. The way macros are created and accessed must be clear and simple. It shouldn't be easy for a user to invoke a macro accidentally.  
+![](images/_page_31_Picture_0.jpeg)

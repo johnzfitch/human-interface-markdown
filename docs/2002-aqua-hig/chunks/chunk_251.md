@@ -1,0 +1,2 @@
+<!-- Chunk 251 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 94 -->
+When an item is being dragged, your application must determine whether to scroll the contents or allow the item to "escape" the window. If your application allows items to be dragged outside of windows, you should define an autoscrolling region. Automatically scroll a destination window only if it is also the source window and is frontmost. Don't autoscroll inactive windows.

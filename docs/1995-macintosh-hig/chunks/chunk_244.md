@@ -1,0 +1,4 @@
+<!-- Chunk 244 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 216 -->
+Modifier keys are those that alter the way other keystrokes are interpreted. These keys sometimes affect the way the mouse-button actions are interpreted as well. They are the Shift, Caps Lock, Option, Command, and Control keys. Not all Macintosh keyboards contain all of these keys. It is important that you use these keys consistently from application to application, as outlined in these guidelines.  
+#### Shift 10  
+The Shift key, when held down at the same time a character key is pressed, produces the uppercase letter on alphabetic keys, or the upper character on two-character keys. The Shift key is also used in conjunction with the mouse for extending a selection or for constraining movement in graphics applications. For example, in some graphics applications holding down the Shift key while using a rectangle tool limits the tool to drawing squares.

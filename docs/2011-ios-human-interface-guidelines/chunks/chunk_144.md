@@ -1,0 +1,4 @@
+<!-- Chunk 144 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 211 -->
+Use a date and time picker to let users pick (instead of type) a date or time value that consists of multiple parts, such as the day, month, and year. A date and time picker is easy to use because the values in each part have a relatively small range and users already know what the values are.  
+**If it makes sense in your app, change the interval in the minutes wheel**. By default, a minutes wheel displays 60 values (0 to 59). If you need to display a coarser granularity of choices, you can set a minutes wheel to display a larger minute interval, as long as the interval divides evenly into 60. For example, you might want to display the quarter-hour intervals 0, 15, 30, and 45.  
+<span id="page-125-0"></span>**On iPad, present a date and time picker only within a popover**. A date and time picker is not suitable for the main screen.

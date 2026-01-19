@@ -1,0 +1,2 @@
+<!-- Chunk 113 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 39 -->
+Table views are particularly versatile user interface elements, because they can be configured in different ways to support different user actions, such as:

@@ -1,0 +1,2 @@
+<!-- Chunk 200 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 104 -->
+Be consistent in how you align field values with field labels (including picker labels). Generally you should line up a field's label with the field's displayed value, not with the dotted line (if present) on which a user edits the field value. In a view that has several fields in a column, line up the labels at their left edges to insure a neat, orderly appearance for your application. See page [6-2](#page-169-0).

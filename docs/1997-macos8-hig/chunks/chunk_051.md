@@ -1,0 +1,5 @@
+<!-- Chunk 51 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 257 -->
+This section provides guidelines to help you design dialog boxes. It does not specify rules for every situation, but it serves as a starting point for your layout process.  
+The following discussion assumes that you create mockups of your dialog boxes in a graphics program before creating the resource files for them. Therefore, the section gives you both the visual dimensions of dialog box elements and their corresponding resource rectangle sizes. In the illustrations, visual dimensions (in pixels) are shown in blue in the italicized font, while resource layout numbers are shown in red in the plain font.  
+#### **IMPORTANT**  
+Although this section gives you enough information to replace the standard Mac OS controls with your own, Apple Computer strongly suggests that you use the Mac OS Toolbox controls rather than creating your own similar ones. By using the standard controls, you enable your applications to take advantage of platinum appearance now and to benefit from future enhancements to the Appearance Manager.

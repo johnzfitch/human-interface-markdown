@@ -1,0 +1,2 @@
+<!-- Chunk 373 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 34 -->
+Combo boxes are available in Interface Builder. To create one using the Application Kit programming interfaces, use the NSComboBox class.

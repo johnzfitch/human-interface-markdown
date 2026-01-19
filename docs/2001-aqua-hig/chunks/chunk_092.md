@@ -1,0 +1,2 @@
+<!-- Chunk 92 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+<span id="page-84-7"></span>This section describes special types of windows—including drawers, utility windows, and About windows—and how each type differs from what's described elsewhere in this chapter.

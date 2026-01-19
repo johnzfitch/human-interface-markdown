@@ -1,0 +1,2 @@
+<!-- Chunk 439 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 42 -->
+The button that provides a safe action in a dialog. The default button is indicated by a pulsing appearance. It is activated when the user presses the Return or Enter key.

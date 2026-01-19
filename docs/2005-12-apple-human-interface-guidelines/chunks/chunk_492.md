@@ -1,0 +1,2 @@
+<!-- Chunk 492 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 28 -->
+To click while the Shift key is down. This combination is used to select multiple objects or to extend a selection.

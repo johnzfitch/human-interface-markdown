@@ -1,0 +1,2 @@
+<!-- Chunk 279 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 103 -->
+<span id="page-216-2"></span>If the user edits a locked or read-only document and then quits the application or chooses Save or Save As, do not display the standard Save Changes alert. Instead, display a sheet explaining that because the document is read-only, it cannot be saved. The sheet should then offer the user the options of saving a copy, rejecting the changes, or continuing to view or edit the document.

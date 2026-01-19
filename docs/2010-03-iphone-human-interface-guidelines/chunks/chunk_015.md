@@ -1,0 +1,3 @@
+<!-- Chunk 15 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 158 -->
+The small, high-resolution screens of iPhone OS–based devices make them powerful display devices that fit into users' pockets. But that very advantage to users may be challenging to you, the developer, because it means that you must design a user interface that may be very different from those you're accustomed to designing.  
+Keep in mind the screen size of 480 x 320 pixels and use that as a motivation to focus the user interface on the essentials. You don't have the room to include design elements that aren't absolutely necessary, and crowding user interface elements makes your application unattractive and difficult to use.

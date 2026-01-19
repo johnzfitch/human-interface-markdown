@@ -1,0 +1,3 @@
+<!-- Chunk 158 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 154 -->
+A page indicator displays a dot for each currently open peer view in an application. From left to right, the dots represent the order in which the views were opened (the leftmost dot represents the first view). The currently visible view is indicated by a glow on the dot that represents it. Users tap to the left or the right of the glowing dot to see the previous or next open view.  
+The dots of a page indicator do notshrink orsqueeze together as more appear. A screen in portrait orientation can accommodate approximately 20 dots; if you try to display more dots than will fit in the screen, they will be clipped.

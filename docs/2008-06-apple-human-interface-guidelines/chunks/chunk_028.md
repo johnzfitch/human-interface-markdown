@@ -1,0 +1,3 @@
+<!-- Chunk 28 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 142 -->
+If you are developing a simple application, it can be very tempting to add features that aren't wholly relevant to the original intent of the program. This feature cascade can lead to a bloated interface that is slow and difficult to use because of its complexity. Try to stick to the original intent of your program and include only features that are relevant to the main workflow.  
+The best products aren't the ones with the most features. The best products are those whose features are tightly integrated with the solutions they provide, making them the most usable.

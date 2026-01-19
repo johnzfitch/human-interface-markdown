@@ -1,0 +1,3 @@
+<!-- Chunk 113 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 79 -->
+If you are working in a MouseText-based toolkit, mark the beginning and end of a font-related change with the solid-diamond character. As the user passes over this character, open a view box to let the user see what the particular change is. (See: View Boxes under Dialogs and Alerts)  
+Figure 22A. MouseText Example

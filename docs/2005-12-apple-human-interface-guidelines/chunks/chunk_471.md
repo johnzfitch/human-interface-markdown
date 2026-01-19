@@ -1,0 +1,4 @@
+<!-- Chunk 471 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 133 -->
+A control for displaying data in a list. The primary list may by accompanied by additional columns that display secondary attributes about that items in the list. Hierarchies are presented through the use of disclosure triangles.  
+#### <span id="page-323-2"></span>**main window**  
+The window that is the focus of the user's actions. It may accept keyboard input itself or may work in conjunction with a key window. For example, a text editing document would be a main window when a user is actively typing or modifying text in it.

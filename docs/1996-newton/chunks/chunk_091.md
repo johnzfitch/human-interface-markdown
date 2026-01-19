@@ -1,0 +1,6 @@
+<!-- Chunk 91 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 293 -->
+An Action button lets users send data through various means, such as print, fax, beam, and e-mail. In many applications, users can also use the Action button to duplicate and delete data that's currently displayed. The location of the Action button determines how much data is affected. If the Action button is on a separator bar, it affects the information between that separator bar and the next one. If the Action button is in a slip, it affects all the information in the slip.  
+In a slip or on a status bar, the Action button goes next to the Close box (except that in the backdrop application, which has no Close box, it goes at the right end of the status bar). An Action button goes at the right end of a separator bar. [Figure 3-31](#page-122-0) shows examples of Action buttons on a status bar, on a separator bar, and in a slip.  
+**Figure 3-31** Where an Action button goes  
+<span id="page-122-0"></span>![](images/_page_122_Figure_3.jpeg)  
+Tapping an Action button pops up the Action picker, which is described on [page 4-26](#page-151-0). For general information about sending and receiving data, see [Chapter 7, "Routing and Communications."](#page-206-0)

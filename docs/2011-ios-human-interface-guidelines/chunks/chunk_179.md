@@ -1,0 +1,2 @@
+<!-- Chunk 179 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 70 -->
+A slider consists of a track and a thumb (a circular control that the user can slide) and optional images that convey the meaning of the right and left values. When people drag the thumb along the slider, the value or process is updated continuously and is displayed in the track.

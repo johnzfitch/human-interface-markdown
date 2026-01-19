@@ -1,0 +1,17 @@
+<!-- Chunk 160 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 818 -->
+**As much as possible, use the Command key as the main modifier key in a keyboard shortcut.** For example, Command-P uses Command to modify the P key. For a command that complements another more common command, you can add Shift to the shortcut. For example, the shortcut for the complementary Page Setup command adds Shift to the shortcut for Print to give Command-Shift-P. Table A-1 gives additional examples of this technique.  
+<span id="page-309-2"></span>**Table A-1** Examples of keyboard shortcuts that use Shift to complement other commands  
+| Keys            | Command                                                      | Complemented command         |
+|-----------------|--------------------------------------------------------------|------------------------------|
+| Command-Shift-A | Deselect<br>All                                              | Command-A<br>(Select<br>All) |
+| Command-Shift-G | Find<br>Previous                                             | Command-G<br>(Find<br>Again) |
+| Command-Shift-P | Page<br>Setup                                                | Command-P<br>(Print)         |
+| Command-Shift-S | Save<br>As                                                   | Command-S<br>(Save)          |
+| Command-Shift-V | Paste<br>as<br>(Paste<br>as<br>Quotation,<br>for<br>example) | Command-V<br>(Paste)         |
+| Command-Shift-Z | Redo                                                         | Command-Z<br>(Undo)          |  
+**Note:** Command-Shift-Z would be used for Redo only if Undo and Redo are separate commands (rather than toggled using Command-Z).  
+If there's a third, less common command that's related to a pair of commands that use Command and Command-Shift, you can use Command-Option for the third command's keyboard equivalent. Use combinations like these very rarely.  
+Also use Option for a keyboard shortcut that is a convenience or power-user feature. For example, the Finder uses Command-Option-W for Close All Windows and Command-Option-M for Minimize All Windows.  
+Because the Control key is already used by some of the universal access features as well as in Cocoa text fields where Emacs-style key bindings are often used, it should be used as a modifier key only when necessary.  
+Remember that other languages may require modifier keys to generate certain characters. For example, on a French keyboard, Option-5 generates the "{" character. You can safely use the Command key as a modifier, but avoid using Command and an additional modifier with characters not available on all keyboards. If you must use a modifier key in addition to the Command key, try to use it only with the alphabetic characters (*a* through *z* ).  
+When adding custom keyboard shortcuts, try to avoid shortcuts that add a modifier key (such as Option or Shift) to an existing shortcut if the shortcuts have an unrelated function. For example, don't use Shift-Command-Z as a keyboard shortcut for a command that is unrelated to Undo. Using that shortcut for Redo is appropriate, but using it for something like Calculate or Check Mail is confusing. If you can't find a unique and easy-to-use keyboard shortcut for a command, don't use one at all; keep in mind that users may have difficulty pressing multiple modifier keys anyway.

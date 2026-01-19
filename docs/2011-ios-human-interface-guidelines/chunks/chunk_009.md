@@ -1,0 +1,2 @@
+<!-- Chunk 9 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 33 -->
+<span id="page-8-2"></span>By working with the platform conventions, you'll be much better positioned to create outstanding iOS apps.

@@ -1,0 +1,5 @@
+<!-- Chunk 414 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 252 -->
+Use a token field control in a text input field (see "Text Input [Fields"](#page-312-0) (page 313) for more information about text input fields). As the user types in the text input field, the token field control invokes text completion after a delay you specify. When the user types the comma character or presses Return, the preceding text input is transformed into a token.  
+A token is draggable and, if you add code to support a menu, displays a disclosure triangle that reveals a contextual menu when the user presses or clicks it. In this menu, you might offer more information about the token and ways to manipulate it. In Mail, for example, the token menu displays information about the token (the email address associated with the name) and items that allow the user to edit the token or add its associated information to Address Book, as shown in Figure 15-73.  
+<span id="page-316-1"></span>**Figure 15-73** A token field control can display a contextual menu  
+![](images/_page_316_Picture_3.jpeg)

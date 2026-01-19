@@ -1,0 +1,28 @@
+<!-- Chunk 43 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 1388 -->
+The user should not be faced with page after page of instructions: experience has proven that people simply will not read them. Rather, supply help as it is needed. One way of doing that is described in the section on menus.  
+When you try your program out on new users, be sensitive to the times they need fundamental help in using the features of the programs. For example, while you may have a program portion with detailed explanations on why ellipsoid analysis is so effective in figuring hog belly futures, your user may never get there: you may not have provided necessary help in how to enter preliminary data.  
+The standard help key on the Apple IIe and Apple III series computers is either OPEN-APPLE-? or SOLID-APPLE-? (The SHIFT should not be  
+required: therefore, also accept OPEN-APPLE-/ and SOLID-APPLE-/.)  
+The standard help key on the Apple II and Apple II Plus, where practical, is a question mark or slash, or else ESCAPE? or ESCAPE /.  
+The normal location for help messages is the bottom of the screen. Whether you use this location or another, make your location consistent. When using a separate help screen, clearly title it as a "help" display, and make the transitions as smooth as possible. When help has been given, restore the screen to its original condition.  
+#### Menus  
+Many of the menu guidelines may appear somewhat arbitrary—they are. It appears only happy coincidence that so many developers are making menus so similar. As with many aspects of human interface standards, what is important is that one standard be set so the poor user can get used to one way of doing things. It is not nearly so important what that standard is.  
+A menu should display all choices legibly, using numbers for menu selection. Research has shown that people will learn a number on an often used menu as quickly as a letter, even though letters on the surface appear more friendly. ("Was that E for Edit or E for Erase?") Mnemonic letter schemes are a nightmare to translate, and well over half of computer users are not touch-typists. For these reasons and others, the vast majority of developers have settled on numbers.  
+If you do settle on letters, for your own reasons, be sure to be consistent: don't make the user use numbers for one section of a program and letters for another.  
+All sub-menus should allow the user to move to the next higher menu by pressing the ESCAPE key. The main menu should not have an ESCAPE key option, so that the user can feel confident about leaning on the ESCAPE key to get all the way back to the top level, without worrying about being bounced completely out of the program upon reaching the top level. Each menu should (redundantly) have a last option that will move the user back to the next highest level. The Main Menu's option should end the program.  
+The following is an example of a menu using the standard menu format:  
+#### Commodity Analyser Futures Menu Select Future  
+- 1. Pork Belly Futures
+- 2. Corn Futures
+- 3. Present Futures
+- 4. Crystal Ball Futures
+- 5. Return to the Main Menu  
+Type your Selection (1-5) and press RETURN: \_...  
+Options: ESCAPE to leave OPEN-APPLE-? for help  
+The exact number of lines devoted to the three regions is not graven in stone: the real standard being striven for is that there be three regions with solid lines separating them, that these be devoted to titles, choices presented, and instructions. (The Apple II and Apple II Plus can not produce a solid line in text mode; use either their hyphens or their short-underline characters.  
+The title region can have up to three titles (usually two in forty-column mode). The middle title (or left title, if only 2) should be the name of the menu, and it should contain the word, "menu." Other displays you will use, such as data entry and information, may have a similar format: make sure your user is clearly aware of what he is being asked to do. Similarly, on information screens, do not number itemized lists, asterisk them: otherwise, about 25% of your users will try to type in a "selection".  
+You may use or not use the other titles as you see fit, but they should have a consistent meaning throughout a given application.  
+Note that a field length longer than one has been allowed for the number input. A field length of only one character will not give the user enough feedback as to how the input works. Users who have typed the wrong number will often panic, assuming the computer has somehow locked up. By giving them a few extra spaces, they can see from the action on the screen what is going on and deduce what to do about it. Since you will be stripping leading and trailing spaces (won't you?), this extra freedom afforded the user will not affect the program.  
+The instruction region doubles as the error message region.  
+One method you can use to enable the user to get descriptions of any option is to have them type the number of the option, followed by the help key (OPEN-APPLE-? on the Apple IIe and Apple III, ? on the Apple II and II Plus). The user is able to get extensive information only on those items of interest, without having to wade through masses of information that are not needed.  
+Routines for doing these menus will be available from Apple: first in Pascal for the Apple *III* in the Screen Manager and in BASIC for the Apple II series within the sample programs (Magic Menu, Disk Menu, etc.) supplied with the Apple IIe Applesoft Tutorial and Reference manuals package. The BASIC version is implemented with the help facility described above.

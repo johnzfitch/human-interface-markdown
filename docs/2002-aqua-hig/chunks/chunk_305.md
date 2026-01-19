@@ -1,0 +1,3 @@
+<!-- Chunk 305 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 84 -->
+- If the user initiates an action by pressing the mouse button, does the action take place only when the button is released (except for drags)?
+- <span id="page-268-2"></span>■ Are there ways other than double-clicking to perform a given action? Double-clicking should never be the only way to do something; it should be a shortcut only.

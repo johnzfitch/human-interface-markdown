@@ -1,0 +1,7 @@
+<!-- Chunk 160 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 342 -->
+<span id="page-175-6"></span>Users can access the help system in three ways:  
+- <span id="page-175-4"></span>■ **The Help menu.** The Help menu is the far-right item in the application region of the menu bar. It should contain a single item named "<appName> Help," which opens the Help Viewer to the first page of your help content. This page can include hyperlinks that lead to other help resources, such as tutorials, websites, and troubleshooting guides.
+- Don't add additional items to the Help menu unless absolutely necessary; multiple entries that lead to essentially the same place can be confusing.
+- <span id="page-175-3"></span>■ **Help buttons.** When necessary, you can use Help buttons, typically placed in the lower-left corner of a dialog or window, to provide easy access to specific sections of your help. When a user clicks a Help button, send either a search term or an anchor lookup (which leads to specific page or pages) to the Help Viewer.
+- It's not necessary for every dialog and window in your application to have a Help button. If there is no contextually relevant information in the help, don't display a Help button.
+- <span id="page-175-5"></span><span id="page-175-2"></span>■ **Contextual Help menu.** If contextually appropriate help content is available for an object being pointed to, the first item in the contextual menu is Help.

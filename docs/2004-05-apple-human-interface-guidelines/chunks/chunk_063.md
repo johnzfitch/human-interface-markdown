@@ -1,0 +1,3 @@
+<!-- Chunk 63 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 169 -->
+<span id="page-53-6"></span>Make labels for interface elements easy to understand and avoid technical jargon as much as possible. Try to be as specific as possible in any element that requires the user to make a choice, such as radio buttons, checkboxes, and push buttons. It's important to be concise, but don't sacrifice clarity for space.  
+<span id="page-53-4"></span>Menu items and buttons that produce a dialog should include an ellipsis (…). See ["Using the](#page-52-1) [Ellipsis Character"](#page-52-1) (page 53) for details on when to use an ellipsis. The dialog title should be the same as the menu command or button label (except for the ellipsis) used to invoke it.

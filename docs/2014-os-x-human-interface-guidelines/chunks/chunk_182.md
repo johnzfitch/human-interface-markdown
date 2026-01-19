@@ -1,0 +1,4 @@
+<!-- Chunk 182 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 203 -->
+Beautiful, compelling icons are a fundamental part of the OS X user experience. Far from being merely decorative, icons play an essential role in communicating with users.  
+Every app must include several sizes of its app icon for display in the Finder, Dock, Launchpad, and elsewhere. To look at home in OS X, an app icon should be meticulously designed, informative, and aesthetically pleasing.  
+Some apps might need to supply additional icons, such as toolbar and document icons. Although some of the high-level guidance for designing app icons applies to designing toolbar, sidebar, and document icons, these icons have different purposes. To learn how to design icons other than the app icon, see [Toolbar](#page-323-0) Icons (page 324), [Sidebar](#page-326-0) Icons (page 327), and Document Icons (page \$@).

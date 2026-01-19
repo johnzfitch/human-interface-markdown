@@ -1,0 +1,3 @@
+<!-- Chunk 202 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 162 -->
+Although there are many ways to arrange controls in a given window, there are guidelines you should follow so that your application has the clean, balanced appearance of Aqua. This section provides examples of properly designed windows and dialogs that use full-size controls. For guidelines on the use of mini and small controls, see ["Using Small and Mini Versions of](#page-213-0) [Controls"](#page-213-0) (page 214). Some of the guidelines presented are specific to the examples shown, but most are general guidelines applicable to all dialogs and windows.  
+<span id="page-202-2"></span>Unless specified otherwise, all measurements are in pixels.

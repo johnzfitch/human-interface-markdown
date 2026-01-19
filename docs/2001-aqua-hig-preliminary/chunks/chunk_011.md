@@ -1,0 +1,3 @@
+<!-- Chunk 11 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 105 -->
+Mac OS X builds on the ease-of-use tradition of Mac OS 9, while providing a simpler, superior user experience. The "spirit" of Mac OS X, Aqua complements Apple's sleek, innovative hardware design.  
+Aqua makes use of color, transparency, and animation to enhance usability. It also delivers some new behaviors that make using a Macintosh even more fun and satisfying for all users, from computer novices to professionals.

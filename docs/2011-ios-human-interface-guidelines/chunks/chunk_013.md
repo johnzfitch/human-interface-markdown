@@ -1,0 +1,3 @@
+<!-- Chunk 13 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 118 -->
+iOS provides many great technologies that add value to apps, such as multitasking, printing, and VoiceOver. Although users might view these technologies as automatically available whenever they use their iOS-based devices, it can require work on your part to incorporate them in your app. If an iOS technology is appropriate in your app, be sure to follow the guidelines that govern its usage.  
+**Relevant Chapter:** "iOS [Technology](#page-70-0) Usage Guidelines" (page 71)

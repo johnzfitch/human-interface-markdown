@@ -1,0 +1,24 @@
+<!-- Chunk 67 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 1216 -->
+If your app provides functions for formatting text, you can include a **Format menu** as a top-level menu or as a submenu of the Edit menu. It might be appropriate to group some items that are in the Format menu into submenus, such as Font, Text, or Style.  
+![](images/_page_96_Picture_3.jpeg)  
+The Format menu includesthe following standard menu items, listed in the order in which they should appear.  
+| Menu item      | Expected | Keyboard shortcut | Meaning                                                                                                              |
+|----------------|----------|-------------------|----------------------------------------------------------------------------------------------------------------------|
+| Show<br>Fonts  | Yes      | Command-T         | Displays<br>the<br>Fonts<br>window.<br>The<br>Show<br>Fonts<br>menu<br>item<br>should<br>be<br>the<br>first<br>item. |
+| Show<br>Colors | Yes      | Shift-Command-C   | Displays<br>the<br>Colors<br>window.                                                                                 |
+| Bold           | No       | Command-B         | Boldfaces<br>the<br>selected<br>text<br>or<br>toggles<br>boldfaced<br>text<br>on<br>and<br>off.                      |
+| Italic         | No       | Command-I         | Italicizes<br>the<br>selected<br>text<br>or<br>toggles<br>italic<br>text<br>on<br>and<br>off.                        |
+| Underline      | No       | Command-U         | Underlines<br>the<br>selected<br>text<br>or<br>toggles<br>underlined<br>text<br>on<br>and<br>off.                    |  
+| Menu item      | Expected | Keyboard shortcut           | Meaning                                                                                                                                                                                       |
+|----------------|----------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bigger         | No       | Shift-Command–equal<br>sign | Causesthe<br>selected<br>item<br>to<br>increase<br>in<br>size<br>in<br>defined<br>increments.                                                                                                 |
+| Smaller        | No       | Command-hyphen              | Causesthe<br>selected<br>item<br>to<br>decrease<br>in<br>size<br>in<br>defined<br>increments.                                                                                                 |
+| Copy<br>Style  | No       | Option-Command-C            | Copies<br>the<br>style—font,<br>color,<br>and<br>size<br>for<br>text—of<br>the<br>selected<br>item.                                                                                           |
+| Paste<br>Style | No       | Option-Command-V            | Applies<br>the<br>style<br>of<br>one<br>object<br>to<br>the<br>selected<br>object.                                                                                                            |
+| Align<br>Left  | No       | Command-{                   | Left-aligns<br>a<br>selection.                                                                                                                                                                |
+| Center         | No       | Command-                    | Center-aligns<br>a<br>selection.                                                                                                                                                              |
+| Justify        | No       |                             | Evenly<br>spaces<br>a<br>selection.                                                                                                                                                           |
+| Align<br>Right | No       | Command-}                   | Right-aligns<br>a<br>selection.                                                                                                                                                               |
+| Show<br>Ruler  | No       |                             | Displays<br>a<br>formatting<br>ruler.                                                                                                                                                         |
+| Copy<br>Ruler  | No       | Control-Command-C           | Copiesformatting<br>settingssuch<br>astabs<br>and<br>alignment<br>for<br>a<br>selection<br>to<br>apply<br>to<br>a<br>another<br>selection<br>and<br>stores<br>them<br>on<br>the<br>Clipboard. |
+| Paste<br>Ruler | No       | Control-Command-V           | Appliesformatting<br>settings(that<br>have<br>been<br>saved<br>to<br>the<br>Clipboard)<br>to<br>the<br>selected<br>object.                                                                    |

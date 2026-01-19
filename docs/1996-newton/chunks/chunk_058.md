@@ -1,0 +1,2 @@
+<!-- Chunk 58 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 44 -->
+Container views provide immediate feedback about actions a user may take, such as opening, closing, moving, and scrolling. The remainder of this chapter describes these behaviors.

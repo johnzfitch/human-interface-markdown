@@ -1,0 +1,17 @@
+<!-- Chunk 245 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 786 -->
+A **scope button** is used in a scope bar to specify the scope of an operation, such as search, or to save or manipulate a set of scoping criteria. These two complementary functions are supported by two styles of scope buttons, the recessed button and the round rectangle button, respectively (see "Scope Button Usage" for examples of these controls). See ["Scope](#page-204-0) Bars" (page 205) for more information about scope bars.  
+#### Scope Button Usage  
+**Important:** Scope buttons are designed to be used in scope bars and related filter rows only. They are not intended to be used in the toolbar or bottom-bar areas or outside of a scope bar in the window body.  
+The recessed scope button style is used to display types or groups of objects or locations the user can select to narrow the focus of a search or other operation. For example, Dictionary displays recessed scope buttons that allow users to look up a word in a dictionary, a thesaurus, an Apple terminology database, Wikipedia content, or in all locations simultaneously. Figure 15-12 shows the recessed scope buttons used in Dictionary.  
+<span id="page-271-0"></span>**Figure 15-12** Recessed scope buttons used to define the scope of a look-up  
+![](images/_page_271_Picture_3.jpeg)  
+<span id="page-271-1"></span>The round rectangle scope button style is used to allow users to save a set of search criteria and to change or set scoping criteria. For example, the Finder uses round rectangle scope buttons to display search criteria, such as creation and last opened dates, and to provide a save search button. Figure 15-13 shows the round rectangle scope buttons used in the Finder.  
+**Figure 15-13** Round rectangle scope buttons used to save, change, and set scoping criteria  
+![](images/_page_271_Picture_6.jpeg)  
+#### Scope Button Contents and Labeling  
+Typically, round rectangle and recessed scope buttons contain text, but they can instead contain images. If you want to display an image in a scope button, be sure to consider the system-provided images before you spend time designing your own. If you decide to design a custom icon for use in a scope button,see ["Designing](#page-153-1) Icons for [Rectangular-Style](#page-153-1) Toolbar Controls" (page 154) for some guidelines.  
+#### Scope Button Specifications  
+**Control sizes**: The round rectangle scope button is available in regular, small, and mini sizes. The height of the control is fixed for each size, but you set the width.  
+**Label spacing and fonts**: If you choose to use text to label scope buttons, use the view font (12-point Lucida Grande). Use the view font in bold for recessed scope buttons and the regular view font for round rectangle scope buttons.  
+#### Scope Button Implementation  
+<span id="page-272-0"></span>Scope buttons are available in Interface Builder. You can also use Application Kit programming interfaces to create them. To create a recessed scope button, use the setBezelStyle: method of NSButtonCell with NSRecessedBezelStyle as the argument. To create a round rectangle scope button, pass NSRoundRectBezelStyle as the argument to the setBezelStyle: method.

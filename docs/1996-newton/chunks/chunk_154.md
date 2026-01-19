@@ -1,0 +1,8 @@
+<!-- Chunk 154 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 348 -->
+Error Attempt to send failed  
+Logged Item logged (header kept; body deleted)  
+Users can see more than just header information for some types of items in the In/Out Box. For example, the In/Out Box can show a page preview of print and fax items. It can also show item detail in views based on templates that other applications provide. The built-in applications provide view templates for their data, and your application can provide additional view templates for that data or its own data. If you want users to be able to see your application's data in detail in the In/Out Box, your application must define view templates and register them with the system. If no application provides a view template for a particular type of data, the In/Out Box displays a generic blank view.  
+The In/Out Box **7-5**  
+<span id="page-211-0"></span>If applications provide multiple view templates for the type of data currently on display in the In/Out Box application, the In/Out Box includes a Show button and picker, so users can choose among the available views. For example, when a Names File item is displayed in the In/Out Box, the Show picker lists at least the two choices All Info and Card (which the Names File application provides). Figure 7-2 illustrates a Show button in the In/Out Box.  
+**Figure 7-2** A Show button provides access to alternative views  
+![](images/_page_211_Figure_4.jpeg)

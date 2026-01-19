@@ -1,0 +1,2 @@
+<!-- Chunk 18 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 76 -->
+Effective software adheres to certain basic principles no matter whether it runs on a Newton PDA, a personal computer, or a high-powered computer workstation. These principles are based on the capabilities and processes not of the machine but of the human operator—how people usually think, act, and work.

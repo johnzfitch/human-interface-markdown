@@ -1,0 +1,11 @@
+<!-- Chunk 137 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 565 -->
+A **column view** (also known as a **browser view**) displays a hierarchy of data, in which each level of the hierarchy is displayed in one column.  
+![](images/_page_221_Picture_3.jpeg)  
+**API Note:** To define a column or browser view in your code, use the NSBrowser class or an NSOutlineView object in column format.  
+Column views don't use disclosure triangles that reveal content within a column. The triangle displayed to the right of an item shows that the item contains other objects (to reveal those objects, users click anywhere on the item's row).  
+Users scroll vertically within columns and horizontally between columns. When users click an object in one column, its contents(that is, its descendantsin the hierarchy) are revealed in a column to the right. Each column displays only those objectsthat are descendants of the item selected in the previous column. If the item selected in the previous column has no descendants, the column to the right might display details about the item.  
+Columns in column views don't have headings, because a column view doesn't behave like a table. A column in a column view contains the objects that exist at a particular node in the hierarchy; it doesn't contain an attribute of every object in the hierarchy.  
+**Note:** Column views, like other scrolling areas in OS X, are governed by the user's scroll direction setting in System Preferences.  
+Use a column or browser view when there is only one way the data can be sorted or when you want to present only one way of sorting the data. A column view is also useful for displaying a deep hierarchy of data in which users frequently move back and forth among levels.  
+**Display the first or root level of the hierarchy in the leftmost column (in systems that use left-right script).** As users select items, the focus moves to the right, displaying either the child objects at that node or, if there are no more children, the terminal object (a leaf node in the hierarchy). When the userselects a terminal object, you can display additional information about it in the rightmost column.  
+**In general, allows users to resize columns.** This is especially helpful when the names of some items might be too long to display in the default width of a column.

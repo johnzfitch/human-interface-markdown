@@ -1,0 +1,15 @@
+<!-- Chunk 39 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 710 -->
+The application menu, new in Mac OS X, contains items that apply to the application as a whole, rather than to a specific document or other window.  
+<span id="page-41-2"></span>**Figure 4-7** The Mail application menu  
+![](images/_page_41_Picture_3.jpeg)  
+#### <span id="page-41-4"></span><span id="page-41-0"></span>The Application Menu Title  
+To help users identify which application is active, the application menu title is in boldface.  
+The menu title should be one word, and a maximum of 128 pixels wide in the standard menu font (14-point Lucida Grande). If the application name is too long, provide a short name (16 characters or fewer) as part of the application package. The About, Hide, and Quit items should also use the short application name.  
+If you don't provide a short name, the application name is truncated from the end (and an ellipsis is added), if necessary. For more information about how to provide a short application name, see *Inside Mac OS X: System Overview,* available at http:/ /developer.apple.com/techpubs/macosx/macosx.html.  
+#### <span id="page-41-1"></span>The Application Menu Contents  
+<span id="page-41-3"></span>■ **About <appName>.** Opens your application's About box, which contains copyright information and version number. (For more information, see ["About](#page-68-0)  [Boxes" \(page 69\).](#page-68-0)  
+- <span id="page-42-2"></span>■ **Application-wide items.** Put all commands that provide access to the application's preference dialogs first, followed by application-specific items. If your application menu has one "About" command and one "Preferences" command, don't use a menu separator between them. If the menu contains more than one application-specific item, you can use a menu separator to group them.
+- <span id="page-42-7"></span>■ **Services.** Currently available for Cocoa applications, the Services submenu provides a way for one application to offer its capabilities to another application.
+- For example, a user could select a name in a document and choose a Services command that looks up the name using an LDAP server, starts up an email application, and opens a new message window with the found email address in the To field. For more information, see *Inside Mac OS X: System Overview* and the Cocoa documentation available at http://developer.apple.com/techpubs/ macosx/macosx.html.
+- <span id="page-42-3"></span>■ **Hide <appName>.** This command should be preceded by a menu separator, and followed by Hide Others and Show All.
+- <span id="page-42-6"></span><span id="page-42-1"></span>■ **Quit <appName>.** The last item in the application menu should be preceded by a separator. When a user chooses Quit and there are unsaved documents, present the necessary alerts (see ["Saving, Closing, and Quitting Behavior"](#page-79-0)  [\(page 80\)\)](#page-79-0).

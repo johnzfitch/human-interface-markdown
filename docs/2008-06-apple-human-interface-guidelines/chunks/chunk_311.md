@@ -1,0 +1,4 @@
+<!-- Chunk 311 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 140 -->
+A **push button** performs an instantaneous action,such assaving a document, completing operations defined by a dialog, or acknowledging an error message. Push buttons are designed for use in the window body only, not in the window-frame areas (for more information about these window parts, see ["Window](#page-189-0) [Elements"](#page-189-0) (page 190)). Figure 15-7 shows several different usages of the push button.  
+<span id="page-258-0"></span>**Figure 15-7** Examples of push buttons in different types of windows  
+![](images/_page_258_Picture_3.jpeg)

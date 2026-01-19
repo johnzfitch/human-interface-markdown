@@ -1,0 +1,2 @@
+<!-- Chunk 44 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 47 -->
+Standard container views by default are filled with white, not with black or a pattern. If you want users to see through a container view to the views beneath it, you can make it transparent.

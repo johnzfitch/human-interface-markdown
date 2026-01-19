@@ -1,0 +1,2 @@
+<!-- Chunk 415 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 53 -->
+A dialog that appears when the system or an application needs to communicate information to the user. Alerts provide messages about error conditions and warn users about potentially hazardous situations or actions.

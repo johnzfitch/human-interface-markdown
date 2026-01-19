@@ -1,0 +1,2 @@
+<!-- Chunk 420 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 64 -->
+<span id="page-318-2"></span>A menu that contains items that apply to the application as a whole, rather than to a specific document or other window. The application menu for the current active application appears immediately to the right of the Apple menu.

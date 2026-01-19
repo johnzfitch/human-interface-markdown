@@ -1,0 +1,2 @@
+<!-- Chunk 330 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+Gradient buttons are available in Interface Builder. To create one using Application Kit programming interfaces, use the setBezelStyle: method of NSButtonCell with NSSmallSquareBezelStyle as the argument.

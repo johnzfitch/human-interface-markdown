@@ -1,0 +1,5 @@
+<!-- Chunk 27 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 222 -->
+Feedback helps users know what an app is doing, discover what they can do next, and understand the results of their actions. UIKit controls and views provide many kinds of feedback.  
+**As much as possible, integrate status and other relevant feedback information into your UI.** It's best when users can get thistype of information without taking action or being distracted from their content. For example, Mail displays the update status in the toolbar where it doesn't compete with the user's content.  
+![](images/_page_46_Picture_6.jpeg)  
+**Avoid unnecessary alerts.** An alert is a powerful feedback mechanism, but it should be used only to deliver important—and ideally actionable—information. If users see too many alerts that don't contain essential information, they quickly learn to ignore all alerts. To learn more about using an alert, see ["Alert"](#page-196-1) (page 197).

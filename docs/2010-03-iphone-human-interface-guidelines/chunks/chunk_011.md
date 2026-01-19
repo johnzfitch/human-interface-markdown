@@ -1,0 +1,2 @@
+<!-- Chunk 11 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 121 -->
+This part of *iPhone Human Interface Guidelines* describes ways to think about designing and developing software for iPhone OS. Read the chapters in Part I to learn about the different types of software you can develop for iPhone OS and the design principles you can use to inform your work. You'll also learn how to apply those principlesto specific aspects and tasksin your application,so you can create a superlative product that provides an intuitive and compelling user interface.

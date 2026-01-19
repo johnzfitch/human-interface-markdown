@@ -1,0 +1,3 @@
+<!-- Chunk 163 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 167 -->
+<span id="page-114-5"></span><span id="page-114-4"></span>If a user attempts to drop an item on a destination that does not accept it, the item zooms from its mouse-up location back to its source location (a "zoomback"). The zoomback behavior should also occur when a drop inside a valid destination does not result in a successful operation.  
+<span id="page-114-3"></span>If the user attempts to drag multiple items to a destination that does not accept all of the items, none of the items should be accepted. In such cases you could display a dialog informing the user which type of data the destination accepts and which items in the dragged set cannot be accepted.

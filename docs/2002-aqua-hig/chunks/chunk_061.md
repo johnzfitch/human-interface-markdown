@@ -1,0 +1,4 @@
+<!-- Chunk 61 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 193 -->
+To help users identify the active application, the application menu title is in boldface.  
+In order to fit within the allotted menu bar space, the application menu title should be one word, if possible, and a maximum of 16 characters (128 pixels wide in 14-point Lucida Grande Bold). If the application name is too long, provide a short name (16 characters or fewer) as part of the application package. The Hide, Quit, and About items should also use the short application name.  
+If you don't provide a short name, the application name is truncated from the end (and an ellipsis is added), if necessary. For more information about how to provide a short application name, see *Inside Mac OS X: System Overview,* available at the Mac OS X developer documentation website.

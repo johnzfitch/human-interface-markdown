@@ -1,0 +1,2 @@
+<!-- Chunk 252 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 74 -->
+Pressing the Help key invokes any application help system that has been installed. This is equivalent to pressing Command-? (or Command-/). The sort of help available varies among applications. If a full contextual help system is not available, some sort of useful help screen should be provided.

@@ -1,0 +1,7 @@
+<!-- Chunk 65 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 372 -->
+When appropriate, add a realistic, physical dimension to your application. Often, the more true to life your application looks and behaves, the easier it isfor people to understand how it works and the more they enjoy using it. For example, people instantly know how to use the realistic address book that Contacts on iPad portrays.  
+![](images/_page_55_Picture_7.jpeg)  
+On iPhone, people instantly know what the Voice Memos app does, and how to use it, because it presents a beautifully rendered focal image (the microphone) and realistic controls.  
+![](images/_page_56_Picture_2.jpeg)  
+**Think of the objects and scenes you design as opportunities to communicate with users and to express the essence of your app**. Don't feel that you must strive for scrupulous accuracy. Often, an amplified or enhanced portrayal of something can seem more real, and convey more meaning, than a faithful likeness.  
+**Use appropriate animation to further enhance realism in your application**. In general, it's more important to strive for accuracy in movement than in appearance. This is because people accept artistic license in appearance, but they can feel disoriented when they see movement that appears to defy physical laws. As much as possible, make sure your virtual views and controls mimic the behavior of the physical objects and controlsthey resemble. Convincing animation heightens people'simpression of your application as a tangible, physical realm in which they want to spend time.

@@ -1,0 +1,7 @@
+<!-- Chunk 44 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 291 -->
+A **modal dialog box** puts the user in the state (or "mode") of being able to work only inside the dialog box. It temporarily suspends all other user actions in an application and forces the user to make decisions and respond to the dialog. The user cannot move or resize a modal dialog box, and the user can dismiss it only by clicking its buttons. If the user clicks any other window or on the desktop, the system beeps, but nothing else happens.  
+Modal dialog boxes display their content on a placard-like background. Figure 3-3 shows a modal dialog box.  
+**Figure 3-3** A modal dialog box  
+![](images/_page_59_Picture_6.jpeg)  
+You should restrict your use of modal dialog boxes to occasions when your application needs the user to make a decision before operations can continue. This should be a task-specific, limited interaction that can be quickly resolved. Unless you need the extra restrictions of a non-movable modal dialog box, you should use a movable modal dialog box [\(page 59\)](#page-58-0) whenever possible.  
+For more information on implementing modal dialog boxes, see "Modal Dialog Box Behaviors" in *Macintosh Human Interface Guidelines*.

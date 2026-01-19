@@ -1,0 +1,2 @@
+<!-- Chunk 41 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 93 -->
+The international keyboard has one more key than the U.S. version. The layout of the international version is designed tb conform to the International Standards Organization (ISO) standard. The U.S. keyboard resembles standard American office typewriters. International keyboards have different labels on the keys in different countries, but the overall *layout* is the same.

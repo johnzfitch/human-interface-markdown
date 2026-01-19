@@ -1,0 +1,5 @@
+<!-- Chunk 84 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 181 -->
+Users should be able to open as many windows as they want, but they interact with only one at a time. The **active window** is frontmost and is visually distinct from the other windows onscreen. The controls in active windows have color; controls in inactive windows do not.  
+<span id="page-80-1"></span>**Figure 5-10** Window controls in active and inactive states  
+![](images/_page_80_Picture_9.jpeg)  
+<span id="page-81-3"></span><span id="page-81-2"></span>Starting with Mac OS X version 10.2, users can cycle forward or backward through active document windows using Command-~ (tilde) and Shift-Command-~. Cocoa applications automatically inherit this behavior; Carbon developers must handle appropriate menu commands.

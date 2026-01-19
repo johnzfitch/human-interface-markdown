@@ -1,0 +1,5 @@
+<!-- Chunk 104 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 271 -->
+A navigation bar appears at the upper edge of an application screen, just below the status bar. A navigation bar usually displaysthe title of the currentscreen or view, centered along itslength. When navigating through a hierarchy of information, users tap the back button to the left of the title to return to the previous screen. Otherwise, users can tap content-specific controlsin the navigation bar to manage the contents of the screen.  
+All controls in a navigation bar include a bezel around them, which, in iOS, is the bordered style. If you place a plain (borderless) control in a navigation bar, it automatically converts to the bordered style.  
+On iPhone, changing the device orientation from portrait to landscape can change the height of the navigation bar automatically. On iPad, the height and translucency of a navigation bar does not change with rotation.  
+On iPhone, a navigation bar always displays across the full width of the screen. On iPad, a navigation bar can display within a view, such as one pane of a split view, that does not extend across the screen.

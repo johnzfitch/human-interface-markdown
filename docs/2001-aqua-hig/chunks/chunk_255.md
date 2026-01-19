@@ -1,0 +1,5 @@
+<!-- Chunk 255 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 212 -->
+<span id="page-217-0"></span>The user can open clippings in the Finder and view a representation of the data in a modeless window, similar to the Clipboard window. The user cannot select, copy, or edit any of the contents in these windows.  
+<span id="page-218-6"></span><span id="page-218-0"></span>Mac OS X supports two user help components: Apple Help and help tags. Carbon applications can also use these facilities on Mac OS 8.6 and 9.  
+Apple Help enables you to display HTML files in Help Viewer, a simple browser. You can also display documents with QuickTime content and AppleScript-based automations, and provide context-sensitive assistance.  
+<span id="page-218-7"></span><span id="page-218-5"></span>Help tags, which replace the help balloons introduced in System 7, give your application the ability to identify its interface elements.

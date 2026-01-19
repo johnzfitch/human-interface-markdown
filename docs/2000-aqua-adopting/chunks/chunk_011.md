@@ -1,0 +1,6 @@
+<!-- Chunk 11 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 281 -->
+The Data Browser is a new component of the Carbon Toolbox that provides a standard, easily customized list and column view. Using the Data Browser (which is available only to Carbon applications) gives you a convenient way to provide a consistent user experience; standard keyboard shortcuts and Aqua compliance are built-in. The list view of the Data Browser provides multiple sortable, movable, and resizable columns with no extra programming required. For an example of the Data Browser's column view, see one of the Navigation Services dialogs in Mac OS X.  
+Similar functionality is available to Cocoa developers through three classes of interface objects:  
+- NSOutlineView. You can see an example in the Mailboxes drawer of the Mail application, which can show a multicolumn hierarchy with disclosure triangles.
+- NSTableView. You can see an example in the list of contents of a mailbox in the Mail application. It is multicolumn and row-based.
+- NSBrowser. You can see an example in the Open dialog of a Cocoa-based application. This class provides the same sort of hierarchical data as NSOutlineView in column format.

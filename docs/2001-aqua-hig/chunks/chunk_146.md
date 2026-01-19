@@ -1,0 +1,5 @@
+<!-- Chunk 146 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 255 -->
+<span id="page-134-4"></span>**Progress indicators**, also called progress bars, are used to inform the user about the status of lengthy operations. There are two types:  
+- **Determinate:** Use when the full length of an operation can be determined. The bar moves from left to right, and the user can see how much of the process has been completed. You might use a determinate progress indicator to show the progress of a file conversion.
+- **Indeterminate:** Use when the duration of a process can't be determined. This indicator displays a spinning striped cylinder to indicate an ongoing process. You might use an indeterminate progress indicator to let the user know that the application is attempting a dialup communication connection, for example, when there's no way to accurately determine how long it will take to complete. If an indeterminate process reaches a point where its duration can be determined, switch to a determinate progress indicator.  
+<span id="page-135-0"></span>**Figure 7-25** Progress bars

@@ -1,0 +1,2 @@
+<!-- Chunk 205 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 114 -->
+Capitalize the following items like sentences: checkboxes, field labels, and picker items. Capitalize the following items like book titles: view titles, text button names, and radio buttons. In some contexts it makes sense to capitalize differently, but your should be consistent within an application. See pages [2-5](#page-48-0), [3-4](#page-97-0), [3-18,](#page-111-0) [3-19,](#page-112-0) [4-3](#page-128-0), [4-20,](#page-145-0) and [6-2](#page-169-0).

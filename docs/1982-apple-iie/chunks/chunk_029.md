@@ -1,0 +1,2 @@
+<!-- Chunk 29 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 31 -->
+The program anticipates as much as possible the needs and questions of the user and is prepared to handle them as they arise.

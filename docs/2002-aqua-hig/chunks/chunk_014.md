@@ -1,0 +1,3 @@
+<!-- Chunk 14 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 131 -->
+[General Considerations](#page-260-0) 261 [Installation and File Location](#page-262-0) 263 [Graphic Design](#page-262-1) 263 [Menus](#page-262-2) 263 [Pop-Up Menus](#page-263-0) 264 [Windows](#page-264-0) 265  
+[Utility Windows](#page-265-0) 266 [Scrolling](#page-265-1) 266 [Dialogs](#page-266-0) 267 [Feedback and Alerts](#page-267-0) 268 [The Mouse](#page-268-0) 269 [Keyboard Equivalents](#page-268-1) 269 [Text](#page-269-0) 270 [Icons](#page-269-1) 270 [User Documentation](#page-270-0) 271 [Help Tags](#page-270-1) 271

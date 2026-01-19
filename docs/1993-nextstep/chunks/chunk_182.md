@@ -1,0 +1,2 @@
+<!-- Chunk 182 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 105 -->
+If your application needs to look up data that could be in several places on the system, it should use an ordered path similar to the one used by the Workspace Manager. For example, if an application requires a particular template file that might be supplied either by the user or by the system administrator, it should search for it first in a folder under .... !Library, and then in the same folder under !LocaILibrary.

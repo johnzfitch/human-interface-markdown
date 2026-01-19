@@ -1,0 +1,4 @@
+<!-- Chunk 62 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 149 -->
+This menu item saves a *copy* of the active document under a new name provided by the user. The result is two documents, identical except for their names.  
+When the user opens a document, makes changes to it, and then chooses Save As, the changes are not made to the original document. The changed version of the document is saved under the new name. The active document is no longer the one the user opened, but rather the new one with the new name. .  
+If no changes had been made to the original document when Save As was chosen, then there are two identical documents having different names.

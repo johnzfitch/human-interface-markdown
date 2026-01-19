@@ -1,0 +1,24 @@
+---
+chunk_index: 2609
+ref: "075f8bc6d34b"
+id: "075f8bc6d34bf34a6ace1c30f76009205f5a3fb7bffae3a07f10f78673865c3e"
+slug: "full-document--who-should-read-this-book"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [526, 533]
+token_estimate: 232
+content_sha256: "6b21f366cc4e595cc4e29bed1cb528c8ddab26d2f819cf78ac00e9f896d68cf8"
+compacted: false
+heading_path: ["Who Should Read This Book"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Who Should Read This Book
+
+This book is written for people who design and develop products for use with Macintosh computers. If you are a designer, a human interface professional, or an engineer, this book contains information you can use to design and create products that fit the Macintosh model. It provides background information that can help you plan and make decisions about your product design.
+
+Even if you don't design and develop products for the Macintosh, reading this book will help you to understand the Macintosh interface. This book is appropriate for managers and planners who are thinking about developing Macintosh products, as well as people who are interested in human interface design in general.
+
+This book is written with the assumption that you are familiar with the concepts and terminology used with Macintosh computers and that you have used a Macintosh computer and some Macintosh applications.

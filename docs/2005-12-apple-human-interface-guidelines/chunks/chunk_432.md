@@ -1,0 +1,2 @@
+<!-- Chunk 432 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+A text entry field combined with a drop-down scrolling list. Combo boxes are useful for displaying a list of likely choices while still allowing the user to type in an item not in the list.

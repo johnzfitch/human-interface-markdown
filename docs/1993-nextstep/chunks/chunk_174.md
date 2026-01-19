@@ -1,0 +1,3 @@
+<!-- Chunk 174 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 124 -->
+The NeXTSTEP file system is arranged very much like a traditional UNIX file system. However, by default, when users view the file system in the Workspace Manager, they won't see many of the traditional UNIX folders. Instead, they'll see only a small number of folders that organize the tools and information they most need. Under the root (f) folder, they'll find the following folders:  
+LocalAdmin LocalApps LocalDeveloper LocalLibrary me Net NextAdmin NextApps NextDeveloper N extLibrary *user*

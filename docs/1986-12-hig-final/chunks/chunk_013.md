@@ -1,0 +1,6 @@
+<!-- Chunk 13 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 298 -->
+Users make mistakes; forgive them.  
+The user's actions are generally reversible—let users know about any that aren't.  
+Even though users like to have full documentation with their software, they don't like to read manuals (do you?). They would rather figure out how something works in the same way they learned to do things when they were children: by exploration, with lots of action and lots of feedback.  
+As a result, users sometimes make mistakes or explore a bit farther than they really wanted to. Make your application tolerant and forgiving. This means letting users do anything reasonable, letting them know they won't break anything, always warning them when they're entering risky territory, then allowing them to either back away gracefully or to plunge ahead, knowing exactly what the consequences are. Even actions that aren't particularly risky should be reversible. Tell the users about any exceptions to this rule.  
+When options are presented clearly and feedback is appropriate and timely, learning is relatively error-free. Alert messages should therefore be infrequent. If the user is subjected to a barrage of alert messages, something is wrong in the program design.

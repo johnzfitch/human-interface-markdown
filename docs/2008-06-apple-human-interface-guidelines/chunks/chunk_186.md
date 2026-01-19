@@ -1,0 +1,6 @@
+<!-- Chunk 186 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 233 -->
+<span id="page-137-4"></span>Icons for utility applications—which are used less often and not simply for fun or creative activities— convey a more serious tone than those for user applications. Color in these icons is desaturated, predominantly gray, and added only when necessary to clearly communicate what the applications do.  
+**Figure 11-8** Discriminating use of color in the Activity Monitor and System Profiler icons  
+![](images/_page_137_Figure_12.jpeg)  
+![](images/_page_137_Picture_13.jpeg)  
+<span id="page-137-2"></span>Because utility applications are normally focused on a narrow set of tasks, it's best to keep the number of elements in the icon to a minimum. The focus should be a single object that represents what the utility does. The perspective of utility icons is straight-on, as if they are on a shelf in front of you. For more information, see "Icon [Perspectives](#page-140-0) and Materials" (page 141).

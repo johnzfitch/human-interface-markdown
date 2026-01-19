@@ -1,0 +1,2 @@
+<!-- Chunk 23 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 103 -->
+Webpages that are optimized for Safari on iPhone display and operate as designed (with the exception of any elements that rely on unsupported technologies, such as plug-ins, Flash, and Java). In addition, an optimized webpage correctly scales content for the device screen and is often designed to detect when it is being viewed on iPhone OS–based devices, so that it can adjust the content it provides accordingly.

@@ -1,0 +1,34 @@
+---
+chunk_index: 1319
+ref: "1abc92985b46"
+id: "1abc92985b4612aa47fb44a2b71e07031c4bd92e090c3acca83686fde6cd6099"
+slug: "full-document--scroll-bars"
+path: "marker/1986-12 Human Interface Guidelines (Final Draft)/full_document.md"
+kind: "markdown"
+lines: [747, 764]
+token_estimate: 468
+content_sha256: "0afded04816a79f271841114e62e86c27ead29e5067dd76efa60859a5cd5c82d"
+compacted: false
+heading_path: ["Scroll bars"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Scroll bars
+
+Scroll bars are used to change which part of a document view is shown in a window. Only the active window can be scrolled.
+
+A scroll bar is a light gray rectangle having on each end an arrow in a square box. A window can have either a vertical scroll bar or a horizontal scroll bar, or both. Vertical scroll bars are on the right side of the associated window; horizontal scroll bars run along the bottom of the window. Inside the scroll bar is a white rectangle called the scroll box. The rest of the scroll bar is the gray area. See Figure 16.
+
+![](images/_page_53_Picture_3.jpeg)
+
+Figure 16 Vertical scroll bar
+
+A scroll bar represents one dimension (either top to bottom or left to right) of the entire document. The scroll box represents the relative location, in the whole document, of the portion currently seen in the window. The scroll box may also represent the relative amount of the document that can be seen in the window (see "Proportional scroll boxes" in this chapter).
+
+If the user "moves" the document by clicking either a scroll arrow or in the gray area, the scroll box moves along with it. If the user drags the scroll box, the document "moves" along with it. If the document is no larger than the window, the scroll bars are inactive (the scrolling apparatus isn't shown in them). If the document window is inactive, the scroll bars aren't shown at all.
+
+44
+
+There are several ways the user can move a document under the window: sequential scrolling with the scroll arrows, "paging" windowful by windowful through the document, and dragging the scroll box. These are described in the following sections. There is also the automatic scrolling that takes place when the user drags the pointer past the window boundary or types at the bottom of the window. To experience these first hand, try them out in an application such as MacWrite.

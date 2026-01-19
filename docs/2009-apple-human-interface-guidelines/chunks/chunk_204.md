@@ -1,0 +1,12 @@
+<!-- Chunk 204 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 618 -->
+A window consists of window-frame areas and a window body. The window-frame areas include the title bar, the toolbar, and the bottom bar (note that in Mac OS X v10.5 and later, the toolbar is not visually distinct from the title bar). The window body is the main content area that extends from the bottom edge of the title bar (or toolbar, if present) to the bottom edge of the window, not including the bottom bar, if one is present. The toolbar and the bottom bar are optional elementsthat not all windows have. Figure 14-2 shows examples of these areas in different windows.  
+<span id="page-192-0"></span>**Figure 14-2** Toolbars and bottom bars are optional window parts  
+![](images/_page_192_Picture_3.jpeg)  
+In Mac OS X v10.5 and later, no window-frame surface is visible on the sides of windows; the window-body area, the toolbar, and the bottom bar stretch from the left edge to the right edge. Users can drag a window from any window-frame area, including a bottom bar.  
+All window-frame areas have a gray gradient surface. In the window body, content views (such as text or column views) display a white background by default; the surrounding window-body background is a shade of light gray.  
+**Important:** In Mac OS X v10.5 and later, there are no brushed metal windows. Windows that were designed as brushed metal windows to run in earlier versions of Mac OS X should adopt the Leopard look in Mac OS X v10.5. For the most part this is automatic. You may need to adjust your layout so that no window-frame material is visible on the sides of the window and you should ensure that the controls you used in the toolbar are still appropriate. See ["Window-Frame](#page-254-1) Controls" (page 255) for more information on appropriate controls and "Legacy Toolbar [Controls"](#page-263-0) (page 264) for some transition advice.  
+Figure 14-3 shows the Address Book application's transition from brushed metal to the Leopard look. Notice the removal of all window-frame surface on the sides, the use of appropriate toolbar and bottom-bar controls, and the adoption of the "zero-width" splitters that are standard in Mac OS X v10.5 (for more information about this control, see "Split [Views"](#page-335-0) (page 336)).  
+<span id="page-193-1"></span>**Figure 14-3** A brushed metal window designed for Tiger changes its look for Leopard  
+![](images/_page_193_Picture_3.jpeg)  
+![](images/_page_193_Picture_4.jpeg)  
+Address Book on Tiger Address Book on Leopard

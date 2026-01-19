@@ -1,0 +1,9 @@
+<!-- Chunk 26 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 413 -->
+This document identifies three application styles, based on visual and behavioral characteristics, data model, and user experience. Before you read further, it's important to emphasize that these varieties are named and described to help you clarify some of your design decisions, not to imply that there is a rigid classification scheme that all iPhone software must follow. Instead, these styles are described to help you see how different approaches can be suitable for different types of information and functionality.  
+The iPhone OS Platform: Rich with Possibilities  
+**Note:** Bear in mind that application style does not dictate implementation method. This document focuses on designing native iPhone applications, but the application styles explored here can be implemented in web or hybrid applications for iPhone OS–based devices.  
+As you read about these three application styles, think about how the characteristics of each might enhance your proposed feature set and the overall user experience you plan to deliver in your iPhone application. To help you discover the combination of characteristics that best suit your application, keep the following questions in mind as you learn about different design styles for iPhone applications:  
+- What do you expect to be the user's motivation for using the application?
+- What do you intend to be the user's experience while using the application?
+- What is the goal or focus of your application?
+- <span id="page-18-0"></span>■ How does your application organize and display the information people care about? Is there a natural organization associated with the main task of the application?

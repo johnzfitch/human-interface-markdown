@@ -1,0 +1,19 @@
+<!-- Chunk 85 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 888 -->
+Character keys include keys for letters, numbers, and punctuation, as well as the Space bar. If the user presses one of these keys while entering text, the corresponding character is added to the text. The Enter, Tab, Return, Backspace, and Clear keys are also treated like character keys; while the result of pressing one of these keys depends on the application and the context, it is essential that they be used consistently, as described in the following paragraphs.  
+#### Enter  
+The Enter key tells the application that the user is through entering information in a particular area of the document, such as a field in an array. Most applications add information to a document as soon as the user types or draws it. However, the application may need to wait until a whole collection of information is available before processing it. In this case, the user presses the Enter key to signal that the information is complete. Enter (like Return) can be used to dismiss dialog and alert boxes.  
+#### Tab  
+In text-oriented applications, the Tab key is used to move the insertion point to the next tab stop. In other contexts, Tab is a signal to proceed: it signals movement to the next item in a sequence. Pressing Tab often causes an Enter operation before the tab takes place.  
+#### Return  
+The Return key is another signal to proceed, but it defines a different type of motion than Tab. Pressing Return signals movement to the leftmost field one step lower on the display (like a carriage return on a typewriter). Return (like Tab) can cause an Enter operation before the Return operation. Return (like Enter) can be used to dismiss dialog and alert boxes.  
+While the user is entering text into a text document (but not necessarily into a spreadsheet document, etc.), pressing Tab moves the insertion point to the next tab stop, pressing Return moves it to the beginning of the next line, and pressing Enter is ignored.  
+#### **Backspace and Delete**  
+The Backspace or Delete key deletes text or graphics. Generally, if a selection has been made, pressing Backspace or Delete deletes the selection without putting it in the Clipboard—and without backspacing the insertion point. If there is no selection, pressing Backspace or Delete deletes the character to the left of the insertion point without putting it in the Clipboard.  
+#### Clear  
+The Clear key has the same effect as the Clear command in the Edit menu; that is, it removes the selection from the document without putting it in the Clipboard. Because not all Apple computers have Clear keys, no application should ever *require* use of the Clear key.  
+#### Escape  
+The Escape key has the general meaning "let me out of here." It's a sort of panic button for the new user. In certain contexts its meaning is specific:  
+- The user can press Escape as a quick way to indicate Cancel in a dialog box.
+- The user can press Escape to stop an operation in progress, such as printing (like pressing Apple-period).  
+If an application absolutely requires a series of dialog boxes (a fresh look at program design usually eliminates such sequences), the user should be able to use Escape to move backward through the boxes.  
+Pressing Escape should never cause the user to back out of an operation that would require extensive time or work to re-enter. And pressing Escape should never cause the user to lose valuable information. When the user presses Escape during a lengthy operation , the application should display a confirmation dialog to be sure Escape wasn't pressed accidentally.

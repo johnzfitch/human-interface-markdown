@@ -1,0 +1,10 @@
+<!-- Chunk 78 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 457 -->
+Using Quick Look, users can preview a document within your app, even if your app can't open the document. For example, you might allow users to preview documents that they download from the web or receive from other sources.  
+![](images/_page_123_Picture_2.jpeg)  
+To learn more about how to support Quick Look document preview in your app, see *Document Interaction Programming Topics for iOS* .  
+Before users preview a document in your app, they can see information about the document in a custom view that you create. For example, after users download a document attached to an email message, Mail displays the document's icon, title, and size in a custom view within the message. Users can tap this view to preview the document.  
+![](images/_page_123_Picture_5.jpeg)  
+You can present a document preview in a new view in your app, or in a full-screen, modal view. The presentation method you choose depends on which device your app runs on.  
+**On iPad, display a document preview modally.** The large iPad screen is appropriate for displaying a document preview in an immersive environment that users can easily leave. The zoom transition is especially well-suited to reveal the preview.  
+**On iPhone, display a document preview in a dedicated view, preferably a navigation view.** Doing this allows users to navigate to and from the document preview without losing context in your app. Although it's possible to display a document preview modally in an iPhone app, it's not recommended. (Note that the zoom transition is not available on iPhone.)  
+Also, note that displaying a document preview in a navigation view allows Quick Look to place preview-specific navigation controlsin the navigation bar. (If your view already contains a toolbar, Quick Look placesthe preview navigation controls in the toolbar, instead.)

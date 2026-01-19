@@ -1,0 +1,2 @@
+<!-- Chunk 5 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 87 -->
+The user is not required to do any initialization when the computer is turned on. There is no sign-on unless protected things will be used. When first turned on, after inserting the Apple-supplied diskettes, LISA comes up executing a program (i.e. displays a collection of folders) to teach the use of the mouse, and possibly other system features.

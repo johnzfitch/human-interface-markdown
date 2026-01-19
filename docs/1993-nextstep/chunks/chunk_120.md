@@ -1,0 +1,3 @@
+<!-- Chunk 120 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 90 -->
+If your application can open only certain types of files, then it should show only those files in this Application Kit panel.  
+The Open panel should come up showing the folder of the most recent main window (since the application started up). If the application has had no main window since it started up, then the Open panel should show the user's home folder.

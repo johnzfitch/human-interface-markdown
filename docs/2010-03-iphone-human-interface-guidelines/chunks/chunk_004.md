@@ -1,0 +1,2 @@
+<!-- Chunk 4 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 112 -->
+Activity [Indicators](#page-106-1) 107 Date and Time [Pickers](#page-107-0) 108 Detail [Disclosure](#page-109-0) Buttons 110 Info [Buttons](#page-109-1) 110 [Labels](#page-110-0) 111 Page [Indicators](#page-111-0) 112 [Pickers](#page-113-0) 114 [Progress](#page-114-0) Views 115 Rounded [Rectangle](#page-115-0) Buttons 116 [Search](#page-115-1) Bars 116 [Segmented](#page-117-0) Controls 118 [Sliders](#page-118-0) 119 Text [Fields](#page-119-0) 120

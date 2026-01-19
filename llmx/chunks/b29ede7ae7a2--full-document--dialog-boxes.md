@@ -1,0 +1,61 @@
+---
+chunk_index: 1950
+ref: "b29ede7ae7a2"
+id: "b29ede7ae7a23269cfa1517570dab9ab04bd85b825524bdf3efd5be524b272c1"
+slug: "full-document--dialog-boxes"
+path: "marker/1987 Apple Human Interface Guidelines - The Apple Desktop Interface/full_document.md"
+kind: "markdown"
+lines: [1352, 1396]
+token_estimate: 1204
+content_sha256: "6ddbeb3a2af165e2af6ddd4729ad328b51307a9bedc05dd88a6d5bf70b9a773b"
+compacted: false
+heading_path: ["Dialog boxes"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Dialog boxes
+
+Commands in menus normaly act on only one object. If <sup>a</sup> command needs more information before it can be performed, it presents <sup>a</sup> dialog box to gather the additional information from the user. The user can tell which commands will use a dialog box to get more information because these commands are followed by an ellipsis (...) in the menu.
+
+A dialog box is <sup>a</sup> rectangle that may contain text, controls, and icons. There should be some text in the box that indicates which command caused the dialog box to appear and what the function of the box is.
+
+The user sets controls and fills text fields in the dialog box to provide the needed information. When the application puts up the dialog box, it should set the controls to some default setting and fill in the text fields with default values, if possible. One of the text fields (the "first" field) should be highlighted, so that the user can change its value just by typing in the new value. If all the text fields are blank, there should be an insertion point in the first field.
+
+In general, dialog boxes should be laid out with the most important information and controls at the top left, working down to the less important information, ending with the default button—the button most likely to be clicked—at the lower right. In Western countries, people are used to reading and writing from left to right and top to bottom, so this is the most natural way to fill in information.
+
+Editing text fields in a dialog box should conform to the guidelines detailed under "Editing Text" later in this chapter.
+
+After editing an item, the user has two options:
+
+- a Pressing the Tab key accepts the changes made to the item and selects the next field in sequence.
+- D Clicking in another field accepts the changes made to the previous item and selects the newly clicked field.
+
+Dialog boxes can be either modal or modeless.
+
+A modal dialog box is one that the user must explicitly dismiss before doing anything else, such as making a selection outside the dialog box or choosing a command. Figure 3-13 shows an example of a modal dialog box.
+
+![](images/_page_72_Picture_0.jpeg)
+
+Figure 3-13 A modal dialog box
+
+Because it restricts the user's freedom of action, you should use this type of dialog box sparingly. In particular, the user can't choose a menu item while a modal dialog box is up and therefore can do only the simplest kinds of text editing. For these reasons, the main use of a modal dialog box is when it's important for the user to complete an operation before doing anything else.
+
+A modal dialog box usually has at least two buttons: OK and Cancel. OK dismisses the dialog box and performs the original command according to the information provided. It can be given a more descriptive name than Yes or OK: "Start printing," for example. Cancel dismisses the dialog box and cancels the original command. It should always be called Cancel.
+
+A dialog box can have other kinds of buttons as well. These may or may not dismiss the dialog box. The **default button** (the most likely choice in the current situation) is doubly outlined to call attention to it. It is usually in the lower-right corner of the box. In Figure 3-13, OK is the default button. The user can activate the default button simply by pressing Return or Enter on the keyboard. If there's no default button, Return and Enter have no effect and the user must click in one of the screen buttons.
+
+A special type of modal dialog box is one with no buttons. This type of box just informs the user of a situation without eliciting any response. It usually describes the progress of an ongoing operation, then disappears. Because it has no buttons, the user has no way to control or dismiss it. It must remain on the screen long enough for the user to read it.
+
+A modeless dialog box allows the user to perform other operations without dismissing the dialog box. Figure 3-14 shows an example of a modeless dialog box.
+
+![](images/_page_72_Picture_7.jpeg)
+
+Figure 3-14 A modeless dialog box
+
+A modeless dialog box isdismissed by clicking in the close box or by choosing Close. The dialog box is also dismissed implicitly when the user chooses Quit. The application should remember the contents of the dialog box after the box isdismissed, so that when the application is opened again, the dialog box can be restored exactly as it was.
+
+Controls work the same way in modeless dialog boxes as in modal dialog boxes, except that buttons never dismiss the dialog box. In this context, the OK button means "go ahead and perform the operation, but leave the dialog box up," whereas the Cancel button usually terminates an ongoing operation.
+
+A modeless dialog box can also have text fields, which the user can edit with the commands in the Edit menu.

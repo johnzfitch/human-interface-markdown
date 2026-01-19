@@ -1,0 +1,8 @@
+<!-- Chunk 322 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 333 -->
+**Important:** Scope buttons are designed to be used in scope bars and related filter rows only. They are not intended to be used in the toolbar or bottom-bar areas or outside of a scope bar in the window body.  
+The recessed scope button style is used to display types or groups of objects or locations the user can select to narrow the focus of a search or other operation. For example, Dictionary displays recessed scope buttons that allow users to look up a word in a dictionary, a thesaurus, an Apple terminology database, Wikipedia content, or in all locations simultaneously. Figure 15-12 shows the recessed scope buttons used in Dictionary.  
+<span id="page-263-0"></span>**Figure 15-12** Recessed scope buttons used to define the scope of a look-up  
+![](images/_page_263_Picture_3.jpeg)  
+<span id="page-263-1"></span>The round rectangle scope button style is used to allow users to save a set of search criteria and to change or set scoping criteria. For example, the Finder uses round rectangle scope buttons to display search criteria, such as creation and last opened dates, and to provide a save search button. Figure 15-13 shows the round rectangle scope buttons used in the Finder.  
+**Figure 15-13** Round rectangle scope buttons used to save, change, and set scoping criteria  
+![](images/_page_263_Picture_6.jpeg)

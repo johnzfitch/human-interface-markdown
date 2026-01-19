@@ -1,0 +1,2 @@
+<!-- Chunk 129 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 57 -->
+<span id="page-94-0"></span>Pressing the Help key may invoke the application's help in Help Viewer. The key combination Command-Shift-/ (sometimes shortened to Command-?) should always display the application's help in Help Viewer.

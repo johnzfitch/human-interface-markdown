@@ -1,0 +1,29 @@
+<!-- Chunk 157 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 1456 -->
+Users can send items from any application that has an Action button, which is a picture button that looks like the back of an envelope. To send the currently selected data item, a user picks a routing action from the Action picker that pops up when the user taps an Action button. The Action picker lists all transports capable of sending the currently selected data item, and it may list other actions provided by the application. Figure 7-4 shows a sample Action button and picker.  
+**Figure 7-4** An Action picker lists the transports available for sending  
+![](images/_page_213_Picture_5.jpeg)  
+The routing action that a user chooses from an Action picker applies to the data in the view that contains the Action button. If the view contains multiple data items that can be individually selected, such as the items listed in an overview, then the routing action picked by the user applies to the currently selected items.  
+If there is nothing to route when a user taps an Action button (for example, if the user taps the Action button in an overview without first selecting any items), the system displays a notification alert containing the message "Nothing is selected." The warning message does not appear in an application that defines its own Action-picker items unless the application removes those items when there is nothing to act on. Your application can include actions that can function without a target item; in this case your application should not disable those actions, and the warning message will not appear.  
+#### <span id="page-214-0"></span>An Action Button's Location 7  
+The scope of an Action button determines where it should be located. If an Action button can affect all the data in a view, it should go at the bottom right corner of the view, next to the view's Close box. For example, the main view of the Names File application has one Action button, and it affects all data in the view. In the backdrop application, which has no Close box, the Action button goes at the bottom right corner of the application's main view. Figure 7-5 shows examples of views with one Action button each.  
+**Figure 7-5** An Action button at the bottom of a view affects the entire view  
+![](images/_page_214_Figure_5.jpeg)  
+<span id="page-215-0"></span>In a view where an Action button can only affect one data item of several that may be displayed (perhaps by scrolling the view), there should be an Action button above each item, at the right side of the view. Generally, such a view has a separator bar above each data item, and an Action button should be at the right end of each separator bar. For example, each note in the Notepad application has its own Action button, which applies just to that note. Figure 7-6 shows an example of Action buttons above each data item in a view.  
+**Figure 7-6** An Action button above an item affects only that item  
+| Action button on<br>a separator bar |  |
+|-------------------------------------|--|
+|                                     |  |
+|                                     |  |  
+#### Action Picker Contents 7  
+An Action picker lists the routing actions available for the particular class of data that is currently selected. There are two types of routing actions that can appear in an Action picker:  
+- Routing actions corresponding to transports installed in the Newton device, such as Print, Fax, Beam, and Mail
+- Application-defined actions, such as Delete and Duplicate, that do not involve the In/Out Box or a transport  
+Actions based on transports that work with the type of data being routed are listed at the top of an Action picker. Application-defined action commands appear at the bottom of an Action picker, below a separator line. [Figure 7-7](#page-216-0) illustrates the two parts of an Action picker.  
+<span id="page-216-0"></span>**Figure 7-7** An Action picker can include two kinds of actions  
+![](images/_page_216_Picture_3.jpeg)  
+Note that the first action listed in an Action picker has the name of the target item appended to it (for example, "Print Note"). Other actions listed in the same picker do not have the name of the target item appended.  
+A Newton device has certain transports built in; the exact configuration depends on the capabilities of the device. For example, an Apple MessagePad 120 comes with transports for printing, faxing, e-mailing, and beaming. Users can install additional transports at any time.  
+#### Building an Action Picker 7  
+The system builds every Action picker dynamically, at the time a user taps an Action button. This allows all applications to take advantage of new transports that might be installed in the Newton device at any time. Because the system is responsible for building an Action picker, an application need not know anything about the available transports. Likewise, transports can be removed from the system without any effects on applications. The Newton system matches the transports to the data being routed, creating the Action picker on demand.  
+Instead of naming an individual transport, any action listed in an Action picker may name a group of related transports. For example, there might be several different e-mail transports listed as a group under the single action "Mail." After picking the Mail action, a user would have an opportunity to select one of the available e-mail transports, as described in ["Transport](#page-223-0)  [Picker" on page 7-18](#page-223-0).  
+<span id="page-217-0"></span>In addition to putting transports and transport groups at the top of an Action picker, the system puts application-defined actions at the bottom of the picker. An application can define actions that appear in all its Action pickers. It can also define a different set of actions for the Action picker in a specific view (and the views it contains).

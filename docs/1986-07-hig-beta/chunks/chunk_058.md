@@ -1,0 +1,3 @@
+<!-- Chunk 58 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 134 -->
+One of the most effective ways to make applications consistent with one another is to use standard menus. The operations controlled by these menus occur so frequently that it saves considerable time for users if they always match exactly. Do *not* make up your own menus and then give tl?em the same names as standard menus.  
+Three of these menus, the Apple, File, and Edit menus, appear in almost every application. The Font, FontSize, and Style menus affect the appearance of text and appear only in applications where they're relevant

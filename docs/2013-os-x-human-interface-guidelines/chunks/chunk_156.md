@@ -1,0 +1,3 @@
+<!-- Chunk 156 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 115 -->
+Keyboard shortcuts can provide an easy way forsophisticated usersto perform actions, but they're not required. If you can't find a unique and easy-to-use keyboard shortcut for a command, don't use one at all; keep in mind that users may have difficulty pressing multiple modifier keys anyway.  
+**Important:** Alwaysrespect the system-reserved keyboard shortcutsin your app so that users aren't confused when the shortcuts they know work differently in your app.

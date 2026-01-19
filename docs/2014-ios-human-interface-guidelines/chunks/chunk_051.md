@@ -1,0 +1,3 @@
+<!-- Chunk 51 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 116 -->
+An **app definition statement** is a concise, concrete declaration of an app's main purpose and its intended audience.  
+Create an app definition statement early in your development effort to help you turn an idea and a list of features into a coherent product that people want to own. Throughout development, use the definition statement to decide if potential features and behaviors make sense. Take the following steps to create a robust app definition statement.

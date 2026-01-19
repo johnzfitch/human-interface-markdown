@@ -1,0 +1,8 @@
+<!-- Chunk 238 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 349 -->
+Document and application windows always display active close and minimize buttons. (See ["Closing](#page-215-1) [Windows"](#page-215-1) (page 216) and ["Minimizing](#page-215-0) and Expanding Windows" (page 216) for details on what the close and minimize buttons do.) Include the zoom button if the window can be adjusted in size. Information on how the zoom button works is in "Resizing and Zooming [Windows"](#page-214-1) (page 215).  
+<span id="page-193-2"></span>Panels always display an active close button but never an active minimize button.  
+If buttons are not active, they should at least all be present in an inactive state. The exception is in panels, where it is acceptable to display only one button, the close button. For more information on panels, including information on their title bar buttons, see ["Panels"](#page-221-0) (page 222).  
+Alerts and modal dialogs do not display any of these buttons.  
+<span id="page-193-0"></span>The title barshould include a toolbar control if a toolbar is present in the window (see ["Toolbars"](#page-195-0) (page 196)). Figure 14-7 shows the appropriate configurations of title bar buttons for standard windows (and alerts and modal dialogs); [Figure](#page-223-1) 14-39 (page 224) shows appropriate title bar button configurations for panels.  
+**Figure 14-7** Title bar buttons for standard windows  
+![](images/_page_193_Picture_9.jpeg)

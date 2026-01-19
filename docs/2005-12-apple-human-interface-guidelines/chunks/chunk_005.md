@@ -1,0 +1,2 @@
+<!-- Chunk 5 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 90 -->
+[Fonts](#page-118-1) 119 [Style](#page-119-0) 120 [Inserting Spaces Between Sentences](#page-120-0) 121 [Using the Ellipsis Character](#page-120-1) 121 [Labels for Interface Elements](#page-121-0) 122 [Capitalization of Interface Elements](#page-121-1) 122 [Using Contractions in the Interface](#page-122-0) 123 [Developer Terms and User Terms](#page-122-1) 123

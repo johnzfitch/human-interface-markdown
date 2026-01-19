@@ -1,0 +1,3 @@
+<!-- Chunk 44 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 141 -->
+Because the arrow keys generate the same character codes as the Symbol font's arrow characters, text objects should check which key generated the character. The arrow keys never produce visible arrow characters. However, when a nonarrow key (perhaps modified by the Alternate key) produces an arrow character code, it *should* produce visible arrow characters, and not result in arrow key functionality.  
+For example, Alternate-F should produce a visible left arrow symbol, as shown in the *User's Guide,* instead of moving the insertion point left one character.

@@ -1,0 +1,14 @@
+<!-- Chunk 100 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 687 -->
+If a list of picker items is extremely long, index tabs won't be enough to prevent interminable scrolling. What happens is a user taps a tab and immediately sees the beginning of the corresponding section of picker items, but the user still must scroll several times to find an item that's not near the beginning of that section. For example, imagine one picker that lists several hundred cities from around the world.  
+The solution to this situation is to create a two-level hierarchy of list pickers. The first-level picker contains a set of picker items and a diamond label. Tapping the diamond label pops up a second-level picker that lists different sets of picker items for the first-level picker. Picking an item in the second-level picker determines which set of items appear in the first-level picker. For example, compared to a single picker that lists hundreds of cities, a two-level picker hierarchy simplifies picking a city anywhere in the world. The firstlevel picker lists cities for just one country and contains the name of the country as a diamond label. A user can pick one of the listed cities or tap the diamond label to pop up a second-level picker that lists other countries. If the user picks a country, then the first-level picker changes to list that country's cities. [Figure 4-11](#page-140-0) shows how the city and country hierarchical pickers work.  
+**Figure 4-11** How a two-level hierarchy of list pickers works  
+<span id="page-140-0"></span>![](images/_page_140_Figure_3.jpeg)  
+![](images/_page_140_Figure_4.jpeg)  
+![](images/_page_140_Figure_5.jpeg)  
+List Pickers **4-15**  
+#### <span id="page-141-0"></span>Number Picker  
+A number picker displays a number that a user can change by tapping the digits of the number itself. The digits are large and are split into top and bottom halves to make them easy for users to target. Tapping the top half of a digit increases it, and tapping the bottom half of a digit decreases it. Designed initially to replicate the old "mechanical digital" alarm clocks, the look of the number picker evolved so that only the flipping digits remain. Figure 4-12 shows an example number picker.  
+Figure 4-12 A number picker simplifies specifying a numerical value  
+![](images/_page_141_Figure_5.jpeg)  
+Like a list picker, a number picker pops up when a user taps its label, which begins with a diamond. Because a user may have to tap several times to specify a number, a number picker has a Close box. Tapping the Close box confirms the specified number and makes the picker go away. A user can cancel and close the picker by tapping anywhere outside it.  
+Specialized number pickers for specifying dates and times are used in other pickers described in the next two sections.

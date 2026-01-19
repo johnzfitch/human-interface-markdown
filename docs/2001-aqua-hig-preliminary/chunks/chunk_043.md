@@ -1,0 +1,2 @@
+<!-- Chunk 43 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 83 -->
+If your application provides onscreen help (and it should), the Help menu is always the rightmost menu. The first item is the name of the application and the word "Help" (Mail Help, for example). If necessary, you can add more items to the Help menu. For information about creating help content, see ["Help" \(page 173\)](#page-172-0).

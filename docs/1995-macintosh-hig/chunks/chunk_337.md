@@ -1,0 +1,4 @@
+<!-- Chunk 337 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 180 -->
+This checklist contains questions about the Macintosh interface that you can ask yourself while reviewing software. These questions will help bring to mind the particulars of the guidelines.  
+The questions here cover all the guidelines except those for selection. The selection standards of the guidelines are detailed, so refer to "Selecting" on page 286 in Chapter 10, "Behaviors," for information about them.  
+You must be able to answer every question "yes" to ensure conformity with the guidelines. However, sometimes it is necessary to make tradeoffs in your application in order to provide the most usable interface. Remember to maintain the spirit of the guidelines and the principles when reviewing your product.

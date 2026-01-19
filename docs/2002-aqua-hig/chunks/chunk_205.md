@@ -1,0 +1,6 @@
+<!-- Chunk 205 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 241 -->
+A user can extend a selection by holding down the Shift key and clicking the mouse button. This action is called **Shift-clicking.**  
+<span id="page-186-3"></span><span id="page-186-2"></span>A Shift-click should result in a **continuous selection**—the selection is extended to include everything between the old anchor point and the new active end. Graphics applications typically support **discontinuous selection,** in which the user can extend a selection by adding nonadjacent objects to already selected objects, and the objects *between* the current selection and the new object are *not* included in the selection. A Command-click should result in a discontinuous selection.  
+In text, if the user Shift-clicks within an already selected range, the new range is smaller than the old range.  
+In an array, a Shift-click can extend the selected range or it can move the selection from the current cell to wherever the user Shift-clicks.  
+Selecting **187**

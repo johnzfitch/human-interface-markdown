@@ -1,0 +1,22 @@
+<!-- Chunk 303 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 1032 -->
+Figure 16-1 shows a very simple preferences window. Note that an application with more extensive preferences probably would use a toolbar in the preferences window to provide access to different categories of preferences (see, for example, [Figure](#page-246-1) 14-54 (page 247)).  
+<span id="page-351-1"></span>**Figure 16-1** Preferences window example  
+![](images/_page_351_Picture_5.jpeg)  
+This window provides a good example of a center-equalized layout. **Center equalization** simply means that the visual weight is balanced on the right and left side of the content area. It does not mean **center justification**, where the left and right sides of an imaginary vertical line drawn through the center of a window contain exactly the same number of items or characters.  
+In Mac OS X, content should always be center-equalized inwindows and panes. The shadingin Figure 16-2 highlights this equalization. Notice that although the right side of the vertical line has more objects, it is balanced by the category labels on the left. The net result is a visually balanced window.  
+<span id="page-352-0"></span>**Figure 16-2** Example center-equalization in a preferences window  
+![](images/_page_352_Picture_3.jpeg)  
+When labels and controls are stacked in agroup, theyshould line upwith each other vertically. When controls are verticallyaligned, it helps users see at aglance that the controls are similar in importance and that one control does not depend on another. Of course, if there is a hierarchy of controls in your window and, for example, one control depends on another, you can indent the subordinate control to showits relationship to the control onwhich it depends. (See[Figure](#page-286-0) 15-24 (page 287) for an example of interdependent checkboxes.)  
+Figure 16-3 shows the vertical alignment of controls and labels in a window. Note that the colons for the main categorylabels are right-aligned,whereas the checkboxes and radio buttons are left-aligned. Right-alignment of the labels makes it easierto see the relationship between each label and the controls it describes.  
+<span id="page-353-0"></span>**Figure 16-3** Example label and control alignment in a preferences window  
+![](images/_page_353_Picture_3.jpeg)  
+In addition to ensuring that your content is center-equalized and appropriately aligned, it's also important to use proper spacing in your window. Appropriate spacing not only makes a window look attractive and well-designed, but also makes it much easier for users to understand and use. When the margins inside the window edges and the spaces between user interface elements are adequate and consistent it helps to show the relationships between groups of controls and the overall flow of the window. For more examples of using white space appropriately, see ["Grouping](#page-363-1) With White [Space"](#page-363-1) (page 364).  
+The preferences window used as an example in this section uses white space in a consistent way. For example, in Figure 16-4 you can see:  
+- The same amount of space above and below each horizontal separator (the window in Figure 16-4 uses 12 pixels above and below each horizontal separator).
+- Equal margins on both sides and the bottom edge of thewindow(thewindowin Figure 16-4 uses a 20-pixel margin in these areas).
+- The same amount of space between individual controls (the window in Figure 16-4 uses 8 pixels between individual controls).  
+For the recommended spacing between members in a set of controls, such as between each radio button in a radio-button group, see the section that describes that control.  
+In addition, thewindowin Figure 16-4 uses a 14-pixel margin between the top controls and the bottom edge of the title bar (this margin would be the same width if the window contained a toolbar). Also, the controls in the main part of the window are separated from the Help button at the lower edge of the window by an 18-pixel space (a space of at least 16 pixels is recommended).  
+Layout Guidelines  
+<span id="page-354-1"></span>**Figure 16-4** Example layout of a preferences window  
+![](images/_page_354_Figure_3.jpeg)

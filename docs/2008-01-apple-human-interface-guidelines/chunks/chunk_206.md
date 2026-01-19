@@ -1,0 +1,2 @@
+<!-- Chunk 206 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+A **toolbar** is useful for giving users immediate access to the most frequently used features in an application. Anyitem in a toolbar should also be available as a menu command. An application-wide toolbar in its own window is also called a **tool panel** (or less frequently, a tool palette); for more information, see ["Panels"](#page-229-0) (page 230). This section describes toolbars that are part of a window with other content.

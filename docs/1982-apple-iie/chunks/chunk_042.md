@@ -1,0 +1,2 @@
+<!-- Chunk 42 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 32 -->
+Programs should begin with a clear announcement of the title of the program, authorship credits, and a copyright notice (if any).

@@ -1,0 +1,2 @@
+<!-- Chunk 101 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 85 -->
+Menu (and submenu) titles should appropriately represent the items in the menu. For example, a Font menu could contain names of font families, such as Helvetica and Geneva, but it shouldn't include editing commands, such as Cut and Paste. Avoid using icons for menu titles. Make menu titles as short as possible without their losing clarity.

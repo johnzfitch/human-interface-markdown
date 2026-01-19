@@ -1,0 +1,24 @@
+<!-- Chunk 174 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 1164 -->
+This section describes the colors and color techniques that you should use when you design your color icons.  
+#### The Apple Icon Color Set  
+Figure 8-23 shows a palette of the standard 256 colors with a mark on each of the 34 colors used for icon design in system software. If you use ResEdit version 2.1 or later to design and create your icons, the Finder icon family editor provides easy access to these colors. Choose Apple Icon Colors from the Color menu. This command sets the palette in the editor (which is similar to the palette in most graphics applications) to contain the 34 colors used for Finder icons. See *ResEdit Reference* for information on using ResEdit.  
+**Figure 8-23** Standard 256-color palette with icon colors marked  
+![](images/_page_263_Figure_7.jpeg)  
+This entire set of 34 colors was chosen to be subtle. Subdued colors avoid a "circus" effect on the screen. If you use too many of the same types of colors, people can't discern what is important as easily. Ramps of color based on the initial colors chosen were created to provide shading and blending capabilities. Some light colors were included in the set to be used for large areas. The colors from the Apple logo were included because those colors have a strong Apple identification. The Apple logo colors are very bright and should be used sparingly. The total set of colors provides maximum flexibility in design. You can combine these colors in a dithered pattern to provide additional color effects. Figure 8-24 shows an example of creating a dithered color to use in your icons.  
+**Figure 8-24** An example of dithered color in an icon  
+![](images/_page_264_Picture_3.jpeg)  
+The icon colors were chosen for icon design in system software. It was necessary to limit the number of colors in the set to create consistency across all Apple icons. There are at least 120 system icons. If any number of the 256 system palette colors were used in each icon, the total effect would be a disparate appearance rather than a coherent look to all system icons. Using only 34 colors makes the system icons look like they belong together. In a design scheme that is so large, fewer colors look better.  
+#### Degradation of the Color Set Across Monitors  
+If the default color table colors aren't available, the system software gracefully degrades to black and white. First the operating system tries to match 8-bit colors. If it can't successfully match the colors you specify with those in the system palette, then it displays the 4-bit icon that you supply. If the operating system can't find or match the 4-bit colors, then it displays the icon in black and white. The system software won't substitute colors that aren't visually close to colors that you assigned. If you choose colors other than the 34 marked in Figure 8-23, use them for detail and not for essential parts of your windows or icons.  
+#### Selection Mechanism for Color Icons  
+When a color icon is selected, the color decreases in brightness. This means that the colors appear darker when selected. On a color monitor, a black-and-white icon turns gray when selected. On a black-and-white monitor, a black-and-white icon uses reverse video to show selection. To make selected items appear distinct from unselected ones, use light colors for large areas. Note that only the 34 colors shown in Figure 8-23 get darkened when a color icon is selected. This means that if you use colors other than those 34 colors in large amounts in an icon, that icon will not get darkened and therefore will not look selected.  
+Color Icons **241**  
+Figure 8-25 shows a set of control panel icons as they appear on the desktop and the same icons in their selected states.  
+**Figure 8-25** Color icons and their selected states  
+![](images/_page_265_Picture_4.jpeg)  
+![](images/_page_265_Picture_6.jpeg)  
+#### Color Labeling Mechanism for Color Icons  
+The labeling mechanism tints color icons toward the label color chosen by the user from the Label menu. Figure 8-26 shows some icons and the same icons in their labeled state. To provide system support for this technique, it was necessary to limit the number of colors used in icons. Using the 34 identified icon colors does not guarantee that labeled icons will look good, only that they will actually look labeled. As with icons that are selected, the tinting applies to only the 34 colors. As a result, if you use colors other than the 34 colors in your icon, the icon will not look labeled when a label color is applied.  
+**Figure 8-26** Color icons and their color-labeled states  
+![](images/_page_266_Picture_3.jpeg)  
+![](images/_page_266_Picture_5.jpeg)

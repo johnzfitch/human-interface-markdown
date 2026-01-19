@@ -1,0 +1,15 @@
+<!-- Chunk 145 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 732 -->
+**Progress indicators** inform users about the status of lengthy operations. (For guidelines on when to provide such information, see ["Feedback and](#page-28-1)  [Communication" \(page 29\)\)](#page-28-1). There are two types of progress indicators:  
+- **Determinate:** Use when the full length of an operation can be determined and the user can see how much of the process has been completed. You could use a determinate progress indicator to show the progress of a file conversion, for example.
+- **Indeterminate:** Use when the duration of a process can't be determined. You might use an indeterminate progress indicator to let the user know that the application is attempting a dialup communication connection, for example, when there's no way to accurately determine how long it will take to complete. If an indeterminate process reaches a point where its duration can be determined, switch to a determinate progress indicator.  
+Typical progress indicators look like the bars shown in Figure 7-27. In a determinate progress bar, the "fill" moves from left to right, and should fill in completely before it is dismissed. An indeterminate progress bar displays a spinning striped cylinder to indicate an ongoing process.  
+<span id="page-141-0"></span>![](images/_page_141_Figure_3.jpeg)  
+Determinate progress bars should associate progress with time. A progress bar that becomes 90-percent complete in 5 seconds but takes 5 minutes for the remaining 10 percent, for example, would be annoying and lead users to think that something is wrong.  
+Progress indicators typically appear within a progress dialog. When the process being performed can be interrupted, the progress dialog should contain a Cancel button (and support the Escape key). If interrupting the process will result in possible side effects, the button should say Stop instead of Cancel.  
+<span id="page-142-2"></span>An alternative to the indeterminate progress bar, **spinning arrows** (see Figure 7-28) can be used when space is very constrained. They are best used for asynchronous events that take place in the background, such as retrieving messages from a server. Don't use spinning arrows in operations that start out indeterminate but could become determinate.  
+In Cocoa, spinning arrows are included as an alternate style of the NSProgressIndicator function. In Carbon, the function to create these arrows is CreateChasingArrowsControl.  
+<span id="page-142-0"></span>**Figure 7-28** Spinning arrows used instead of indeterminate progress bar  
+![](images/_page_142_Picture_5.jpeg)  
+<span id="page-142-3"></span>Don't use a progress bar to display relevance. Instead, use the **relevance control** (available in Carbon via the CreateRelevanceBarControl in the Control Manager or DrawThemeTrack in Appearance Manager) shown in Figure 7-29.  
+<span id="page-142-1"></span>**Figure 7-29** Relevance control  
+![](images/_page_142_Picture_8.jpeg)

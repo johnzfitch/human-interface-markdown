@@ -1,0 +1,2 @@
+<!-- Chunk 455 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 53 -->
+A feature introduced in Mac OS X version 10.3 that allows users on a multiple-user computer to access their desktop, documents, and applications without requiring other logged in users to quit their applications.

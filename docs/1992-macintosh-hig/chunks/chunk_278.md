@@ -1,0 +1,2 @@
+<!-- Chunk 278 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 44 -->
+This section presents resources for several different types of applications, including applications that support collaborative computing, hypertext, and multimedia capabilities.

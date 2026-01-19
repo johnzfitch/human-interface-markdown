@@ -1,0 +1,2 @@
+<!-- Chunk 451 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 32 -->
+A menu that provides commands for changing (editing) the contents of documents. It contains commands such as Cut, Copy, and Paste.

@@ -1,0 +1,15 @@
+<!-- Chunk 278 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 749 -->
+<span id="page-332-2"></span>A **list view** displays ordered records in a table in which users can resize, rearrange, and sometimes add and subtract, columns representing attributes of the data. A list view displays the entire set of objects in the leftmost column, including objectsthat may be contained in other objectsif the data is hierarchically organized. When users reveal hidden objects in a hierarchy, the list lengthens. The other columns may shift to the right when these hidden objects are revealed, but they do not change their headings or order, because they still contain the same types of information regardless of the number of objects listed. Figure 15-79 shows an example of a list view that displays a flat list of objects (a hierarchical list of objects is shown in [Figure](#page-333-1) [15-80](#page-333-1) (page 334)).  
+<span id="page-332-1"></span>**Figure 15-79** A list view in a window  
+![](images/_page_332_Picture_5.jpeg)  
+#### List View Usage  
+Use a list view when you need to display items along with various attributes of each item. If you need to display a list of items, but you don't need to display any additional attributes, you might want to use a scrolling list instead (see ["Scrolling](#page-327-0) Lists" (page 328) for more information about scrolling lists). Using a list view, you can create a column for each attribute you need to display.  
+Sort the rows in the list view by the selected column heading. You can implement sorting on secondary attributes behind the scenes, but the user should see only one column selected at a time. If a user clicks an already selected column heading, change the direction of the sort.  
+Items may be editable depending on the purpose of your application. In the Finder, for example, items in the Name column (the leftmost column) are editable when in list view, but nothing else is.  
+#### List View Contents and Labeling  
+List views can contain disclosure triangles to reveal a list hierarchy, but only in one column. Column headers should be nouns orshort noun phrasesthat describe an attribute of the data. Figure 15-80 shows an example of the Finder list view that includes disclosure triangles to reveal additional levels of hierarchy and short, clear column headers.  
+<span id="page-333-1"></span>**Figure 15-80** A list view with disclosure triangles  
+![](images/_page_333_Picture_5.jpeg)  
+List views can contain icons in addition to text. Usually, however, the icons in a list view are an integral part of the data items (such as the folder and document icons in Figure 15-80). In general, it's best to include an attributes column and use text to describe the attributes.  
+#### <span id="page-333-3"></span>List View Implementation  
+<span id="page-333-0"></span>List views are available in Interface Builder. To create a simple list view using Application Kit programming interfaces, use the NSTableView class. To get disclosure triangles in a list, use an NSOutlineView object in column format.

@@ -1,0 +1,2 @@
+<!-- Chunk 76 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 103 -->
+The International Utilities Package (Pack6) provides routines for dealing with sorting, currency, measurement systems, date and time formatting. It is important that the routines in this package are used, as opposed to the System Utility routines contained in the Maciritosh ROM, because the ROM routines are not as accurate and can't be localized for different countries (because they are used by the File System).

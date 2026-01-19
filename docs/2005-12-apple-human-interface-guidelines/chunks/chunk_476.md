@@ -1,0 +1,2 @@
+<!-- Chunk 476 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 48 -->
+A key the user can hold down to alter the meaning of another key being pressed simultaneously or to alter the meaning of a mouse action. The Option and Command keys are examples of modifier keys.

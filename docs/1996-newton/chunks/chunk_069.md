@@ -1,0 +1,14 @@
+<!-- Chunk 69 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 654 -->
+Some views scroll or display an overview, but not both. Rather than doing nothing when a user taps a nonfunctional scroll or overview control, a view should provide feedback. If a view that scrolls but doesn't have an overview is frontmost and a user taps the Overview button, the view should notify the user with a message such as "This view does not have an overview." Likewise, if a user taps a scroll arrow when a view that doesn't scroll is frontmost, the view should notify the user with a message such as "This view does not scroll." To avoid confusing users, don't begin messages about not scrolling or not having an overview with "This application" unless the message applies to every one of the views in your application. Furthermore, better messages state the title of the view in place of the generic "This view" or "This application.  
+If the frontmost view has local scroll arrows but doesn't respond to the universal scroll arrows and doesn't let views behind it receive universal scroll arrow events, then the view should display a message that explains why the universal arrows don't work or what the user must do to make them work. Under these circumstances a message such as "You must close this view to use the universal scroll arrows" is clearly more accurate than "This view does not scroll."  
+No view has to receive taps on the Overview button and universal scroll arrows. If the frontmost view was not designated during application development to receive taps on those controls, the taps go to the next lower view that was so designated. For example, a slip or other auxiliary view can simply let its main view respond to the Overview button and the universal scroll arrows.  
+How Views Work **2-49**  
+<span id="page-94-0"></span>Controls are graphic objects that cause instant actions or audible results when the user manipulates them with the pen. Some controls change settings that modify future actions. Other controls allow users to make choices or to assign parameters in a range. Controls display existing choices so that they are visible to users. Because of their appearance and behavior, controls enhance the user's sense of direct manipulation.  
+This chapter describes the appearance and behavior of the following basic Newton controls:  
+- Text and picture buttons
+- Close boxes (regular and large)
+- Radio buttons
+- Checkboxes
+- Sliders
+- Hot spots  
+This chapter ends with brief descriptions of standard Newton buttons that appear in the status bars of many applications: the Analog Clock, Info, Recognizer, Keyboard, New, Show, Filing, Action, Item Info, and Rotate buttons.

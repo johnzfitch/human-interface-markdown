@@ -1,0 +1,2 @@
+<!-- Chunk 52 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 97 -->
+At the time of this writing, the majority of Apple II owners did not have a mouse. While this situation was expected to change with the arrival of more and more mouseware, developers felt a need for an interface for text applications that would be fully functional without a mouse. The Apple II windowing interface has been developed to be a powerful, practical tool with or without a mouse.

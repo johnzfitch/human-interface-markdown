@@ -1,0 +1,2 @@
+<!-- Chunk 16 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 91 -->
+<span id="page-24-4"></span>This chapter offers some basic tips on how to make the best design choices for your software. Great software design involves a careful analysis of the needs of your users; after all, they are the ones who will use your product. Identifying their needs and finding ways to meet those needs are important first steps in the design process.

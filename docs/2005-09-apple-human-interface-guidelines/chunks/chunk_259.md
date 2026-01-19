@@ -1,0 +1,6 @@
+<!-- Chunk 259 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 294 -->
+<span id="page-212-3"></span>When the user attempts to close a document that has unsaved changes, present a Save Changes alert. An application that saves the contents of individual windows—such as most text and graphics applications—should use document-specific sheets, like the one shown in Figure 13-41, for its Save Changes alert.  
+In an application that can display multiple views of the same file, if the user chooses the Close File command instead of Close Window, you should use an application-modal dialog instead of a sheet. This emphasizes the fact that the user's actions affect the file as awhole, not just the portion displayed in the current view. In this situation, change the word "document" in the Save Changes alert message to the word "file". After the user clicks Save or Don't Save, close all open views of the file.  
+<span id="page-213-0"></span>**Figure 13-41** A Save Changes alert for a document-based application  
+![](images/_page_213_Picture_3.jpeg)  
+When a Save Changes sheet is open, the document's close button and the Close command in the File menu are unavailable; the user can't close the document until the Save Changes sheet is addressed.

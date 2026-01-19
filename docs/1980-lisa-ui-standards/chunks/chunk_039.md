@@ -1,0 +1,2 @@
+<!-- Chunk 39 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 42 -->
+The copy command places a copy of the selection in the scrap folder just as with CUT: in fact everything is the same except that the selection is not changed or deleted.

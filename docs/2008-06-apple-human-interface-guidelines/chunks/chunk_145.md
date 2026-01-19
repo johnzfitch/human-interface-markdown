@@ -1,0 +1,2 @@
+<!-- Chunk 145 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 62 -->
+If the userstartstyping when one or more characters are selected, the typed charactersreplace the selection. The deleted characters don't go on to the Clipboard, but the user can undo the replacement by immediately choosing Undo from the Edit menu.

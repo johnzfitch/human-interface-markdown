@@ -1,0 +1,8 @@
+<!-- Chunk 37 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 371 -->
+In iPhone OS, UIKit determines the behavior and default appearance of views and controls. As much as possible, you should use the standard user interface elements UIKit provides and follow their recommended usages. Doing this helps you in two important ways:  
+- Users are accustomed to the look and behavior of standard views and controls. When you use familiar user interface elements, users can depend on their prior experience to help them as they learn to use your application.
+- If iPhone OS changes the look or behavior of standard views or controls, your application continues to work and automatically looks up to date with little, if any, work on your part.  
+Many controls support some kind of customization, usually in color or content (such as the addition of a text label or an image). If you're developing an immersive application, it's reasonable to create controls that are completely different from the default controls. This is because you're creating a unique environment, and discovering how to control that environment is an experience users expect in immersive applications.  
+#### **CHAPTER 5**  
+A Brief Tour of the Application User Interface  
+In general, though, you should avoid radically changing the appearance of a control that performs a standard action. If you use unfamiliar controls to perform standard actions, users will have to spend time discovering how to use them and will wonder what, if anything, your controls do that the standard ones do not.

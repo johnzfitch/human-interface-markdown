@@ -1,0 +1,5 @@
+<!-- Chunk 47 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 194 -->
+You can't assume that users have the time (or can spare the attention) to figure out how your application works. Therefore, you should strive to make your application instantly understandable to users.  
+<span id="page-36-0"></span>The main function of your application should be immediately apparent. You can make it so by minimizing the number of controls from which users have to choose and labeling them clearly so users understand exactly what they do. For example, in the built-in Stopwatch function (part of the Clock application), shown in Figure 3-1, users can see at a glance which button stops and startsthe stopwatch and which button records lap times.  
+**Figure 3-1** The built-in Stopwatch function makes its usage obvious  
+![](images/_page_36_Picture_11.jpeg)

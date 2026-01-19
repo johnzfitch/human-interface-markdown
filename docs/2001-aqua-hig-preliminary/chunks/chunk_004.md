@@ -1,0 +1,2 @@
+<!-- Chunk 4 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 115 -->
+[General Considerations](#page-184-1) 185 [Graphic Design](#page-186-0) 187 [Menus](#page-187-0) 188 [Pop-Up Menus](#page-188-0) 189 [Windows](#page-188-1) 189 [Scrolling](#page-189-0) 190 [Utility Windows](#page-190-0) 191 [Dialogs](#page-190-1) 191 [Alerts](#page-192-0) 193 [The Mouse](#page-192-1) 193 [Keyboard Equivalents](#page-193-0) 194 [Text](#page-193-1) 194 [Icons](#page-194-0) 195 [User Documentation](#page-194-1) 195 [Help Tags](#page-195-0) 196

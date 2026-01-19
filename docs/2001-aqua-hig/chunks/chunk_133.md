@@ -1,0 +1,5 @@
+<!-- Chunk 133 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 192 -->
+A command pop-down menu is a menu that appears in a window rather than in the menu bar. Use of this control is limited to cases where the window is shared among multiple applications and the menu contains commands that affect the window's contents. For example, Color Picker, which can be used in any application, contains a List menu with commands that can be used to change the contents of Color Picker itself. Each application that uses the Color Picker doesn't have to populate a menu with these commands.  
+<span id="page-122-2"></span>**Figure 7-9** A command pop-down menu  
+![](images/_page_122_Picture_5.jpeg)  
+Command pop-down menus should contain between 3 and 12 commands. A closed command menu always displays the same text, which acts as the menu title.

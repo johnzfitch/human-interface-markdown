@@ -1,0 +1,7 @@
+<!-- Chunk 153 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 287 -->
+A **disclosure triangle** allows the display, or disclosure, of information that elaborates on the primary information in a window. Disclosure triangles are used in the Finder's list view, where clicking a triangle displays a folder's contents.  
+<span id="page-140-2"></span>**Figure 7-31** Disclosure triangles in the Finder list view  
+![](images/_page_140_Picture_7.jpeg)  
+<span id="page-140-4"></span><span id="page-140-3"></span>Disclosure triangles are available to Carbon developers through the Control Manager (CreateDisclosureTriangle) or the Appearance Manager (DrawThemeButton). Cocoa provides this control only as part of the NSOutlineView class.  
+Controls  
+<span id="page-142-0"></span>This chapter provides basic suggestions for arranging controls in dialogs and windows. These guidelines use many of the default control sizes defined in Interface Builder; any exceptions are noted. To simplify the process of resizing and repositioning existing dialogs and windows, most values are based on a multiple of 2 pixels. All user-visible text should use the standard fonts described in ["Fonts"](#page-188-0) [\(page 189\).](#page-188-0)

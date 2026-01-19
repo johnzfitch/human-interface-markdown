@@ -1,0 +1,6 @@
+<!-- Chunk 131 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 236 -->
+A **drawer** is a child window that slides out from a parent window and that the user can open or close (show or hide) while the parent window is open. A drawer should contain frequently accessed controls that don't need to be visible at all times. A drawer's contents should be closely related to the contents of its parent window. A drawer automatically inherits the brushed metal appearance if its parent window is brushed metal (see ["Brushed Metal Windows"](#page-110-0) (page 111).  
+<span id="page-108-0"></span>**Figure 8-9** An open drawer next to its parent window  
+![](images/_page_108_Picture_3.jpeg)  
+<span id="page-108-1"></span>**Carbon:** Create a drawer using the CreateNewWindow function with the kDrawerWindowClass constant, and associate it with its parent window using SetDrawerParent. The Carbon Window Manager also provides other drawer-related functions.  
+**Cocoa:** Drawers support is available via the NSDrawer class.

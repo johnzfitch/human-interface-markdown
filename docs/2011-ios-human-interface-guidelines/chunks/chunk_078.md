@@ -1,0 +1,3 @@
+<!-- Chunk 78 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 151 -->
+**Closely associate visual transitions with the content that's changing**. Instead of swapping in a whole new screen when some embedded information changes, try to update only the areas of the UI that need it. As a general rule, transition individual views and objects, not the screen. In most cases, flipping the entire screen is not recommended.  
+When you perform fewer full-screen transitions, your iPad app has greater visualstability, which helps people keep track of where they are in their task. You can use UI elements such as split view and popover to lessen the need for full-screen transitions.

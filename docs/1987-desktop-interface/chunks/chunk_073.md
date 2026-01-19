@@ -1,0 +1,6 @@
+<!-- Chunk 73 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 226 -->
+When the user makes <sup>a</sup> selection and then either chooses Clear from the Edit menu or presses the Backspace key (Delete key on some keyboards) or the Clear key, the application deletes the highlighted selection. Unlike Cut and Copy, the Clear operation does not put the selection in the Clipboard. The Clipboard is unchanged and the new selection is the same as it would be after <sup>a</sup> cut.  
+#### Select All  
+Select All selects every object in the document. In a word processing application, Select All selects every character as well as all graphics in the document (making it very easy to reformat or copy an entire document).  
+#### Show Clipboard  
+Show Clipboard is <sup>a</sup> toggled item. When the clipboard isn't displayed, the menu lists Show Clipboard. If the user chooses Show Clipboard, the clipboard window is displayed and the wording in the menu changes to Hide Clipboard.

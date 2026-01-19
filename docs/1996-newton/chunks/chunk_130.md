@@ -1,0 +1,2 @@
+<!-- Chunk 130 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 68 -->
+People can quickly and accurately input data that an application presents in a multiple-choice format such as a picker, scrolling list, set of checkboxes, cluster of radio buttons, or slider. A user simply taps or drags to choose an input value from the options presented.

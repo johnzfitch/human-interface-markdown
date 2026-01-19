@@ -1,0 +1,2 @@
+<!-- Chunk 184 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 64 -->
+This section describes other elements that users interact with to provide information about what they want to do or what they expect to happen. These elements include text entry fields and scrolling lists. Note that these elements aren't necessarily controls.

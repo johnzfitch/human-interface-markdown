@@ -1,0 +1,5 @@
+<!-- Chunk 45 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 213 -->
+In contrast to the "object on a desktop" approach discussed in ["User Application](#page-38-0)  [Icons" \(page 39\)](#page-38-0), utility application icons are designed to reinforce the typically serious nature of utility applications. This change in style shifts the visual perspective to that of an object on a shelf at eye level, directly in front of the user. Unlike richly colored user application icons, utility icons are generally grayscale, with color applied sparingly. [Figure 1-35](#page-41-2) shows an example of a utility icon.  
+<span id="page-41-2"></span>**Figure 1-35** A utility icon  
+![](images/_page_41_Picture_5.jpeg)  
+Since utility applications are normally focused on a narrow set of tasks, it's best to keep the number of elements to a minimum. The supporting tool should be an integrated element, as opposed to a layered object.

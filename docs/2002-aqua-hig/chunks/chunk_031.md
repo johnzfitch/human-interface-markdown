@@ -1,0 +1,4 @@
+<!-- Chunk 31 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 172 -->
+<span id="page-30-3"></span>Aesthetic integrity means that information is well organized and consistent with principles of visual design. Your product should look pleasant on screen even when viewed for a long time.  
+Keep graphics simple, and use them only when they truly enhance usability. Don't overload the user with icons or put dozens of buttons in windows or dialogs. Don't use arbitrary symbols to represent concepts; they may confuse or distract users.  
+Match a graphic element with users' expectations of its behavior. Don't change the meaning or behavior of standard items. For example, always use checkboxes for multiple choices; don't use them sometimes for exclusive choices.

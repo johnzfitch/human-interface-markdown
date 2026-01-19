@@ -1,0 +1,7 @@
+<!-- Chunk 37 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 282 -->
+<span id="page-34-8"></span>Writing systems differ in the direction in which their characters and lines flow, the size of the character set used, and whether certain characters are context dependent. Mac OS 9 and earlier relied on WorldScript and the Script Manager, which used a different character set for each script system. Mac OS X supports Unicode, a single character set for most writing systems in the world. Unicode is a cross-platform, international standard for character encoding.  
+<span id="page-34-3"></span>Text handling for Cocoa is entirely based on Unicode. For Carbon developers, there is a new set of functions for manipulating Unicode text. For more information, go to [http://developer.apple.com/intl.](http://developer.apple.com/intl)  
+<span id="page-34-6"></span>No matter what level of worldwide text support you provide, it's important to avoid these common assumptions:  
+- Text isn't always left-aligned and read from left to right.
+- <span id="page-34-7"></span>■ Text isn't always read by a person; it might be spoken through a text-to-speech converter.
+- System and application fonts may change.

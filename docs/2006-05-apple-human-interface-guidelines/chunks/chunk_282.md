@@ -1,0 +1,6 @@
+<!-- Chunk 282 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 313 -->
+<span id="page-230-4"></span>Buttons initiate an immediate action. If a button initiates an indeterminate process, the button should be dimmed until the process is complete and status feedback should be provided.  
+If you need to offer two opposing functions, such as Reload and Stop in a browser, consider using two separate buttons instead of a single, dual-purpose button that changes state. Providing a single, dual-purpose button can lead to the situation in which a user clicks the button when it is in one state, but the click is received and processed after the button has changed to the other state. If you must provide a single, dual-purpose button, be sure to keep track of when the button changes state so you can process the clicks appropriately. Also, be sure to provide immediate and informative feedback.  
+Buttons **231**  
+For information about proper capitalization of button labels, see ["Capitalization](#page-127-0) of Interface [Elements"](#page-127-0) (page 128).For information aboutwhen it is appropriate to use an ellipsis in a button label, see "Using the Ellipsis [Character"](#page-122-1) (page 123).  
+<span id="page-231-0"></span>This section discusses the buttons that are available to meet the needs of your interface.

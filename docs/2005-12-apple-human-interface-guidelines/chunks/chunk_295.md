@@ -1,0 +1,2 @@
+<!-- Chunk 295 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 36 -->
+**Metal buttons** are for use in brushed metal windows. (In Interface Builder and in the Cocoa API, metal buttons are referred to as "textured".)

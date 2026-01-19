@@ -1,0 +1,2 @@
+<!-- Chunk 147 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 32 -->
+Applications need to strictly check user input for errors while providing several easy ways for users to correct their mistakes.

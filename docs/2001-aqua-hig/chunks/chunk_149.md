@@ -1,0 +1,8 @@
+<!-- Chunk 149 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 381 -->
+<span id="page-137-2"></span><span id="page-137-1"></span>Functions, data types, and constants for creating and managing the new **data browser** control have been added to the Control Manager. The data browser (available to Carbon applications) provides a convenient way to create easily customized lists and consistent sortable, movable, and resizable columns. If your application uses the data browser functions to display lists, they will always look right in Mac OS 9 and Mac OS X  
+The data browser control has two versions: list view and column view. Finder windows have examples of both, selectable with the View control (in the upper-left area of the toolbar). The middle button is the list-view button; the button on the right is the column-view button.  
+Similar functionality is available to Cocoa developers through three classes of interface objects:  
+- **NSOutlineView.** You can see an example in the Mailboxes drawer of the Mail application, which can show a list hierarchy with disclosure triangles.
+- **NSTableView.** You can see an example in the list of contents of a mailbox in the Mail application. It is multicolumn and row-based.
+- **NSBrowser.** You can see an example in the Open dialog of a Cocoa-based application. This class provides the same sort of hierarchical data as NSOutlineView in column format.  
+[For more information, see the data browser control technical note, available at](http://developer.apple.com/technotes/tn/tn2009.html)  <http://developer.apple.com/technotes/tn/tn2009.html>.

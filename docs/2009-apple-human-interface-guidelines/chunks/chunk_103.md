@@ -1,0 +1,7 @@
+<!-- Chunk 103 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 366 -->
+Dragging means pressing the mouse button, moving the mouse to a new position, and releasing the mouse button. The uses of dragging include selecting blocks of text, choosing a menu item, selecting a range of objects, moving an icon from one place to another, and shrinking or expanding an object.  
+Dragging a graphic object should move the entire object (or a transparent representation of it), not just the object's outline.  
+Your application can restrict an object from being moved past certain boundaries, such as the edge of a window. If the user drags an object and releases the mouse button outside the boundary, the object stays in the original location. If the user drags the item out of the boundary and then back in before releasing the mouse button, the object movesto the new location. Your application can also automatically scroll a document if the user moves an object beyond the boundary of a window (see ["Automatic](#page-226-1) Scrolling" (page 227)).  
+If the user drags a proxy object to an area that would cause that proxy object to disappear, display the poof to indicate that the proxy object will disappear if dragged to that location.  
+<span id="page-97-3"></span>If the user selects an item and begins a drag but releases the item after having moved it three or fewer pixels, the item does not move.  
+<span id="page-97-6"></span>See "Drag and [Drop"](#page-120-0) (page 121) for more information about dragging and automatic scrolling.

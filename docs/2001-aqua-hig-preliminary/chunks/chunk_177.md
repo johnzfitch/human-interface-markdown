@@ -1,0 +1,4 @@
+<!-- Chunk 177 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 146 -->
+- Are Apple-reserved keyboard equivalents used properly? Even if your application doesn't support one of these menu commands, it shouldn't use these keyboard equivalents for another function.
+- Do you avoid using Command–Space bar and Command–modifier key–Space bar in your application, since they are reserved for use by the Script Manager?
+- Do keyboard equivalents appear where appropriate? Are the keyboard equivalents case-independent? (This second rule does not apply if the product uses both cases in the keyboard equivalents and enables the user to predict which case to use.)

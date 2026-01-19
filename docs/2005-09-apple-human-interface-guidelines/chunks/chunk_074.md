@@ -1,0 +1,2 @@
+<!-- Chunk 74 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 87 -->
+Mac OS X provides a wealth of highly developed technologies you can use that allow you to avoid spending development time implementing custom solutions for generic tasks. In addition, Mac OS X version 10.4 provides new technologies you can use to enhance the way your application interacts with the system and with other applications on the platform.

@@ -1,0 +1,4 @@
+<!-- Chunk 76 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 210 -->
+The best way to make sure your product meets the needs of your target audience is by exposing your designs to the scrutiny of users. You can do this during every phase of the design process to help reveal what works about your product as well as what needs improvement.  
+When you give people an opportunity to use your product or a mock-up of it, they will inevitably find some undiscovered flaws. You can implement significant changes to your product during its evolution and thereby save yourself lots of time and money and save your users from frustration. By identifying and focusing on users' needs and experiences, you can create products that are easier to assemble, learn, and use. These improvements can translate into competitive advantages, increased sales, and enhanced customer satisfaction.  
+![](images/_page_64_Picture_7.jpeg)

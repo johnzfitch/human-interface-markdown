@@ -1,0 +1,3 @@
+<!-- Chunk 8 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 127 -->
+Mac computers are stylish, flexible, easy to set up, easy to maintain, and powerful. OS X builds on thisfoundation, combining a reliable core with an intuitive design, stunning graphics, excellent security, and the features users want.  
+To develop a great Mac app, you first need to understand the OS X environment and why users love it. With this understanding, you can ensure that your app takes advantage of platform features and provides a user experience that seamlessly integrates with the environment.

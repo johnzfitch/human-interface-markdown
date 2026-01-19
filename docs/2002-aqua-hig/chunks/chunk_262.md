@@ -1,0 +1,3 @@
+<!-- Chunk 262 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 115 -->
+Make labels for interface elements easy to understand and in the user's language. Try to be as specific as possible in any element that requires the user to make a choice, such as radio buttons, checkboxes, and push buttons. It's important to be concise, but don't sacrifice clarity for space.  
+<span id="page-229-5"></span>Menu items and buttons that produce a dialog should include an ellipses character (…). The menu command and the dialog title should match.

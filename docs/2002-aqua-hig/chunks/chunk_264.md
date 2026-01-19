@@ -1,0 +1,9 @@
+<!-- Chunk 264 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 394 -->
+Language  
+**Table 13-2** Proper capitalization of onscreen elements (continued)  
+<span id="page-231-3"></span>  
+| Element                                                                                                                         | Capitalization style | Examples                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Labels that are not full<br>sentences (for example, group<br>box or list headings)                                              | Title                | Mouse Speed<br>Total Connection Time<br>Account Type                                                                                    |
+| Options that are not strictly<br>labels (for example, radio<br>button or checkbox text), even<br>if they are not full sentences | Sentence             | Enable polling for remote mail.<br>Cache DNS information every<br>minutes.<br>Show displays in menu bar.<br>Maximum number of downloads |
+| Dialog messages                                                                                                                 | Sentence             | Are you sure you want to quit?                                                                                                          |

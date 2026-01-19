@@ -1,0 +1,2 @@
+<!-- Chunk 187 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 96 -->
+There are fifteen nondedicated function keys on desktop Macintosh keyboards (F1 through F15). Default function key combinations are listed in Table 9-6 (page 178). Desktop Macintosh keyboards provide the following six dedicated function keys with standard behaviors. Because not all Macintosh computers have all function keys, don't rely on these keys for critical keyboard shortcuts.

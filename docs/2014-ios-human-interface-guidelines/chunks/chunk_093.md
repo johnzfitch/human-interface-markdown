@@ -1,0 +1,25 @@
+<!-- Chunk 93 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 1235 -->
+A **navigation bar** enables navigation through an information hierarchy and, optionally, management ofscreen contents.  
+![](images/_page_143_Picture_9.jpeg)  
+#### A navigation bar:  
+- Is translucent
+- Generally appears at the top of an app screen, just below the status bar  
+On iPad, a navigation bar can also display within a view that doesn't extend across the screen, such as one pane of a split view controller.  
+● Can automatically change its height when an iPhone changes orientation Maintains the same height in all orientations on iPad  
+**API Note:** A navigation bar is contained in a navigation controller, which is a programmatic object that manages the display of a hierarchy of custom views. To learn more about defining a navigation bar in your code, see "Navigation Controllers" and "Navigation Bars".  
+Use a navigation bar to enable navigation among different views and—if appropriate—to provide a control that manages the items in a view. If you need to provide a larger set of controls and you don't need to enable navigation, consider using a toolbar instead (to learn more, see ["Toolbar"](#page-146-0) (page 147)).  
+When the user goes to a new level in a navigation hierarchy, two things should happen:  
+- The navigation bar title should change to the new level's title, if appropriate.
+- A back button should appear in the left end of the bar, and it should be labeled with the previous level's title.  
+![](images/_page_144_Figure_8.jpeg)  
+**When it adds value, use the title of the current view as the title of the navigation bar.** If titling a navigation bar seems redundant, you can leave the title empty. For example, Notes doesn't title the current note because the first line of content supplies all the context users need.  
+**Consider putting a segmented control in a navigation bar at the top level of an app.** This is especially useful if doing so helps to flatten your information hierarchy, making it easier for people to find what they're looking for. If you use a segmented control in a navigation bar, be sure to choose accurate back-button titles. (For usage guidelines, see ["Segmented](#page-190-1) Control" (page 191).)  
+**If necessary, consider using a prompt to clarify what users can do in the current screen.** A prompt is a brief sentence that appears near the top of the navigation bar. For example, Stocks uses a prompt to make sure users understand how to find the information they want.  
+![](images/_page_145_Picture_2.jpeg)  
+If you need to use a prompt, write a succinct, one-line sentence that uses appropriate ending punctuation.  
+**Avoid crowding a navigation bar with additional controls, even if it looks like there's enough space.** In general, a navigation barshould contain no more than the view's current title, the back button, and one control that manages the view's contents. If you use a segmented control in the navigation bar, the bar shouldn't display a title and it shouldn't contain any controls other than the segmented control.  
+**Make sure text-titled buttons have enough space between them.** If there isn't enough space between multiple left or right bar button items in a navigation bar, the text titles can appear to run together, making it difficult for users to distinguish them. If button titles look too close together in your navigation bar, use UIBarButtonSystemItemFixedSpace to add the appropriate spacing between them. (To learn more about this constant, see *UIBarButtonItem Class Reference* .)  
+**As much as possible, make sure that the look of a customized navigation bar is consistent throughout your app.** For example, don't combine an opaque navigation bar with a translucent toolbar. Also, it's best to avoid changing the image, color, or translucency of the navigation bar in different screens in the same orientation.  
+**Make sure that a customized back button still looks like a back button.** Users know that the standard back button allows them to retrace their steps through a hierarchy of information. If you decide to replace the system-provided chevron with a custom image, be sure to supply a custom mask image, too. iOS 7 uses the mask to make the button title appear to emerge from—or disappear into—the chevron during transitions.  
+**Important:** Don't create a multisegment back button. The back button alwaystakesthe user to the current screen's parent. If you think users might get lost without a multisegment control that displays a type of breadcrumb path, it probably means that you should flatten the information hierarchy.  
+**On iPhone, be prepared forthe change in navigation bar heightthat occurs on device rotation.** In particular, make sure that your custom navigation bar iconsfit well in the thinner bar that appearsin landscape orientation. Don't specify the height of a navigation bar programmatically; instead, take advantage of the UIBarMetrics constants to ensure that your content fits well.

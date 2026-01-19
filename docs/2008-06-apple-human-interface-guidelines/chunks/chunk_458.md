@@ -1,0 +1,3 @@
+<!-- Chunk 458 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 89 -->
+A label can accompany a separator, but it is not required. A separator labelshould have title-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and Text" (page 131) for information on this style).  
+The separator line should be at the base of the text of the label. [Figure](#page-307-0) 15-62 (page 308)shows how thislooks.

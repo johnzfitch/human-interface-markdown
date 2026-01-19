@@ -1,0 +1,2 @@
+<!-- Chunk 19 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 118 -->
+The first part of this book presents the key design principles and considerations for developers to keep in mind when creating a product that works with Macintosh computers. It suggests ways to incorporate human interface into your product design and decision-making processes. <span id="page-22-0"></span>It also describes how to involve users in your product design process to ensure that you've built a product that serves your users well and conforms to the guidelines.

@@ -1,0 +1,2 @@
+<!-- Chunk 115 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 64 -->
+<span id="page-88-6"></span>Character keys include letters, numbers, punctuation, the Space bar, and nonprinting characters—Tab, Enter, Return, Delete (or Backspace), Clear, and Esc (Escape). It is essential that your application use these keys consistently.

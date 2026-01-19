@@ -1,0 +1,4 @@
+<!-- Chunk 273 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 201 -->
+<span id="page-236-2"></span>This checklist is designed to help guide you in the process of making a great Aqua application. Use it to remind yourself of important interface-related issues.  
+Consider the questions in the checklist as you review your software. Answering every question with a "yes" will ensure that your product conforms to the Aqua human interface guidelines. Even if you can't answer "yes" to every question, this checklist can help your product maintain the spirit of the guidelines and principles.  
+<span id="page-236-3"></span>Although business realities (such as product schedules) often force you to make design tradeoffs, remember that, for many users and product reviewers, the extent to which you adopt Aqua is the most visible means of measuring how "Mac-like" your product is.

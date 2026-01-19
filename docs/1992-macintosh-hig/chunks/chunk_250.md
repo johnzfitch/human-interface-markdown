@@ -1,0 +1,2 @@
+<!-- Chunk 250 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 71 -->
+The Human Factors Society Annual Meeting is usually held in September or October. It includes a technical program consisting of research reports, panel discussions, and workshops; a business meeting; exhibits; an awards ceremony and banquet; and tours of local facilities of interest.

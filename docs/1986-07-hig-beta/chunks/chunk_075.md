@@ -1,0 +1,4 @@
+<!-- Chunk 75 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 126 -->
+If a menu contains too many items to display at once, the menu scrolls to reveal the hidden items. The Macintosh Plus ROM provides for scrolling of menus that are too long, but long menus complicate the user interface. No more than 16 items should appear in a single menu.  
+#### Menu Titles  
+Applications should avoid using too many .lnenus: translation into other languages may widen each of the menu titles, forcing some far to the right (possibly conflicting with the Switcher) or even off the screen.

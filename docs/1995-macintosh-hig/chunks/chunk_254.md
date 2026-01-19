@@ -1,0 +1,5 @@
+<!-- Chunk 254 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 250 -->
+Pressing the Home key is equivalent to moving the scroll boxes all the way to the top of the vertical scroll bar and to the left end of the horizontal scroll bar. (Note that the Home key may operate differently in a spreadsheet application; it won't necessarily scroll horizontally and it may scroll to the beginning of a row or to the beginning of the spreadsheet itself.) *Pressing the Home key has no effect on the location of the insertion point or any selected material.*  
+#### End 10  
+Pressing End is the opposite of pressing Home: it's equivalent to moving the scroll boxes all the way to the bottom of the vertical scroll bar and to the right end of the horizontal scroll bar. (Note that the End key may operate differently in a spreadsheet application; it won't necessarily scroll horizontally and it may scroll to the end of a row or to the end of the spreadsheet itself.) *Pressing End has no effect on the location of the insertion point or any selected material.*  
+The Keyboard **285**

@@ -1,0 +1,3 @@
+<!-- Chunk 82 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 121 -->
+iOS provides many great technologies that users appreciate, such as multitasking, copy and paste, and both **local notifications** (scheduled by your app and delivered by iOS on the same device) and **push notifications** (pushed to your app from the app's remote server).  
+From the user's perspective, these technologies are part of the iOS landscape, but developers know that it takes care and attention to make sure these features blend well with the user experience of their apps.

@@ -1,0 +1,5 @@
+<!-- Chunk 61 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 265 -->
+Clicking your application icon in the Dock should always result in a window—a document or another appropriate window—becoming active.  
+If the application was not open when the user clicks the Dock icon, the application opens and a new window is active. While the application is open, the Dock icon has a triangle below it.  
+When the user quits the application, the icon disappears from the Dock. Users can add an application icon permanently to the Dock by choosing a command from the Dock icon's contextual menu while the application is open, by dragging the item from the Finder, or by moving the icon from one Dock location to another.  
+<span id="page-64-6"></span>When a user clicks an open application's icon in the Dock, the application becomes active and all open unminimized windows are brought to the front; minimized document windows remain in the Dock. If there are no unminimized windows when the user clicks the icon, the last minimized window should be expanded and made active. If no documents are open, the application should open a new window.

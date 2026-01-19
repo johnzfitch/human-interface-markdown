@@ -1,0 +1,4 @@
+<!-- Chunk 75 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 160 -->
+An application that saves the contents of individual windows—like most text and graphics applications—should use document-specific sheets [\(page 72\)](#page-71-2) for its Save dialogs. Applications that save the contents of many windows simultaneously should use an application-modal Save dialog, such as the one shown in [Figure 6-9](#page-84-2) [\(page 85\).](#page-84-2)  
+**Note:** Navigation Services, introduced in Mac OS 8.5, has been enhanced to add support for Mac OS X. Its predecessor APIs and interface, Standard File, are not supported in Mac OS X.  
+There are two kinds of Save dialogs in Aqua: Save Changes and Save Location.

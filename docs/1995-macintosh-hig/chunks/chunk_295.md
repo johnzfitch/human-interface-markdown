@@ -1,0 +1,2 @@
+<!-- Chunk 295 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 31 -->
+This appendix lists some resources that provide more information about human interface design or human-computer interaction.

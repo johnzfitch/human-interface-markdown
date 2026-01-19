@@ -1,0 +1,11 @@
+<!-- Chunk 116 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 526 -->
+When a user attempts to quit a document-based application and there is more than one document with unsaved changes open, present an application-modal Review Changes alert, such as the one shown in Figure 6-10.  
+<span id="page-107-1"></span>**Figure 6-10** The Review Changes alert (application modal) that appears when the user quits with more than one unsaved document open  
+![](images/_page_107_Picture_7.jpeg)  
+The appropriate action for each button is as follows:  
+- **Discard Changes.** Closes all documents without saving changes and quits the application.
+- **Cancel.** Cancels the Quit command.
+- **Review Changes.** All open documents (including those minimized in the Dock) come forward, with the unsaved documents on top. The active document presents the Save Before Quitting alert (see Figure 6-9 (page 108)). If the user clicks Save, the Save dialog appears (if the document has not previously been saved). If the user clicks Don't Save, the next unsaved document comes forward with its Save Before Quitting alert. If the user dismisses the last Save Before Quitting alert with Save or Don't Save, all documents close and the application quits.  
+<span id="page-108-2"></span>During the review, if the user activates another unsaved document, it should come forward with its Save Before Quitting sheet open. Already-opened Save Before Quitting sheets on other documents remain open. During the review, if the user activates a saved document, the review process continues when the next unsaved document becomes active.  
+<span id="page-108-1"></span>If, in the midst of a quit operation, the user clicks the application icon in the Dock or chooses Bring All to Front from the Window menu, documents should appear in this order: documents with open sheets on top, unsaved documents next, and then saved documents.  
+<span id="page-108-3"></span>At any time during the review process, the user can click Cancel to stop the quit operation. If the user initiates a Quit command while in the review state, the process begins again with the application-modal alert shown in Figure 6-10 (page 108).

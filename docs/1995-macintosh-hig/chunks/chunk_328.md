@@ -1,0 +1,7 @@
+<!-- Chunk 328 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 216 -->
+Apple Computer, Inc. *Inside Macintosh.* Reading, MA: Addison-Wesley.  
+A set of books that describe how to write an application for the Apple Macintosh family of computers. *Inside Macintosh* is the definitive guide and reference for anyone writing software for the Macintosh computer. Current titles of the books that comprise *Inside Macintosh* include *Macintosh Toolbox Essentials, QuickTime, Memory, Processes,* and *Files.* This list presents books that are already available on the market or that will be published within several months of the publication date of this book.  
+Grogono, P., and S. H. Nelson. *Problem Solving and Computer Programming.* Reading, MA: Addison-Wesley, 1982.  
+![](images/_page_369_Picture_18.jpeg)  
+![](images/_page_369_Picture_19.jpeg)  
+Simpson, H. K. *Programming the Macintosh User Interface.* New York: McGraw-Hill, 1986.

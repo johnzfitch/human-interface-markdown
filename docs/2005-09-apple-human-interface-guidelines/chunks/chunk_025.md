@@ -1,0 +1,7 @@
+<!-- Chunk 25 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 312 -->
+During the design process, if you discover problems with your product design, you might consider applying the 80 percent solution—that is, designing your software to meet the needs of at least 80 percent of your users. This type of design typically favors simpler, more elegant approaches to problems.  
+If you try to design for the 20 percent of your target audience who are power users, your design may not be usable bythe other 80 percent of users. Even though that smallergroup of power users is likely to havegood ideas forfeatures, the majorityofyour user base may not thinkin the sameway. Involving a broad range of users in your design process can help you find the 80 percent solution.  
+#### **C HAPTER 1**  
+The Design Process  
+<span id="page-30-0"></span>Good product design incorporates a number of timeless principles for human-computer interaction. This chapter presents these principles for your consideration as you design your product. It also points out what to consider for worldwide compatibility and universal access.  
+For detailed information on specific user interface components and how to assemble them in your own Aqua-compliant user interface, see the chapters in Part III, "The Aqua [Interface"](#page-84-0) (page 85).

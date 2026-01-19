@@ -1,0 +1,3 @@
+<!-- Chunk 113 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 158 -->
+In Mac OS X, users can interrupt a quit operation with documents still unsaved. For example, if a user chooses Quit and a save alert (a sheet) opens for a document, the user can work on other documents or switch to another application without addressing the save alert. To minimize the impact of such interruptions, all save alerts initiated by a Quit command should include a message that alerts users that they are in the midst of a quit operation. See Figure 6-10 (page 111) for an example.  
+When a user quits an application in which all open documents have been saved, all documents close immediately and the application quits.

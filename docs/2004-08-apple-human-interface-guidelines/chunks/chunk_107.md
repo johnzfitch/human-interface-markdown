@@ -1,0 +1,7 @@
+<!-- Chunk 107 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 280 -->
+You can use **hierarchical menus** to offer additional menu item choices without taking up more space in the menu bar. When the user points to a menu item with a submenu indicator, a submenu appears. Submenus have all the features of menus, including keyboard shortcuts, status markers (such as checkmarks), and so on.  
+Because submenus add complexity to the interface and are physically more difficult to use, you should use them only when you have more menus than fit in the menu bar or for closely related commands. Use only *one level* of submenus. If a submenu contains more than five items, consider giving it its own menu.  
+When you use submenus, include them in a menu with a logical relationship to the choices they contain; the submenu title should clearly represent the choices it contains. Hierarchical menus work best for providing submenus of attributes (rather than actions).  
+<span id="page-84-1"></span>**Figure 7-11** A hierarchical menu  
+![](images/_page_84_Picture_3.jpeg)  
+<span id="page-84-3"></span>If all of a submenu's commands are unavailable (dimmed) at the same time, dim the submenu title.

@@ -1,0 +1,13 @@
+<!-- Chunk 144 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 597 -->
+An **icon button** (or **image button**) is a freestanding icon that behaveslike a push button in a window's content area.  
+**Note:** If you want to create a freestanding icon button for use as a toolbar item, see [Designing](#page-136-0) a [Toolbar](#page-136-0) (page 137).  
+To create an icon button in Interface Builder, drag a bevel button or a square button into your window, add your icon, and deselect the Bordered checkbox in the Attributes pane of the inspector. To create an icon button using AppKit programming interfaces, use the setBezelStyle: method of NSButtonCell with NSShadowlessSquareBezelStyle as the argument.  
+An icon button does not have a visible rectangular edge around it. In other words, the entire button is clickable, not just the icon.  
+**Avoid making the icon too big for the button.** Even though the outer dimensions of an icon button are not visible, they determine the hit target area. In general, it works well to size the icon button so that you leave a margin of about 10 pixels all the way around an icon.  
+If you include a label, place it below the icon, as shown here in the Sound icon button. (Use the small system font for a label.)  
+![](images/_page_231_Picture_8.jpeg)  
+**Avoid putting an icon button too close to other UI elements.** Don't forget that the entire button area is clickable (not just the icon). Use Interface Builder layout guides to help you see where the edges of an unbordered icon button are.  
+An icon button can also have a pop-up menu attached to it, which is indicated by the presence of a single downward-pointing arrow.  
+To create an icon button with a pop-up menu in Interface Builder, drag a pop-up button (that is, an NSPopUpButton object) into your window. Select the button and in the Attributes pane of the inspector, change its type to Pull Down. Finally, for a Rounded or Square Bevel Button, change the style to Square or Shadowless Square, respectively. For an icon button, it doesn't matter which style you choose, but you must deselect the Bordered checkbox. Resize the button as needed.  
+An icon button with a menu can behave like a standard pop-up menu, in which the image on the button is the current selection, or like a menu title, in which the image on the button is always the same.  
+<span id="page-232-0"></span>To learn more about bevel buttons, see Bevel [Button](#page-229-1) (page 230).

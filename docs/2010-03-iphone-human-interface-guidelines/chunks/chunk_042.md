@@ -1,0 +1,6 @@
+<!-- Chunk 42 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 295 -->
+Although the ultimate purpose of an application is to enable a task, even if that task is playing a game, the importance of an application's appearance should not be underestimated. This is because appearance has a strong impact on functionality: An application that appears cluttered or illogical is hard to understand and use.  
+Aesthetic integrity is not a measure of how beautiful your application is. It's a measure of how well the appearance of your application integrates with its function. For example, a productivity application should keep decorative elements subtle and in the background, while giving prominence to the task by providing standard controls and behaviors.  
+An immersive application is at the other end of the spectrum, and users expect a beautiful appearance that promisesfun and encourages discovery. Although an immersive application tendsto be focused on providing diversion, its appearance still needsto integrate with the task. Be sure you design the user interface elements of such an application carefully, so that they provide an internally consistent experience.  
+#### **CHAPTER 2**  
+Human Interface Principles: Creating a Great User Interface

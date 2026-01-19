@@ -1,0 +1,2 @@
+<!-- Chunk 243 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 52 -->
+<span id="page-221-5"></span>This section covers issues that deserve special mention in the context of drag and drop. Selection feedback is discussed in more detail in ["Selecting" \(page 185\)](#page-184-1).

@@ -1,0 +1,2 @@
+<!-- Chunk 449 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 34 -->
+The technique of dragging an item, such as a graphic or selected text, and dropping it on a suitable destination, such as another document.

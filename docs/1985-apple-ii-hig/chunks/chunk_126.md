@@ -1,0 +1,4 @@
+<!-- Chunk 126 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 144 -->
+Buttons are small objects, usually inside a window, labeled with text. Clicking or pressing a button performs the action described by the button's label.  
+Buttons perform instantaneous actions, such as completing operations defined by a dialog box or acknowledging error messages. Conceivably they could perform continuous actions, in which case the effect of pressing on the button would be the same as the effect of clicking it repeatedly.  
+Two particular buttons, OK and Cancel, are especially important in dialogs and alerts; they're discussed under those headings below.

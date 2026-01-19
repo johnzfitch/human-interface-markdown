@@ -1,0 +1,3 @@
+<!-- Chunk 21 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 114 -->
+Mobile users have neither the time nor the desire to read through a lot of help content before they can benefit from an application. What's more, help content takes up valuable space to store and display.  
+iOS-based devices and their built-in applications are intuitive and easy to use,so people don't need onscreen help content to tell them how to use the device or the apps. This experience leads people to expect all iOS apps to be similarly easy to use.

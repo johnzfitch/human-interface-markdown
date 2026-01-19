@@ -1,0 +1,5 @@
+<!-- Chunk 385 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 177 -->
+Use a command pop-down menu only when the containing window is shared among multiple windows or applications and the menu contains commands that affect the window's contents. For example, the Colors window (shown in Figure 15-45) can be used in any application. The items in its command pop-down menu allow users to make new palettes of colors available in the Colors window (the open command pop-down menu in the Colors window is shown in Figure 15-46).  
+<span id="page-294-0"></span>**Figure 15-46** An open command pop-down menu  
+![](images/_page_294_Picture_5.jpeg)  
+Command pop-down menusshould contain between 3 and 12 commands. The itemsin a command pop-down menu do not have to be mutually exclusive.

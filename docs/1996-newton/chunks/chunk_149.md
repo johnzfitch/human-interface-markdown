@@ -1,0 +1,15 @@
+<!-- Chunk 149 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 724 -->
+Users may notice and correct some input errors, but your application should also check input items for validity. There are a couple of approaches you can take to error checking, depending on the circumstances and users' expectations.  
+One approach is to check an input item for errors as soon as a user moves on to another input item. With this approach, a user must correct an error before the input gets stale or leads to other input errors. However, a user who makes lots of mistakes may feel pestered by what seem to be nitpicking error messages.  
+Another approach is to check all input items in one view at the same time, when a user taps a button to confirm all the input items and close the view. This approach only disrupts the user once per view instead of once per input item. If you take this approach, try to make your error messages as specific and diagnostic as possible. It's all too easy to make error messages vague.  
+<span id="page-206-0"></span>The Newton system provides a standard user interface for sending and receiving data by several communications methods, called **transports.** Most Newton systems come with transports for printing, faxing, beaming, and e-mailing. You can develop additional transports that users can install and remove at will, independent of installing and removing applications. The system makes newly installed transports available immediately in all applications, built-in and otherwise, and makes newly removed transports unavailable immediately in all applications.  
+If you are developing an application and want to give users access to transports for sending your application's data items, you include Action buttons in the application's container views. If you want your application to receive incoming data items, you have your application tell the system which types of items it can handle. The rest of the user interface for sending and receiving data items is provided by the transports, the system, and the built-in In/Out Box application.  
+This chapter describes the Newton routing and communications interface in detail, covering the following topics:  
+- What role the In/Out Box application plays in routing incoming and outgoing data items
+- How users route outgoing items, including how the Action button works and how transports get routing information from users  
+- <span id="page-207-0"></span>■ How users route incoming data items
+- When and how transports should display status information
+- When and how transports should allow users to stop an ongoing transfer of data items
+- How transports should provide user preference settings
+- What alternative routing methods are available  
+This chapter discusses the Newton routing and communications interface in the context of the applications and the transports that come with most Apple MessagePad models. Applications and transports you develop should follow these models.

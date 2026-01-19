@@ -1,0 +1,2 @@
+<!-- Chunk 454 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 32 -->
+Tab views are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSTabView class.

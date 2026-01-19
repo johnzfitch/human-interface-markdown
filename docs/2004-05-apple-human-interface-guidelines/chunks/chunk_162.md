@@ -1,0 +1,5 @@
+<!-- Chunk 162 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 222 -->
+Use **checkboxes** to indicate one or more options that must be either on or off. Each checkbox label should clearly imply two opposite states so it's clear what happens when the box is checked or unchecked. If you can't find an unambiguous label, consider using radio buttons so you can clarify the states with two different labels.  
+When a user selection comprises more than one state, use a dash in the appropriate checkboxes. This symbol is consistent with the mixed-state indicator in menus, as described in ["Using Symbols](#page-79-0) [in Menus"](#page-79-0) (page 80).  
+**Carbon:** Checkboxes are available in Interface Builder. Create them programmatically with the function CreateCheckboxControl.  
+**Cocoa:** Checkboxes are available in Interface Builder. Create them programmatically as NSButtons of type NSSwitchButton. See *Buttons* in Cocoa User Experience documentation.

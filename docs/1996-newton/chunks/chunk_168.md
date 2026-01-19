@@ -1,0 +1,5 @@
+<!-- Chunk 168 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 252 -->
+In addition to using an Action button to send outgoing items, a user can send items by using the Intelligent Assistant. First the user writes the name of an action—call, fax, mail, or print—and taps the Do button in the Intelligent Assistant's main view. After interpreting what action to take, the Intelligent Assistant finds out from the frontmost application which items to send. Then the Intelligent Assistant has the system display the routing slip for the type of action the user wants.  
+The Intelligent Assistant also interacts with the list picker for picking a recipient in a routing slip. If a user writes a routing action such as "fax Bob," the Intelligent Assistant sets up the picker with a list of names that contain "Bob" and have fax numbers from the Names File. Figure 7-25 shows how this might look.  
+Names that match the recipient written in the Intelligent Assistant Routing slip for the action written in the Intelligent Assistant  
+**Figure 7-25** Routing with the Intelligent Assistant

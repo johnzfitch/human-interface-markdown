@@ -1,0 +1,2 @@
+<!-- Chunk 138 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+<span id="page-123-1"></span>Controls are UI elementsthat usersinteract with to perform an action, or view to get information. iOS provides a large number of controls you can use in your application.

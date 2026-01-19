@@ -1,0 +1,2 @@
+<!-- Chunk 250 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 30 -->
+When dropping graphics, the drop feedback is usually the movement of the actual item to the location of the mouse-up event.

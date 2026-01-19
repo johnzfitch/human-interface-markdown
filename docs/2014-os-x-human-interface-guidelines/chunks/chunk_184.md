@@ -1,0 +1,13 @@
+<!-- Chunk 184 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 588 -->
+Different perspectives are achieved by changing the position of an imaginary camera that captures the icon. It's important to position the camera and a light source so that you get the right amount of shadow and avoid distortion.  
+In general, an app icon depicts an object that looks like it's sitting on a desk in front of you. The imaginary camera is always above the object, tilted slightly towards the lower edge of the object. You don't want to position the camera too close to the desk, because when the camera is too close, it distorts the perspective of the icon. You want the icon to be nearly isometric.  
+![](images/_page_316_Picture_2.jpeg)  
+Like the camera, the perceived light source should also be tilted slightly from the perpendicular, but in the opposite direction (that is, towards the top edge of the object) so that a subtle shadow appears at its bottom edge.  
+![](images/_page_316_Picture_4.jpeg)  
+When appropriate, you can add a slight tilt to your icon after you render it. A tilt of 9 degrees works well.  
+![](images/_page_317_Picture_2.jpeg)  
+**Portray real objects accurately.** Icons that represent real objects should also look as though they are made of real materials and have real mass. Realistic icons accurately replicate the characteristics of substances such as fabric, glass, paper, and metal, and convey an object's weight and feel.  
+**Make your drop shadow fully black.** In the Finder Cover Flow view, app icons are displayed against a black background, set above a highly reflective surface. If your icon has a drop shadow that contains any gray tones, the gray will make the shadow look more like a glow.  
+**Consider adding a slight glow just inside the edges of your icon.** If your app icon includes a dark reflective surface, such as glass or metal, add an inner glow to make the icon stand out against the black background. If you don't add a glow to make the edges of your icon prominent, it might appear to dissolve into the black background of the Finder Cover Flow view.  
+**Use transparency when it makes sense.** Transparency in an icon can help depict glass or plastic, but it can be tricky to use convincingly. You would never see a transparent tree, for example, so don't use one in your icon. The Preview app icon incorporates transparency effectively.  
+![](images/_page_318_Picture_2.jpeg)

@@ -1,0 +1,10 @@
+<!-- Chunk 171 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 511 -->
+The system displays a small graphic at the top of the screen, called the Notify button, to notify the user of ongoing actions and deferred notification alerts that applications or transports have registered with the system's Notify service. The Notify button looks like a star and it blinks periodically. [Figure 8-2](#page-244-0) shows the Notify button.  
+<span id="page-244-0"></span>**Figure 8-2** The Notify button signals an ongoing action or deferred alert  
+![](images/_page_244_Picture_3.jpeg)  
+If your application displays a status slip with a Close box while it performs a lengthy action, and a user taps the Close box, your application should register the ongoing action with the Notify service. The system will continue processing the action in the background. In addition, your application may register a deferred notification alert when it sets an alarm (see ["Alarms" on](#page-245-0)  [page 8-4](#page-245-0)) and at other times.  
+The Notify service lists registered actions and notifications in a Notify picker, which pops up if a user taps the Notify button. Choosing a listed action redisplays the corresponding status slip. Choosing a listed notification alert displays it. Figure 8-3 shows a Notify picker.  
+**Figure 8-3** The Notify picker lists ongoing actions and deferred alerts  
+![](images/_page_244_Picture_7.jpeg)  
+<span id="page-245-0"></span>When a user chooses an action or alert from the Notify picker, the Notify service automatically removes the chosen item from the picker. If your application or transport completes an action listed in the Notify picker, it must remove the action from the Notify picker by unregistering the action with the Notify service. The Notify service automatically removes the Notify button when the last item is removed from the Notify picker.  
+For more information on status slips, see ["Status Slips" on page 2-20](#page-63-0) and ["Routing Status" on page 7-29.](#page-234-0) For more information on notification alerts, see ["Notification Alerts" on page 2-17.](#page-60-0)

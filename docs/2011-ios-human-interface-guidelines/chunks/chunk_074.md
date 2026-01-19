@@ -1,0 +1,4 @@
+<!-- Chunk 74 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 166 -->
+iOS applications stop when people press the Home button to open a different application or use a device feature, such as the phone. In particular, people don't tap an application close button or select Quit from a menu. To provide a good stopping experience, an iOS application should:  
+- **Save user data as soon as possible and as often as reasonable** because an exit or terminate notification can arrive at any time.
+- **Save the current state when stopping**, at the finest level of detail possible so that people don't lose their context when they start the application again. For example, if your app displays scrolling data, save the current scroll position.

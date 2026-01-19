@@ -1,0 +1,12 @@
+<!-- Chunk 93 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 552 -->
+If your application provides different perspectives on the same set of data, or different subtasks related to the overall function of the application, you might want to use a tab bar. A tab bar appears at the bottom edge of the screen.  
+A tab bar gives usersthe ability to switch among different modes or viewsin an application, and usersshould be able to access these modes from everywhere in the application. However, a tab bar should never be used as a toolbar, which contains buttons that act on elements in the current mode (see ["Toolbars"](#page-70-1) (page 71) for more information on toolbars).  
+For example, on iPhone, iPod uses a tab bar to allow users to choose which part of their media collection to focus on, such as Podcasts, artists, videos, or playlists. The Clock application, on the other hand, uses a tab bar to give users access to the four functions of the application, namely, World Clock, Alarm, Stopwatch, and Timer. Figure 6-10 shows how selecting a tab in a tab bar changes the view in Clock. Notice how the tab bar remains visible in the different Clock modes shown in Figure 6-10. This makes it easy for users to see which mode they're in, and allows them to access all Clock modes regardless of the current mode.  
+<span id="page-73-1"></span>**Figure 6-10** A tab bar switches views in an application  
+![](images/_page_73_Figure_3.jpeg)  
+![](images/_page_73_Figure_4.jpeg)  
+<span id="page-73-2"></span>The tab bar displays icons and text in tabs, all of which are equal in width and display a black background. When a tab is selected, its background lightens and the image in the tab is highlighted. Figure 6-11 shows how this looks.  
+**Figure 6-11** A selected tab in a tab bar  
+![](images/_page_73_Picture_7.jpeg)  
+**Note:** A tab bar does not change its opacity or height, regardless of orientation.  
+<span id="page-73-0"></span>iPhone OS provides a number of icons for tabs, such as the items labeled Featured and Bookmarks in Figure 6-11. If you choose to use these icons, be sure to use them in accordance with their documented meaning. For more information on the tab bar icons available to you, see ["Standard](#page-125-0) Icons for Use in Tab Bars" (page 126).

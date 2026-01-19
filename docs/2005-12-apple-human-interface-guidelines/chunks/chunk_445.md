@@ -1,0 +1,2 @@
+<!-- Chunk 445 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 45 -->
+A control that expands a dialog or utility window to provide the user with additional choices that are associated with a specific list-based selection control (such as a pop-up menu).

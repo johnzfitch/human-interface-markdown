@@ -1,0 +1,3 @@
+<!-- Chunk 269 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 166 -->
+This section describes controls that either display text or accept text as input. The combination box, which includes a text input field, is not covered in this section; see ["Combination](#page-294-0) Boxes" (page 295) for information about combination boxes.  
+<span id="page-320-1"></span>**Important:** The controls described in this section are suitable for use in the window body; they should not be used in the window-frame areas. The single exception is the search field, which can also be used in a toolbar. See ["Window-Frame](#page-254-1) Controls" (page 255) for controls designed specifically for use in the toolbar and bottom-bar areas in your window.

@@ -1,0 +1,3 @@
+<!-- Chunk 257 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 165 -->
+The controls described in the following sections provide ways for users to make selections from multiple items. Some selection controls allowonlya single selection, others can be configured to allow a single selection or multiple selections.  
+<span id="page-282-1"></span>**Important:** The controls described in this section are suitable for use in thewindowbody; theyshould not be used in the window-frame areas. The single exception is the icon button with a pop-up menu, which can also be used in a toolbar. See ["Window-Frame](#page-259-0) Controls" (page 260) for controls designed specifically for use in the toolbar and bottom-bar areas in your window.

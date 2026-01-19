@@ -1,0 +1,2 @@
+<!-- Chunk 91 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 101 -->
+Spotlight is a powerful Mac OS X search technology available to both users and application developers. Built on top of Search Kit and integrated with the file system, Spotlight makes searching for files on the computer as easy as searching the web. With Spotlight, users can search for things using attributes that have meaning for them, such as the intended audience for a document, the orientation of an

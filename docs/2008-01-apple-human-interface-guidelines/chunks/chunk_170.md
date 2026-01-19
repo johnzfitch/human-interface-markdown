@@ -1,0 +1,12 @@
+<!-- Chunk 170 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 607 -->
+<span id="page-154-1"></span>Throughout Mac OS X, you can see quantities of small, black images in rectangular-style toolbar controls, gradient buttons, and scope buttons. Some of the most familiar are those used in the Finder toolbar, as shown in Figure 11-27.  
+**Figure 11-27** Standard images as used in the Finder toolbar  
+![](images/_page_154_Picture_8.jpeg)  
+In addition to these images, many Mac OS X applications display full-color standard images such as the icons that represent the Colors window, .Mac, and a smart folder [\(Figure](#page-153-3) 11-26 (page 154) shows images similar to these).  
+In Mac OS X v10.5 and later, many standard images of both types are available for you to use. Using system-provided images confers significant advantages, such as:  
+- Shorter development time and less effort spent on creating custom versions of standard art.
+- Automatic updatingof images if appearance changes are part of future operatingsystem updates.
+- Established user familiarity with the meaning of standard images.  
+To realize these advantages, however, it is crucial that you use the images correctly. Specifically, this means that you should use an image in accordance with its documented meaning and recommended usage; you should never use an image to mean something other than what it was designed to mean. If you repurpose an image you confuse users who already know what the image means. Also, if a later update to the operating system includes a change to the image's look, you confuse users again when the new image appearance no longer makes sense in your application.  
+As a hypothetical example, imagine that the "go forward" image (currently a right-pointing triangle) is changed to look like a capital letter "F." If you correctly used this image in a control that performs a "go forward" action, your control would still make sense. If, however, you used the image to mean "play," your control would no longer make any sense.  
+If you can't find a system-provided image that has the appropriate meaning for a specific purpose in your application, it's better to design your own than to misuse a system-provided image. ["Designing](#page-153-2) Icons for [Rectangular-Style](#page-153-2) Toolbar Controls" (page 154) provides someguidelines for designingicons for use in controls; ["Designing](#page-153-0) Icons for Icon Buttons" (page 154) outlines how to design standalone icons for a toolbar.

@@ -1,0 +1,3 @@
+<!-- Chunk 423 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 163 -->
+Use a scrolling list when you need to display an arbitrarily large number of itemsfrom which users can choose. Although scrolling lists aren't directly editable, you can provide editing functionality that allows users to provide list items you feed into the list.  
+<span id="page-318-3"></span>Don't use a scrolling list to provide choices in a limited range. This is because a scrolling list might not display all items at once, which can make it difficult for users to grasp the scope of their choices. If you need to display a limited range of choices, a pop-up menu (described in ["Pop-Up](#page-280-0) Menus" (page 281)) might be a better choice.

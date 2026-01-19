@@ -1,0 +1,4 @@
+<!-- Chunk 9 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 192 -->
+*iPhone Human Interface Guidelines* is divided into two parts, each of which contains several chapters:  
+- The first part, ["Planning](#page-12-0) Your iPhone Software Product" (page 13) describes the iPhone OS environment and the types of software you can develop for it. It also covers fundamental human interface design principles and describes how to apply these principles to the design of your iPhone application.
+- <span id="page-10-2"></span>■ The second part, "Designing the User Interface of Your iPhone [Application"](#page-60-0) (page 61), delves into the components you use to create the user interface of your iPhone application. It describes the various views and controls that are available to you and provides guidance on how to use them effectively.

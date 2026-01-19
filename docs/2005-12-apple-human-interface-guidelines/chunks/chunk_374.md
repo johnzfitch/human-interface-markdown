@@ -1,0 +1,10 @@
+<!-- Chunk 374 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 504 -->
+A **disclosure button** expands a dialog or utility window to offer the user a wider range of choices related to a specific selection control, such as a pop-up menu, combination box, or command pop-down menu. This makes a disclosure button different from a disclosure triangle (described in ["Disclosure](#page-265-1) [Triangles"](#page-265-1) (page 266)), which displays additional information or functionality related to the contents of a window or a section of a window. If you need to offer additional options that are not closely related to a specific list of choices, use a disclosure triangle.  
+<span id="page-267-2"></span>An example of a dialog expanded by a disclosure button is the expanded Save dialog (shown in Figure 14-54). The minimal Save dialog (shown in [Figure 13-39](#page-213-0) (page 214)) uses a pop-up menu to provide the user with a list of standard and recently accessed locations in which to save a file. To get a wider range of choices, the user clicks the disclosure button, which puts the file system at the user's fingertips without requiring the user to leave the context of the Save dialog.  
+**Figure 14-54**  
+![](images/_page_267_Picture_10.jpeg)  
+Controls  
+By default, disclosure buttons should be in the closed position, pointing down. When the user clicks a disclosure button, the window expands and the disclosure button changes to point up.  
+A disclosure button should be aligned with the pop-up menu or other list-based selection control (such as a command pop-down menu) it affects. Disclosure buttons should never be accompanied by labels.  
+**Carbon:** Disclosure buttons are available in Interface Builder. To create one programmatically, you can use the Control Manager function CreateDisclosureButtonControl.  
+**Cocoa:** Disclosure buttons are not available in Interface Builder. To create one programmatically, set the bezel style to NSRoundedDisclosureBezelStyle and the button type to NSPushOnPushOffButton. See *Buttons* in Cocoa User Experience documentation.

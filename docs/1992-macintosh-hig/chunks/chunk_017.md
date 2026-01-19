@@ -1,0 +1,3 @@
+<!-- Chunk 17 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 152 -->
+![](images/_page_21_Picture_6.jpeg)  
+*Making It Macintosh: Macintosh Human Interface Guidelines Companion* is a CD-ROM–based accompaniment to *Macintosh Human Interface Guidelines*. *Making It Macintosh* contains animated examples of common problems developers encounter when they implement the Macintosh interface, presents solutions to these problems, and discusses how you can approach similar problems. You can use *Making It Macintosh* and *Macintosh Human Interface Guidelines* together, or you can consult each separately. For information about ordering *Making It Macintosh*, see the back of this book.

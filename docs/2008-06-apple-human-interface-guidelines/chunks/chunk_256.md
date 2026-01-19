@@ -1,0 +1,2 @@
+<!-- Chunk 256 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+<span id="page-210-1"></span>This section discusses how you should open, position, resize, and close windows and provides guidelines on how they should behave when a user interacts with them.

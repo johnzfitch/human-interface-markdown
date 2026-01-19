@@ -1,0 +1,3 @@
+<!-- Chunk 37 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 151 -->
+The keyboard is used primarily for entering text. (Thanks to the point and click features of the desktop interface, users don't have to use the keyboard to type commands.) The keys on the keyboard are arranged in familiar typewriter fashion. Because keyboards vary from one computer to another, no specific one is illustrated here.  
+There are two kinds of keys: character keys and modifier keys. A character key sends characters to the computer. A modifier key alters the meaning of a character key if it's held down while the character key is pressed, or alters or amplifies the meaning of a mouse action.

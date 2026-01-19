@@ -1,0 +1,7 @@
+<!-- Chunk 16 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 355 -->
+OS X is a multiple-user system. Not only does the system support multiple user accounts, it allows multiple usersto be logged in simultaneously so that they can share the same computer in quick succession. Thisfeature employs a technique known as fast user switching, in which users trade use of the computer without logging out.  
+The fast user switching menu is displayed by clicking the current user's name in the menu bar. The menu lists the names of the other users who have accounts on the computer (and whether they're currently logged in).  
+![](images/_page_23_Picture_2.jpeg)  
+When a different user's name is chosen in the fast user switching menu, the current desktop (or full-screen window) is veiled and a login window appears. The new user logs in, sees the system exactly as they left it, and immediately gets access to their content.  
+With multiple users accessing the computer, conflicts can arise if apps are not careful about how they use shared resources. Great apps take care to avoid making assumptions about the current user's privileges and access to system resources and external devices.  
+<span id="page-23-0"></span>To learn more about the ramifications of a multiuser system, see *Multiple User Environment Programming Topics*. To learn about some ways to provide a good multiuser experience in your app, see "Adapt to [Changes](#page-52-1) in the User's [Environment"](#page-52-1) (page 53).

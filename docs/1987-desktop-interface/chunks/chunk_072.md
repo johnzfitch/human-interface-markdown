@@ -1,0 +1,6 @@
+<!-- Chunk 72 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 262 -->
+Before copying something, the user must first select it. Copy puts a duplicate of the selection in the Clipboard, but the selection also remains in the document. The user can then move the insertion point and choose Paste to insert the Clipboard's contents somewhere else.  
+The Apple-C key combination is reserved as a keyboard substitute for Copy in the Edit menu and should be used for no other purpose.  
+#### Paste  
+Paste is the last stage of a move or copy operation. It inserts the contents of the Clipboard into the document, replacing the current selection. If there is no current selection, it's inserted at the insertion point. The user can choose Paste several times in <sup>a</sup> row to paste multiple copies. After <sup>a</sup> paste, the new selection is the object that was pasted, except in text, where it's an insertion point immediately after the pasted text. The Clipboard remains unchanged.  
+The Apple-V key combination is reserved as a keyboard substitute for Paste in the Edit menu and should be used for no other purpose.

@@ -1,0 +1,2 @@
+<!-- Chunk 196 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 88 -->
+If users can create new items or display different views of information in your application, include a New button and a Show button like the ones in the built-in applications. Put the New button near the left end of the status bar next to the Info button (if present), and put the Show button to the right of the New button. See page [3-26](#page-119-0).

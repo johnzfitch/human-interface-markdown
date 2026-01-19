@@ -1,0 +1,4 @@
+<!-- Chunk 132 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 164 -->
+<span id="page-94-5"></span>Pressing Page Up or Page Down scrolls the document up or down one page. If an entire page can't be displayed in the window, these keys first scroll incrementally up or down, until the top or bottom of the page is visible, before scrolling to the next page. These keys should also work in scrolling lists.  
+If the beginning or end of the document is reached, pressing Page Up or Page Down produces a system alert sound. Pressing the Page Up or Page Down key has no effect on the location of the insertion point or selected data.  
+The Keyboard **95 2005-12-06 | © 1992, 2001-2003, 2005 Apple Computer, Inc. All Rights Reserved.**

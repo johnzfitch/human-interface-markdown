@@ -1,0 +1,40 @@
+---
+chunk_index: 186
+ref: "ac2fdbca88cd"
+id: "ac2fdbca88cd560424b17149ffda04b24d501f4c0ee4be28460baf256b248387"
+slug: "full-document--introduction"
+path: "marker/1982 Apple IIe Design Guidelines/full_document.md"
+kind: "markdown"
+lines: [270, 293]
+token_estimate: 754
+content_sha256: "821f58bdb2f8d34e9389168be4356222a9145eb74f646e9b669c6592c21c4615"
+compacted: false
+heading_path: ["Introduction"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Introduction
+
+The following guidelines and comments have been written for a diverse audience.
+
+As a professional buyer and sellers of software, you can gain an insight into the elements that will make a program most useable to your customers. While this document is aimed primarily at program designers, you can pick up a "feel" for interface design. Is your difficulty in using a program because the designer failed to make it "friendly," or is it only because you lack specific experience in the subject of the program? Are the customers who will be buying the program from you well versed in that subject area? If not, they will have the same trouble you are having.
+
+As a novice programmer, you will find not only specific information on how to implement certain guidelines, but a fair amount of philosophy of design that should be of help in areas of design not covered.
+
+The expert program designer may skim past what has become the obvious—don't just give error numbers instead of meaningful error messages—to find standard layouts and key-function definitions for inputs, menus, command structures, and instruction pages.
+
+You can explore additional BASIC basics of human interface design for the Apple in
+
+Apple Backpack, Humanized Programming in BASIC, by Scot Kamins, Ph.D., published by Byte Books of McGraw-Hill.
+
+There are two primary functions of a good human interface design: make the product easy to learn, and make it easy to use. We all know that our customers can learn to use our programs faster if they look and act like other programs with which the customer is already familiar.
+
+When the Apple II and Apple III series computers first came on the market, software developers experimented with a wide variety of interface designs. Some were good, some were bad. All were somewhat hard to learn, because all were unique. As time went on, though, the natural personalities of the keyboards, displays, and computers led to a remarkable similarity of approach to certain basic problems of ease of use.
+
+This document is drawn from applications programs written both within and without Apple. It further relies on human interface research projects inside Apple and standards developed by independent software developers.
+
+We are not in any sense trying to dictate what program designers shall and shall not do within their own programs. Each program has its own needs; each guideline will have its own exceptions. Programs should not be judged by whether they adhere to each specific guideline presented in this manual; they should be judged by whether they are reasonable to learn, functional to use, and whether they get the job done.
+
+What we are offering is a set of interface guidelines and standard key definitions to which we and many independent developers are committed, guidelines and definitions your customers will know and be comfortable with. We are releasing training material that will prepare your customers to use programs that work in the manner described in this document.

@@ -1,0 +1,2 @@
+<!-- Chunk 113 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 110 -->
+In the Macintosh Plus ROM, the Menu Manager uses the system font and the system font size in setting up the height of the menu bar, and of the items in menus. Because the system font size can vary, the height of the menu bar can also vary. When determining window placement on the screen, do not assume that the menu bar height is 20. Applications should use the low memory variable MBarHeight (instead of 20) as the height of the menu bar.

@@ -1,0 +1,4 @@
+<!-- Chunk 146 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 182 -->
+The *Apple Publications Style Guide* covers style and usage issues, and is the key reference for how Apple uses language. Consult it whenever you have a question about the preferred style of particular terms.  
+For issues that aren't covered in the *Apple Publications Style Guide*, Apple recommends three other works: *The American Heritage Dictionary*, *The Chicago Manual of Style*, and *Words Into Type*. When these books give conflicting rules, *The Chicago Manual of Style* takes precedence for questions of usage and *The American Heritage Dictionary* for questions of spelling.  
+The rest of thissection discussesspecific details of how to present your text in a style that integrates properly with the Aqua user interface.

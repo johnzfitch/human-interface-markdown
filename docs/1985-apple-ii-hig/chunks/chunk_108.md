@@ -1,0 +1,2 @@
+<!-- Chunk 108 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 40 -->
+When the user chooses Clear, the application removes the selection, but doesn't put it on the Clipboard. The new selection is the same as it would be after a Cut.

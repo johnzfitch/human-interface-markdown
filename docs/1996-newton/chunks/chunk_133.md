@@ -1,0 +1,5 @@
+<!-- Chunk 133 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 263 -->
+For a field that can have just one of a few unchanging values, an application can use a cluster of radio buttons. A user selects an input from a cluster of radio buttons by tapping one of the radio buttons. This automatically deselects the previously selected radio button in the cluster. A cluster of radio buttons always offers the same choices; the radio buttons never change dynamically depending on context. Figure 6-4 shows a sample cluster of radio buttons.  
+**Figure 6-4** With radio buttons, a user can select one value for a field The selected radio button is black  
+Notice that a cluster of radio buttons offers a user the same choices as a short picker. On the downside, radio buttons take up more space in a view than a picker because they are always visible in the view. On the upside, being always visible makes radio buttons faster and easier to use than a picker. There's no need to tap and a wait (however briefly) for anything to pop up.  
+For a detailed description of radio buttons, see ["Radio buttons" on page 3-1.](#page-94-0)

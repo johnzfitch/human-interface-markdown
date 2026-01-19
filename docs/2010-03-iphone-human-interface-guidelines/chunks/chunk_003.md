@@ -1,0 +1,2 @@
+<!-- Chunk 3 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 82 -->
+Table [Views](#page-88-1) 89 Usage and [Behavior](#page-88-2) 89 [Table-View](#page-89-0) Styles 90 [Table-Cell](#page-91-0) Styles 92 [Table-View](#page-97-0) Elements 98 Switch [Controls](#page-98-0) 99 Using Table Views to Enable [Common](#page-99-0) User Actions 100 Text [Views](#page-102-0) 103 Web [Views](#page-103-0) 104

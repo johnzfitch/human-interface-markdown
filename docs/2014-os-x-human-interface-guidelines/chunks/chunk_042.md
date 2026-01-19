@@ -1,0 +1,5 @@
+<!-- Chunk 42 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 247 -->
+Forgiveness encourages people to explore without fear, because it means that most actions can easily be reversed. People need to feel that they can try things without damaging the system or jeopardizing their data.  
+Forgiveness can also give an app the impression of reliability. When people know that it's not easy for them to make mistakes that result in data loss or corruption, they're more likely to trust the app.  
+Safety nets, such as the Undo and Revert To commands, can help people feel comfortable learning and using apps. Deferring the commitment of the user's edits can also help. For example, iPhoto allows users to perform all sorts of modifications to a photo without actually changing the photo file until they want to.  
+Users also need to know when they initiate a task that will cause irreversible loss of data. To be forgiving, an app should give users the option to cancel a potentially dangerous action, but still perform the action after users confirm their intent.

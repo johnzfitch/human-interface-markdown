@@ -1,0 +1,3 @@
+<!-- Chunk 151 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 88 -->
+When the user moves an item by dropping its icon on a folder icon, the item is reorganized into the folder. Visually, the dropped icon disappears and the highlighting is removed from the destination folder icon.  
+If an icon represents a task, such as printing, you may want to provide **progress feedback** to indicate that the task is being carried out.

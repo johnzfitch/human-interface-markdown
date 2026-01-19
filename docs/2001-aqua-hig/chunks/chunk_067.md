@@ -1,0 +1,3 @@
+<!-- Chunk 67 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 153 -->
+The **View menu** provides commands that affect what users see in a window. In the Finder, for example, the View menu contains commands for displaying windows as columns, icons, or lists.  
+<span id="page-59-7"></span>Commands for showing, hiding, and customizing a toolbar belong in the View menu. Create a View menu for these commands even if your application doesn't need to have other commands in the View menu. Show/Hide Toolbar should appear right above Customize Toolbar. The Show/Hide Toolbar commands are provided so that people using full keyboard access can implement these functions with the keyboard.

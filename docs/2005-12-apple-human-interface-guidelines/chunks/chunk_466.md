@@ -1,0 +1,2 @@
+<!-- Chunk 466 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 28 -->
+A group of icons that share similar visual design characteristics used to designate a particular category of items.

@@ -1,0 +1,8 @@
+<!-- Chunk 53 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 387 -->
+An **activity indicator** shows the progress of a task or process that is of unknown duration. If you need to display progress for a task of known duration, use a progress view instead (see ["Progress](#page-95-0) Views" (page 96) for more information about this control). The "spinning gear" appearance of the activity indicator shows users that processing is occurring, but does not suggest when it will finish.  
+Figure 9-1 showstwo types of activity indicators. The activity indicator in the status bar isthe network activity indicator; it should be displayed when your application accesses the network for more than a couple of seconds. The larger activity indicator in the toolbar should be displayed if it will take more than a second or two for your application to perform the current task.  
+<span id="page-89-1"></span>**Figure 9-1** Two types of activity indicators  
+![](images/_page_89_Picture_3.jpeg)  
+An activity indicator is a good feedback mechanism to use when it's more important to reassure users that their task or process has not stalled than it is to suggest when processing will finish.  
+You can choose the size and color of an activity indicator to coordinate with the background of the view in which it appears. By default, an activity indicator is white.  
+An activity indicator disappears when the task or process has completed. This default behavior is recommended, because users expect to see an activity indicator when something is happening and they associate a stationary activity indicator with a stalled process.

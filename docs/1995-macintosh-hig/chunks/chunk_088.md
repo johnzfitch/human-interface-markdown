@@ -1,0 +1,10 @@
+<!-- Chunk 88 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 497 -->
+The items in a menu should be logically related to each other and to the menu title. Grouping items in a menu breaks up the menu visually so that it's easier to quickly locate items. This technique lends visual clarity to the interface.  
+Logical grouping of menu items is the most important aspect of arranging your menus. In general, place the most frequently used menu items at the top of the menu. Put the least frequently used items at the bottom of the menu. However, create groups that make sense to the user rather than simply grouping all the most-used items at the top of the menu.  
+<span id="page-84-0"></span>Group actions together and attributes together in a menu that contains both types. In a menu that contains a single type of item, group actions or attributes that are related. For example, in the Edit menu, the commands that allow a user to do simple text editing are grouped as a set. Group attributes that are interdependent either as a **mutually exclusive attribute group** or an **accumulating attribute group.** The Style menu groups the attribute items that affect text appearance as an accumulating group that is separated from the Plain Text item. The Plain Text item turns off all of the other attributes in effect when it is chosen. Figure 4-12 shows these Edit and Style menus with appropriate groupings of items.  
+**Figure 4-12** Menus with appropriate groups  
+![](images/_page_84_Picture_6.jpeg)  
+Menu Elements **61**  
+<span id="page-85-0"></span>How many dividers to use is partially an aesthetic decision. Remember that the Macintosh interface relies on aesthetic integrity as a means of good communication. Figure 4-13 shows a menu that depicts the right balance of grouping contrasted with two menus that show insufficient grouping and too much grouping. Use this picture as a visual guide when trying to decide how many dividers to use to group items in your menus.  
+**Figure 4-13** Grouping items in menus  
+![](images/_page_85_Picture_4.jpeg)

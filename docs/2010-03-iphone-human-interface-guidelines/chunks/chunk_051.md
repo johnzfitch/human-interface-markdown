@@ -1,0 +1,3 @@
+<!-- Chunk 51 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 133 -->
+When your user interface text is short and direct, users can absorb it quickly and easily. Therefore, identify the most important information, express it concisely, and display it prominently so users don't have to read too many words to find what they're looking for or to figure out what to do next.  
+To help you do this, think like a newspaper editor and strive to convey information in a condensed, headline style. Give controls short labels (or use well-understood symbols) so that users understand how to use them at a glance.

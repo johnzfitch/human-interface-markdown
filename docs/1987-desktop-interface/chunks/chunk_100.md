@@ -1,0 +1,2 @@
+<!-- Chunk 100 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 34 -->
+In addition to the editing features that the user accesses through the Edit menu, there are ways to edit text without using menu commands.

@@ -1,0 +1,28 @@
+---
+chunk_index: 2621
+ref: "60f6130b1ee4"
+id: "60f6130b1ee4886e465391ccc9b55126b2ed89e530c60015048b831127352bbe"
+slug: "full-document--see-and-point"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [630, 641]
+token_estimate: 490
+content_sha256: "c453f2c6f00a9726ada22461c2f51cec762958a4d9633e4a2a9f294bf793834a"
+compacted: false
+heading_path: ["The Human Interface Design Principles","See-and-Point"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## See-and-Point
+
+On the desktop, users perform actions by choosing from alternatives presented on the screen. Users interact directly with the screen, selecting objects and performing activities by using a pointing device, typically a mouse, to point at elements on the desktop.
+
+The Macintosh desktop works according to two fundamental paradigms. Both paradigms share two basic assumptions: that users can see on the screen what they're doing and that users can point at what they see. The paradigms are based on a general form of user action: noun-then-verb.
+
+In one paradigm, the user selects an object of interest (the noun) and then chooses the actions to be performed on the object (the verb). All actions available for the selected object are listed in the menus, so users who are unsure of what to do next can refresh their memory by scanning through the menus. At any time, users can choose any available action without having to remember any particular command or name. For example, a user clicks a document icon (the noun) and then prints (the verb) the document by choosing Print from the File menu.
+
+In the second paradigm, the user drags an object (the noun) onto some other object that has an action (the verb) associated with it. On the desktop, for example, the user can drag icons to the Trash, to folders, or to disks. The user doesn't choose an action from the menus, but it's clear what happens to one object when it's placed on another object. For example, dragging a document icon to the Trash means that the user wants to discard that document. For this metaphor to work, the user must recognize what an object such as the Trash is for, so it is especially important that objects look like what they do in the real world. If the document icon didn't look like a piece of paper with text and the Trash didn't look like the place to discard something, the interface would be more difficult to use.
+
+![](images/_page_30_Picture_8.jpeg)

@@ -1,0 +1,14 @@
+<!-- Chunk 111 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 697 -->
+With the expanded Save dialog, users can save a document in a location not accessible in the Where pop-up menu in the minimal Save dialog.  
+<span id="page-106-0"></span>**Figure 6-7** The expanded Save dialog  
+![](images/_page_106_Picture_9.jpeg)  
+Clicking the disclosure button in the minimal Save dialog displays the following:  
+- A column browser for navigating the file system.
+- A New Folder button, which displays an application-modal dialog that asks the user to name the new folder, and then creates it.
+- An Add to Favorites button, which adds an alias of the chosen folder to the user's Favorites folder and immediately updates the Favorite Places list in the Where pop-up menu. The Add to Favorites button is always active.
+- <span id="page-107-2"></span>■ A "Hide extension" checkbox, which allows the user to control whether or not the filename's extension (.jpg, for example) is visible. The "Hide extension" checkbox should be selected as the default (that is, filename extensions should not appear in user-visible filenames unless the user requests them).  
+<span id="page-107-0"></span>If the user changes the state of the checkbox for a particular document, the next new document should match the last user-selected state, even after the user quits and reopens the application. The filename in the "Save as" field updates in real time as the checkbox is selected or deselected.  
+Don't provide your own options for handling filename extensions; use the standard Open and Save dialogs. Carbon developers should set the PreserveSaveFileExtension flag when calling the Save dialog, and use NavCompleteSave to set the flag to hide the filename extension.  
+If you want to add a Format pop-up menu so that users can specify a document's file format, place it between the "Save as" text field and the Where pop-up menu. The system creates a list of native file types supported by the application to populate the menu. You can supplement this list with custom types and specify the default format to show when the dialog opens. When a user changes a document's type with the Format menu, the filename extension (visible or hidden) should change accordingly. Cocoa applications handle this updating automatically.  
+If you add other elements to customize the expanded Save dialog, they should appear above the Cancel and Save buttons. All custom elements should be visible in the dialog's minimal (collapsed) state, below the Where pop-up menu. When the dialog is expanded, custom elements should appear below the New Folder and Add to Favorites buttons.  
+<span id="page-107-1"></span>In default keyboard navigation mode, pressing Tab in the expanded Save dialog shifts the keyboard focus from the "Save as" text field to the visible columns, and then back to the text field.

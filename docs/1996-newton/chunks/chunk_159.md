@@ -1,0 +1,5 @@
+<!-- Chunk 159 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 265 -->
+Items a user chooses to send later (as described in ["Send Button and Close](#page-223-0)  [Box" on page 7-18](#page-223-0)) wait in the Out Box until the user is ready to have the transports transfer the items out of the Newton device. At that time the user connects the Newton to an output device and chooses a matching output service from the Send picker that pops up when the user taps the Send button in the Out Box. For example, to send faxes waiting in the Out Box, a user connects a fax modem and chooses Fax from the Out Box's Send picker. The Send picker lists all Newton transports capable of transferring items from the Out Box to an output device. Figure 7-17 shows a sample Send button and picker in the Out Box.  
+**Figure 7-17** The Out Box's Send picker lets users send items to output devices  
+![](images/_page_229_Picture_5.jpeg)  
+Before choosing an output service from the Out Box's Send picker, a user can select specific queued items to be sent. If the user does not select items first, the chosen service sends all items waiting for it.

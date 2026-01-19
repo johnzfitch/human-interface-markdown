@@ -1,0 +1,2 @@
+<!-- Chunk 363 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 41 -->
+<span id="page-283-0"></span>Pop-up menus are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSPopUpButton class.

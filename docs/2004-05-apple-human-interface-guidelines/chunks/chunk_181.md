@@ -1,0 +1,16 @@
+<!-- Chunk 181 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 780 -->
+**Progress indicators** inform users about the status of lengthy operations. (For guidelines on when to provide such information, see *Apple Software Design Guidelines*.) There are three types of progress indicators:  
+- **Determinate progress bar:** Use when the full length of an operation can be determined and you can tell the user how much of the process has been completed. You could use a determinate progress indicator to show the progress of a file conversion, for example. See Figure 10-34.
+- <span id="page-183-2"></span>■ **Indeterminate progress bar:** Use when the duration of a process can't be determined. You might use an indeterminate progress indicator to let the user know that the application is attempting a dialup communication connection, for example, when there's no way to accurately determine how long it will take to complete. If an indeterminate process reaches a point where its duration can be determined, switch to a determinate progress indicator. See Figure 10-34.
+- **Asynchronous progress indicator**: Use when space is very constrained. These indicators are best used for asynchronous events that take place in the background, such as retrieving messages from a server. Don't use the asynchronous progress indicator in operations that start out indeterminate but could become determinate. See Figure 10-35.  
+In a determinate progress bar, the "fill" moves from left to right and should fill in completely before it is dismissed. An indeterminate progress bar displays a spinning striped cylinder to indicate an ongoing process.  
+Determinate progress bars should associate progress with time. A progress bar that becomes 90 percent complete in 5 seconds but takes 5 minutes for the remaining 10 percent, for example, would be annoying and lead users to think that something is wrong.  
+Progress bars typically appear within a progress dialog. When the process being performed can be interrupted, the progress dialog should contain a Cancel button (and support the Esc key). If interrupting the process will result in possible side effects, the button should say Stop instead of Cancel.  
+Controls  
+<span id="page-184-1"></span>In addition to appearing in dialogs, the asynchronous progress indicator often appears in the main application window or a document window. Asynchronous progress indicators are generally visible only when an indeterminate operation is in progress.  
+![](images/_page_184_Picture_3.jpeg)  
+**Figure 10-35** Asynchronous progress indicator  
+<span id="page-184-2"></span>![](images/_page_184_Picture_5.jpeg)  
+<span id="page-184-3"></span>**Carbon:** All progress indicators are available in Interface Builder. You can create progress bars programmatically with the function CreateProgressBarControl and asynchronous progress indicators with CreateChasingArrowsControl.  
+**Cocoa:** All progress indicators are available in Interface Builder. All progress indicators can be displayed with the NSProgressIndicator class. See *Progress Indicators* in Cocoa User Experience Documentation.  
+<span id="page-184-0"></span>**Note:** Mini versions are not available.

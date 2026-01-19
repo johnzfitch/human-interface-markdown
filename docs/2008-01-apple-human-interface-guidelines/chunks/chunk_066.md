@@ -1,0 +1,2 @@
+<!-- Chunk 66 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 83 -->
+Mac OS X provides a wealth of highly developed technologies you can use that allow you to avoid spending development time implementing custom solutions for generic tasks. Taking advantage of these fully integrated technologies will enhance the way your application interacts with the system and with other applications on the platform.

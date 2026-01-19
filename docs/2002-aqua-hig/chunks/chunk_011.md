@@ -1,0 +1,2 @@
+<!-- Chunk 11 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+[Apple's Philosophy of Help](#page-234-1) 235 [Help Viewer](#page-236-0) 237 [Providing Access to Help](#page-236-1) 237 [Help Tags](#page-237-0) 238 [Help Tag Guidelines](#page-238-0) 239 [Setup Assistants](#page-240-0) 241

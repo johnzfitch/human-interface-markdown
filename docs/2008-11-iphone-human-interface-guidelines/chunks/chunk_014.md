@@ -1,0 +1,4 @@
+<!-- Chunk 14 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 204 -->
+Great applications follow certain fundamental human interface design principles, regardless of the hardware they run on. That's because these principles are based on the way people—users—think and work, not on the capabilities of the device.  
+Don't underestimate the powerful effect the user interface has on people. A user interface that is unattractive, convoluted, or illogical can make even a great application seem like a chore to use. But a great user interface enhances the application and inspires a positive emotional attachment in users, earning their loyalty.  
+This chapter describes the human interface principles that underlie every great user interface. You should read this chapter even if you are already familiar with these principles, because it focuses on how to apply them to iPhone applications.

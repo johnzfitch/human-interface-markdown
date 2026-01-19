@@ -1,0 +1,2 @@
+<!-- Chunk 69 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 52 -->
+Three menus, the Apple, File, and Edit menus, appear in almost every application. The Font, FontSize, and Style menus, which affect the appearance of text, appear only in applications in which they're relevant.

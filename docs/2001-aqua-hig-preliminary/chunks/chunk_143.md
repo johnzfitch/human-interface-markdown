@@ -1,0 +1,3 @@
+<!-- Chunk 143 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 89 -->
+Your application should provide drag feedback as soon as the user drags an item at least three pixels. If a user holds the mouse button down on selected text for 300 milliseconds, the selected text becomes draggable, as long as the mouse remains down. In Carbon, the Drag Manager handles drag feedback automatically.  
+In Aqua, dragged items are transparent.

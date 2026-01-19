@@ -1,0 +1,7 @@
+<!-- Chunk 103 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 334 -->
+- Displays a configurable list of services that users can perform on the specified content
+- Appears in an action sheet on iPhone; on iPad, it appears in a popover  
+Use an activity view controller to give people a list of services they can perform on content that is specified in some way. The services can be system-provided—such as Copy, Twitter, and Print—or custom. A common way to use an activity view controller is to allow users to post selected content to a social media account.  
+**Don't create a custom button that reveals an activity view controller.** People are accustomed to accessing system-provided services when they tap the Share button. You want to take advantage of thislearned behavior and avoid confusing users by providing an alternative way to do the same thing.  
+**Ensure that the listed services are appropriate in the current context.** You can change the services listed in an activity view controller by specifying system-provided servicesto exclude and by identifying custom services to include. For example, to prevent usersfrom printing an image, you exclude the Print activity from the activity view controller.  
+**Note:** You can't change the order in which the system-provided services are listed in an activity view controller. Also, all system-provided services appear above any custom services.

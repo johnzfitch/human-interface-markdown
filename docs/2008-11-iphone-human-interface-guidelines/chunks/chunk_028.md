@@ -1,0 +1,16 @@
+<!-- Chunk 28 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 765 -->
+iPhone applications stop when users open a different application or use a device feature, such as the phone. In particular, note that users don't tap an application close button or select Quit from a menu. iPhone applications should:  
+- Be prepared to receive an exit or terminate notification at any time. Therefore, save user data as soon as possible and as often as reasonable.
+- Save the currentstate when stopping, at the finest level of detail possible. For example, if your application displays scrolling data, save the current scroll position.  
+Starting **45**  
+iPhone applications should never quit programmatically because doing so looks like a crash to the user. There may be times, however, when external circumstances prevent your application from functioning as intended. When this happens, you need to tell users about the situation and explain what they can do about it. This way, users decide whether they want to take corrective action and continue with your application or press the Home button and open a different application.  
+External circumstances, such as the presence of a Wi-Fi connection, define the environment your application starts in and can change while your application is running. When existing or changed circumstances make it impossible for your application to perform its primary function, you should display a screen that describes the situation and tells users what they can do about it. For example, when there is no Wi-Fi connection the built-in iTunes application displays a screen that explains why the device can't connect to the iTunes Music Store and how users can correct the situation, as shown in Figure 4-1.  
+<span id="page-45-0"></span>![](images/_page_45_Picture_4.jpeg)  
+![](images/_page_45_Picture_5.jpeg)  
+A screen like the one shown in Figure 4-1 is especially useful when there is nothing your application can do in the current circumstances. It can also be useful when only some of your application'sfeatures are prevented from working. This is because a screen provides you with the space to create an attractive and appropriately informative message to help users understand why your application isn't functioning as expected and what they can do to correct the situation.  
+Alternatively, you might choose to display an alert when users can't access part of your application because of external circumstances. For example, if an application feature requires Location Services to be active, displaying an alert that explains this, and gives users the opportunity to enable Location Services, can be an efficient way to handle the situation. Although an alert doesn't allow much flexibility in design, it can be a good choice if you can:  
+- Describe the situation very succinctly
+- Supply a button that performs a corrective action
+- Avoid displaying the alert too often or in too many different situations  
+Handling Common Tasks  
+As with all alerts, the less users see them, the more effective they are. See "Using [Alerts"](#page-69-0) (page 70) for more information about creating alerts.

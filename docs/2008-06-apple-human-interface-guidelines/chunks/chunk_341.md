@@ -1,0 +1,2 @@
+<!-- Chunk 341 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+Round buttons are available in Interface Builder. To create one using Application Kit programming interfaces, use the setBezelStyle: method of NSButtonCell with NSCircularBezelStyle as the argument.

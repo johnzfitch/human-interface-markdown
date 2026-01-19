@@ -1,0 +1,2 @@
+<!-- Chunk 6 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 96 -->
+Before turning off LISA, the user runs a cleanup program which brings each folder to a clean stopping point and then informs the user that power may be removed. When LISA is turned on again with the same diskettes in place, the display will be restored to its previous state. Each user may easily customize her LISA by leaving commonly used objects in convenient places on the screen.

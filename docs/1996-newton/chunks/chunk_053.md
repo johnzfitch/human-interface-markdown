@@ -1,0 +1,10 @@
+<!-- Chunk 53 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 486 -->
+An application uses a **confirmation alert,** which has the same wavy border as a notification alert, to have the user confirm or cancel an action that may have far-reaching consequences. For example, confirmation alerts appear before the Newton puts into effect changes the user has made to folder names. Use a confirmation alert to warn the user in advance of a potentially  
+<span id="page-62-0"></span>dangerous situation. For example, a confirmation alert appears before Newton restores anything from the backup on a storage card.  
+A confirmation alert has no Close box. Instead, it has labeled buttons, usually one named OK and another named Cancel. The user taps OK to continue the far-reaching or potentially hazardous action or taps Cancel to cancel the action and do something else. Figure 2-18 shows a confirmation alert with OK and Cancel buttons.  
+**Figure 2-18** A confirmation alert tells the user about a grave situation  
+![](images/_page_62_Picture_5.jpeg)  
+Take care to phrase the confirmation message so that it makes sense with either the Cancel button or the OK button. For instance, the message "You've modified one or more items. Do you really want to cancel?" is not as clear as "Disregard all changes? (can't undo)"  
+Instead of an OK button, you can use a button whose label describes the result of accepting the message in the confirmation alert. For example, in a confirmation alert that warns about the consequences of restoring from a card, you could have a button named Restore instead of OK. Likewise, you could replace the Cancel button with one that more precisely describes the action, such as Don't Restore.  
+Confirmation alerts are modal. While a confirmation alert is displayed, the system restricts users to interacting primarily with that confirmation alert. The system ignores all taps outside a confirmation alert. (A user can write outside a confirmation alert, however.)  
+Auxiliary Views **2-19**

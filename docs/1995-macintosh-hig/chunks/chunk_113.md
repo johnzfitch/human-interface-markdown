@@ -1,0 +1,2 @@
+<!-- Chunk 113 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 80 -->
+The Quit command lets the user leave the application and return to the Finder, or another open application. If any open documents have been changed since the last time they were saved, present the standard save changes alert box, once for each open document. This alert box is described in the section "Close" on page 102.

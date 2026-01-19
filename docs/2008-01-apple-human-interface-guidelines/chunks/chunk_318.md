@@ -1,0 +1,2 @@
+<!-- Chunk 318 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 45 -->
+zoom button and zooming behavior [223](#page-222-5) as standard window control [196](#page-195-2) Zoom command (Window menu) [187](#page-186-6) zoomback behavior [127](#page-126-7)

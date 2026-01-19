@@ -1,0 +1,2 @@
+<!-- Chunk 98 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 43 -->
+The most straightforward method of selecting an object is by clicking on it once. Icons, insertion points, and most other things that can be selected are selected this way.

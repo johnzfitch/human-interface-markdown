@@ -1,0 +1,2 @@
+<!-- Chunk 182 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 44 -->
+A switch displays the value that is currently in effect; users slide the control to select (and reveal) the other value. Users can also tap the control to switch between choices.

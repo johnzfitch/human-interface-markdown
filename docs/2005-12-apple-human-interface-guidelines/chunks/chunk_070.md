@@ -1,0 +1,2 @@
+<!-- Chunk 70 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 105 -->
+Control-clicking an application icon in the Dock displays a menu that allows users to perform tasks such as quitting the application, hiding it, or showing its location in the file system. (Users can also press the application icon to get this menu.) You can modify this menu to make features of your application available from your Dock tile. See ["Dock Menus"](#page-167-0) (page 168) for more information on Dock menus.

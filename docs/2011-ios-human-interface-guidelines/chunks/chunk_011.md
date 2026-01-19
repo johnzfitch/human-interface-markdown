@@ -1,0 +1,4 @@
+<!-- Chunk 11 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 179 -->
+When you're starting with an idea for an app, it's crucial to decide precisely which features you intend to deliver, and to whom. After you've determined this, you need to make sure you tailor the look and feel of your app to the device it runs on and to the task it enables.  
+If you're bringing existing software to iOS, you face many of the same challenges. As you redesign your existing software for iOS, it can help to learn aboutsome of the design decisionsthat informed othersuccessful interdevice transitions, such as those for Mail and Keynote.  
+<span id="page-9-1"></span>**Relevant Chapters:** "App Design [Strategies"](#page-24-0) (page 25) and "Case Studies: [Transitioning](#page-32-0) to iOS" (page 33)

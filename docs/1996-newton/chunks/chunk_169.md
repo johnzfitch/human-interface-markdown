@@ -1,0 +1,14 @@
+<!-- Chunk 169 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 705 -->
+An application can send an item programmatically, using a specific transport, without any user intervention. (The Action button is not used in this case.) For example, an application might have a transport make a connection whenever a user opens the application, and break the connection when the user closes the application. Another application might poll for data, such as pager messages, and could have a transport poll more frequently (and use more power) while the application is open than when the application is closed.  
+If your application has its own method for routing apart from the Action button, it can display a routing slip for the user to confirm or cancel the action as well as specify additional routing information. If your application routes items programmatically to an e-mail, fax, or call transport, you may want to allow users to choose the recipient. Your application can use the same method as the built-in routing slips (see ["Choosing Fax or E-mail](#page-221-0)  [Recipients" on page 7-16](#page-221-0)). If you want to provide a way for users to select a different printer, your application can use the same printer-selection method as the Print routing slip (see ["Choosing a Printer" on page 7-15\)](#page-220-0). Before instituting a programmed routing action, you may want to allow the user to choose a format for the item being sent. Your application can get a list of formats that can handle the item. Using this list, the application could make available a picker from which the user could choose a format. You may also want to allow the user to choose a transport for the item being sent. Your application can get a list of transports that can handle specific formats. Using this list, the application could make available a picker from which the user could choose a transport.  
+<span id="page-242-0"></span>This chapter describes the user interface for Newton system services not described in other chapters. Topics include:  
+- How the system automatically indicates it is busy
+- How your application or transport can allow users to hide and show status slips
+- What your application should do if it schedules alarms or other actions
+- What role sound should play in your application or transport
+- How your application should enable users to find data in it
+- How your application should enable users to file their data in folders
+- How your application or transport can have the Intelligent Assistant respond to a user's written request for action
+- Where and how to provide users with on-screen help
+- Where and how to provide user preference settings for your application or transport  
+All these topics are described in terms of the applications and transports that come with most Apple MessagePad models. Applications and transports you develop should follow these models.

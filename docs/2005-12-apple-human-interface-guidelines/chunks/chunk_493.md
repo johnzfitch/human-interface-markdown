@@ -1,0 +1,2 @@
+<!-- Chunk 493 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 32 -->
+In the Finder, a user-specified list of disks, volumes, and other directories that allow users quick access to specific locations.

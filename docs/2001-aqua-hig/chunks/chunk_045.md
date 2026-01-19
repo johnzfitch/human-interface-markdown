@@ -1,0 +1,2 @@
+<!-- Chunk 45 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 33 -->
+<span id="page-38-3"></span>With Mac OS X 10.1, an open application can use its Dock tile to convey important information if needed.

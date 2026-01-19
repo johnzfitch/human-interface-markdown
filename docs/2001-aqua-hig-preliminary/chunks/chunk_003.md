@@ -1,0 +1,10 @@
+<!-- Chunk 3 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 511 -->
+[Notable Changes From Mac OS 9](#page-154-1) 155 [More Realistic Icons](#page-154-2) 155 [Icon Genres](#page-155-0) 156 [Types of Icons](#page-156-0) 157 [Application Icons](#page-156-1) 157 [User Application Icons](#page-156-2) 157 [Utility Icons](#page-158-0) 159 [Toolbars and Toolbar Icons](#page-159-0) 160 [Developer Icons](#page-159-1) 160 [Document Icons](#page-159-2) 160 [Icon States](#page-159-3) 160 [Suggested Process for Creating Aqua Icons](#page-160-0) 161 [Tips for Designing Aqua Icons](#page-161-0) 162  
+#### **Chapter 11** [Drag and Drop](#page-162-0) 163  
+[Drag and Drop Design Overview](#page-162-1) 163 [Drag and Drop Semantics](#page-163-0) 164 [Move Versus Copy](#page-163-1) 164 [When to Check the Option Key State](#page-164-0) 165 [Selection Feedback](#page-165-0) 166 [Single-Gesture Selection and Dragging](#page-165-1) 166 [Background Selections](#page-165-2) 166 [Drag Feedback](#page-166-0) 167 [Destination Feedback](#page-166-1) 167 [Windows](#page-166-2) 167 [Text](#page-167-0) 168 [Multiple Dragged Items](#page-167-1) 168 [Automatic Scrolling](#page-168-0) 169 [Using the Trash as a Destination](#page-168-1) 169 [Drop Feedback](#page-168-2) 169 [Finder Icons](#page-169-0) 170 [Graphics](#page-169-1) 170 [Text](#page-169-2) 170 [Transferring a Selection](#page-169-3) 170 [Feedback for an Invalid Drop](#page-170-0) 171 [Clippings](#page-170-1) 171  
+#### **[Chapter 12](#page-172-0)** Help 173  
+[What's New in Aqua](#page-172-1) 173 [Apple's Philosophy of Help](#page-173-0) 174 [The Apple Help Viewer](#page-174-0) 175 [Providing Access to Help](#page-175-0) 176 [Help Tags](#page-175-1) 176 [Help Tag Guidelines](#page-176-0) 177 [Help Tag Examples](#page-177-0) 178  
+#### **Chapter 13** [Language](#page-178-0) 179  
+[Style](#page-178-1) 179  
+#### **CONTENTS**  
+[Terminology](#page-179-0) 180 [Developer Terms and User Terms](#page-179-1) 180 [Labels for Interface Elements](#page-179-2) 180 [Capitalization of Interface Elements](#page-180-0) 181 [Writing Good Alert Messages](#page-181-0) 182

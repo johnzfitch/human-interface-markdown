@@ -1,0 +1,3 @@
+<!-- Chunk 329 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 141 -->
+**Control sizes**: Gradient buttons are available in regular size only.  
+**Control spacing**: Although you can use a single gradient button by itself, it is more common for multiple gradient buttons to be displayed in a row. If you display more than one gradient button in a row, such as below a source list or other view, the buttonsshould abut each other. If the gradient buttons are not attached to a source list or other view within a window, leave 12 pixels between the bottom edge of the source list (or other view) and the gradient buttons associated with it.

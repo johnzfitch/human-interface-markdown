@@ -1,0 +1,2 @@
+<!-- Chunk 87 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 77 -->
+iOS-based devices produce great sound that users appreciate. In your app, sound might be an essential part of the user experience or provide only incidental enhancement. Regardless of the role that sound plays in your app, you need to know how users expect sound to behave and how to meet those expectations.

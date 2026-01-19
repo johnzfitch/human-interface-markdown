@@ -1,0 +1,2 @@
+<!-- Chunk 88 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 58 -->
+Because Mac OS 8 control panels are applications (file type 'appc'), they generate their own menus. Control panels must follow the guidelines established in ["Menu Guidelines" \(page 91\)](#page-90-0) as well as those in this section.

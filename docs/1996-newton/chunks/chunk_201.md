@@ -1,0 +1,2 @@
+<!-- Chunk 201 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 58 -->
+Use a regular (small) Close box in a view where there are no adjacent buttons. Use a large Close box only where there are adjacent text buttons or standardheight picture buttons. See pages [3-15](#page-108-0) and [3-15](#page-108-0).

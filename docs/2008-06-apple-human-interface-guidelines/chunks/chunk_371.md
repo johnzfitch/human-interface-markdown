@@ -1,0 +1,4 @@
+<!-- Chunk 371 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 136 -->
+The defaultstate of the combo box is closed, with the text field empty or displaying a defaultselection. Recall that user-supplied items are not added to the control's permanent list.  
+The default selection (which may not be the first item in the list) should provide a meaningful clue to the hidden choices, but it's a good idea to introduce a combo box with a label that helps users know what types of items to expect.  
+Don't extend the right edge of the list beyond the right edge of the arrow box; if an item is too long, it is truncated.

@@ -1,0 +1,2 @@
+<!-- Chunk 30 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 82 -->
+All keys except for the shift, code, apple, and apple-shifted keys repeat with a certain frequency starting after a certain time delay and stopping when the key is released. The repeat frequency and delay are specified in the User Profile. The repeat frequency of the backspace key may be specified separately from the other keys.

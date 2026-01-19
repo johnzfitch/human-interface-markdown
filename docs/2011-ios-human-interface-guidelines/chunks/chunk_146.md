@@ -1,0 +1,3 @@
+<!-- Chunk 146 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 99 -->
+Userstap a detail disclosure button to reveal additional information or functionality related to a specific item. The additional details or functionality are revealed in a separate view.  
+When a detail disclosure button appears in a table row, tapping elsewhere in the row does not activate the detail disclosure button; instead, it selects the row item or results in application-defined behavior.

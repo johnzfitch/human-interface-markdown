@@ -1,0 +1,7 @@
+<!-- Chunk 108 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 313 -->
+Bundles make it possible to provide drag-and-drop installation for applications (for more information on application bundles,see *Bundle ProgrammingGuide*). Using bundlesisthe preferred way to install an application for the following reasons:  
+- It is easy for users to install and uninstall the application.
+- It takes less time to install (only the time needed to copy the bundle).
+- You don't have to spend time developing an installer.  
+Providing drag-and-drop installation does not preclude you from placing filesin specific places on the system. When your application is first run, it can copy any needed support files to appropriate places on the system. However, you should avoid using this technique to install additional executable code and should instead use it to install preference files, document templates, or other resources that can be regenerated as needed and are not required for the application to run.  
+**Note:** If you install additional files when your application isfirst run, be sure to install them in obvious places, such asin the Application Support directory. Place your resourcesin a directory named for your application to make it easy for the user to find these files if they ever need to uninstall your application.

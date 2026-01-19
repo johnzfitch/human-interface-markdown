@@ -1,0 +1,3 @@
+<!-- Chunk 57 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 151 -->
+If your software needs to report disk size or usage information, it's important to provide accurate values that are consistent with values reported by the Finder and other system applications, such as Activity Monitor. To do this, be sure to calculate all disk size statistics using GB, not GiB.  
+<span id="page-60-5"></span><span id="page-60-3"></span>Briefly, a GB is defined as 1,000,000,000 bytes, whereas a GiB is defined as 1,073,741,824 bytes (which is the value of 230). Using GB instead of GiB to calculate disk sizes avoids confusing users with values that differ from the system-provided ones.

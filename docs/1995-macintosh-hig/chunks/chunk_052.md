@@ -1,0 +1,2 @@
+<!-- Chunk 52 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 66 -->
+Some people with a seizure disorder are sensitive to certain flicker frequencies, which may cause them to go into seizure. To avoid this problem, avoid refresh rates in the range from 10 to 50 Hz. The most problematic part of this frequency range is from 15 to 30 Hz.

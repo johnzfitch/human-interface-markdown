@@ -1,0 +1,13 @@
+<!-- Chunk 217 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 624 -->
+A **contextual menu** provides convenient access to often-used commands associated with an item. You can think of a contextual menu as a shortcut to commands that make sense in the context of the current task. Contextual menus open when the user presses the Control key while clicking an appropriate interface element or selection. Alternately, a user can configure a multi-button mouse to use one button as the secondarybutton,which then behaves the same as Control-clickinga one-button mouse.  
+A contextual menu behaves like a standard pull-down menu, except that moving the pointer off a contextual menu and onto a standard pull-down menu doesn't activate the second menu; the user must click once to close the contextual menu and click again or press to open the second menu.  
+Contextual menus that are too long to display fully use the scrolling indicator (a downward-pointing triangle) and scroll like standard menus. Use submenus in contextual menus with caution and be sure to keep them to one level.  
+Don't set a default item. If the user opens the menu and closes itwithout selectinganything, no action should occur.  
+You define the items in your application's contextual menus. Include a small subset of the most commonly used commands in the appropriate context. For example, Edit menu commands should appear in the contextual menu for highlighted text, but a Save or a Print command should not.  
+Always ensure that contextual menu items are also available as menu commands. A contextual menu is hidden by default and a user might not know it exists, so it should never be the only way to access a command. In particular,you should not use a contextual menu as the onlywayto access an advanced or power-user feature.  
+Contextual Menus **173**  
+If a command has akeyboard shortcut, don't displaythe shortcut in the contextual menu (you should display the shortcut in the menu bar menu, as described in "The Menu Bar and Its [Menus"](#page-158-0) (page 159)). Because a user uses a contextual menu as a shortcut to a set of task-specific commands, it's redundant to display the keyboard shortcuts for those commands.  
+<span id="page-173-0"></span>**Figure 12-24** A contextual menu for an icon in the Finder and for a text selection in a document  
+![](images/_page_173_Picture_4.jpeg)  
+**Carbon:** See *Menu Manager Reference* in Carbon User Experience Documentation.  
+**Cocoa:** See *Application Menu and Pop-up List Programming Topics* in Cocoa User Experience Documentation.

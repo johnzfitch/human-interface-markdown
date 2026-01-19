@@ -1,0 +1,15 @@
+<!-- Chunk 172 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 677 -->
+Mac OS X v10.5 and later provides a handful of free-standing images that can be used as borderless buttons. These images do not require further processing by an NSButtonCell object.  
+Two of the free-standing images are standalone versions of similar template images. To see why you might need both versions of such an image, consider how Safari offers stop-progress functionality to users. In the Downloads window, Safari uses the free-standing  
+NSImageNameStopProgressFreestandingTemplate image inline with a progress indicator to allow users to stop an in-progress download. (Figure 11-28 shows this control in the Safari Downloads window.) Because this window can display several separate download processes at the same time, it's important to display a stop-progress control for each individual process. Contrast this with the NSImageNameStopProgressTemplate image (shown in [Table](#page-155-1) 11-1 (page 156)) that Safari uses in a toolbar button. Here, the process users might want to stop is the downloading of a webpage in the main Safari window, so it makes sense to offer this functionality in a toolbar button.  
+<span id="page-157-1"></span>**Figure 11-28** The free-standing images can be used as borderless buttons  
+![](images/_page_157_Picture_3.jpeg)  
+<span id="page-157-2"></span>As with all system-provided images, each free-standing image must be used according to its documented meaning and recommended usage. Table 11-2 lists each image, along with its meaning and name.  
+**Table 11-2** Free-standing images that represent common actions  
+| Image | Meaning                                                                                              | Name                                            |
+|-------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+|       | The data on the left is invalid (for example, the<br>user entered a zip code in a phone numberfield) | NSImageNameInvalidDataFreestanding<br>Template  |
+|       | Reveal contents or details about the object                                                          | NSImageNameReveal<br>FreestandingTemplate       |
+|       | Open the link in a new window or page                                                                | NSImageNameFollowLinkFreestanding<br>Template   |
+|       | Stop progress on the current process                                                                 | NSImageNameStopProgressFreestanding<br>Template |
+|       | Refresh the current view or restart the process                                                      | NSImageNameRefresh<br>FreestandingTemplate      |

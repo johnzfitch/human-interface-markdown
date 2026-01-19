@@ -1,0 +1,3 @@
+<!-- Chunk 233 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 86 -->
+This section discusses the basic principles and guidelines for building a useful online help system for your application. You can include your help system in the Help menu by adding one or more menu items to it. For more information about the Help menu, see "The Help Menu" on page 125 in Chapter 4, "Menus."  
+![](images/_page_337_Picture_6.jpeg)

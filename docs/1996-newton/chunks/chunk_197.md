@@ -1,0 +1,2 @@
+<!-- Chunk 197 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 70 -->
+Design your application to handle any screen size and aspect ratio. If your application can't scale its views small enough or can't rearrange view contents to fit the aspect ratio, notify the user before closing your application. See pages [1-11](#page-34-0) and [2-34](#page-77-0).

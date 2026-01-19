@@ -1,0 +1,3 @@
+<!-- Chunk 49 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 107 -->
+Designing an iPhone Application: From Product Definition to Branding  
+Because of these usage patterns, you should design your application's user interface so that the most frequently used (usually higher level) information is near the top, where it is most visible and accessible. As the user scans the screen from top to bottom, the information displayed should progress from general to specific and from high level to low level.

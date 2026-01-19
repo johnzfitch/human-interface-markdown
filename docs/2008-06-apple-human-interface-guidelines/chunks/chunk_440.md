@@ -1,0 +1,5 @@
+<!-- Chunk 440 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 190 -->
+List views can contain disclosure triangles to reveal a list hierarchy, but only in one column. Column headers should be nouns orshort noun phrasesthat describe an attribute of the data. Figure 15-80 shows an example of the Finder list view that includes disclosure triangles to reveal additional levels of hierarchy and short, clear column headers.  
+<span id="page-324-1"></span>**Figure 15-80** A list view with disclosure triangles  
+![](images/_page_324_Picture_5.jpeg)  
+List views can contain icons in addition to text. Usually, however, the icons in a list view are an integral part of the data items (such as the folder and document icons in Figure 15-80). In general, it's best to include an attributes column and use text to describe the attributes.

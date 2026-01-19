@@ -1,0 +1,2 @@
+<!-- Chunk 10 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 78 -->
+[Style](#page-228-1) 229 [Terminology](#page-229-0) 230 [Developer Terms and User Terms](#page-229-1) 230 [Labels for Interface Elements](#page-229-2) 230 [Capitalization of Interface Elements](#page-230-0) 231 [Using Contractions in the Interface](#page-231-0) 232 [Writing Good Alert Messages](#page-231-1) 232

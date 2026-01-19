@@ -1,0 +1,2 @@
+<!-- Chunk 215 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+<span id="page-192-3"></span>In addition to the methods for selecting text, there are a number of ways to edit text.

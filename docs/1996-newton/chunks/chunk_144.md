@@ -1,0 +1,2 @@
+<!-- Chunk 144 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 79 -->
+When a user brings up a keyboard it should appear centered above the status bar, floating above other views. If possible, the keyboard should be situated vertically where it does not cover the text-insertion caret. A user can move a keyboard by dragging its drag handle, and can bring up other views above the keyboard.

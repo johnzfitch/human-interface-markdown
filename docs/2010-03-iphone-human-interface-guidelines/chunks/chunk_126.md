@@ -1,0 +1,10 @@
+<!-- Chunk 126 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 427 -->
+A **progress view** shows the progress of a task or process that has a known duration. If you need to display progressfor a task of unknown duration, use an activity indicator instead (see "Activity [Indicators"](#page-106-1) (page 107) for more information about this control).  
+iPhone OS providestwo styles of progress view, which are the defaultstyle and the barstyle. The appearance of each style is very similar, except for height:  
+- The default style is intended for use in an application's main content area.
+- The barstyle isthinner than the defaultstyle, which makesit well-suited for use in a toolbar. For example, in Mail a bar-style progress view appears in the toolbar when users download new messages or send an email message.  
+<span id="page-114-1"></span>The behavior of both styles of progress view is the same. As the task or process proceeds, the track of the progress view is filled from left to right. At any given time, the proportion of filled to unfilled area in the view gives the user an indication of how soon the task or process will finish. Figure 9-8 shows an example of a bar-style progress bar.  
+**Figure 9-8** A bar-style progress view in a toolbar  
+![](images/_page_114_Picture_9.jpeg)  
+A progress view is a good way to provide feedback to users on tasks that have a well-defined duration, especially when it's important to show users approximately how long the task will take. When you display a progress view, you tell the user that their task is being performed and you give them enough information to decide if they want to wait until the task is complete or cancel it.  
+To learn more about using a progress view in your code, see *UIProgressView Class Reference*.

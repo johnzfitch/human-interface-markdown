@@ -1,0 +1,2 @@
+<!-- Chunk 483 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+A control that displays a number of stars that indicates the relative ranking of an object (such as a song) based on a criterion such as popularity.

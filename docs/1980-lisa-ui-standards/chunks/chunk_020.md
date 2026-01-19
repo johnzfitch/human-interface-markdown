@@ -1,0 +1,2 @@
+<!-- Chunk 20 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 80 -->
+When an application knows that a menu item would have no effect, it may dimly highlight that item. Such an item can be invoked anyway, if the user wishes. Note that when the command is one that changes a state (e.g., Bold or Turn Printer On), the dim highlighting also provides feedback to the user about the current state.

@@ -1,0 +1,4 @@
+<!-- Chunk 39 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 178 -->
+Please do not ever use the word default in a program designed for humans. Default is something the mortgage went into right before the evil banker stole the Widow Parson's house. There is an exhaustive list of substitutes (previous, automatic, standard, etc.) in the Appendix to How to Write a Manual.  
+Defaults should be declared, not assumed. Undeclared (not displayed) defaults such as pressing RETURN for Yes (or for No?) will cause confusion and anger.  
+You need not declare ESCAPE every time you enable it: ESCAPE always gets you out of where you are, to where you came from, without causing damage or confusion. As long as you adhere to that benign definition, you may feel free to slip in ESCAPE anywhere.

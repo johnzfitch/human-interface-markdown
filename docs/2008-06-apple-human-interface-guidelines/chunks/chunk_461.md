@@ -1,0 +1,4 @@
+<!-- Chunk 461 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 144 -->
+A **group box**, like a separator (described in ["Separators"](#page-331-1) (page 332)), is used to break a window into distinct logical areas. A group box has a heavier look than a separator, which meansthat it provides a more pronounced differentiation of content. For example, the Expose pane in Expose & Spaces preferences uses group boxes to separate screen-corner functionality from keyboard and mouse shortcuts, as shown in Figure 15-90.  
+<span id="page-334-0"></span>**Figure 15-90** Group boxes can organize controls in a window  
+![](images/_page_334_Figure_3.jpeg)

@@ -1,0 +1,2 @@
+<!-- Chunk 262 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 27 -->
+This section includes resources on several different subjects related to the design of graphic user interfaces.

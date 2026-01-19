@@ -1,0 +1,3 @@
+<!-- Chunk 53 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 105 -->
+**Make the path through the information you present logical and easy for users to predict**. In addition, be sure to provide markers, such as back buttons, that users can use to find out where they are and how to retrace their steps.  
+**In most cases, give users only one path to a screen**. If a screen needs to be accessible in different circumstances, consider using a modal view that can appear in different contexts.

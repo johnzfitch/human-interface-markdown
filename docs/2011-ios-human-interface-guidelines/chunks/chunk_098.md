@@ -1,0 +1,2 @@
+<!-- Chunk 98 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 88 -->
+In iOS, the UIKit framework provides a wide range of UI elements you can use in your application. As you design the user interface of your app, always remember that users expect familiar views and controls to behave as they do in the built-in applications. This is to your advantage, as long as you use these elements appropriately in your application.

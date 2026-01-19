@@ -1,0 +1,8 @@
+<!-- Chunk 116 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 337 -->
+In text, pressing the Space bar enters a space between characters.  
+<span id="page-88-7"></span>When full keyboard access is turned on, pressing the Space bar selects the item that currently has the keyboard navigation focus (the equivalent of clicking the mouse button).  
+#### **Tab**  
+In text-oriented applications, the Tab key moves the insertion point to the next tab stop. In other contexts, Tab is a signal to proceed; it means "move to the next item in a sequence." The next item can be a table cell or a dialog text field. Shift-Tab navigates in the reverse direction. Pressing Tab can cause data to be entered before focus moves to the next item. For more details about navigating with the Tab key, see ["Keyboard Focus and Navigation"](#page-98-0) (page 99).  
+#### <span id="page-89-2"></span>**Enter**  
+Most applications add information to a document as soon as the user enters it. In some cases, however, the application may need to wait until a whole collection of information is available before processing it. The Enter key tells the application that the user has finished entering information in a particular area of the document, such as a text field. While the user is entering text into a *text* document, pressing Enter has no effect.  
+If a dialog has a default button, pressing Enter (or Return) is the same as clicking it.

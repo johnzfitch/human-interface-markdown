@@ -1,0 +1,2 @@
+<!-- Chunk 39 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 94 -->
+<span id="page-38-4"></span><span id="page-38-2"></span>This section presents some key principles critical to the design of elegant, efficient, intuitive, and Aqua-compliant user interfaces. Sometimes overlooked by developers, these principles are as relevant today as when Apple first published them decades ago. In fact, they drive the design of the Mac OS X user interface.

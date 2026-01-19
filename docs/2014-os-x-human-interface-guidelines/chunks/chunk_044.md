@@ -1,0 +1,2 @@
+<!-- Chunk 44 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 77 -->
+When you stay focused on your users throughout the design process, you have the best chance of delivering a product that meets their needs. After you determine who your target audience is and what, precisely, your app helps them do, it works well to use that knowledge as a tool to shape every design decision.

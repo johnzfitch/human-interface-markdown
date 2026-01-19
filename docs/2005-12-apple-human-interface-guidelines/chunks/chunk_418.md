@@ -1,0 +1,2 @@
+<!-- Chunk 418 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+A menu that provides items that are available to users at all times, regardless of which application is active. It is the leftmost menu in the menu bar.

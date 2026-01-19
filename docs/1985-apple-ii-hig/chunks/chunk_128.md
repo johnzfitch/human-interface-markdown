@@ -1,0 +1,3 @@
+<!-- Chunk 128 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 140 -->
+Dials display the value, magnitude, or position of something in the application or system, and optionally allow the user to alter that value. Dials are predominantly analog devices, displaying their values graphically and allowing the user to change the value by dragging an indicator; dials may also have a digital display.  
+The most common example of a dial is the scroll bar. The indicator of the scroll bar is the scroll box; it represents the position of the window over the length of the document. The user can drag the scroll box to change that position.

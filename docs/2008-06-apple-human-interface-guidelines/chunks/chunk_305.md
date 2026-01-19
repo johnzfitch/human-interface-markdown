@@ -1,0 +1,5 @@
+<!-- Chunk 305 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 252 -->
+Use capsule-style toolbar controlsin a toolbar to give users accessto frequently used objects and commands (for guidelines on designing the contents of a toolbar, see ["Designing](#page-198-1) a Toolbar" (page 199)). For example, Mail uses capsule-style toolbar buttons and segmented controls to provide a myriad of functions to the user, such as getting new mail, creating notes or to-do items, and flagging messages. Figure 15-6 shows these controls in the Mail toolbar.  
+<span id="page-255-0"></span>**Figure 15-6** Capsule-style toolbar controls in a toolbar  
+![](images/_page_255_Picture_3.jpeg)  
+Do not use capsule-style toolbar controls in a bottom bar. If you use capsule-style toolbar controls in the toolbar, but you also need to provide bottom-bar controls, instead use rectangular-style toolbar controls in both areasto avoid mixing the stylesin a single window. See ["Rectangular-Style](#page-249-0) Toolbar Controls" (page 250) for more information about the rectangular-style toolbar controls.

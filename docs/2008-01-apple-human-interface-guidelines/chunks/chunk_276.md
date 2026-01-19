@@ -1,0 +1,2 @@
+<!-- Chunk 276 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+<span id="page-311-0"></span>Sliders are available in Interface Builder. To create one using Application Kit programminginterfaces, use the NSSlider class.

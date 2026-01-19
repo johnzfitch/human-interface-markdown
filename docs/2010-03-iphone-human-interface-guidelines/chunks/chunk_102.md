@@ -1,0 +1,11 @@
+<!-- Chunk 102 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 358 -->
+- Keep the title short enough to display on a single line, if possible. A long alert title is difficult for people to read quickly, and it might force the alert message to scroll.
+- Avoid single-word titles that don't provide any useful information, such as "Error" or "Warning."
+- Prefer a sentence fragment. A short, informative statement is often easier to understand than a complete sentence.
+- Don't hesitate to be negative. People understand that most alerts tell them about problems or warn them about dangeroussituations. It's better to be negative and direct than it isto be positive but oblique.
+- Avoid using "you," "your," and "me" as much as possible. Sometimes, text that identifies people directly can be ambiguous and can even be interpreted as an insult.
+- Use title-style capitalization and no ending punctuation when:
+- ❏ The title is a sentence fragment
+- ❏ The title consists of a single sentence that is not a question
+- Use sentence-style capitalization and an ending question mark if the title consists of a single sentence that is a question. In general, consider using a question for an alert title if it allows you to avoid adding a message.
+- Use sentence-style capitalization and appropriate ending punctuation for each sentence if the title consists of two or more sentences. A two-sentence alert title should seldom be necessary, although you might consider it if it allows you to avoid adding a message.

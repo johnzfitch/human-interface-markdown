@@ -1,0 +1,30 @@
+---
+chunk_index: 3963
+ref: "4d860e252448"
+id: "4d860e252448afa6b6e4338e935c566c96991d5f1a1c424ecc57a35de0ab2474"
+slug: "full-document--targeted-action"
+path: "marker/1993 NeXTSTEP User Interface Guidelines - Release 3/full_document.md"
+kind: "markdown"
+lines: [554, 567]
+token_estimate: 615
+content_sha256: "0232f16a781fecb126958114a9f95fb2346baab249eb28334e79dc4b4effa624"
+compacted: false
+heading_path: ["*Introduction*","**Targeted Action**"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## **Targeted Action**
+
+Controls-buttons, scrollers, and the like-are vehicles for the user to give instructions to an application. By manipulating a control object, the user controls what the application does. Clicking a close button, for example, not only causes the button to become highlighted, it also removes the window from the screen. The button is simply a control device-like a light switch or a steering wheel-that lets the user carry out a certain action.
+
+All controls have one thing in common: They act on a target. Some control objects (such as the Quit menu command) act on an entire application. Others (such as the close button in a window's title bar) act on a window. Still others (such as the Cut menu command) act on a subset of a window's contents (such as text) that the user has selected.
+
+Sometimes the user must explicitly select the target, and sometimes not. When the user selects the target, it's usually editable graphics or text. However the target can also be another type of object, such as a window (the target of the Close Window menu command) or a file icon (the target of the Workspace Manager Destroy command).
+
+When the user needs to explicitly select a target-no matter whether it's a window or a line of text-the user always selects the target before choosing the control. For example, a user might select a range of text in a file, then choose the Cut command from the Edit menu to remove it.
+
+Targeted action with explicit selection is the normal paradigm for controlling or operating on objects. It has the advantage that a sequence of different actions can apply to the same target. For example, selected text can be changed first to a different font, then to a different point size, and then perhaps copied to the pasteboard. Another advantage is that a single control can act on a number of different user-selected targets, making it extremely efficient and powerful. The Cut command, for example, can delete text, as well as graphics, icons, and' other objects.
+
+**In** situations where direct manipulation is the most natural way to do an operation, it's preferable to targeted action. However, since direct manipulation isn't sufficient for many operations, targeted action is the most commonly used paradigm. For example, although direct manipulation is an easy, natural way to resize a window (by dragging), it normally isn't easy or natural to set the size of text by dragging the letters to a new height.

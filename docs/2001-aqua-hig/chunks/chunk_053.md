@@ -1,0 +1,6 @@
+<!-- Chunk 53 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 246 -->
+Menu item names should be one of the following:  
+- <span id="page-45-2"></span>■ **Actions** (verbs or verb phrases) that declare the action that occurs when the user chooses the item. For example, Save means *save my file* and Copy means *copy the selected data.* Your menu commands should fit into similar sentences.
+- **Attributes** (adjectives or adjective phrases) that describe the change the command implements. Adjectives in menus *imply* an action and should fit into the sentence "Change the selected object to …" *bold,* for example.  
+When a menu item is unavailable—because it doesn't apply to the selected object or nothing is selected—the item appears dimmed (gray) in the menu and isn't highlighted when the user moves the pointer over it.  
+Capitalize the first letter of the first and last words, and the important words in phrases. For more information on proper capitalization of menu items, see ["Capitalization of Interface Elements" \(page 231\)](#page-230-0).

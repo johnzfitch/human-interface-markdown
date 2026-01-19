@@ -1,0 +1,2 @@
+<!-- Chunk 156 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 79 -->
+Display the network activity indicator to provide feedback when your application accesses the network for more than a couple ofseconds. If the operation finishessooner than that, you don't have to show the network activity indicator, because the indicator would be likely to disappear before users notice its presence.

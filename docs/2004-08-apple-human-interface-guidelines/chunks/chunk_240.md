@@ -1,0 +1,2 @@
+<!-- Chunk 240 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 68 -->
+<span id="page-197-1"></span>Separators and group boxes are used to group other controls within windows. For help in deciding whether to use a group box or a separator, and for examples of layouts with them, see ["Grouping](#page-219-0) [Controls"](#page-219-0) (page 220).

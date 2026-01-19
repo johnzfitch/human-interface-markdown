@@ -1,0 +1,2 @@
+<!-- Chunk 42 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 33 -->
+This section describes how your application should handle certain special keys and key combinations, including keyboard alternatives.

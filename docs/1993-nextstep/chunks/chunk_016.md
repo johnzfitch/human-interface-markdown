@@ -1,0 +1,3 @@
+<!-- Chunk 16 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 96 -->
+![](images/_page_22_Picture_1.jpeg)  
+A color well lets the user set the color of an object or the color to use for drawing. Color wells are often used in groups-for example, so the user can choose one color for the outline of an object and another color for its interior fill. One of the ways the user can change the color in a color well is by dragging in a color from another well.

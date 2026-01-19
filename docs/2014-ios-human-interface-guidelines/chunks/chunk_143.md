@@ -1,0 +1,2 @@
+<!-- Chunk 143 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 60 -->
+If your iOS app creates documents of a custom type, you want users to be able to recognize these documents at a glance. You don't need to design a custom icon for this purpose because iOS uses your app icon to create document icons for you.

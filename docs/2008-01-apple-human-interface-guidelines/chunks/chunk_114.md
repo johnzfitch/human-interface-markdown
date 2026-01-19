@@ -1,0 +1,3 @@
+<!-- Chunk 114 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 117 -->
+To insert text, the user positions the insertion point by clicking where the text is to go, then starts typing. The application moves the insertion point to the right (or left, depending on the language) as each new character is added.  
+<span id="page-116-2"></span>Applications with multiple-line text blocks should support **word wrap,** the automatic continuation of text from the end of one line to the beginning of the next without breaking in the middle of a word.

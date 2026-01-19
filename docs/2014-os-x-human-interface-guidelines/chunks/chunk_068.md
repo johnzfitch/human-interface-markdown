@@ -1,0 +1,12 @@
+<!-- Chunk 68 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 536 -->
+The **View menu** provides commands that affect how users see a window's content; it does *not* provide commandsto selectspecific document windowsto view or to manage a specific document window. Commands to organize, select, and manage windows are in the Window menu (described in The [Window](#page-99-1) Menu (page 100)).  
+![](images/_page_98_Picture_3.jpeg)  
+The View menu includes the following standard menu items, listed in the order in which they should appear.  
+| Menu item               | Expected | Keyboard shortcut | Meaning                                                                                                                                               |
+|-------------------------|----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Show/Hide<br>Toolbar    | Yes      | Option-Command-T  | Shows<br>or<br>hides<br>a<br>toolbar.                                                                                                                 |
+| Customize<br>Toolbar    | Yes      |                   | Opens<br>a<br>dialog<br>that<br>allows<br>the<br>user<br>to<br>customize<br>which<br>items<br>are<br>present<br>in<br>the<br>toolbar.                 |
+| Enter<br>Full<br>Screen | No       | Control-Command-F | Opensthe<br>window<br>at<br>full-screen<br>size<br>in<br>a<br>new<br>space.<br>Available<br>when<br>the<br>app<br>supports<br>full-screen<br>windows. |  
+**Include the View menu if a window can go full screen or if it contains a toolbar.** Create a View menu for these commands even if your app doesn't need to have other commands in the View menu. Note that the Enter Full Screen command toggles with the Exit Full Screen command.  
+**Avoid using the View menu to display panels (such as tool palettes).** Use the Window menu to display open windows and panels instead.  
+**Implement the Show/Hide Toolbar command as a dynamic toggled menu item.** If the toolbar is currently visible, the menu item says Hide Toolbar. If the toolbar is not visible, it says Show Toolbar.

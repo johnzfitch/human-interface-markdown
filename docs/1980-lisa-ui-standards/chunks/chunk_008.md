@@ -1,0 +1,3 @@
+<!-- Chunk 8 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 155 -->
+Each folder shows a view of a single document, and provides a structure for manipulating the view of that document by scrolling, moving, growing, and closing the folder down to a tab.  
+A folder may be used to group together a collection of related documents to be filed away and retrieved together. The filing system is still in design, and the grouping mechanism will be determined by it. Two possibilities are a folder containing other closed folders (only tabs visible), or a folder with a table of contents to select which document is currently visible. In any case, each folder only shows one document at any time.

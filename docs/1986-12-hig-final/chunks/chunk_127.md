@@ -1,0 +1,2 @@
+<!-- Chunk 127 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 52 -->
+Remember that color should never be the only thing that distinguishes objects. Other cues such as shape, location, pattern, or sound, should always be used in addition to color, for the reasons discussed above.

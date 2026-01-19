@@ -1,0 +1,4 @@
+<!-- Chunk 268 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 137 -->
+In cases where space is at a premium, such as in pop-up menus, contractions may be used, as long as the contracted words are not critical to the meaning of the phrase. For example, a menu could contain the following items:  
+Don't allow printing Don't allow modifying Don't allow copying  
+In each case, the contraction does not contain the operative word for the item. But in Sherlock, for example, menu items enabling users to choose between text that "contains" and "does not contain" are communicated more clearly without the use of contractions.

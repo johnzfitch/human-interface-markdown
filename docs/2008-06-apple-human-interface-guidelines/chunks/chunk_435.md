@@ -1,0 +1,2 @@
+<!-- Chunk 435 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 72 -->
+Because a disclosure button is closely associated with a control, it does not need a label. By default, disclosure buttons should be in the closed position, that is, pointing down. When the user clicks a disclosure button, the window expands and the disclosure button changes to point up.

@@ -1,0 +1,2 @@
+<!-- Chunk 86 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 83 -->
+Keyboards used in the United States resemble those on standard American office typewriters. The layout of the international version is designed to conform to the International Standards Organization (ISO) standard. In different countries, international keyboards have different labels on the keys, but the overall layout is the same.

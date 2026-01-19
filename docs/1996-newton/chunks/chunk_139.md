@@ -1,0 +1,4 @@
+<!-- Chunk 139 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 165 -->
+The one interface element for general input lets a user write text and draw shapes. If the user writes text, the general input element creates a paragraph and operates within that paragraph like the paragraph-input element described in ["Paragraph Input" on page 6-12](#page-179-0). If the user draws shapes, the general input element creates a shape-input area and operates like the input element described under the heading ["Shape Input" on page 6-13](#page-180-0). [Figure 6-13](#page-182-0) shows an example of a general input element.  
+**Figure 6-13** Interface element for general input  
+<span id="page-182-0"></span>![](images/_page_182_Figure_3.jpeg)

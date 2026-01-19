@@ -1,0 +1,2 @@
+<!-- Chunk 93 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+New opens a new, untitled document. The user names the document the first time it's saved. This command is disabled when the maximum number of documents allowed by the application is already open.

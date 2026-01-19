@@ -1,0 +1,2 @@
+<!-- Chunk 58 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 118 -->
+The items in a particular menu should be logically related to the title of the menu. Menu items must be terse, preferably one word with the first letter capitalized. If it's necessary to use more than one word (Save As or Page Setup, for example), the first word should be capitalized, as well as other important words in the name. In addition to the names, three features of menus help the user understand what each item does: grouping, toggles, and special visual features.

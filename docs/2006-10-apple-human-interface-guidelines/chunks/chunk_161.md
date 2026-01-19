@@ -1,0 +1,4 @@
+<!-- Chunk 161 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 209 -->
+Dragging items to the Trash results in moving the item from the source to the Trash. For example, dragging a text selection from a word-processing application and dropping it on the Trash icon (or in the Trash window) results in the text being deleted from the application and a clipping containing that text being created inside the Trash. Note that the item is moved, although it is dragged between  
+two containers. This exception to the rules described earlier is appropriate because the user can undo the operation by draggingthe clippingout of the Trash backto its original source; it is consistentwith the principle of preventing accidental data loss.  
+<span id="page-117-5"></span>It is important to preserve the Trash's container property; do not simply delete the source without creating a clipping or other item in the Trash.

@@ -1,0 +1,3 @@
+<!-- Chunk 34 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 171 -->
+<span id="page-31-4"></span>An easy-to-use program offers a compelling, intuitive experience forthe user. It offers elegant solutions to complex problems and has a well thought out interface that uses familiar paradigms. It is easy to install and configure because it makes intelligent choices for the user, but it also gives the user the option to override those choices when needed. It presents the user with tools that are relevant in the current context, eliminating or disabling irrelevant tools. It also warns the user against performing dangerous actions and provides ways to undo those actions if taken.  
+Here are some guidelines to keep in mind when designing for ease of use:

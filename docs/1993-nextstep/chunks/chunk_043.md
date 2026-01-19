@@ -1,0 +1,8 @@
+<!-- Chunk 43 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 413 -->
+Several special character keys, listed below, generate characters that typically perform a function-the character causes the application to make something happen. Exactly what happens depends on the application. Some typical functions are mentioned here.  
+- The Return key moves the insertion point or prompt to the beginning of the next line, much like the carriage return of a typewriter. When data is entered in a text field or form, Return informs the application that the data is ready for processing.
+- The Enter key, like Return, signals that data is ready for processing. It need not move an insertion point or prompt to the beginning of the next line. (Enter can also be generated with Command-Return.)
+- The Delete key removes the preceding character in text or deletes the current selection. Shift-Delete generates the backspace character, which moves the insertion point back one character. In most applications, backspace performs the same functions as Delete.
+- The Tab key moves forward to the next tab stop, or to the next text field in sequence. Shift-Tab moves backward to the previous tab stop or text field.
+- The arrow keys move the symbol that's used in some contexts to track where the user is writing or entering data-for example, the insertion point in a document processor. The arrow keys' behavior is described in "How the Arrow Keys Affect a Text Selection," earlier in this chapter, and in "Implementing the Modified Arrow Keys," later in this chapter.  
+For UNIX® compatibility, the Esc key is used to complete file names (as described in the following section). It should not be used any other way in the user interface.

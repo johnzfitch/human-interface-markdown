@@ -1,0 +1,3 @@
+<!-- Chunk 127 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 134 -->
+If you have a webpage or web app, you might decide to use a web view to implement a simple iOS application that provides a wrapper for your webpage or web app. If you plan to use a web view to access web content that you control, be sure to read *Safari Web Content Guide*.  
+<span id="page-114-1"></span>**Avoid using a web view to create an application that looks and behaves like a mini web browser**. People expect to use Safari on iOS to browse web content, so replicating this broad functionality within your app is not recommended.

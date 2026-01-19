@@ -1,0 +1,6 @@
+<!-- Chunk 226 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 228 -->
+Icons for utility applications—which are used less often and not simply for fun or creative activities— convey a more serious tone than those for user applications. Color in these icons is desaturated, predominantly gray, and added only when necessary to clearly communicate what the applications do.  
+**Figure 11-9** Discriminating use of color in the Process Viewer and Print Center icons  
+![](images/_page_206_Figure_6.jpeg)  
+<span id="page-206-4"></span>![](images/_page_206_Figure_7.jpeg)  
+Because utility applications are normally focused on a narrow set of tasks, it's best to keep the number of elements in the icon to a minimum. The focus should be a single object that represents what the utility does. The perspective of utility icons is straight-on, as if they are on a shelf in front of you. For more information, see ["Icon](#page-212-2)  [Perspectives and Materials" \(page 213\).](#page-212-2)

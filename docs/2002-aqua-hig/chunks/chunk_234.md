@@ -1,0 +1,2 @@
+<!-- Chunk 234 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+Work out the concept and details of your design on paper, not with software. You should be ready to execute the idea by the time you open an application.

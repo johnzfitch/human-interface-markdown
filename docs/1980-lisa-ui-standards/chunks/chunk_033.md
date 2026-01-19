@@ -1,0 +1,3 @@
+<!-- Chunk 33 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 87 -->
+This is a LIFO stack in which characters backspaced over are stored, and from which they may be retrieved a character at a time by pressing SHIFT-BACKSPACE (un-backspace) or a word at a time by pressing APPLE-SHIFT-BACKSPACE (un-backword).  
+This buffer is cleared when the mouse button is pressed or a key other than BACKSPACE or its shifts is typed.

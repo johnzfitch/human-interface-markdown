@@ -1,0 +1,3 @@
+<!-- Chunk 33 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 151 -->
+Many people have difficulty using the instruction manuals that usually accompany software products, either because they have difficulty reading the words or because they physically can't handle books. These people appreciate having at least the most important part of the manual's text in electronic form, so that they can display or print it in oversize characters, print it with a Braille printer, or have it read to them through a speech synthesizer. All users benefit from manuals in electronic fonn, which can quickly be searched for specific topics and keywords.  
+![](images/_page_25_Picture_0.jpeg)

@@ -1,0 +1,6 @@
+<!-- Chunk 44 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 292 -->
+Human Interface Design  
+<span id="page-40-3"></span><span id="page-40-2"></span><span id="page-40-0"></span>Designed to help combat onscreen clutter and aid in organizing work, the always-available Dock displays an icon for each open application and minimized document. It also contains icons for several common user applications, such as Mail and System Preferences, and for the Trash. The Dock provides an Aqua-compatible replacement for the Mac O 9 application menu.  
+Each item in the Dock has its own rectangular area called a tile. Within each tile is an icon that represents the application, document, folder, or other item in the Dock. For most purposes, you can think of the tile and icon as synonymous, even though the icon does not completely fill the tile.  
+When a user opens an application, its icon appears in the Dock; when a user opens a document and clicks its minimize button, the document's icon appears in the Dock. Users can permanently add icons to the Dock and can customize where and when the Dock appears.  
+For more information, Carbon developers should see *Dock Manager Reference,* available on the Mac OS X developer documentation website.

@@ -1,0 +1,2 @@
+<!-- Chunk 510 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 39 -->
+<span id="page-326-2"></span>The automatic continuation of text from the end of one line to the beginning of the next without breaking in the middle of a word.

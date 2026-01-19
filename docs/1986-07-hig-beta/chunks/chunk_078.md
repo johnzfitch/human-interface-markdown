@@ -1,0 +1,4 @@
+<!-- Chunk 78 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 172 -->
+Give text room to grow during localization. For example, don't create a screen-sized dialog box that is completely fJlled with text. Some languages require more characters than English does, to convey equivalent messages.  
+When creating parameterized text, be sure the localizer will be able to rearrange the sentence as needed. For example, if an alert box sentence is to say "There was a problem doing AD to the 1\1." then the localizer will be able to correctly order the noun and prepositional phrase for different languages.  
+Avoid hard-coding positions for drawing text or graphics. If possible, use a UserItem for positioning or dynamic display or PIer to display static graphics.

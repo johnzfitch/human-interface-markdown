@@ -1,0 +1,2 @@
+<!-- Chunk 5 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 67 -->
+This section contains guidelines for designers of software, peripheral card firmware, and hardware intended for use with the Apple IIe. Also refer to the sections of the Apple IIe Reference Manual (Apple Product Number A2L2005) pertinent to the product you are designing.

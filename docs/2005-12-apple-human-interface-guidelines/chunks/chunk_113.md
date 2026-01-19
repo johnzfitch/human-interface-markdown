@@ -1,0 +1,3 @@
+<!-- Chunk 113 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 156 -->
+<span id="page-88-8"></span>The keyboard's primary use is to enter text. The keyboard may also be used for navigation, but it should always be an alternative to using the mouse. For more information about using the keyboard instead of the mouse, see ["Keyboard Focus and Navigation"](#page-98-0) (page 99).  
+**Important:** Avoid assigning any key combinations listed in the tables in this section to commands other than those specified in the tables. Even if your application doesn't support all the keyboard equivalents shown, don't assign unused combinations to commands that conflict with those specified in this section.

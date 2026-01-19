@@ -1,0 +1,9 @@
+<!-- Chunk 183 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 399 -->
+You should use text, not icons, for your application menu titles. The operating system provides three application menus that use icons instead of text for their titles: the Apple menu, the Spotlight search field, and the AppleScript menu,which is displayed if the application has scripts installed. The menu bar status items also are icons. These icons (with the exception of the AppleScript menu) are always visible in the menu bar no matter what application is active, so users learn what these symbols mean. These are unique uses of symbols as menu titles.  
+<span id="page-168-1"></span>You may use icons in menu items if the icon is something the user can learn to associate with specific functionality in your application or if the icon represents something unique. For example, as shown in Figure 13-5, the Finder uses icons in the Go menu because users can associate them with the icons they see in the Sidebar.  
+**Figure 13-5** Icons in the Finder Go menu  
+![](images/_page_168_Picture_9.jpeg)  
+Safari also makes use of the standard icons displayed with some webpages to allow users to make the connection between the webpage and the menu item for that webpage, as shown in Figure 13-6.  
+<span id="page-169-1"></span>**Figure 13-6** Icons in the Safari History menu  
+![](images/_page_169_Picture_3.jpeg)  
+<span id="page-169-0"></span>Ifyou do include icons in your menus, include them onlyfor menu items forwhich theyadd significant value; don't include them for every menu item. A menu that includes too many icons (or poorly designed ones) can appear cluttered and be hard to read.

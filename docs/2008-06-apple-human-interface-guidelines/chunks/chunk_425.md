@@ -1,0 +1,2 @@
+<!-- Chunk 425 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 70 -->
+<span id="page-319-4"></span>**Control sizes**: You determine the size of a scrolling list. As a rule of thumb, make sure that the list displays only the full height of lines of text (don't cut text off horizontally), and make sure that the scrolling increment is one list element.

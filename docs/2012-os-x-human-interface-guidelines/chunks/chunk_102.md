@@ -1,0 +1,10 @@
+<!-- Chunk 102 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 519 -->
+As with menu titles, it's important to choose menu item names that are accurate and informative so that users can predict the result of choosing an item.  
+Menu item names describe actions that are performed on an object or attributes that are applied to an object. Specifically:  
+- *Actions* are verbs or verb phrases that declare the action that occurs when the user chooses the item. For example, Print means *print my document* and Copy means *copy my selection* .
+- *Attributes* are adjectives or adjective phrasesthat describe the change the command implements. Adjectives in menusimply an action and they can often fit into the sentence "Change the selected object to …" —for example, *Bold* or *Italic* .  
+Follow these guidelines as you create menu items.  
+**In general, avoid including definite or indefinite articles in the menu item name.** Including an article is rarely necessary because the user has already made a selection or entered a context to which the command applies. Good examples are "Add Account" instead of "Add an Account" and "Hide Toolbar" instead of "Hide the Toolbar." Be sure that you use this style consistently in all your menu item names.  
+**Use an ellipsis to show users thatfurther action is required to complete the command.** The **ellipsis character** (…) means that a dialog or a separate window will open in which users need to make additional choices or supply additional information in order to complete the action. For details on when to use an ellipsis in menu items, see "Using the Ellipsis [Character"](#page-299-2) (page 300).  
+**Use title-style capitalization for menu item names.** For more information on thisstyle,see ["Capitalizing](#page-305-0) Labels and [Text"](#page-305-0) (page 306).  
+<span id="page-134-1"></span>**Dim unavailable menu items.** When a menu item is dimmed (that is, gray), it helps users understand that the item is unavailable because, for example, it doesn't apply to the selected object or in the current context. A dimmed menu item does not highlight when the user moves the pointer over it.

@@ -1,0 +1,15 @@
+<!-- Chunk 292 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 577 -->
+- Do document printouts exactly replicate what the user sees on the screen? Do movies, sounds, and other types of data reproduce faithfully regardless of what medium they're in? In other words, is the application WYSIWYG?
+- Is your application forgiving and explorable by supporting Undo? Are there warnings about risky actions? Are users allowed to back away gracefully from risky territory?
+- If an operation can be interrupted, do you provide a Cancel or Stop button? Can Escape or Command-period be used to cancel or stop these operations?
+- Does the application feel stable?
+- Do you respect all of the accessibility features in Mac OS X, such as keyboard navigation and focus?
+- Have you made a clear, consistent distinction between basic and advanced features?
+- If your application has modes, is there a clear visual indication of the current mode? Does the visual indication of the mode appear near the object most affected by the mode? Are there enough landmarks to remind the user what area of the application he or she is in? For example, many graphics applications change the pointer to an eraser in erase mode.
+- Is each mode absolutely necessary? Do the modes within the application properly track the user's own modes? Do users consistently avoid the kind of errors caused by the program being in a mode other than what the user wants or expects? Making a mode visually apparent is no guarantee that the user will track it: Test the application on users and find out what sorts of mistakes they are making. If the errors are caused by modes, find ways to communicate the modes more clearly, or eliminate them.
+- Can the user save a document or quit an application at any time?
+- Are the widest possible range of user activities available at any time? The user should spend most of his or her time being able to interact with the application not waiting for it to complete a process.
+- Does your application always use the file's display name when the filename is visible to users, except in expanded help tags?
+- Is your application speech-enabled?
+- Has all user-visible text been reviewed by a professional writer?
+- <span id="page-261-0"></span>■ Does all user-visible text use "curly" apostrophes and quotation marks rather than straight ones (except for measurements or in code examples)?

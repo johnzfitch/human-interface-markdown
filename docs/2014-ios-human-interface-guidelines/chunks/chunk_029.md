@@ -1,0 +1,11 @@
+<!-- Chunk 29 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 538 -->
+Beautiful, subtle animation pervades the iOS UI and makes the app experience more engaging and dynamic. Appropriate animation can:  
+- Communicate status and provide feedback
+- Enhance the sense of direct manipulation
+- Help people visualize the results of their actions  
+![](images/_page_48_Picture_5.jpeg)  
+**Add animation cautiously, especially in apps that don't provide an immersive experience.** Animation that seems excessive or gratuitous can obstruct app flow, decrease performance, and distract users from their task.  
+In particular, use motion effects and UIKit dynamic behaviors with purpose and restraint, and be sure to test the results. Used appropriately, these effects can increase users' understanding and enjoyment; overusing them can make an app seem disorienting and difficult to control.  
+**When appropriate, make custom animation consistent with built-in animation.** People are accustomed to the subtle animation used in the built-in iOS apps. In fact, people tend to regard the smooth transitions between views, the fluid response to changes in device orientation, and the physics-based scrolling as an expected part of the iOS experience. Unless you're creating an app that enables an immersive experience—such as a game—custom animation should be comparable to the built-in animations.  
+**Use animation consistently throughout your app.** As with other types of customization, it's important to use custom animation consistently so that users can build on the experience they gain as they use your app.  
+**In general, strive for realism and credibility in custom animation.** People tend to be willing to accept artistic license in appearance, but they can feel disoriented when they experience movement that doesn't make sense or appearsto defy physical laws. For example, if you reveal a view by sliding it down from the top of the screen, you should dismiss it by sliding it back up because doing so helps users remember where the view comes from. If you dismiss the same view by sliding it down beyond the bottom of the screen, you break the user's mental model of a view that's available above the top of the screen.

@@ -1,0 +1,3 @@
+<!-- Chunk 85 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 79 -->
+When a control panel is localized, it may be the left edge that expands and contracts. ◆  
+As with the disclosure triangle, the push button label should indicate the nature of the settings. In addition, it should indicate "Show" or "Hide" as appropriate (for example, "Show Server Settings" or "Hide Server Settings").

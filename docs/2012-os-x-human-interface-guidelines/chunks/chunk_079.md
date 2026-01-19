@@ -1,0 +1,14 @@
+<!-- Chunk 79 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 645 -->
+Users appreciate the security of the OS X environment and they expect their apps to be equally secure. When you take advantage of OS X security technologies, you can store secret information locally, authorize a user for specific operations, or transport information securely across a network.  
+Keep the following guidelines in mind when your app needs to work with sensitive information or perform tasks in a secure environment.  
+**Factor out code that requires privileged access into a separate process.** Factoring isolates the secure code from the nonsecure code and makes it easier to verify that no rogue operations are occurring that could do damage, whether intentionally or unintentionally.  
+**Avoid storing passwords and secrets in plain-text files.** Even if you restrict access to the file using file permissions, sensitive information is much safer in a keychain.  
+**Avoid inventing your own authentication schemes.** If you want a client-server operation to be secure, use the authorization APIs to guarantee the identity of the client.  
+**Be wary of the code you load or call from privileged code.** For example, you should avoid loading plug-ins from privileged code, because plug-ins receive the same privileges as the parent process. You should also avoid calling potentially dangerous functions, such as system or popen, from privileged code.  
+**Avoid making inappropriate assumptions.** For example, you should not assume that only one user is logged in. Because of fast user switching, multiple users may be active on the same system (for more information, see *Multiple User Environment Programming Topics*). Also, you should not assume that keychains are always stored as files.  
+**When feasible, avoid relying solely on passwords for authentication.** Be prepared to take advantage of other technologies, such as smart cards or biometric devices.  
+**Use Keychain Services to store sensitive information, such as credit card numbers and passwords.** The keychain mechanism in OS X provides the following benefits:  
+- It provides a secure, predictable, consistent experience for users when dealing with their private information.
+- Users can modify settings for all of their passwords as a group or create separate keychains for different activities, with each keychain having its own activation settings. (By default, passwords are modified as a group.)  
+● The Keychain Access app provides a simple UI for managing keychains and their settings, relieving you of this task.  
+To get started learning about security in OS X, see *Security Overview*.

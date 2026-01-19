@@ -1,0 +1,2 @@
+<!-- Chunk 164 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+<span id="page-117-3"></span>When droppinggraphics, the drop feedbackis usuallythe movement of the actual item to the location of the mouse-up event.

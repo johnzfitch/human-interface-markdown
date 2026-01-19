@@ -1,0 +1,2 @@
+<!-- Chunk 181 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 52 -->
+After using the Find slip to specify the search criteria, a user initiates the search by tapping the Find button. Alternatively, the user can cancel the search by tapping the Close box to dismiss the Find slip.

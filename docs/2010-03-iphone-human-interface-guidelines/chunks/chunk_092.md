@@ -1,0 +1,7 @@
+<!-- Chunk 92 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 309 -->
+Changing the device orientation from portrait to landscape can change the height of the toolbar automatically (you should not specify the height programmatically). The thinner toolbar available in landscape orientation leaves more room for your screen contents. Be aware of the difference in heights when you design icons for toolbar buttons and when you design the layout of your screens.  
+You can specify the color and translucency of a toolbar to coordinate with the overall look of your application and with the other bars in it (that is, navigation bars, tab bars, and the status bar). You can use a custom color or choose one of the standard colors:  
+- Blue (the default color)
+- Black  
+If it complements the look of your application, you can add translucency to the toolbar. When you use a translucent toolbar, the screen gives the impression of having a larger visible area, which is especially advantageous in landscape orientation.  
+Strive for consistency in the appearance of toolbars and other barsin your application. If you use a translucent toolbar, for example, don't combine it with an opaque navigation bar. And, avoid changing the color or translucency of the toolbar in different screens in the same orientation.

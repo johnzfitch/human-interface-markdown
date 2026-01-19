@@ -1,0 +1,2 @@
+<!-- Chunk 298 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 27 -->
+The controls described in the following sections provide ways for users to make selections from multiple items.

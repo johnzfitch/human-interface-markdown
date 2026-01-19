@@ -1,0 +1,4 @@
+<!-- Chunk 457 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 221 -->
+Use a separator to divide a window body into distinct visual parts. You can place separators either vertically or horizontally, depending on the overall layout of your window.  
+**Note:** The separator control is not used in a toolbar; the vertical separator you can see in a toolbar is an NSToolbarSeparatorItem object (which is available in Interface Builder).  
+In general, you should avoid stretching a separator to span the entire width or height of a window; a separator that spans a window can give the appearance of slicing a window into unrelated rows or columns. If the categories of content in your window are completely unrelated, and it might be confusing to see all categories simultaneously, it might be better to display each category in a pane of a tab view instead (see ["Tab](#page-328-0) [Views"](#page-328-0) (page 329) for more information about using a tab view).

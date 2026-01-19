@@ -1,0 +1,2 @@
+<!-- Chunk 90 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+<span id="page-87-7"></span><span id="page-87-5"></span>When the user clicks the **minimize button** or double-clicks the title bar, the window minimizes into the Dock. The window's icon remains in the Dock until the user clicks it again or, if it is the application's only open window, until the user clicks the application icon in the Dock. For more information, see ["Clicking in the Dock"](#page-43-0) [\(page 44\).](#page-43-0)

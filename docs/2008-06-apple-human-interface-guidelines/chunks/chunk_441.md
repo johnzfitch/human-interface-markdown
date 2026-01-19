@@ -1,0 +1,2 @@
+<!-- Chunk 441 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 65 -->
+<span id="page-324-0"></span>List views are available in Interface Builder. To create a simple list view using Application Kit programming interfaces, use the NSTableView class. To get disclosure triangles in a list, use an NSOutlineView object in column format.

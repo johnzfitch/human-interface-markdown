@@ -1,0 +1,6 @@
+<!-- Chunk 40 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 270 -->
+If you're planning to develop an app that runs on iPhone and iPad, you need to adapt your design to each device. Here is some guidance to help you do this:  
+**Mold the UI of each app version to the device it runs on**. Most individual UI elements are available on both devices, but overall the layout differs dramatically.  
+**Adapt art to the screen size**. Users tend to expect more high-fidelity artwork in iPad apps than they do in iPhone apps. Merely scaling up an iPhone app to fill the iPad screen is not recommended.  
+**Preserve the primary functionality of your app, regardless of the device it runs on**. Even though one version might offer a more in-depth or interactive presentation of the task than the other, it's important to avoid making users feel that they're choosing between two entirely different apps.  
+<span id="page-27-1"></span>**Go beyond the default**. Unmodified iPhone apps run in a compatibility mode on iPad by default. Although this mode allows people to use an iPhone app on iPad, it does not give them the device-specific experience they want.

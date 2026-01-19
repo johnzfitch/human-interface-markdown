@@ -1,0 +1,83 @@
+<!-- Chunk 49 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 4143 -->
+<span id="page-76-2"></span>A **table view** presents data in a single-column list of multiple rows. Each row can contain some combination of text, images, and controls, and rows can be divided into sections or groups. Users flick or drag to scroll through large numbers of rows or groups of rows. Figure 8-1 shows how different styles of table views can display lists in different ways.  
+**Figure 8-1** Three ways to display lists using table views  
+A simple list in a regular style table view  
+![](images/_page_76_Picture_7.jpeg)  
+An indexed list in a regular style table view  
+![](images/_page_76_Picture_9.jpeg)  
+A grouped list in a grouped table view  
+![](images/_page_76_Picture_11.jpeg)  
+This section covers what table views support and how to use them in your application. Then, it describes two styles of table view: the regular style (two variations of which are shown in on the left and in the middle in Figure 8-1) and the grouped style (shown on the right in Figure 8-1).  
+Table Views **77**  
+#### <span id="page-77-0"></span>Usage and Behavior  
+Table views are extremely useful in iPhone applications because they provide attractive ways to organize both large and small amounts of information. Table views are most useful in productivity applications that tend to handle lots of user items, although utility applications can make use of smaller-scale table views, as well. An immersive application would probably not use a table view to display information, but it might use one to display a short list of options.  
+Table views provide built-in elements that allow users to navigate and manipulate information. In addition, table views support:  
+- The display of header and footer information. You can display descriptive text above or below each section or group in a list, and above or below the list as a whole.
+- List editing. You can allow users to add, remove, and reorder list items in a consistent way. Table views also support the selection and manipulation of multiple list items, which you might use to give users a convenient way to delete more than one list item at a time.  
+Note that you can choose to animate the changes users make to list items. Doing so is a good way to provide feedback and strengthen the user's sense of direct manipulation. In Settings, for example, when you turn off the automatic date and time setting (by selecting Off in Date & Time > Set Automatically), the list group expands smoothly to display two new items, Time Zone and Set Date & Time.  
+Table views provide feedback when users select list items. Specifically, when an item can be selected, the row containing the item highlights briefly when a userselectsit to show that the selection has been received. Then, an immediate action occurs: Either a new view is revealed or the row displays a checkmark to indicate that the item has been selected. The row never remains highlighted, because table views do not display a persistent selected state.  
+If a row selection results in navigation to a new screen, the selected row highlights briefly as the new screen slides into place. When the user navigates back to the previous screen, the originally selected row again highlights briefly to remind the user of their earlier selection.  
+The two styles of table views are distinguished mainly by appearance:  
+- **Regular**. This style of table view displays rows that stretch from side edge to side edge of the screen. The background of the rowsis white. The rows can be separated into labeled sections and the table view can display an optional index view that appears vertically along the right edge of the view.
+- **Grouped**. Thisstyle of table view displays groups of rowsthat are inset from the side edges of the screen. The groups are displayed on a distinctive blue-striped background, while inside the groupsthe background is white. A grouped table view can contain an arbitrary number of groups, and each group can contain various numbers of rows. Each group can be preceded by header text and followed by footer text. This table style does not provide an index view.  
+Table views are particularly versatile user interface elements, because they can be configured in different waysto support different user actions. For example, you can use table viewsto support the following common actions:  
+■ Selecting options  
+iPhone OS does not include multi-item selection controls analogous to menus or pop-up menus, but a table view works well to display a list of options from which the user can choose. This is because table views display items in a simple, uncluttered way. In addition, the table view provides a checkmark image that shows users the currently selected option in a list.  
+If you need to display a list of choices users see when they tap an item in a table row, you can use either style of table view. But if you need to display a list of choices users see when they tap a button or other user interface element that is not in a table row, use the regular style.  
+#### ■ Navigating hierarchical information  
+A table view works well to display a hierarchy of information in which each node (that is, list item) can contain its own subset of information, because each subset can be displayed in a separate list. This makes it easy for users to follow a path through the hierarchy by selecting one item in each successive list. The table view provides the disclosure indicator element that reveals the subset of information belonging to an item, and the detail disclosure button element that displays detailed information about an item.  
+As mentioned above, a table row does not retain its selected appearance. This is also true when a table is used to support navigation: Previously selected table rows do not remain highlighted when users retrace their steps through the hierarchy.  
+Although you can configure either style of table view for this usage, it's best to use the regular style if there are three or more levels in the information hierarchy.  
+#### ■ Looking up indexed information  
+You can use a table view to display information ordered according to a scheme, for example, alphabetization. You can provide header (and, optionally, footer) information to label separate sections, such as the "A" section and the "B" section. You can also choose to display the index view, which shows the entire range of list content. Users can scroll through the rows of the sectioned list or pinpoint a location in the index view.  
+Only the regular table view provides the index view, but both styles support categorization of list items.  
+■ Viewing conceptually grouped information.  
+You can use a table view to cluster information into logical groups, such as work, home, or school.  
+<span id="page-78-0"></span>Although you can define logicalsectionsin a regular table view, it's usually better to use a grouped table view because it provides a better visual indication of grouping and more space for contextual information in headers and footers.  
+#### Configuring a Regular Table View  
+A regular table view, in its simplest configuration, displays only the list items, with no section divisions and no index view. The list items can include text, images, and table-view elements,such asthe disclosure indicator (for more information about the elements a table view provides, see ["Table-View](#page-83-0) Elements" (page 84)). For example, Figure 8-2 shows an example of a simple list in a regular table view.  
+<span id="page-79-0"></span>**Figure 8-2** A simple list in a regular style table view  
+![](images/_page_79_Picture_3.jpeg)  
+The disclosure indicator element (shown in the left-hand list in [Figure](#page-76-2) 8-1 (page 77)) is necessary if you're using the table to present hierarchical information. Thisis because users know that this element means"show the next page of information." It should appear to the right of every list item that contains a sublist of items.  
+If you're configuring a regular table view as a selection mechanism, however, you should not need to display the disclosure indicator element, because a selection listshould seldom be hierarchical. However, you should display the checkmark element next to the option the user selects (for more information about this element, see ["Table-View](#page-83-0) Elements" (page 84)). This way, you inform the user which selection is currently in effect.  
+As mentioned in "Usage and [Behavior"](#page-77-0) (page 78), a table view automatically highlights a row in response to the user's tap, when the row item supports selection. This brief highlight is a feedback mechanism that allows users to see that they've tapped the row they intended and lets them know their selection is being processed. You should never make this highlight permanent in an effort to indicate the current selection in a list; instead, use the checkmark (described in ["Table-View](#page-83-0) Elements" (page 84)).  
+If you want to display a list of items divided into sections, you can configure a regular table view to display section headers, with each header describing a section and providing visual distinction from the other sections. You typically want to do this when the number of items in the list is long, and when the items lend themselves to a familiar categorization scheme. For example, the contact list in Phone can be very long and people are accustomed to organizing such information alphabetically. Figure 8-3 shows an alphabetical list of names in a contacts list that includes section headers and an index view along the right edge.  
+<span id="page-80-0"></span>**Figure 8-3** An indexed list in a regular style table view  
+![](images/_page_80_Picture_3.jpeg)  
+<span id="page-80-1"></span>In general, you should consider displaying the index view if the items in the list fill more than about two screenfuls. If the contents of the list is not that extensive, you can configure a regular table to display information with section headers, but without the index view, as shown in Figure 8-4. It's also possible to specify footers for each section, but this is not shown in Figure 8-4.  
+**Figure 8-4** A sectioned list without an index view in a regular style table view  
+![](images/_page_80_Picture_6.jpeg)  
+Table Views, Text Views, and Web Views  
+Avoid using table elements that display on the right edge of a table (such as the disclosure indicator) in a regular table with an index view, because these elements interfere with the index view.  
+If it makes sense in your application, you can display a header at the beginning of the table view, before the first item. Figure 8-5 shows an example of this. You can also display a footer after the last item, but this is not shown in Figure 8-5.  
+<span id="page-81-1"></span>**Figure 8-5** A regular style table view can display a table header before the first list item  
+![](images/_page_81_Picture_5.jpeg)  
+#### <span id="page-81-0"></span>Configuring a Grouped Table View  
+A **grouped table view** always contains at least one group of list items (one per row), and each group always contains at least one item. A list item can include text, images, and table-view elements (described in ["Table-View](#page-83-0) Elements" (page 84)). For example, Figure 8-6 shows a grouped table view with four groups, each containing one list item.  
+<span id="page-82-0"></span>**Figure 8-6** A grouped table view with four groups  
+![](images/_page_82_Picture_3.jpeg)  
+<span id="page-82-1"></span>In contrast, Figure 8-7 shows a grouped table view with a single group that contains four list items.  
+**Figure 8-7** A grouped table with a single group  
+![](images/_page_82_Picture_6.jpeg)  
+Notice the different types of elements in the list items shown in [Figure](#page-82-0) 8-6 (page 83) and in Figure 8-7. Both lists include the disclosure indicator element, which users tap to see the next list related to an item, and both lists include a switch control, which is a table-view control users slide to make an on/off choice.  
+#### <span id="page-83-0"></span>Table-View Elements  
+In general, users can tap anywhere on a list item to select it. However, table views also provide a few elements that are designed to display more information about list items, or to delete them. These **table-view elements** are used consistently in iPhone applications, and users are accustomed to their appearance and meanings. Specifically, a table view provides the following elements:  
+- **Disclosure indicator**. Userstap this element to see the next level in a hierarchy, or the choices associated with the list item. (See [Figure](#page-82-1) 8-7 (page 83) for an example of this element.)
+- Use a disclosure indicator in a row when selecting the row results in the display of another list. In other words, the presence of a disclosure indicator tells usersthat tapping anywhere in the row reveals another view; it does not offer functionality that is separate from the selection of the row.
+- **Detail disclosure button**. Users tap this element to see detailed information about the list item. (Note that you can use this element outside of a table view, to reveal additional details about something; see "Detail [Disclosure](#page-91-0) Buttons" (page 92) for more information.)
+- In a table view, use a detail disclosure button in a row to display details about the list item. Note that the detail disclosure button, unlike the disclosure indicator, can perform an action that is separate from the selection of the row. For example, in Phone Favorites, tapping the row initiates a call to the contact; tapping the detail disclosure button in the row reveals more information about the contact.
+- **Delete button**. Users tap this element to delete the list item. This element appears to the right of a list item when usersswipe in the row or when they tap the delete control button while in an editing context. (See Figure 8-8 for an example of this element.)
+- **Delete control button**. Users tap this element to reveal and hide the Delete button for each list item. To give additional feedback to users, the horizontal minus symbol inside this button becomes vertical when users tap it to reveal the Delete button. See Figure 8-8 for an example of this element.
+- In a grouped table that can switch between an editing and a nonediting mode, the delete control appears outside the table view, on the left. You can see this, for example, when editing an individual's contact information. If a grouped table is always in an editing mode (such as the grouped table views on the back of Stocks and Weather), the delete control appears inside the table view, on the left.
+- In a regular table view, the delete control always appearsin the table view, on the left, asshown in Figure 8-8.
+- **Row insert button**. Users tap this element to add a row to the list.
+- **Check mark**. This element appears to the right of a list item to show that it is currently selected.  
+<span id="page-84-1"></span>**Figure 8-8** A table view can display the Delete button and the delete control button  
+![](images/_page_84_Picture_3.jpeg)  
+<span id="page-84-0"></span>With the exception of the disclosure indicator, the table-view elements listed above are designed to perform actions that may be separate from the selection of the list item. For example, if a list item displays the detail disclosure button element, users can tap it to see more information about the list item. However, this is separate from the selection of the list item, which users can perform by tapping elsewhere in the row.  
+#### Switch Controls  
+A **switch control** presents to the user two mutually exclusive choices or states, such as yes/no or on/off. A switch control shows only one of the two possible choices at a time; users slide the control to reveal the hidden choice or state. Figure 8-9 shows examples of switch controls.  
+<span id="page-85-1"></span>**Figure 8-9** Switch controls in a table view  
+![](images/_page_85_Picture_3.jpeg)  
+Use a switch control in a grouped table view when you need to offer the user two simple, diametrically opposed choices. Because one choice is always hidden, it's best to use a switch control when the user already knows what both values are. In other words, don't make the user slide the switch control just to find out what the other option is.  
+You can use a switch control to change the state of other user interface elements in the view. Depending on the choice users make, new list items might appear or disappear, or list items might become active or inactive.

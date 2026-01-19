@@ -1,0 +1,3 @@
+<!-- Chunk 10 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 143 -->
+A drawer can contain any control that is appropriate to its intended use. You should follow normal layout guidelines, as stated in ["Control Layout Guidelines"](#page-25-0)  [\(page 26\).](#page-25-0) To ensure that the parent window's shadow does not affect any controls in the drawer, leave a border around the controls as shown in [Figure 1-3](#page-7-0).  
+A drawer should be considered part of the parent window for purposes of activating controls. This means that controls in a drawer should not be disabled simply because the parent window has focus, or vice versa.

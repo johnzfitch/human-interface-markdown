@@ -1,0 +1,3 @@
+<!-- Chunk 128 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 99 -->
+Alerts, action sheets, and modal views are temporary views that appear when something requires the user's attention or when additional choices or functionality need to be offered. People cannot interact with an application while one of these views is on the screen.  
+To learn about working with these types of views in your code, see "Modal View Controllers" in *View Programming Guide for iOS*.

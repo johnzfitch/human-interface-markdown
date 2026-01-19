@@ -1,0 +1,5 @@
+<!-- Chunk 134 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 214 -->
+<span id="page-138-2"></span>When appropriate, your application's dialogs should display default values for controls and text fields so the user can verify information rather than generate it from scratch.  
+Display a selection or an insertion point in the first location—a text entry field or a list, for example—that accepts user input.  
+When it provides an obvious user benefit, static text in a dialog should be selectable. For example, a user should be able to copy an error message, a serial number, or IP address to paste elsewhere.  
+<span id="page-138-1"></span>In dialogs that display columns and are user resizable, such as the Open dialog, as the dialog is made bigger, the columns should grow and additional columns should appear. All other elements should remain the same size and be anchored to the right, center, or left side of the dialog.

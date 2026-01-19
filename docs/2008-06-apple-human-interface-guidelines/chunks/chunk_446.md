@@ -1,0 +1,7 @@
+<!-- Chunk 446 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 307 -->
+<span id="page-326-3"></span>A **split view** groups together two or more other views, such as column or list views, and allows the user to adjust the relative width or height of those views. A split view includes a **splitter bar**, or **splitter**, between each of its subviews; for example, a split view with five subviews would have four splitters.  
+**Note:** In Mac OS X v10.5 and later, the standard splitter bar is known as a "zero-width" splitter. This splitter is actually 1 pixel wide and, as with wider splitter bars, the pointer changes to one of the move or resize cursors when hovering over it, depending on which direction the splitter can move (see ["Standard](#page-156-1) [Cursors"](#page-156-1) (page 157) for more information on different cursor styles).  
+A wider splitter bar (9 pixels in width) is also available, but not as frequently used.  
+<span id="page-326-1"></span>Figure 15-82 shows the splitter between the source list and the content view in iCal and the way the pointer looks when hovering over it. (For more information on source lists, see ["Source](#page-202-0) Lists" (page 203).)  
+![](images/_page_326_Picture_9.jpeg)  
+**Figure 15-82** The pointer changes when it hovers over a splitter

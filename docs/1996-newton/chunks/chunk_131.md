@@ -1,0 +1,8 @@
+<!-- Chunk 131 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 367 -->
+Pickers allow a user to enter information in a way that is fast, fun, and intuitive. They have the added advantages of being easy to target and taking up minimal real estate. The Newton system defines many types of pickers: list pickers, overview pickers, location pickers, date pickers, time pickers, and number pickers. In most of these pickers, a user can input data with a couple of taps.  
+A picker simplifies data input by listing all the possible values, or at least several common values, for an input field. A field's picker is not visible until a user taps the field's label, which begins with a diamond. Then the picker pops up, and the user can pick a listed input by tapping it in the picker. If the user taps one of the picker items, the picked item becomes the field value and the application displays it next to the field label. If the user does not tap any of the picker items, there is no change to the selected input displayed next to the picker. [Figure 6-2](#page-171-0) demonstrates how a picker works for data input.  
+A picker may always list the same set of inputs, or it may list different input items each time it pops up. The application can modify a picker in response to user input or to changes in the application's environment.  
+Tapping **6-3**  
+**Figure 6-2** How a picker works for data input  
+<span id="page-171-0"></span>![](images/_page_171_Figure_3.jpeg)  
+For more information on pickers, see [Chapter 4, "Pickers."](#page-126-0)

@@ -1,0 +1,41 @@
+---
+chunk_index: 1325
+ref: "7d822ad86cd7"
+id: "7d822ad86cd7a5ca2bb79304f7a0635945efe2087ca8b7da4b3220bdbe50cf79"
+slug: "full-document--splitting-a-window"
+path: "marker/1986-12 Human Interface Guidelines (Final Draft)/full_document.md"
+kind: "markdown"
+lines: [805, 829]
+token_estimate: 567
+content_sha256: "5c537f0880b0b15dc5d9962372c9e2575bcc1f5bfd8ae9998aa1dcd82d885314"
+compacted: false
+heading_path: ["Splitting a window"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Splitting a window
+
+Sometimes users want to see (and work on) two separate parts of a document simultaneously. They can do this by splitting the window into independently scrollable **panes**.
+
+Applications that support splitting a window into panes place split bars at the top of the vertical scroll bar or to the left of the horizontal one, or both. (See Figure 17.) The user can drag the split bar anywhere along the scroll bar. Releasing the mouse button creates a new split bar at that location and splits the window there, and divides the appropriate scroll bar into separate scroll bars for each pane.
+
+![](images/_page_57_Picture_3.jpeg)
+
+Figure 17
+Types of spllt windows
+
+After a split, there are separate scroll bars for each pane. The panes are still scrolled together in the orientation of the split, but can be scrolled independently in the other orientation. For example, if the split is vertical, then vertical scrolling (using the scroll bar along the right of the window) is still synchronous; horizontal scrolling is controlled separately for each pane, using the two scroll bars along the bottom of the window. (See Figure 18.)
+
+![](images/_page_58_Figure_1.jpeg)
+
+The panes scroll together in the vertical orientation
+
+The panes scroll independently in the horizontal orientation
+
+Figure 18 Scrolling a split window
+
+If the application allows only one split (one vertical and/or one horizontal split), the split bar is moved to a new location along the scroll bar. If the application allows multiple splits, the original split bar remains at the top or end of the scroll bar, and additional splits can be peeled off from it. To remove a split (to return the window to a single pane), the user drags the split bar back to the top or end of the scroll bar.
+
+Even when there are several panes, there still is only one selection or one insertion point, which may appear in any number of the panes. If a change is made in one pane, the change is reflected in all panes where that portion of the document is visible. If the application has to scroll automatically to show the selection, the pane that should be scrolled is the last one the user clicked in. If the selection is already showing in one of the panes, no automatic scrolling takes place.

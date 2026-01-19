@@ -1,0 +1,2 @@
+<!-- Chunk 50 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 66 -->
+<span id="page-45-7"></span>Menu titles should be one word that appropriately represents the items in the menu. For example, a Font menu could contain names of font families such as Helvetica and Geneva, but shouldn't include editing commands such as Cut and Paste.

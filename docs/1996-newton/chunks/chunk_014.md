@@ -1,0 +1,14 @@
+<!-- Chunk 14 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 679 -->
+Newton is a software and hardware technology designed for a family of products in the category of personal digital assistants (PDAs), such as the Apple MessagePad. The goal of Newton technology is to help people and businesses become more productive by simplifying basic tasks and making it easier for people to manage bits and pieces of information while on the move. Information entered on a Newton device can be moved to a desktop machine or a mainframe computer, where it can be manipulated in powerful applications.  
+Understand Newton **1-1**  
+<span id="page-25-0"></span>Newton is not a small portable computer with another graphical user interface. There may be similarities between portable computers and Newton devices, but the differences summarized below are more important than the similarities when it comes to designing a user interface for an application.  
+| Newton                                                                                      | Portable Computers                                                                            |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Focused function                                                                            | General purpose                                                                               |
+| New architecture optimized for<br>mobility and communications—<br>use it anywhere, any time | Derived from desktop computer<br>architecture, which is optimized<br>for stationary operation |
+| Tapping, writing, and drawing<br>with a pen                                                 | Typing, pointing, and clicking with<br>mouse and keyboard                                     |
+| Intelligent assistant                                                                       | Scripting and macros                                                                          |
+| New and custom applications                                                                 | Existing desktop applications                                                                 |
+| It's a communications assistant                                                             | It's a personal computer                                                                      |
+| Simple                                                                                      | Complex                                                                                       |  
+To take advantage of its distinguishing features and capabilities, Newton has distinctive user interface elements.

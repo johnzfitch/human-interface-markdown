@@ -1,0 +1,2 @@
+<!-- Chunk 12 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 53 -->
+[Installing Files](#page-244-1) 245 [Where to Put Files](#page-246-0) 247 [Handling Plug-ins](#page-248-0) 249 [Naming Files and Showing Filename Extensions](#page-248-1) 249 [Displaying Pathnames](#page-250-0) 251

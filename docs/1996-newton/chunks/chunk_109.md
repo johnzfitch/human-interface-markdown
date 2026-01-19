@@ -1,0 +1,5 @@
+<!-- Chunk 109 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 228 -->
+The Show picker lists alternative views for displaying data in an application, such as the Card view and All Info view in the built-in Names File application. In an application that supports Newton stationery, the Show picker lists all the available views for types of data that the application uses. The active view has a check mark next to its name in the Show picker. In addition to alternate views, a Show picker can list commands that display a particular data item in the currently selected view. For example, the built-in Date Book application's Show picker lists Today, which is not an alternate view but is a command to display the calendar data for today. Figure 4-19 illustrates the Show picker for the Date Book.  
+**Figure 4-19** The Show picker lists alternate ways to see an application's data  
+![](images/_page_151_Picture_3.jpeg)  
+Picking a view or a command from a Show picker changes the view.

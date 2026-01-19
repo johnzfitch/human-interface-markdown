@@ -1,0 +1,2 @@
+<!-- Chunk 203 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 37 -->
+Space adjacent buttons three pixels apart, and leave four pixels between buttons and the border of the view they're in. See page [3-12](#page-105-0).

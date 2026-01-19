@@ -1,0 +1,5 @@
+<!-- Chunk 167 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 268 -->
+There are some alternatives to the Action picker method of routing. For example, the Calls application has a Place Call button for routing an outgoing phone call. Tapping the Place Call button displays a routing slip for the call transport. The Call routing slip is similar to a Fax routing slip. In the upper part of the Call routing slip a user specifies the caller, the caller's location, and the call recipient (see ["Sender Picker" on page 7-13](#page-218-0) and ["Choosing Fax](#page-221-0)  [or E-mail Recipients" on page 7-16\)](#page-221-0). In the lower part of the Call routing slip, a picker and a button control how the call is dialed. Figure 7-24 shows a sample Call routing slip.  
+**Figure 7-24** A Call routing slip sets up an outgoing phone call  
+![](images/_page_239_Picture_6.jpeg)  
+<span id="page-240-0"></span>Another way users can route items through most transports is with the Intelligent Assistant. In addition, applications can route items programmatically. These two routing methods are described in more detail in the remainder of this section.

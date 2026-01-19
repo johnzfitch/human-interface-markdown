@@ -1,0 +1,7 @@
+<!-- Chunk 73 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 283 -->
+In the Window menu, a **checkmark** appears next to the active document's name. Checkmarks can also be used in other menus to indicate that the setting applies to the entire selection. You can use checkmarks for mutually exclusive attribute groups (the user can select only one item in the group, such as font size) or accumulating attribute groups (more than one item can be selected at once, such as Bold and Italic.  
+Use **dashes** to indicate that an attribute applies to only part of the selection. For example, if selected text has two styles applied to it, put a dash next to each style name. When it's appropriate, you can combine checkmarks and dashes in the same menu.  
+**Note:** Include a menu command, such as Plain, that enables a user to remove all formatting from mixed-state text.  
+<span id="page-63-2"></span><span id="page-63-1"></span>Use a **bullet** next to a document with unsaved changes, and use a **diamond** for a document the user has minimized into the Dock. A minimized document with unsaved changes should have a diamond only.  
+**Figure 4-14** Symbols in menus  
+![](images/_page_63_Picture_6.jpeg)

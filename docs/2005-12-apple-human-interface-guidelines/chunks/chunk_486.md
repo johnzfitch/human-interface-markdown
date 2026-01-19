@@ -1,0 +1,4 @@
+<!-- Chunk 486 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 147 -->
+A control for viewing areas of a document or a list that is larger than can fit in the current window. Only the active window can be scrolled. A window can have a horizontal scroll bar, a vertical scroll bar, both, or neither.  
+#### **scroller**  
+The part of a scroll bar that the user drags to view other parts of a document. The scroller size reflects how much of the document is visible; the smaller the scroller, the less of the content the user can see at that time. The scroller represents the relative location, in the whole document, of the portion that can be seen in the window.

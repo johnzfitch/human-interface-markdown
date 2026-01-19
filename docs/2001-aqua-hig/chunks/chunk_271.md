@@ -1,0 +1,4 @@
+<!-- Chunk 271 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 204 -->
+<span id="page-234-4"></span>There are eight predefined top-level user directories. Users can move files (and folders) in and out of these directories, all of which can be located with the Find command. With the exception of subdirectories in the user's home directory (Desktop and Library), users can also move or delete these directories.  
+The **Library** directory contains system or application-support files, such as plug-ins, document templates, user preferences, and nonsystem fonts. Like the Library directory at the root of the Mac OS X startup disk, this directory is not intended to be browsed by users. You may choose to have your application provide a separate interface for accessing and managing the contents of this directory.  
+Three of the predefined directories support basic system functionality:

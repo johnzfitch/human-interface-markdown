@@ -1,0 +1,6 @@
+<!-- Chunk 47 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 274 -->
+The overall look of a modal view should coordinate with the application that displaysit. For example, a modal view often includes a navigation bar that contains a title and buttons that cancel or complete the modal view's task. The navigation bar should have the same background appearance as the navigation bar in the application.  
+A modal view should usually display a title that identifies the task in some way. If appropriate, you can also display text in other areas of the view that more fully describes the task or provides some guidance. For example, the Text application provides a modal view when users want to compose a text message. This modal view, shown in Figure 7-6, displays a navigation bar with the same background as the application navigation bar and with the title New Message.  
+<span id="page-75-1"></span>**Figure 7-6** A modal view should coordinate with the application screen  
+![](images/_page_75_Picture_6.jpeg)  
+In a modal view, you can use whichever controls are required to accomplish the task. For example, you can include text fields, buttons, and table views.

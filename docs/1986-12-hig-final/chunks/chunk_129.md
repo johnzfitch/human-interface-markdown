@@ -1,0 +1,6 @@
+<!-- Chunk 129 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 279 -->
+Most things—menu items, icons, buttons, and so forth—should highlight by reversing the white background with the colored or black bits when selected. (For example, if the item is red on a white background, it should highlight to white on a red background.) However, if multiple colors of *text* appear together, Color TextEdit allows the user to set the highlighting bar color to something other than black to highlight the text better. The default for the bar color is always black.  
+#### Menus  
+In general, the only use of color in menus should be in menus used to choose colors. However, color could also be useful for directing the user's choices in training and tutorial materials: one color can lead the user through a lesson.  
+#### Windows  
+Since the focus of attention is on the content region of the window, color should be used only in that area. Using color in the scroll bars or title bar can simply distract the user. (The one exception to this is that if the user has color-coded icons in the Finder, the title of a window—not the whole title bar—may be the same color as the icon from which it came.)

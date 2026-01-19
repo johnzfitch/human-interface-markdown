@@ -1,0 +1,3 @@
+<!-- Chunk 410 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 162 -->
+A text input field contains user-supplied text in a system font that is appropriate for the size of the control. In addition, a text input field can contain a token field control, which displays the user input in the form of a draggable token (see ["Token](#page-315-0) Fields" (page 316) for more information on tokens).  
+It's a good idea to display an introductory label with a text input field to help users understand what type of information they should enter. Generally, these labels should have title-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and Text" (page 131) for more information on this style).

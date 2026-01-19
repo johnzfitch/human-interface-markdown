@@ -1,0 +1,3 @@
+<!-- Chunk 21 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 131 -->
+This section provides a theoretical base for the wealth of practical information on implementing the Aqua interface elements presented in the rest of this book.  
+You'll undoubtedly find that you can't design in accordance with all of the principles all the time. In those situations, you'll have to make decisions based on which principle or set of principles is most important in the context of the task you're solving. User testing is often an excellent way to decide between conflicting principles in a particular context.

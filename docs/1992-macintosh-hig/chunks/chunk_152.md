@@ -1,0 +1,2 @@
+<!-- Chunk 152 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 77 -->
+This section describes the appearance and behavior of some common controls that are not supported by the Macintosh Toolbox. These controls include sliders, little arrows, and the outline triangle. You can implement these controls in your application where necessary according to the descriptions presented here.

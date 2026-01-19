@@ -1,0 +1,45 @@
+<!-- Chunk 23 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 2233 -->
+<span id="page-35-1"></span>Great iPhone applications do precisely what users need while providing the experience users want. To help you achieve this balance in your application, thissection examinessome of the characteristics of great iPhone applications and provides advice on how to build them into your product.  
+#### Build in Simplicity and Ease of Use  
+Simplicity and ease of use are fundamental principles for all types of software, but in iPhone applications they are critical. iPhone OS users are probably doing other things while they simultaneously use your application. If users can't quickly figure out how to use your application, they're likely to move on to a competitor's application and not come back.  
+As you design the flow of your application and its user interface, follow these guidelines to build in simplicity and ease of use:  
+■ Make it obvious how to use your application.  
+Designing an iPhone Application: From Product Definition to Branding  
+- Concentrate frequently used, high-level information near the top of the screen.
+- Minimize text input.
+- Express essential information succinctly.
+- Provide a fingertip-size target area for all tappable elements.  
+The following sections explain each guideline for simplicity and ease of use in more detail.  
+#### Make It Obvious  
+You can't assume that users have the time (or can spare the attention) to figure out how your application works. Therefore, you should strive to make your application instantly understandable to users.  
+<span id="page-36-0"></span>The main function of your application should be immediately apparent. You can make it so by minimizing the number of controls from which users have to choose and labeling them clearly so users understand exactly what they do. For example, in the built-in Stopwatch function (part of the Clock application), shown in Figure 3-1, users can see at a glance which button stops and startsthe stopwatch and which button records lap times.  
+**Figure 3-1** The built-in Stopwatch function makes its usage obvious  
+![](images/_page_36_Picture_11.jpeg)  
+#### Think Top Down  
+People can tap the screen of an iPhone OS–based device with their fingers or their thumbs. When they use a finger, people tend to hold the device in their nondominant hand (or lay it on a surface) and tap with a finger of the dominant hand. When they use thumbs, people either hold the device in one hand and tap with that thumb, or hold the device between their hands and tap with both thumbs. Whichever method people use, the top of the screen is most visible to them.  
+#### **CHAPTER 3**  
+Designing an iPhone Application: From Product Definition to Branding  
+Because of these usage patterns, you should design your application's user interface so that the most frequently used (usually higher level) information is near the top, where it is most visible and accessible. As the user scans the screen from top to bottom, the information displayed should progress from general to specific and from high level to low level.  
+#### Minimize Required Input  
+Inputting information takes users' time and attention, whether they tap controls or use the keyboard. If your application requires a lot of user input before anything useful happens, itslows users down and can discourage them from persevering with it.  
+Of course, you often need some information from users, but you should balance this with what you offer them in return. In other words, strive to provide as much information or functionality as possible for each piece of information users provide. That way, users feel they are making progress and are not being delayed as they move through your application.  
+When you ask for input from users, consider using a type of table view (or a picker) instead of text fields. It's usually easier for users to select an item from a list than to type words. For details on table views and pickers, see "Table [Views"](#page-76-1) (page 77) and ["Pickers"](#page-94-0) (page 95), respectively.  
+#### Express Information Succinctly  
+When your user interface text is short and direct, users can absorb it quickly and easily. Therefore, identify the most important information, express it concisely, and display it prominently so users don't have to read too many words to find what they're looking for or to figure out what to do next.  
+To help you do this, think like a newspaper editor and strive to convey information in a condensed, headline style. Give controls short labels (or use well-understood symbols) so that users understand how to use them at a glance.  
+#### Provide Fingertip-Size Targets  
+If your layout places controls too close together, users must spend extra time and attention being careful where they tap, and they are more likely to tap the wrong element. A simple, easy-to-use user interface spaces controls and other user-interaction elements so that users can tap accurately with a minimum of effort.  
+For example, the built-in Calculator application displays large, easy-to-tap controls that each have a target area of about 44 x 44 pixels. Figure 3-2 shows the Calculator application.  
+<span id="page-38-1"></span>**Figure 3-2** The built-in Calculator application displays fingertip-size controls  
+![](images/_page_38_Figure_3.jpeg)  
+#### <span id="page-38-0"></span>Focus on the Primary Task  
+An iPhone application that establishes and maintains focus on its primary functionality is satisfying and enjoyable to use. As you design your application, therefore,stay focused on your product definition statement and make sure every feature and user interface element supports it. See "Create a Product [Definition](#page-34-1) [Statement"](#page-34-1) (page 35) for some advice on how to create a product definition statement.  
+A good way to achieve focus is to determine what's most important in each context. As you decide what to display in each screen always ask yourself, Is this critical information or functionality users need right now? Or, to think of it in more concrete terms, Is this information or functionality the user needs while shopping in a store or while walking between meetings? If not, decide if the information or functionality is critical in a different context or if it's not that important after all. For example, an application that helps users keep track of car mileage loses focus on this functionality if it also keeps track of car dealer locations.  
+When you follow the guidelines for making your application simple and easy to use, you help make your solution focused. In particular, you want to make the use of your application obvious and minimize user input. This makes it easier for users to arrive quickly at the most important parts of your application, which tightens the focus on your solution (for specifics on these guidelines, see "Build in [Simplicity](#page-35-1) and Ease of [Use"](#page-35-1) (page 36)).  
+For example, the built-in Calendar application (shown in Figure 3-3) is focused on days and the events that occur on them. Users can use the clearly labeled buttonsto highlight the current day,select a viewing option, and add events. The most important information, that is, the days and the events associated with them, is the most prominent. User input is simplified by allowing users to choose from lists of event times, repetition intervals, and alert options, instead of requiring keyboard entry for all input.  
+<span id="page-39-1"></span>**Figure 3-3** The built-in Calendar application is focused on days and events  
+#### <span id="page-39-0"></span>Communicate Effectively  
+Communication and feedback are as important in iPhone applications as they are in desktop computer applications. Users need to know whether their requests are being processed and when their actions might result in data loss or other problems. That said, it's also important to avoid overdoing communication by, for example, alerting the user to conditions that aren't really serious or asking for confirmation too often.  
+Animation is a great way to communicate effectively, as long as it doesn't get in the way of users' tasks or slow them down. Subtle and appropriate animation can communicate status, provide useful feedback, and help users visualize the results of their actions. Excessive or gratuitous animation can obstruct the flow of your application, decrease its performance, and annoy users.  
+In all your text-based communication with users, be sure to use user-centric terminology; in particular, avoid technical jargon in the user interface. Use what you know about your users to determine whether the words and phrases you plan to use are appropriate. For example, the Wi-Fi Networks preferences screen uses clear, nontechnical language to describe how the device connects to networks, as shown in Figure 3-4.  
+<span id="page-40-1"></span>**Figure 3-4** Use user-centric terminology in your application's user interface

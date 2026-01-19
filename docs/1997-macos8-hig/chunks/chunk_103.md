@@ -1,0 +1,3 @@
+<!-- Chunk 103 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 101 -->
+window headers [50](#page-49-0) window list view headers [51](#page-50-0) windows [99](#page-98-0) accent colors [100](#page-99-0) active vs inactive [99](#page-98-0) collapsing [103](#page-102-0) control panel [109](#page-108-0) controls [101](#page-100-0) document [101](#page-100-0) scroll bars [40](#page-39-0) types of [99](#page-98-0) utility [102](#page-101-0)  
+![](images/_page_136_Picture_0.jpeg)

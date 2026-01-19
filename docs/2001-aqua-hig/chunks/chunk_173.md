@@ -1,0 +1,4 @@
+<!-- Chunk 173 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 218 -->
+Generally, if an item is selected, pressing Delete (or Backspace) removes the selection without putting it on the Clipboard. If nothing is selected, pressing Delete removes the character preceding the insertion point, without putting it on the Clipboard. The Delete key has the same effect as the Delete command in the Edit menu.  
+<span id="page-159-2"></span>**Note:** The Delete key is different from the Forward Delete key (labeled *Del*), which removes characters following the insertion point. See "Forward Delete (Del)" (page 167).  
+Recommended key combinations for text applications are Command-Delete to delete the previous word, and Command–Forward Delete to delete the next word. You can support Option-Delete to delete the part of the word to the left of the insertion point, and Option–Forward Delete to delete the part of the word right of the insertion point.

@@ -1,0 +1,2 @@
+<!-- Chunk 120 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 69 -->
+For users to be able to open an application, it must have an icon in the Extras Drawer. The application name appears beneath the icon in one or two short lines of text. In addition, an application that stores data has a storage icon in the Storage folder of the Extras Drawer.

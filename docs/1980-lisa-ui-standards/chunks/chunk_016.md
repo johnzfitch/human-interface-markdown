@@ -1,0 +1,2 @@
+<!-- Chunk 16 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 69 -->
+When an operation (such as replacement) is performed on a selection not even partly visible in the folder, the active folder is automatically scrolled so that at least part of the selection is visible in the folder. The scrolling is performed before the operation is executed.

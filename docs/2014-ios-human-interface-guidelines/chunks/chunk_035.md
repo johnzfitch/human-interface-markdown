@@ -1,0 +1,7 @@
+<!-- Chunk 35 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 297 -->
+iOS provides a lot of small icons—representing common tasks and types of content—for use in tab bars, toolbars, and navigation bars. It's a good idea to use the built-in icons as much as possible because users already know what they mean.  
+![](images/_page_55_Picture_15.jpeg)  
+If you need to represent custom actions or content types you can create custom bar icons. Designing these small, streamlined icons is very different from designing an app icon. If you need to create custom bar icons, see "Bar [Button](#page-217-0) Icons" (page 218) to learn how.  
+![](images/_page_56_Picture_1.jpeg)  
+Note that you can use text instead of icons to represent items in a navigation bar or toolbar. For example, Calendar uses "Today," "Calendars," and "Inbox" instead of icons in the toolbar.  
+<span id="page-56-0"></span>To help you decide whether to use text or icons in the navigation bar or toolbar in your app, consider how many icons are visible onscreen at one time. Too many icons on a screen can make an app seem difficult to decode. Also, note that this decision might be different for an iPhone app than for an iPad app because an iPad app tends to have more room for text in bars.

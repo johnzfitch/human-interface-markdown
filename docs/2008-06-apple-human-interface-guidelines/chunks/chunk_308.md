@@ -1,0 +1,2 @@
+<!-- Chunk 308 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 97 -->
+<span id="page-256-0"></span>Capsule-style toolbar controls are available in Interface Builder. Drag a segmented control object into your window and specify how many segments you want it to have. To create a standalone button (like the Get Mail button in the Mail toolbar), specify one segment. To create one using Application Kit programming interfaces, use the NSSegmentedControl class.

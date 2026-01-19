@@ -1,0 +1,4 @@
+<!-- Chunk 53 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 148 -->
+**Collaborative computing** is a shared computing environment or application that facilitates communication and teamwork among groups of people. These people have specific needs that may have ramifications for your software.  
+When you design products for use by groups of people, the products should follow all the standard guidelines and principles of the desktop interface. There are several additional concerns to consider when you design collaborative or multiuser interfaces. Your main concern is to ensure a good user experience for groups of people.  
+![](images/_page_51_Picture_2.jpeg)

@@ -1,0 +1,2 @@
+<!-- Chunk 48 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 117 -->
+People can tap the screen of an iPhone OS–based device with their fingers or their thumbs. When they use a finger, people tend to hold the device in their nondominant hand (or lay it on a surface) and tap with a finger of the dominant hand. When they use thumbs, people either hold the device in one hand and tap with that thumb, or hold the device between their hands and tap with both thumbs. Whichever method people use, the top of the screen is most visible to them.

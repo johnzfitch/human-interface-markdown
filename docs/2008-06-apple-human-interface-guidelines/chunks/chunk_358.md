@@ -1,0 +1,8 @@
+<!-- Chunk 358 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 359 -->
+A bevel button or an icon button containing a pop-up menu has a single downward-pointing arrow. The button can behave like a standard pop-up menu, in which the image on the button is the current selection, or the button can represent the menu title and always display the same image.  
+Selection Controls **279**  
+**Important:** An icon button with a pop-up menu is one of the three window-body controls that can also be used in a window-frame area. To learn more about controls that are designed specifically for use in window-frame areas, see ["Window-Frame](#page-248-1) Controls" (page 249).  
+An icon or bevel button with a pop-up menu is easy to create in Interface Builder. First, drag a pop-up button (an NSPopUpButton object) into your window. Select the button and in the Attributes pane of the inspector, change its type to Pull Down. Finally, for a Rounded or Square Bevel Button, change the style to Square or Shadowless Square, respectively. For an icon button, it doesn't matter which style you choose, but you must deselect the Bordered checkbox. Resize the button as needed.  
+<span id="page-279-0"></span>See "Bevel [Buttons"](#page-268-0) (page 269) and "Icon [Buttons"](#page-260-0) (page 261) for specifications for the buttons themselves. Figure 15-28 shows examples of these types of buttons with pop-up menus.  
+**Figure 15-28** Bevel and icon buttons can include pop-up menus  
+![](images/_page_279_Figure_6.jpeg)

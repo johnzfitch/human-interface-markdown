@@ -1,0 +1,2 @@
+<!-- Chunk 45 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 69 -->
+This chapter provides detailed specifications for the elements that were introduced in Chapter 2. If you follow these specifications and take advantage of standard ROMbased tools, your applications will be as compatible as possible with other applications for the same hardware.

@@ -1,0 +1,7 @@
+<!-- Chunk 176 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 307 -->
+The Newton system provides a Find service with which a user can search participating applications for text, dates, or other types of data. A user specifies what to find in a Find slip that may be supplied by the system, customized by an application developer, or supplied entirely by the developer. The Find slip appears when a user taps the Find button, which is a picture button that looks like a magnifying glass. [Figure 8-5](#page-248-0) illustrates the Find button and the Find slip that the system supplies.  
+<span id="page-248-0"></span>**Figure 8-5** A standard Find slip specifies what to find and where to look  
+![](images/_page_248_Picture_3.jpeg)  
+The standard Find slip contains a labeled input line used to specify a search criterion and several radio buttons used to specify the scope of the search. The labeled input line has a picker for specifying the kind of search to perform—a text item or a date. Your application can also implement specialized searches for other kinds of data; these searches are described in more detail later in this section. Figure 8-6 illustrates the standard Look For picker.  
+**Figure 8-6** Specifying text or date searches in a Find slip  
+![](images/_page_248_Picture_6.jpeg)

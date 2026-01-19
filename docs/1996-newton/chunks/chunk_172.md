@@ -1,0 +1,5 @@
+<!-- Chunk 172 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 201 -->
+Your application can use the Newton system's Alarms service to display a notification alert or perform other actions at a specified time. If the Newton is asleep at the time the alarm is to execute, the system powers up the Newton and executes the alarm. If the alarm displays an alarm notification alert, the user can postpone the alarm for a specified time period by tapping the Snooze button included in the notification alert, as shown in Figure 8-4.  
+**Figure 8-4** An alarm notification alert's Snooze button can postpone the alarm  
+![](images/_page_245_Picture_7.jpeg)  
+<span id="page-246-0"></span>The Snooze button is optional. Your application can use a plain notification alert without a Snooze button (see ["Notification Alerts" on page 2-17\)](#page-60-0) or no notification alert at all.

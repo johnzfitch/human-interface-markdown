@@ -1,0 +1,5 @@
+<!-- Chunk 379 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 218 -->
+<span id="page-290-4"></span><span id="page-290-3"></span>A **color well** is a small rectangular control that indicates the current color for a particular setting and, when clicked, displaysthe Colors window (using the Colors window, users can change a colorsetting). For example, the Graphic pane of the Pages inspector contains three color wells that allow users to change the color of an object's fill, outline, and shadow, as shown in Figure 15-40.  
+<span id="page-290-2"></span>**Figure 15-40** Color wells in an inspector window  
+![](images/_page_290_Picture_5.jpeg)  
+<span id="page-290-7"></span><span id="page-290-6"></span><span id="page-290-5"></span><span id="page-290-1"></span>Multiple color wells can appear in a window. Color wells are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSColorWell class.

@@ -1,0 +1,4 @@
+<!-- Chunk 350 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 195 -->
+Each checkbox label should clearly imply two opposite states so it's clear what happens when the option is selected or deselected. If you can't find an unambiguous label, consider using a pair of radio buttons so you can clarify the states with two different labels.  
+Checkbox labels should have sentence-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and [Text"](#page-130-1) (page 131) for more on this style), unless the state or value is the title of some other element in the interface that is capitalized.  
+When a userselection comprises more than one state, use a dash in the appropriate checkboxes. Thissymbol is consistent with the mixed-state indicator in menus, as described in "Using [Symbols](#page-165-0) in Menus" (page 166).

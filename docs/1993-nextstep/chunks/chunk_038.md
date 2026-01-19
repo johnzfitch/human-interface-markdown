@@ -1,0 +1,5 @@
+<!-- Chunk 38 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 180 -->
+Dragging selects everything in the range defined by the anchor point (where the cursor was located when the mouse button was pressed) and the end point (the cursor's location when the mouse button is released).  
+What "everything in the range" means depends on the type of material selected, as described in "The Range that Dragging Should Select," later in this chapter.  
+#### **Programming Note: Selection**  
+The Text object and browser implementation in the Application Kit both provide almost all the selection mechanisms described in "Selection." (The exception: The Text object doesn't implement discontinuous selection.) However, if you define your own selectable data, you'll have to implement selection yourself.

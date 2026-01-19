@@ -1,0 +1,65 @@
+---
+chunk_index: 2851
+ref: "57662eaa09a4"
+id: "57662eaa09a41d13f833c6f9b6d5c0b54ecb076f4fc83e05e82bfb78d30a64b7"
+slug: "full-document--the-pointing-device"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [4123, 4171]
+token_estimate: 1475
+content_sha256: "f73eccd4153122afc16917dee239aba6861c44f0991abcbbcd20f2c710eea4e6"
+compacted: false
+heading_path: ["The Pointing Device"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# The Pointing Device
+
+![](images/_page_291_Picture_4.jpeg)
+
+In some computer systems, the keyboard is the primary input device. People type in commands and the computer responds with typed responses or prompts. In the Macintosh interface, the pointing device is central to the user's input. A pointing device makes possible the direct manipulation that is an important aspect of the interface. The user communicates with the computer by manipulating graphic objects on the screen. The user can grab (or seem to grab) an object, then indicate what is to be done with it. The user accomplishes this interaction with the pointing device.
+
+In the Macintosh interface the standard pointing device is the mouse. There are other pointing devices, such as trackballs and stylus pens, that perform the same functions. Figure 10-1 shows several different pointer devices.
+
+**Figure 10-1** Different pointing devices
+
+![](images/_page_291_Picture_8.jpeg)
+
+The mouse is a hand-held device, usually (but not necessarily) connected to the computer by a long, flexible cable. There's a single button on the mouse. The user holds the mouse and rolls it on a flat, smooth surface. On the screen, a **pointer,** which can assume different shapes according to the context of the application, follows the motion of the mouse.
+
+Simply moving the mouse (without pressing the mouse button) just moves the pointer. Most actions take place only when the user positions the pointer over an object on the screen, then presses and releases the mouse button.
+
+Traditional character-oriented command-line interfaces rely on a **cursor** to indicate the place on the display where the next character that is typed will appear. The user uses arrow keys (sometimes called *cursor keys*) to move the cursor around the screen. Because there is nothing else to point at, no pointer is needed.
+
+In the Macintosh interface, there may be many graphic objects on the screen, unrelated to the text insertion point. Thus there are lots of objects to point at and a pointer is necessary in the interface. The screen pointer is logically attached to the mouse or other pointing device. The user manipulates the pointer to show your application what to do next and where to do it. The place where the next characters to be typed will appear is indicated by an **insertion point.** In text, the pointer shows where the insertion point will be moved to if the user clicks at that location. Figure 10-2 shows the insertion point and the pointer in a text document.
+
+![](images/_page_292_Picture_6.jpeg)
+
+**Figure 10-2** The insertion point and the pointer
+
+Each pointer has a **hot spot**—the portion of the pointer that must be positioned over a screen object before mouse clicks can have an effect on that object. The hot spot should be intuitive, such as the tip of an arrow pointer or the center point of a crosshair pointer. Similarly, screen objects have a **hot zone**—the area that the pointer's hot spot must be within in order for mouse clicks to have an effect.
+
+![](images/_page_293_Picture_3.jpeg)
+
+As the pointer moves about the screen, it may change shape. For example, in a text-oriented application, the pointer takes the I-beam shape while it's over the text, to show where the insertion point will move to if the mouse button is pressed. When the pointer moves outside of the text, it becomes an arrow. In general, the pointer should change shape *only* to provide information to the user. In other words, it shouldn't change shape randomly. For example, the pointer could change shape to give feedback on the range of activities that make sense either in a particular area of the screen or in a current mode. If the result of mouse actions depends on the item under the pointer when the user presses the mouse button, the pointer could change shape depending on the object. Where an application uses modes for different functions, the pointer could be a different shape in each mode. Table 10-1 shows some examples of pointers and their effects. You can create additional pointers as needed for other contexts.
+
+| Table 10-1<br>Pointers |
+|------------------------|
+|------------------------|
+
+| Pointer | Name<br>Arrow | Used for<br>Scroll bar, other controls, size box, title bar, close<br>box, zoom box, menu bar, desktop |
+|---------|---------------|--------------------------------------------------------------------------------------------------------|
+|         | Crosshairs    | Drawing, shrinking, or stretching graphic objects                                                      |
+|         | I-beam        | Selecting and inserting text                                                                           |
+|         | Plus sign     | Selecting fields in an array                                                                           |
+|         | Wristwatch    | Showing that a lengthy operation is in progress                                                        |
+
+During a particularly lengthy operation, when the user can do nothing else but wait until the operation is completed or switch to another application, the pointer may change its shape and become a status or progress indicator. This indicator lets the user know that the system hasn't died—it's just busy. The standard pointer for this case is the wristwatch; however, if the operation will take longer than a few seconds, your application should display an
+
+indicator to show the user the estimated total time and the elapsing time of the operation. These measurements can be shown in absolute terms, as proportions of the total, or both. Figure 10-3 shows a status indicator from the Finder that is implemented as a movable modal dialog box to indicate to the user that he or she can switch to another application while waiting for the operation to finish.
+
+**Figure 10-3** A status indicator
+
+![](images/_page_294_Picture_4.jpeg)

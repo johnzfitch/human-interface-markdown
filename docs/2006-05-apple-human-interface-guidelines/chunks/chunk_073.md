@@ -1,0 +1,3 @@
+<!-- Chunk 73 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 163 -->
+<span id="page-55-7"></span>The Dock is more than just a tool for users of Mac OS X. Developers need to be aware of the Dock and account for its presence in their applications.  
+<span id="page-55-1"></span>When creating new windows or resizing existing windows, make sure you take the Dock position into account. New windows should not overlap the boundaries of the Dock. Similarly, you should prevent users from movingorresizingwindows so that theyare behind the Dock. (Carbon developers can use the GetAvailableWindowPositioningBounds function and Cocoa developers can use the methods of NSScreen to get the screen area without the Dock or menu bar.)

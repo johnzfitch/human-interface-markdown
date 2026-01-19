@@ -1,0 +1,5 @@
+<!-- Chunk 61 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 225 -->
+You don't have to redesign your app for it to look good on iPhone 5. Many appslook good simply by displaying more of their existing UI; others might need to stretch content or background regions. Only some apps—such as games or apps that display lots of custom artwork—are likely to need some additional work to look their best.  
+**Note:** All apps that run on iPhone 5 must include a launch image of the correct size. To learn how to create launch images for iOS devices, see ["Launch](#page-214-0) Images" (page 215).  
+The iPhone 5 display is 176 pixels taller than the display of other iPhone and iPod touch devices. In portrait orientation, the extra height is about the same as the height of two additional rows in a standard table view. For example, Messages running on iPhone 5 displays a taller conversation area than does Messages running on iPhone 4S.  
+![](images/_page_84_Picture_2.jpeg)

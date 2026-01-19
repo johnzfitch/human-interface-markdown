@@ -1,0 +1,5 @@
+<!-- Chunk 283 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 193 -->
+Mac OS X provides a consistent, well-integrated user interface for speech-recognition across all applications. This interface comprises the following items:  
+■ **The Speech pane** of System Preferences is where users can control general speech-recognition settings, regardless of which application is using it. These settings include microphone volume (helpful for using non-Apple microphones) and the listening mode (push-to-talk versus continuous listening). Developers get these interface features for free regardless of how they use the speech-recognition engine.  
+The Speech pane also contains controls specific to the Speakable Items application, such as whether Speakable Items is on or off and whether it applies to menus and window controls.  
+#### **CHAPTER 16**

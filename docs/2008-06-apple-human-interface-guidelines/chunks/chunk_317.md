@@ -1,0 +1,3 @@
+<!-- Chunk 317 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 150 -->
+Typically, icon buttons are used to display clickable icons in a toolbar (as described in["Window-Frame](#page-248-1) [Controls"](#page-248-1) (page 249), an icon button is one of three standard window-body controls you can use in a toolbar). If you want to use icon buttons in your toolbar, avoid mixing them with rectangular-style or capsule-style toolbar controls. Icon buttons should not be used in a bottom bar.  
+An icon button can have a pop-up menu attached. See "Icon [Buttons](#page-278-0) and Bevel Buttons with Pop-Up [Menus"](#page-278-0) (page 279) for more information about this usage.

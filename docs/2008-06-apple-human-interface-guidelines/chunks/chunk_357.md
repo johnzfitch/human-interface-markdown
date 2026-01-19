@@ -1,0 +1,2 @@
+<!-- Chunk 357 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 44 -->
+<span id="page-278-2"></span>The segmented control is available in Interface Builder. To create one using Application Kit programming interfaces, use the NSSegmentedControl class.

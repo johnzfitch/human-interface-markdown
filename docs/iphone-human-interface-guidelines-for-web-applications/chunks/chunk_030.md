@@ -1,0 +1,24 @@
+<!-- Chunk 30 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 1132 -->
+<span id="page-42-1"></span>As with Safari on the desktop, Safari on iPhone provides default styles for form controls in your webpage or iPhone web application. Whereas Safari on the desktop supplies Aqua controls by default, Safari on iPhone supplies default control styles that are specific to iPhone. Before you design custom form control styles, look at the default control styles you get automatically, shown in Figure 4-14:  
+Standard text field Search field Checkboxes Radio buttons File upload control (always disabled on iPhone) Select element Multiple select element  
+**Figure 4-14** Default control styles rendered by Safari on iPhone  
+<span id="page-42-2"></span>The first five form control types shown in Figure 4-14 are produced by specifying different values for the type attribute of the input HTML tag (to learn more about the input tag, see *Safari HTML Reference*). Table 4-1 shows the value used for each type.  
+**Table 4-1** Values to specify some default form control types  
+| Control description | Value of type attribute                                                                                                            |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Standard text field | text<br>Note that the standard text field isthe default type<br>of the input tag, so you do not have to specify<br>text to get it. |
+| Search field        | search                                                                                                                             |  
+#### **CHAPTER 4**  
+Metrics, Layout Guidelines, and Tips  
+| Control description                                                                                                            | Value of type attribute |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Checkbox                                                                                                                       | checkbox                |
+| Radio button                                                                                                                   | radio                   |
+| File upload control<br>Note that this control is always disabled on iPhone,<br>because iPhone does not support file uploading. | file                    |  
+**Note:** Safari on iPhone does not display the text "Placeholder String" in the search field control by default; it is added by specifying this text in the placeholder attribute.  
+The two selection controls shown in [Figure](#page-42-1) 4-14 (page 43) are both created using the select HTML tag. To display a list of items from which users can choose only one at a time, use the select tag and supply a set of option elements that represent the items. By default, Safari on iPhone displays the closed state of this control in a style that resembles a closed pop-up menu on the desktop.  
+To display a list of items from which users can choose more than one at a time, use the select tag with the multiple attribute and supply a set of option elements that represent the items. By default, Safari on iPhone displays the closed state of this control in the same way it displays a closed single selection control, except that it displays an ellipsis character (…) in place of the downward triangle to indicate additional selections.  
+When users tap either the single or multiple selection control, Safari on iPhone reveals the list of items in a custom scrolling list, as shown in [Figure](#page-41-1) 4-13 (page 42). See "The [Pop-up](#page-40-0) Menu" (page 41) for more information on how users interact with this type of control.  
+Although the checkbox, radio button, and selection controls shown in [Figure](#page-42-1) 4-14 (page 43) appear to have a white background, by default the background of these controls is translucent. As a result, the controls blend better with the background of your webpage. Using CSS properties, however, you can change this default translucency or set a specific background color. Figure 4-15 shows the translucency of the checkbox, radio button, and selection controls by placing them on a blue background.  
+<span id="page-44-1"></span>**Figure 4-15** Checkboxes, radio buttons, and selection controls rendered by Safari on iPhone have a translucent background by default  
+![](images/_page_44_Picture_3.jpeg)

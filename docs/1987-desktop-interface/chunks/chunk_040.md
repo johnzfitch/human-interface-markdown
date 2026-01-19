@@ -1,0 +1,2 @@
+<!-- Chunk 40 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 34 -->
+Color adds another dimension to the array of possible contrasts, and care must be taken to maintain good readability and graphic clarity.

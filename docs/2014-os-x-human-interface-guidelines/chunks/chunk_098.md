@@ -1,0 +1,12 @@
+<!-- Chunk 98 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 585 -->
+The Open dialog gives users a consistent way to find and open an item in an app.  
+![](images/_page_159_Figure_3.jpeg)  
+You can extend the Open dialog as appropriate for your app. For example, the TextEdit Open dialog contains an additional section that allows users to specify different encodings.  
+![](images/_page_160_Picture_2.jpeg)  
+**As much as possible, use the Open command to mean "open," and not "act upon."** The Open dialog is best suited to helping users find an item to open in your app. To help users find items to use in an app-specific task, use a Choose dialog instead. For guidance on using a Choose dialog, see The [Choose](#page-161-0) Dialog (page 162).  
+**Make sure users can use the Open command to display the Open dialog.** Users expect the Open command to display an Open dialog. Contrast this with the Choose dialog, which can be displayed by different commands in different apps. It's also a good idea to provide the standard Command-O keyboard shortcut to display the Open dialog, because most users are accustomed to it.  
+**Specify a reasonable default location.** For the iCloud Open dialog, iCloud is the default location. You should not change this behavior. See [iCloud](#page-248-0) (page 249) for more information.  
+For other dialogs, the default location is typically one of the predefined folders in the user's home folder. If the user selects a different folder, make sure you remember the user's selection so that it appears the next time the dialog is displayed.  
+**Considerincluding a pop-up menu that allows users to filterthe types of files that appearin the list.** Display items that don't meet the filtering criteria as dimmed. You can supplement this list with custom types and specify the default to show when the dialog opens. Include an All Applicable Files item, which doesn't have to be the default item.  
+**Include an Open Recent command to accompany the Open command.** The Open Recent command allows users to reopen recently opened documents without using the Open dialog.  
+**Extend the functionality oftheOpen dialog, if appropriate.** For example, it's a good idea to support document preview so that users can be sure they're opening the document they intend. In addition, you can enable multiple selection if your app allows more than one document to be opened at one time.

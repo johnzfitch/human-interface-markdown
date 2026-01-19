@@ -1,0 +1,7 @@
+<!-- Chunk 14 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 304 -->
+OS X providesthe built-in System Preferences app, in which users can specify system behaviors and appearances. For example, users can set a different desktop picture in Desktop & Screen Saver preferences.  
+![](images/_page_19_Picture_3.jpeg)  
+In addition, each Mac app can supply its own preferences, which allow usersto customize app-specific behaviors and appearances. As with OS X itself, great apps combine default settings that give most users what they want with a convenient way to make changes to those settings. For example, the General preferences pane in Mail allows users to adjust a range of settings, such as the sound that accompanies the arrival of a new message and the folder that contains downloaded attachments.  
+![](images/_page_20_Picture_2.jpeg)  
+For some guidance on how to provide preferences in your app, see ["Preferences"](#page-92-0) (page 93).  
+<span id="page-20-0"></span>Users expect to use the Preferences command in the app menu to access app-specific preferences. The consistent location of this command ensuresthat users always know how they can fine-tune the current app, if necessary. To learn more about the Preferences command, see "The App [Menu"](#page-147-0) (page 148).

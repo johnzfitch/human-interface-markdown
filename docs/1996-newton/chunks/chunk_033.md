@@ -1,0 +1,8 @@
+<!-- Chunk 33 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 361 -->
+A Newton application's **main view**—the visual object that serves as the application's base of user operations—can be any size. If your application's main view does not fill the entire screen, keep in mind that whatever is visible behind your application will be operable. In this situation, users can  
+<span id="page-35-0"></span>get confused about what's frontmost—and therefore about what will be scrolled when the scroll arrows are tapped and which view is currently in use.  
+Also keep in mind when designing your application that future Newton devices may have larger or smaller screens than current Newton devices. To work with different screen sizes, a Newton application must check the screen size and make adjustments as needed to the size and location of the things it displays so that everything fits. If you want your application to work in either of the two display orientations available on an Apple MessagePad 120, your application needs to be able to adjust the position and configuration of everything it displays for regular or sideways orientation of the display. Figure 1-3 shows how the built-in Notepad application and the on-screen keyboard adjust their size, position, and layout when a user rotates the display.  
+**Figure 1-3** An application adjusts its size, position, and layout to fit the screen  
+![](images/_page_35_Figure_5.jpeg)  
+![](images/_page_35_Figure_6.jpeg)  
+Sideways orientation on a MessagePad 120

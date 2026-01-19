@@ -1,0 +1,24 @@
+<!-- Chunk 87 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 1159 -->
+A **source list** (also called a **sidebar**) is an area of a window, usually set off by a movable splitter, that lets users navigate orselect objectsin an app. For more information on splitters,see Split [View](#page-223-0) (page 224). Typically, users select an object in the source list and then act upon that object in the main part of the window.  
+**APINote:** By default, a source list istranslucent when you use an NSOutlineView or NSTableView object and set the highlight style to NSTableViewSelectionHighlightStyleSourceList.  
+You can provide a source list as the primary means of navigating or viewing within your app, or as a way to select a view in a part of the app. Each usage pattern is associated with a different appearance, as illustrated here.  
+![](images/_page_141_Picture_4.jpeg)  
+A source list that provides the primary navigation or selection mechanism for the app as a whole istranslucent. For example, the Findersidebar, which helps users navigate the file system, uses translucency.  
+A source list that provides selection functionality for the window, but not the app as a whole, uses an opaque background. Here, you can see the opaque background of the source list in Network preferences, in which users select a network service to configure.  
+![](images/_page_142_Picture_2.jpeg)  
+The following guidelines can help you use a source list appropriately in your app.  
+**Consider using a source list to give users a file-system abstraction.** A source list can shield users from the details of file and document management, and allow them to work with user-customizable, app-specific containers that hold related items. Source lists can be especially useful in single-window "shoebox" style apps that allow users to create and manage content. For example, iTunes users can ignore the file-system locations of their songs, podcasts, and movies, and instead work with libraries and playlists..  
+Consider using a source list in your app when:  
+- Navigation and selection of content are primary tasks.
+- Collections of objects are key to the user's mental model. To learn more about the mental model, see [Mental](#page-60-1) Model (page 61).
+- The hierarchical arrangement of objects suggests a natural way to navigate.
+- Arranging objects hierarchically removes complexity.  
+**If necessary, display titles inside the source list.** Source lists don't generally have headers like lists can, but they can display titles to distinguish subsets of objects or data. For example, the Finder displays several useful subsets of locations and items in its sidebar, such as Devices, Shared, and Tags.  
+![](images/_page_143_Picture_2.jpeg)  
+**Avoid displaying more than two levels of hierarchy in a source list.** If the data you need to display is organized in more than two levels of hierarchy, you can use a second source list, but don't use additional disclosure triangles to expose additional levels of hierarchy in a single source list. If, however, your app is centered on the navigation of deeply nested objects, consider using a browser view instead of multiple source lists. To learn more about browser views, see Column [\(Browser\)](#page-221-0) View (page 222).  
+**Use the appropriate background appearance in your source list.** If your app contains a single source list that provides primary navigation and selection functionality, you can use the translucent background. In all other cases, however, use the opaque background. Specifically, use the opaque background when:  
+- Your window contains more than one source list
+- You use a source list in a panel or preferences window  
+**As much as possible, allow users to customize the contents of a source list.** It's best when users can decide which object containers are most important to them. You should also consider using Spotlight to support smart data containers. For more information on using Spotlight in your app, read *Spotlight Overview*.  
+To help users add, remove, manipulate, or get information about items in a source list, modern OS X apps tend to create buttons that float at the bottom of the list. Or, you can use gradient buttons below the bottom edge of the source list, because these buttons look good on the window-body area. For details about using gradient buttons, see [Gradient](#page-183-0) Button (page 184).  
+**Consider using a popover instead of a source list.** If your source list doesn't represent primary functionality in your app, consider replacing it with a popover, because a popover appears only when users need it. To learn more about using a popover in your app, see [Popover](#page-216-1) (page 217).

@@ -1,0 +1,2 @@
+<!-- Chunk 375 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 65 -->
+Use a path control when you want to display the file-system location of the currently selected item in a way that is not overly technical. You can also use a path control to allow users to retrace their steps along a path and open folders they visited earlier.

@@ -1,0 +1,3 @@
+<!-- Chunk 136 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 104 -->
+A modal view covers the entire application screen, which strengthens the user's perception of entering a separate, transient mode in which they can accomplish something.  
+A modal view can display text if appropriate, and contains the controls necessary to perform the task. A modal view generally displays a button that completes the task and dismisses the view, and a Cancel button users can tap to abandon the task.

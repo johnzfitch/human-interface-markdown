@@ -1,0 +1,2 @@
+<!-- Chunk 38 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 103 -->
+<span id="page-26-1"></span>You know what your app does and who its audience is; now you need to make sure that your app looks and feels like it was designed expressly for an iOS-based device. This is crucial because people have high expectations for the apps they choose to install on their devices. If your app feels like it was designed for a different device, or for the web, people are less likely to value it.

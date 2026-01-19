@@ -1,0 +1,4 @@
+<!-- Chunk 191 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 161 -->
+Pressing Page Up or Page Down scrolls the document up or down one page (the equivalent of clicking in the gray area of the scroll bar). If an entire page can't be displayed in the window, these keys first scroll incrementally up or down, until the top or bottom of the page is visible, before scrolling to the next page. These keys should also work in scrolling lists.  
+The Keyboard **175**  
+<span id="page-175-5"></span>If the beginning or end of the document is reached, pressing Page Up or Page Down produces a system alert sound. Pressing the Page Up or Page Down key has no effect on the location of the insertion point or selected data.

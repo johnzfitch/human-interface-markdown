@@ -1,0 +1,4 @@
+<!-- Chunk 9 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 200 -->
+This book is for people who design and develop software for Newton devices. If you are a designer, a human interface professional, or an engineer, this book contains information you need to design and create software that fits the Newton model. It also provides background information to help you plan your software product's design.  
+Even if you don't design and develop software for Newton, reading this book will help you understand the Newton interface. This understanding is useful to managers and planners who are thinking about developing Newton software, as well as to people who are studying human interface design in general.  
+This book assumes you are familiar with the concepts and terminology used with Newton devices, and that you have used a Newton device and its standard applications.

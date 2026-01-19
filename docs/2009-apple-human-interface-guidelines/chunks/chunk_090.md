@@ -1,0 +1,3 @@
+<!-- Chunk 90 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 137 -->
+If you are creating a new application, make sure it is contained in an application bundle. Application bundles provide a structure for your executables, resources, and configuration files. Application bundles also simplify the user's interaction with your application and make it harder for the user to delete critical resources accidentally. Even applications that must support both Mac OS X and earlier versions of the Mac OS can use the bundle format. For more information on application bundles, see *Bundle Programming Guide*.  
+Packaging **85**

@@ -1,0 +1,4 @@
+<!-- Chunk 15 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 212 -->
+The Human Interface Toolkit includes smaller versions of some controls. These small versions should be used sparingly; your first choice in designing for Aqua should be to use the full-size controls. If you are designing windows such as palettes or utility windows, you may need to use small versions of a given control when space is at a premium and the window cannot be redesigned to allow the full-size version. You may also find it necessary to use smaller controls when converting existing designs for use with Aqua.  
+In the sections describing individual control types, a figure describing the small version of a given control (when a small version is available) immediately follows the figure that describe the full-size version. Again, you should use the smaller version of controls only when absolutely necessary.  
+Control Dimensions **13**

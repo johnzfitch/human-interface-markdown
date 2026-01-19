@@ -1,0 +1,2 @@
+<!-- Chunk 13 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 96 -->
+[Speech Recognition](#page-253-0) 254 [Speakable Items](#page-254-0) 255 [The Speech Recognition Interface](#page-254-1) 255 [Speech-Recognition Errors](#page-256-0) 257 [Guidelines for Implementing Speech Recognition](#page-256-1) 257 [Speech Synthesis](#page-257-0) 258 [Guidelines for Implementing Speech Synthesis](#page-257-1) 258 [Spoken Dialogues and Delegation](#page-259-0) 260

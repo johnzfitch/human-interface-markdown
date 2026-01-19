@@ -1,0 +1,5 @@
+<!-- Chunk 21 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 252 -->
+#### The screen is the stage for human-computer interactions.  
+In many computer systems, most of the activity is invisible. Users make inputs, to which the computer returns elaborate responses after some amount of calculation. The screen then becomes the "mail slot" through which exchanges between the user and the computer system take place.  
+In the Apple Desktop Interface, the screen displays a representation of the "world" that the computer creates for the user. On this screen is played out the full range of human-computer interactions. Initially, it provides the alternatives; then it reflects the results of requested activities; then itagain shows the alternatives; and so on. And it does this in an extremely well-defined way. The details are in Chapters 2 and 3.  
+Though the screen is itself not the interface—the functionality provided by the interface elements is the interface—the screen does play <sup>a</sup> central role, and managing it is one of the programmer's most important tasks.

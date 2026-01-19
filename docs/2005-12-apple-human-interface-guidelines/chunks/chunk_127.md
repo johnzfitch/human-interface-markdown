@@ -1,0 +1,25 @@
+<!-- Chunk 127 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 1182 -->
+Table 7-2 describes how to extend text selection by pressing the Shift key with the arrow keys.  
+**Table 7-2** Extending text selection with the Shift and arrow keys  
+| Keys              | Extends selection                                                                       |
+|-------------------|-----------------------------------------------------------------------------------------|
+| Shift–Right Arrow | One character to the right                                                              |
+| Shift–Left Arrow  | One character to the left                                                               |
+| Shift–Up Arrow    | To the line above, to the nearest character boundary at the same<br>horizontal location |  
+<span id="page-93-6"></span>  
+| Keys                      | Extends selection                                                                                                                                               |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Shift–Down Arrow          | To the line below, to the nearest character boundary at the same<br>horizontal location                                                                         |
+| Shift–Option–Right Arrow  | To the end of the current word, then to the end of the next word                                                                                                |
+| Shift–Option–Left Arrow   | To the beginning of the current word, then to the beginning of the<br>previous word                                                                             |
+| Shift–Option–Up Arrow     | To the beginning of the current paragraph, then to the beginning<br>of the next paragraph                                                                       |
+| Shift–Option–Down Arrow   | To the end of the current paragraph, then to the end of the next<br>paragraph (include the blank line between paragraphs in cut, copy,<br>and paste operations) |
+| Command–Shift–Right Arrow | To the next semantic unit, typically the end of the current line                                                                                                |
+| Command–Shift–Left Arrow  | To the previous semantic unit, typically the beginning of the<br>current line                                                                                   |
+| Command–Shift–Up Arrow    | Upward in the next semantic unit, typically the beginning of the<br>document                                                                                    |
+| Command–Shift–Down Arrow  | Downward in the next semantic unit, typically the end of the<br>document                                                                                        |  
+<span id="page-93-3"></span><span id="page-93-2"></span><span id="page-93-1"></span><span id="page-93-0"></span>If no text is selected, the extension begins at the insertion point. If text is selected by dragging, then the extension begins at the selection boundary. For example, in the phrase *stop time,* if the user places the insertion point between the "s" and "t" and then presses Shift–Option–Right Arrow, *top* is selected. However, if the user double-clicks so the whole word is selected, and then extends the selection left or up, it's as if the insertion point were before the "s." If the user extends the selection right or down, it's as if the insertion point were between the "p" and the space after the word.  
+<span id="page-93-4"></span>Reversing the direction of the selection deselects the appropriate unit. In the previous example, if the word *stop* is selected and the user presses Shift–Option–Right Arrow, so *stop time* is selected, and then presses Shift–Option–Left Arrow, *time* is deselected and *stop* remains selected.  
+#### **Moving the Insertion Point in "Empty" Documents**  
+<span id="page-93-5"></span>Various text-editing programs treat empty documents in different ways. Some assume that an empty document contains no characters, in which case clicking at the bottom of a blank window causes the insertion point to appear at the top. In this situation, Down Arrow cannot move the insertion point into the blank space because there are no characters there.  
+Other applications treat an empty document as a page of space characters, in which case clicking at the bottom of a blank window puts the insertion point where the user has clicked and lets the user type characters there, overwriting the spaces. Whichever of these methods you choose for your application, it's essential that you be consistent throughout.

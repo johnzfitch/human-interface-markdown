@@ -1,0 +1,2 @@
+<!-- Chunk 484 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 34 -->
+A control that indicates the relative ranking of search results—the longer the bar, the more relevant the item is to the search criteria.

@@ -1,0 +1,6 @@
+<!-- Chunk 79 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 235 -->
+If you provide an end-user license agreement (or EULA) with your iPhone application, be aware that the App Store displays it, so that people can read it before they get your application.  
+If possible, try to avoid requiring users to indicate their agreement to your EULA when they first start your application. This allows users to enjoy your application without delay. However, even though this is the preferred user experience, it might not be feasible in all cases. If you must display a license agreement within your application, try to do so in a way that harmonizes with your user interface and causes the least inconvenience to users.  
+Similarly, if you need to provide a disclaimer, be sure to balance your business needs with maintaining a great user experience. If you can, provide your disclaimer within your application description or EULA, so that it is available in the App Store.  
+#### **CHAPTER 4**  
+Handling Common Tasks

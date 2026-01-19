@@ -1,0 +1,2 @@
+<!-- Chunk 80 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 95 -->
+People can use device controlsto affectsound, and they might use wired or wireless headsets and headphones. People also have various expectations for how their actions impact the sound they hear. Although you might find some of these expectations surprising, they all follow the principle of user control in that the user, not the device, decides when it's appropriate to hear sound.

@@ -1,0 +1,2 @@
+<!-- Chunk 87 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+Control panels should follow the guidelines established in ["Font Guidelines"](#page-68-0)  [\(page 69\)](#page-68-0).

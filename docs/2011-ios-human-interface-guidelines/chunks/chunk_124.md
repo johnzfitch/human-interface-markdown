@@ -1,0 +1,4 @@
+<!-- Chunk 124 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 196 -->
+You have control over the font, color, and alignment of the text in a text view, but only as they apply to the entirety of the text. In other words, you can't change any of these properties for only part of the text. The default font is the system font and the default color is black, because these tend to be the most readable. The default for the alignment property is left (you can change it to center or right).  
+If you must enable variable fonts, colors, or alignments within a view that displays text, you can use a web view instead of a text view, and style the text using HTML.  
+You can also specify different keyboard styles, depending on the type of content you expect users to enter. For a description of the styles you can use, see "Text [Field"](#page-133-1) (page 134).

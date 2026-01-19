@@ -1,0 +1,3 @@
+<!-- Chunk 159 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 97 -->
+<span id="page-113-11"></span><span id="page-113-10"></span>When the user moves an item by dropping its icon on a folder icon, the dropped icon disappears and the highlighting is removed from the destination folder icon.  
+<span id="page-113-2"></span>If an icon represents a task, such as printing, you may want to provide progress feedback to indicate that the task is being carried out.

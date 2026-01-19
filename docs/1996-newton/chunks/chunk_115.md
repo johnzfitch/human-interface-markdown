@@ -1,0 +1,4 @@
+<!-- Chunk 115 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 214 -->
+A distinctive icon shape without any detail is just a shapely shadow. When adding detail to make an icon more interesting, keep in mind the capabilities, limitations, and conventions of the Newton display. To make your icons look like they belong on a Newton, use lines that are two pixels thick. An icon drawn with single-pixel lines looks like it belongs on a desktop computer. What's more, the thicker lines are easier to see in low light. Three-dimensional effects in icons are difficult to achieve on a Newton because they require shading and many angled lines. Those effects are difficult to render on screens  
+<span id="page-157-0"></span>that display only black and white (no shades of gray or colors), particularly in the smaller icon sizes.  
+Newton icons do not have drop shadows. There is no assumed light source to create an artificial shadow.

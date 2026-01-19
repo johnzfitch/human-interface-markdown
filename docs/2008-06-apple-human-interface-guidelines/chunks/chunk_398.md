@@ -1,0 +1,8 @@
+<!-- Chunk 398 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 376 -->
+**Progress indicators** inform users about the status of lengthy operations. (For guidelines on when to provide such information, see "Feedback and [Communication"](#page-41-1) (page 42).)  
+Progressindicators often appear in a dialog that describesthe progress of a process. When the process being performed can be interrupted, the progress dialog should contain a Cancel button (and support the Esc key). If interrupting the process will result in possible side effects, the button should say Stop instead of Cancel. To learn more about dialogs in general, see ["Dialogs"](#page-229-0) (page 230). To supply a Cancel (or Stop) button, you use a push button; for more information about this control, see "Push [Buttons"](#page-257-1) (page 258).  
+Be sure to locate progress indicators in consistent locations in your windows and dialogs. For example, the Mail application displays the asynchronous progress indicator in the far right of the To field as it finds and displays email addressesthat match what the user types. Choosing a consistent location for progressindicators allows users to quickly check a familiar place for the status of an operation. See ["Consistency"](#page-42-0) (page 43) for more information on the importance of providing consistency in your application.  
+There are three types of progress indicators, each of which is suitable for a specific situation:  
+- Determinate progress bar
+- <span id="page-301-2"></span>■ Indeterminate progress bar
+- Asynchronous progress indicator

@@ -1,0 +1,9 @@
+<!-- Chunk 89 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 437 -->
+Most of the time, the user should be in control of scrolling. Your application must perform automatic scrolling in these four cases:  
+- When your application performs an operation that results in making a new selection or moving the insertion point (for example, when the user searches for some text and your application locates it), scroll the document to show the new selection.
+- When the user enters information from the keyboard at the edge of a window, scroll the document automatically to incorporate and display the new information.  
+Your application determines the distance to scroll. In general, a word processor scrolls vertically by a line of text, a database or spreadsheet scrolls by one field, a graphics application scrolls to display an entire object, if possible.  
+- When the user moves the pointer past the edge of the window while holding down the mouse button to make an extended selection, scroll the document automatically in the direction the pointer moves.
+- When the user selects something, scrolls to a new location, and then tries to perform an operation on the selection, scroll so the selection is showing before your application performs the operation.  
+Whenever your application scrolls a document automatically, move the document only as much as necessary. That is, if part of a selection is showing after the user performs an operation, don't scroll at all. If your application can scroll in only one direction to reveal the selection, don't scroll in both.  
+<span id="page-83-5"></span>When autoscrolling to a selection, try to show the selection in context. When the selection is too large to show in its entirety, it might be a good idea to show some context rather than having the selection fill the window.

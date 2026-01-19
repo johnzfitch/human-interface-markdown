@@ -1,0 +1,2 @@
+<!-- Chunk 116 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 77 -->
+<span id="page-116-5"></span><span id="page-116-4"></span>If the user starts typing when one or more characters are selected, the typed characters replace the selection. The deleted characters don't go on to the Clipboard, but the user can undo the replacement by immediately choosing Undo from the Edit menu.

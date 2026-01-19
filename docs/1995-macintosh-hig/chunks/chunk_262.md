@@ -1,0 +1,7 @@
+<!-- Chunk 262 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 347 -->
+In most applications, the user is required at some point to edit text. The principle of consistency (both within and among applications) requires that text be selected and edited in a consistent way, regardless of where it appears.  
+A block of text is a string of characters. A text selection is a substring of this string, which can have any length from zero characters to the whole block. Each of the text selection methods selects a different kind of substring. Figure 10-19 shows different kinds of text selections.  
+#### <span id="page-316-0"></span>**Figure 10-19** Text selections  
+Range of characters Word Insertion point Discontinuous selection Range of words  
+The insertion point is a zero-length text selection. The user establishes the location of the insertion point by clicking somewhere in the text. The insertion point then appears at the nearest character boundary. If the user clicks anywhere to the right of the last character on a line, the insertion point appears immediately after the last character. If the user clicks to the left of the first character on a line, the insertion point appears immediately before the first character.  
+The insertion point shows where text will be inserted when the user begins typing, or where the contents of the Clipboard will be pasted. As each character is typed, the insertion point is moved to the right of that character.

@@ -1,0 +1,2 @@
+<!-- Chunk 440 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+The mode in which tabbing and other keystrokes move keyboard focus only between fields that receive keyboard input, such as text entry fields and scrolling lists. See also ["full keyboard access mode"](#page-322-1) (page 323).

@@ -1,0 +1,24 @@
+---
+chunk_index: 2324
+ref: "1aeb84df5c30"
+id: "1aeb84df5c30291d14d5b64471225504938f77d980f83b41a55f97f3b7e5bac2"
+slug: "chunk-123"
+path: "marker/1992 Macintosh Human Interface Guidelines/chunks/chunk_123.md"
+kind: "markdown"
+lines: [1, 7]
+token_estimate: 268
+content_sha256: "950b43dcefcf25039eb8e0c49301cde3c420566548d13df3b37d04f34fbc0aa3"
+compacted: false
+heading_path: []
+symbol: null
+address: null
+asset_path: null
+---
+
+<!-- Chunk 123 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 243 -->
+The user moves a window by dragging its title bar. As the user drags, a dotted outline of the window moves with the pointer until the user releases the mouse button. At the release of the button, the full window and its contents appear at the new location. Moving a window doesn't affect the appearance of the document within the window. Figure 5-24 shows how a moving window looks to users.  
+**Figure 5-24** Moving a window  
+![](images/_page_178_Picture_3.jpeg)  
+The act of moving an inactive window makes it active. If a user presses the Command key while dragging a window, the window does not become active. The window moves in the same plane (doesn't change stacking order if there are multiple windows within the same application) and remains inactive.  
+Your application should never allow users to move a window to a position from which they cannot reposition it. For example, don't allow users to move windows completely off the screen.  
+Window Behaviors **155**

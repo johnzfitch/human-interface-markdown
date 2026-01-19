@@ -1,0 +1,4 @@
+<!-- Chunk 8 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 199 -->
+*Newton 2.0 User Interface Guidelines* describes how to create software products that optimize the interaction between people and devices that use Newton 2.0 software. The book explains the whys and hows of the Newton 2.0 interface in general terms and in specific details.  
+*Newton 2.0 User Interface Guidelines* helps you link the philosophy behind the Newton 2.0 interface to the actual implementation of the interface elements. Examples from a range of Newton software show good human interface design. These examples are augmented by descriptions and discussions of the reasoning behind the guidelines.  
+This book also contains examples of how *not* to design human interface; they are marked as such and appear with a discussion that points out what's inappropriate and how to correct it.

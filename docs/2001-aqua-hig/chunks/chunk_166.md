@@ -1,0 +1,2 @@
+<!-- Chunk 166 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 74 -->
+The keyboard's primary use is to enter text. The keyboard may also be used for navigation, but it should always be an alternative to using the mouse. For more information about using the keyboard instead of the mouse, see ["Keyboard Focus](#page-167-2)  [and Navigation" \(page 168\)](#page-167-2).

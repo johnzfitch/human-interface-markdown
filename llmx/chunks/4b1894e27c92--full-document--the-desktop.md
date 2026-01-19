@@ -1,0 +1,37 @@
+---
+chunk_index: 1295
+ref: "4b1894e27c92"
+id: "4b1894e27c92e26fc3138e5a32074cadf2ab8106e6eb7fd643dbeac8018ea224"
+slug: "full-document--the-desktop"
+path: "marker/1986-12 Human Interface Guidelines (Final Draft)/full_document.md"
+kind: "markdown"
+lines: [405, 425]
+token_estimate: 622
+content_sha256: "e374d99d3a25867c3ed6db33d9b81a88245bab1f8c38417186351f93169368c7"
+compacted: false
+heading_path: ["Screen elements","The desktop"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## The desktop
+
+The desktop establishes the metaphor for the entire interface, and provides a stable, personalized background for the user. It's the "surface" that the user sees when a system is started up, and is the launching pad for all activities.
+
+Visually, the desktop appears as a gray background on which objects are placed. The desktop can be personalized. The background has a default pattern, but the user can change its visual texture with the Control Panel desk accessory. The user also controls the location of objects on this desktop, and the size of some of them.
+
+Icons, small pictures representing available objects, sit directly on the desktop. To select a disk, folder, application, or document, the user selects the corresponding icon, rather than having to type the name of the object it represents.
+
+When a disk icon is selected, it can be opened to become a **window**, which also appears to rest on the desktop. The window presents a surface of its own, where the user sees icons representing the folders, documents, and applications that the disk contains. The user can open a number of disk windows on the desktop, and view their contents simultaneously.
+
+The **Finder** is the application that controls the desktop, provides a view of available documents and applications, and lets the user organize, copy, move, rename, and delete them. The Finder also lets the user launch an application, which typically opens up its own window.
+
+Another desktop element is the **trash can**, represented by its own icon. The trash can icon is initially in the lower right corner of the desktop, but can easily be moved. This element provides a very concrete way for users to delete documents and applications: they simply drag the corresponding icons into this trash can. Rather than mystifying the deletion of files, creating horrible images of computer memory losses, this mechanism provides a very understandable framework for this activity. It also prevents the user from inadvertently deleting materials with random keystrokes; putting something in the trash is a very deliberate and reversible action—up to a point, documents can be retrieved from the trash can.
+
+Users can return to the desktop directly from any application. This provides a familiar environment where the user can consider and initiate new activities, perform housekeeping chores, organize past activities, and prepare for new ones.
+
+![](images/_page_31_Figure_0.jpeg)
+
+Figure 1
+The Finder desktop

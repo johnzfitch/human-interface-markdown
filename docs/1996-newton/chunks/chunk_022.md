@@ -1,0 +1,2 @@
+<!-- Chunk 22 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 99 -->
+A Newton application is better than a person at remembering lists of options, commands, data, and so on. Take advantage of this situation by presenting lists and letting users choose from them. People can concentrate on accomplishing tasks with your program instead of remembering how to operate it. As a bonus, your program controls its inputs and doesn't have to check as many error conditions.

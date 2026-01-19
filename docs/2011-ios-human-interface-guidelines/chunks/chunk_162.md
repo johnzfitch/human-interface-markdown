@@ -1,0 +1,5 @@
+<!-- Chunk 162 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 217 -->
+Use a picker to make it easy for people to choose from a set of values. It's often best to use a picker when people are familiar with the entire set of values. This is because many, if not most, of the values are hidden when the wheel is stationary. If you need to provide a large set of choices that aren't well known to your users, a picker might not be the appropriate control.  
+**Consider using a table view, instead of a picker, if you need to display a very large number of values**. This is because the greater height of a table view makes scrolling faster.  
+<span id="page-128-1"></span>**Use the translucent selection bar to display contextual information**, such as a unit of measurement. Do not display such labels above the picker or on the wheel itself.  
+**On iPad, present a picker only within a popover**. A picker is not suitable for the main screen.

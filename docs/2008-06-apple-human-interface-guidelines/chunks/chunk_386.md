@@ -1,0 +1,3 @@
+<!-- Chunk 386 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 96 -->
+Command pop-down menus do not require an introductory label. A closed command pop-down menu always displays the same text, which acts as the menu title. This is in contrast to a closed pop-up menu, which displays the currently selected item.  
+Command pop-down menus contain a single, downward-pointing arrow and may display check marks to the left of all currently active selections.

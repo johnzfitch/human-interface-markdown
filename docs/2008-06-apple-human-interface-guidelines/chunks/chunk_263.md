@@ -1,0 +1,9 @@
+<!-- Chunk 263 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 201 -->
+Users can close windows by:  
+- Choosing Close from the File menu
+- Pressing Command-W
+- Clicking the close button  
+When a user closes a document window, your application should:  
+- Decide what to do with unsaved data (see "Dialogs for Saving, Closing, and [Quitting"](#page-240-0) (page 241))
+- Store the window's onscreen position and size (so they can be used when the window is reopened)  
+In most cases, applications that are not document-based should quit when the main window is closed. For Example, System Preferences quitsif the user closesthe window. If an application continuesto perform some function when the main window is closed, however, it may be appropriate to leave it running when the main window is closed. For example, iTunes continues to play when the user closes the main window.

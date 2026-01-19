@@ -1,0 +1,4 @@
+<!-- Chunk 175 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 148 -->
+After text is dropped, it is shown highlighted at its destination.  
+When text is dropped in a destination that supports styled text, the dropped text should maintain its font, typeface, and size attributes. If the destination does not support styled text, the dropped text should assume the font, typeface, and size attributes specified by the destination insertion point.  
+<span id="page-115-12"></span><span id="page-115-4"></span>Drag-and-drop operations involving text should support intelligent cut-and-paste rules, as explained in ["Intelligent Cut and Paste"](#page-106-4) (page 107).

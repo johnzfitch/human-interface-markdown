@@ -1,0 +1,4 @@
+<!-- Chunk 4 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 174 -->
+You lay out sheets like any other dialog in Mac OS X. Sheet behavior is determined by the Human Interface Toolkit, but sheets are basically modal dialogs that emerge from the title bar of a window. If a sheet is attached to a window near the edge of the screen, the sheet moves the window away from the edge until the dialog is dismissed, at which time the window returns to its previous position.  
+Only one sheet may be open for any window at any one time. A sheet presenting a modal dialog prevents any other operation on that window until the dialog is dismissed. If the user opens a sheet, then requests a second sheet, the first sheet closes before the second sheet opens.  
+New in Aqua **5**

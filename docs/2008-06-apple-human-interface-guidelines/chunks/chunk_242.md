@@ -1,0 +1,16 @@
+<!-- Chunk 242 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 806 -->
+In Mac OS X v10.5 and later, all windowsthat contain a toolbar display the unified toolbar–title bar appearance by default. This includes windows that were designed for earlier versions of Mac OS X, but are running in Mac OS X v10.5. For example, Figure 14-12 shows a Tiger version of Disk Utility running in Mac OS X v10.4 (on the left) and in Mac OS X v10.5 (on the right).  
+<span id="page-196-0"></span>**Figure 14-12** Many Tiger applications automatically receive the Leopard look when running in Mac OS X v10.5 and later  
+![](images/_page_196_Picture_3.jpeg)  
+![](images/_page_196_Picture_4.jpeg)  
+Tiger Disk Utility window on Tiger Tiger Disk Utility window on Leopard  
+Toolbars can contain a few types of controls and both standard and custom icons. Mac OS X v10.5 provides a small set of controls that are suitable for use in toolbars; standard Aqua controls do not belong in toolbars. Mac OS X v10.5 also provides a range of standard images you can use in toolbar controls, such as the Action menu and the Quick Look symbols, both of which are used in the Finder toolbar (as shown in Figure 14-13). See ["Window-Frame](#page-248-1) Controls" (page 249) for more information on the controls you can use in toolbars. See ["System-Provided](#page-150-0) Images" (page 151) for more information about the sytem-provided images you can use and see ["Designing](#page-147-0) Toolbar Icons" (page 148) for information on designing custom icons or images for a toolbar.  
+<span id="page-196-1"></span>**Figure 14-13** Many standard icons are available for use in window-frame controls  
+![](images/_page_196_Picture_9.jpeg)  
+When the user clicks an item in the toolbar an immediate action occurs, such as opening a new window, switching to a different view, displaying a menu, or inserting (or removing) an object. In preferences windows, toolbar items often function as mode switchers: When the user clicks a toolbar item in a preferences window, the entire content of the window changes. This type of toolbar item should maintain its pressed state to indicate which item is currently selected. For example, Figure 14-14 showsthe RSS pane of the Mail preferences window. Notice the background highlighting that indicates which toolbar item is the active one.  
+<span id="page-197-0"></span>**Figure 14-14** The RSS pane of the Mail preferences window  
+![](images/_page_197_Picture_4.jpeg)  
+<span id="page-197-1"></span>An application or document window that includes a toolbar should provide a control in the window's title bar area for showing and hiding the toolbar, as shown in Figure 14-15. You should also put commands for showing and hiding the toolbar in the View menu (see "The View [Menu"](#page-179-0) (page 180)). A preferences window that contains a toolbar that functions as a mode switcher should not have a toolbar control.  
+**Figure 14-15** The toolbar control  
+![](images/_page_197_Picture_7.jpeg)  
+Toolbar items can support click-through, which meansthat the user can activate the item when the containing window is inactive. You can choose to support click-through for any subset of toolbar items; for guidelines on when this might be appropriate, see ["Click-Through"](#page-217-1) (page 218).

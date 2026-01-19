@@ -1,0 +1,6 @@
+<!-- Chunk 299 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 291 -->
+<span id="page-240-3"></span><span id="page-240-2"></span>Use **radio buttons** for a set of mutually exclusive but related choices. A set of radio buttons should contain at least two items and a maximum of about five. (For more than five items, consider using a pop-up menu.) A set of radio buttons is never dynamic (that is, the contents shouldn't change depending on the context). A radio button should never initiate an action.  
+**Carbon:** Radio buttons are available in Interface Builder. To resize agroup of radio buttons, select Control in the pop-up menu at the top of the inspector window and select the appropriate size in the Size pop-up menu.  
+To create a radio button programmatically, use the function CreateRadioButtonControl.  
+**Cocoa:** Radio buttons are available in Interface Builder. To resize a group of radio buttons, select Prototype in the pop-up menu at the top of the inspector window and select the appropriate size in the Size pop-up menu. Then, select Attributes in the inspector window's pop-up menu and click Match Prototype.  
+Radio buttons have the button type NSRadioButton. See *Buttons* in Cocoa User Experience documentation.

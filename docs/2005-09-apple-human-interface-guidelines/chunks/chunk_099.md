@@ -1,0 +1,21 @@
+<!-- Chunk 99 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 616 -->
+For products with complex setup procedures, a setup assistant can be helpful. A setup assistant is a small application that guides users through the setup options. You store setup assistants in a location where your application can find them, such as inside your application bundle.  
+<span id="page-79-3"></span><span id="page-79-1"></span>Your application should open a setup assistant automatically whenever appropriate—when the system detects a new hardware device or the first time the user opens your application, for example. Ideally, the user should use the assistant only once.  
+The assistant application's icon should be a combination of the setup assistant icon with your application's icon superimposed as a badge in the lower-right corner, as shown in Figure 6-1.  
+**Figure 6-1** Examples of assistant icons  
+![](images/_page_79_Picture_14.jpeg)  
+![](images/_page_79_Picture_15.jpeg)  
+![](images/_page_79_Picture_16.jpeg)  
+Figure 6-2 shows the layout for a sample setup assistant window. Notice that the text is flush left within the inset area, and any controls associated with steps in the assistant are indented.  
+<span id="page-80-0"></span>**Figure 6-2** A typical setup assistant pane  
+![](images/_page_80_Picture_3.jpeg)  
+Keep the following guidelines in mind when designing a setup assistant:  
+- While the assistant is active, displayonlythe application menu (containing About and Quit items) and the Edit menu (containing standard items to assist users in entering text). Don't provide a Help menu (or a Help button); the setup assistant *is* help.
+- Provide Go Back and Continue buttons for navigation.
+- The assistant window title bar should contain a dimmed close button, an available minimize button, and a dimmed zoom button.
+- Title the first pane "Introduction." This pane should explain the purpose of subsequent panes.
+- Title the last pane "Conclusion." This pane should tell users what changes were made to their system and how to modify those settings. This pane should have a default Done button and a dimmed Go Back button.
+- In most cases, it's best to ask only one question per pane.
+- Provide relevant feedback when appropriate. If needed, you can display a progress bar next to the Go Back button (aligning the progress bar's left edge with the left edge of the pane).
+- Don't fill the entire screen; users should be able to access other parts of their system while the assistant is open.  
+Setup Assistants **81**

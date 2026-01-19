@@ -1,0 +1,7 @@
+<!-- Chunk 237 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 349 -->
+As described in "Window [Appearance"](#page-191-0) (page 192), the window frame consists of the title bar, toolbar, and bottom-bar areas, and the window body is between the toolbar–title bar area and the bottom bar (if there is one). A small subset of Mac OS X controls are intended for use only in the window-frame areas, because they have been specially designed to look good on the window-frame surface. *These controls should not be used anywhere in the window body*. Conversely, all other controls available in Mac OS X can be used in the window body, and most should not be used in the window-frame areas.  
+Of the controls that are designed for use in the window body, there are three that can also be used in window-frame areas:  
+- Icon buttons (including icon buttons that contain a pop-up menu)—see "Icon [Buttons"](#page-268-0) (page 269) and "Icon [Buttons](#page-287-0) and Bevel Buttons With Pop-Up Menus" (page 288) for more information.
+- Action menus—see "Action [Menus"](#page-292-0) (page 293) for more information.
+- Search fields—see ["Search](#page-325-0) Fields" (page 326) for more information.  
+Thissection describesthe controlsthat are designed solely for use in the window-frame areas. If your window contains a toolbar or bottom bar, be sure to use only the controlsthat are appropriate for each area, including icon buttons, Action menus, and search fields, as needed.

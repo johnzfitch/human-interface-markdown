@@ -1,0 +1,51 @@
+<!-- Chunk 42 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 2539 -->
+Some Apple keyboards include four arrow keys: Up Arrow, Down Arrow, Left Arrow, and Right Arrow.  
+/  
+![](images/_page_34_Picture_1.jpeg)  
+**Figure** 4. Macintosh Plus Arrow Keys  
+#### **Appropriate** Uses **for the Arrow** Keys  
+The arrow keys *don't replace the pointing device.* They can be used as a shortcut way to move the insertion point, and (under some circumstances) to make selections. These are the minimum guidelines for arrow keys; you can expand on them where things are left undefined, if you do it in the spirit of the whole guidelines.  
+It's up to you to decide whether it's worth the effort to create arrow-key shortcuts for mouse functions. Many users find that remembering a key combination on the order of Command-Shift-Left Arrow is more trouble than it's worth and they'd rather use a mouse anyway. Many others prefer using the keyboard under certain circumstances. And some people have difficulty using a mouse; they appreciate being able to use the keyboard instead.  
+An application should use the arrow keys only when appropriate to the task. Applications that deal with text or arrays (word processors, spreadsheets, and data bases, for example) have an insertion point. This insertion point can be moved both by the mouse and by the arrow keys. Graphics applications, on the other hand, have no insertion point.  
+As a general rule, arrow keys are used to move the insertion point and to expand or shrink selections. Arrow keys are *never* used to duplicate the function of the scroll bars or to move the pointer. In a graphics application, arrow keys can be used to move objects in one-pixel increments.  
+These guidelines apply both to moving the insertion point and to making selections. Making a selection works the same way as moving the insertion point, except that the Shift key is held down. When Shift is used together with an arrow key, it signifies that the user wants to make a selection, much like using the Shift key while clicking the mouse.  
+#### **Moving the Insertion Point** ,-  
+The Left Arrow and Right Arrow keys move the insertion point one character left and right, respectively.  
+Up Arrow and Down Arrow move the insertion point up and down one line, respectively.  
+Horizontal screen position is maintained in terms of screen pixels, but not necessarily in tenns of characters. (Character boundaries seldom line up vertically when proportional  
+fonts are used.) When the insertion point moves to a new line, it may also move slightly left or right, to the nearest character boundary on the new line. During successive movements up or down, the application should keep the insertion point as close as possible to the original horizontal position as it moves from line to line.  
+#### Moving the Insertion Point in Empty Documents  
+Various text editing programs treat empty documents in different ways. Some assume that an empty document contains no characters, in which case clicking at the bottom of a blank screen causes the insertion point to appear at the top. In this situation, Down Arrow cannot move the insertion point into the blank space (because there are no characters there).  
+Other applications treat an empty document as a page of space characters, in which case clicking at the bottom of a blank screen puts the insertion point where you clicked and lets you type characters there, overwriting the spaces. Down Arrow moves the insertion point straight down through the spaces.  
+Whichever paradigm you choose for your application, it's vital that you're consistent.  
+#### Modifier Keys with Arrow Keys  
+Holding down the Apple key while pressing an arrow key should move the insertion point to the appropriate edge of the window. If the insertion point reaches the edge of the window, then the document is scrolled one windowful in the appropriate direction and the insertion point moves to the same edge of the new windowful. Apple—Up Arrow moves the insertion point to the top of the window, Apple—Down Arrow to the bottom, Apple—Left Arrow to the left edge, and Apple—Right Arrow to the right edge (but not past the last character).  
+The Option key is reserved as a "semantic modifier" key. The application determines what the semantic units are. For example, in a word processor, where the basic semantic unit is the character and the next larger one is the word, Option–Left Arrow and Option-Right Arrow might move the insertion point to the beginning and end, respectively, of a word. (Movement of the insertion point by word boundaries should use the same definition of word that the application uses for double clicking.) The next larger semantic unit could be defined as the sentence, in which case Option–Shift–Left Arrow and Option–Shift–Right Arrow would move the insertion point to the beginning and end, respectively, of a sentence. In a programming language editor, where the basic semantic unit is the token and the next larger one might be the line, Option–Left Arrow and Option–Right Arrow might move the insertion point left and right to the beginning and end of the line, respectively.  
+In an application (such as a spreadsheet) that represents itself as an array, the basic semantic unit would be the cell. Option—Left Arrow would designate the cell to the left of the currently active cell as the new active cell, and so on. Using modifier keys with arrow keys doesn't do anything to the data; Option—Left Arrow just performs an Enter and moves the selection to the next cell to the left.  
+Though the use of multiple modifier key combinations (such as Command-Option-Left Arrow) is discouraged, it's all right to use the **Shift** key with any *one* of the other modifier keys for making a selection. (See "Making a Selection With Arrow Keys.") Keep in mind that if multiple keys must be pressed simultaneously, they should be fairly close together—otherwise many people won't be able to use that combination.  
+#### Making a Selection With Arrow Keys  
+To use arrow keys to make a selection, the user holds down Shift while pressing an arrow key. Application programs that depend (as TextEdit does) on the numeric keypad should not use these Shift-Arrow key combinations. This is because the key codes for the four Shift-arrow key combinations are the same as those for the keypad's +, \*, /, and = keys. If the use of Shift-arrow for making selections is more important to your application than is the numeric keypad, the following paragraphs tell how it should work.  
+After a Shift-arrow key combination has been pressed, the insertion point moves and the range over which it moves becomes selected. If both the Shift key and another modifier key are held down, the insertion point moves (as defined for the particular modifier key) and the range over which the insertion point moves becomes selected. For example, Shift-Left Arrow selects the character to the left of the insertion point, Command-Shift-Left Arrow selects from the insertion point to the left edge of the window, and Option-Shift-Left Arrow selects the whole word that contains the character to the left of the insertion point (just like double clicking on a word).  
+A selection made by using the mouse is no different from one made by using arrow keys. A selection started with the mouse can be extended by using Shift and Left or Right Arrow.  
+The two ends of a selected range have different characteristics and different names. The **anchor point** is the location of the insertion point when selection was started. The **active end** is the place to which the insertion point moves to complete the selection. Once selection begins, the anchor point cannot be moved except by beginning a new selection. To extend or shrink a selection, the user moves the active end as specified here. As the active end moves, it can cross over the anchor point.  
+In a text application, pressing Shift and either Left Arrow or Right Arrow selects a single character. Assuming that the Left Arrow key was used, the anchor point of the selection is on the right side of the selection, the active end on the left. Each subsequent Shift—Left Arrow adds another character to the left side of the selection. A Shift—Right Arrow at this point shrinks the selection. Figure 5 summarizes these actions.  
+| 1. | Insertion point is within a word: | word |
+|----|-----------------------------------|------|
+| 2. | Shift- is pressed:                | ward |
+| 3. | another Shift- 🖛 :                | word |
+| 4. | Shift-→:                          | ward |
+| 5. | three more times Shift-           | word |  
+Figure 5. Selecting With-Shift-Arrow Keys  
+Pressing Option—Shift and either Left Arrow or Right Arrow (in a text application) selects the entire word containing the character to the left of the insertion point. Assuming Left Arrow was used, the anchor point is at the right end of the word, the active end at the left. Each subsequent Option—Shift—Left Arrow adds another word to the left end of the selection, as shown in Figure 6.  
+1. Insertion point is within a word:  
+another word  
+2. Option-Shift- is pressed:  
+another word  
+3. another Option-Shift- ::  
+another word  
+Figure 6. Selecting With Option-Shift-Arrow Keys  
+Pressing Command—Shift—Left Arrow (in a text application) selects the area from the insertion point to the left edge of the window. The anchor point is at the right end of the selection, the active end is at the left. Each subsequent Command—Shift—Left Arrow scrolls the document one windowful left and extends the selection to the left edge of the new window.  
+#### Extending or Shrinking a Selection  
+To use arrow keys instead of the mouse to extend or shrink a selection, the user holds down the Shift key (plus any defined modifiers) while pressing an arrow key. The arrow key moves the insertion point at the active end of the selection.  
+#### Undoing a Selection  
+When a block of text is selected, pressing either Left Arrow or Right Arrow deselects the range. If Left Arrow is pressed, the insertion point goes to the beginning of what had been the selection. If Right Arrow is used, the insertion point goes to the end of what had been the selection.

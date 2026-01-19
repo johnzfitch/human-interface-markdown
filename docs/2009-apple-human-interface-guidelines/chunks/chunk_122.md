@@ -1,0 +1,3 @@
+<!-- Chunk 122 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 98 -->
+<span id="page-120-8"></span>The technique of dragging an item and dropping it on a suitable destination is called **drag and drop.**  
+In this chapter, an item is anything that the user can select,such astext, graphics, and icons. For convenience, this chapter assumesthat the user is dragging with the mouse, but these guidelines also apply to other input devices, such as pens and trackballs.

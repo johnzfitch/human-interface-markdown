@@ -1,0 +1,14 @@
+<!-- Chunk 161 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 649 -->
+OS X provides a handful of free-standing images that can be used as borderless buttons. These images don't require further processing by an NSButtonCell object.  
+Two of the free-standing images are standalone versions of similar template images. To see why you might need both versions of such an image, consider how Safari offers stop-progress functionality to users. In the downloads popover, Safari uses the free-standing NSImageNameStopProgressFreestandingTemplate image inline with a progress indicator to allow users to stop an in-progress download.  
+![](images/_page_321_Picture_7.jpeg)  
+Because the Safari downloads popover can display several separate download processes at the same time, it's important to display a stop-progress control for each individual process.  
+As with all system-provided images, each free-standing image must be used according to its documented meaning and recommended usage. Table B-2 lists each image, along with its meaning and name.  
+<span id="page-322-1"></span>**Table B-2** Free-standing images that represent common actions  
+| Image | Meaning                                                                                                                                                     | Constant name                                   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+|       | The<br>data<br>on<br>the<br>left<br>is<br>invalid<br>(for<br>example,<br>the<br>user<br>entered<br>a<br>zip<br>code<br>in<br>a<br>phone<br>number<br>field) | NSImageNameInvalidDataFreestanding<br>Template  |
+|       | Reveal<br>contents<br>or<br>details<br>about<br>the<br>object                                                                                               | NSImageNameReveal<br>FreestandingTemplate       |
+|       | Open<br>the<br>link<br>in<br>a<br>new<br>window<br>or<br>page                                                                                               | NSImageNameFollowLinkFreestanding<br>Template   |
+|       | Stop<br>progress<br>on<br>the<br>current<br>process                                                                                                         | NSImageNameStop<br>ProgressFreestandingTemplate |
+|       | Refresh<br>the<br>current<br>view<br>or<br>restart<br>the<br>process                                                                                        | NSImageNameRefresh<br>FreestandingTemplate      |

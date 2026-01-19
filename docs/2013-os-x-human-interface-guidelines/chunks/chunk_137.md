@@ -1,0 +1,2 @@
+<!-- Chunk 137 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 70 -->
+**Controls** are graphic objects that cause instant actions or visible results when users manipulate them. In OS X, the Application Kit (or AppKit) framework provides the controls you can use in your app, such as push buttons, radio buttons, checkboxes, text fields, and table views.

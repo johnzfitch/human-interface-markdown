@@ -1,0 +1,2 @@
+<!-- Chunk 4 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 84 -->
+The user interface is transparent with respect to the kind and amounts of mass storage provided. All that is assumed here is that there is enough to implement the interface described and to support applications using the interface. The minimum LISA will include two high density mini-floppies; an optional hard disk may be available later.

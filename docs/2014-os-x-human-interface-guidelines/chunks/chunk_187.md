@@ -1,0 +1,3 @@
+<!-- Chunk 187 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 109 -->
+If you're creating an OS X version of an iOS app, you want an icon that users recognize, but you don't want a carbon copy of the iOS app icon. In particular, the OS X app icon shouldn't use the same rounded rectangle shape that the iOS app icon uses. App Store, Calendar, and Contacts provide icons for OS X and iOS that are recognizable, yet distinct from one another. (iOS 8 app icons shown here.)  
+![](images/_page_321_Picture_1.jpeg)

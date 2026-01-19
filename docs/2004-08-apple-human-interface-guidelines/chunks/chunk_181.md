@@ -1,0 +1,2 @@
+<!-- Chunk 181 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 90 -->
+<span id="page-154-8"></span><span id="page-154-5"></span><span id="page-154-2"></span>Buttons initiate an immediate action. If a button initiates an indeterminate process, the button should be dimmed until the process is complete, or status feedback should be provided. This section discusses the buttons that are available to meet the needs of your interface.

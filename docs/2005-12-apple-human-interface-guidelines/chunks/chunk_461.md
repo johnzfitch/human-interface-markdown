@@ -1,0 +1,2 @@
+<!-- Chunk 461 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 33 -->
+A button that opens Help Viewer to the help content appropriate for the context. A help button is a round button with a question mark.

@@ -1,0 +1,2 @@
+<!-- Chunk 209 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 61 -->
+Use fonts carefully. For the voice of the system and application use the bold style of the System font in 9- or 10-point sizes. For values a user can change use Casual 10- and 12-point. (Those are the fonts that are preset by the system protos.)

@@ -1,0 +1,3 @@
+<!-- Chunk 84 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 91 -->
+A Brief Tour of the Application User Interface  
+In general, though, you should avoid radically changing the appearance of a control that performs a standard action. If you use unfamiliar controls to perform standard actions, users will have to spend time discovering how to use them and will wonder what, if anything, your controls do that the standard ones do not.

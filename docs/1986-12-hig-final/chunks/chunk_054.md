@@ -1,0 +1,2 @@
+<!-- Chunk 54 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 58 -->
+Menus make it possible for the user to browse through and choose among the whole range of available operations. The menu structure consists of the menu bar (which displays the menu titles), the menus, and each menu's items (commands).

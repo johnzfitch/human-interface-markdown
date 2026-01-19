@@ -1,0 +1,6 @@
+<!-- Chunk 125 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 276 -->
+<span id="page-90-2"></span>On most keyboards, the Command key is labeled with a cloverleaf symbol ( ) and an Apple logo ( ). Pressing the Command key at the same time as a character key tells the application to interpret the key as a command rather than a character. It can also be used with the mouse to modify the effect of a click or drag. Key combinations that use the Command key are described in ["Keyboard](#page-95-0) [Shortcuts"](#page-95-0) (page 96).  
+#### **Control**  
+The Control key is used to modify the functions of other keys. Combined with a mouse click, it displays contextual menus (see ["Contextual Menus"](#page-166-1) (page 167)).  
+Control-F7 temporarily overrides a user's preference for default navigation or full keyboard navigation in windows and dialogs. For more information, see ["Keyboard Focus and Navigation"](#page-98-0) (page 99).  
+**Cocoa:** In Cocoa applications, the Control key has additional defined behaviors, as described in "Text System Defaults and Key Bindings" in *Event Handling Programming Guide for Cocoa* in Cocoa Events & Other Input Documentation.

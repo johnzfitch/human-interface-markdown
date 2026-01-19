@@ -1,0 +1,3 @@
+<!-- Chunk 307 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 97 -->
+- Do you avoid using Command–Space bar and Command–modifier key–Space bar in your application, since they are reserved for use by international systems?
+- Do keyboard equivalents appear where appropriate? Are the keyboard equivalents case-independent? (This second rule does not apply if the product uses both cases in the keyboard equivalents and lets the user decide which case to use.)

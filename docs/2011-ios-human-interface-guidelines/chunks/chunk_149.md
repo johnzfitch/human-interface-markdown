@@ -1,0 +1,2 @@
+<!-- Chunk 149 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 78 -->
+iOS includes two styles of Info button: a dark-colored "i" on a light background and a light-colored "i" on a dark background. An Info button automatically glows briefly when the user taps it. When tapped, an Info button results in an immediate action, such as flipping a view in an application to reveal the back.

@@ -1,0 +1,2 @@
+<!-- Chunk 488 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 30 -->
+A menu that contains more items than are visible onscreen. Scrolling menus have triangles that indicate hidden menu items.

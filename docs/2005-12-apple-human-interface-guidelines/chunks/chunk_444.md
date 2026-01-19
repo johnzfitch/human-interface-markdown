@@ -1,0 +1,2 @@
+<!-- Chunk 444 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+Used to describe text or icons that are grayed out to indicate that they are currently unavailable. Menu items, for example, are dimmed rather than omitted when they aren't applicable at a particular moment.

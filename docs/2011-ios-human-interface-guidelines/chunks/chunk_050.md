@@ -1,0 +1,5 @@
+<!-- Chunk 50 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 246 -->
+When an iOS app establishes and maintains focus on its primary task, it is satisfying and enjoyable to use. Your application definition statement will help you focus your app on its primary task (to learn more about this statement, see "Create an [Application](#page-24-1) Definition Statement" (page 25)). To maintain that focus, you need to determine what's most important in each context or screen.  
+**Analyze what's needed in each screen**. As you decide what to display in each screen always ask yourself, Is this critical information or functionality users need *right now*? If your answer is no, decide whether the information or functionality might be critical in a different context, or if it's not that important after all.  
+For example, the iPhone Calendar application is focused on days and the events that occur on them. Users can use the clearly labeled buttons to highlight the current day, select a viewing option, and add events.  
+![](images/_page_46_Picture_7.jpeg)

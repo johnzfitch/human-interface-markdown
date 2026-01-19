@@ -1,0 +1,2 @@
+<!-- Chunk 38 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 64 -->
+<span id="page-34-2"></span>When dialogs are localized, the text may become longer or shorter, and the alignment of controls may vary. For items to appear aligned in languages that read right to left, make sure the items' display rectangles are the same size.

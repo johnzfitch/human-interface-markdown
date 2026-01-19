@@ -1,0 +1,2 @@
+<!-- Chunk 58 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 57 -->
+<span id="page-44-8"></span><span id="page-44-1"></span>This section covers issues that deserve special mention in the context of drag and drop. Selection feedback is discussed in more detail in ["Selecting"](#page-32-0) (page 33).

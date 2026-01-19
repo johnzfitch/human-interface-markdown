@@ -1,0 +1,17 @@
+<!-- Chunk 61 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 858 -->
+The Dock provides a convenient place for users to keep the apps they use most often. In addition, users can use the Dock to store webpage bookmarks, documents, folders, and stacks(which are collections of documents or other content). Users expect the Dock to be always available and to behave according to their preferences.  
+**If appropriate, customize your app's Dock menu.** Users can click and hold (or Control-click) an app's Dock icon to reveal the Dock menu. A Dock menu can contain app commands such as Open, Quit, and Hide, in addition to high-level options such as Show in Finder, Open at Login, and Assign to this Desktop. When your app is running, users can see a customized version of the Dock menu that can contain items such as:  
+- Commands that initiate actions in your app when it is not frontmost, such as New Window
+- Commands that are applicable when there is no open document window, such as New Document
+- Status and informational text  
+For example, the customized Mail Dock menu includesthe Get New Mail and Compose New Message commands.  
+![](images/_page_65_Picture_9.jpeg)  
+To learn how to customize your Dock menu in code, see *Dock Tile Programming Guide* .  
+**Take Dock position into account when you create new windows or resize existing windows.** If window boundaries are behind the Dock, or too near the edge of the screen that hides the Dock, users have difficulty dragging or resizing the window without inadvertently interacting with the Dock. In particular, you should not create new windows that overlap the boundaries of the Dock. Similarly, you should prevent users from moving or resizing windows so that they are behind the Dock.  
+**Respond appropriately when the user clicks your Dock icon.** Generally, a window should become active when the user clicks on an app's Dock icon. The precise behavior depends on whether the app is currently running and on whether the user has minimized any windows.  
+If the app is not running, a new window should open. In a document-based app, a new untitled window should open. In an app that is not document-based, the main app window should open.  
+If the app is running when the user clicks its Dock icon, the app becomes active and all open unminimized windows are brought to the front; minimized document windows remain in the Dock. If there are no unminimized windows, the last minimized window should be expanded and made active. If no windows are open, the app should open a new window—a new untitled window for document-based apps, otherwise the main app window.  
+**Note:** A running app doesn't necessarily display the running indicator below its Dock icon (users can specify this behavior in Dock preferences). Don't assume that users want to see running indicators in the Dock.  
+**Use badging to give users noncritical status information in an unobtrusive way.** A badge is a small red oval that appears over the upper-right corner of an app's Dock icon. For example, Calendar displays the number of new events in a badge; when there are no new events, the badge disappears (it doesn't display 0).  
+![](images/_page_66_Picture_6.jpeg)  
+**Use bouncing to notify users of serious information that requires their attention.** A bouncing Dock icon is very noticeable, so you should use this method only when the user really needs to know about something. Also, make sure you disable bouncing as soon as the user has addressed the problem.

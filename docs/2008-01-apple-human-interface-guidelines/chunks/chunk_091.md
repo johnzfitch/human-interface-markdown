@@ -1,0 +1,6 @@
+<!-- Chunk 91 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 238 -->
+You should support drag-and-drop installation ifyour application bundle contains everything needed for the application to run. However, you might need to create an installation package if any of the following conditions is true:  
+- You need to install frameworks or other files in specific locations on the user's system.
+- You need to install software on any part of the system that requires administrative access.  
+Ifyou are developingsoftware otherthan an application, the need for an installation package depends on the type of software and where it is installed. For example, you might want to use an installer to install a screen saver, because it involves placing files in either the user's Library directory or the local Library directory.  
+<span id="page-86-1"></span>You can create an installation package with Package Maker, which is available with the Xcode Tools. For information on installers and packaging, see *Software Delivery Guide*.

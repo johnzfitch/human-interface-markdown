@@ -1,0 +1,4 @@
+<!-- Chunk 19 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 158 -->
+This part of *Apple Human Interface Guidelines* presents the philosophy and psychology behind the Macintosh interface. Read this part to learn about the design principles and considerations you can use to create an excellent software product that provides an intuitive and attractive human interface. You'll find out how to incorporate good human interface consideration with your design and decision-making processes and how to involve users throughout the design process. It also tells you how to work with and go beyond the guidelines while maintaining their spirit and intent.  
+#### **P A R T I**  
+Application Design Fundamentals

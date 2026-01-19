@@ -1,0 +1,4 @@
+<!-- Chunk 65 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 142 -->
+When space is at a premium, such as in pop-up menus, contractions may be used, as long as the contracted words are not critical to the meaning of the phrase. For example, a menu could contain the following items:  
+Don't Allow Printing Don't Allow Modifying Don't Allow Copying  
+<span id="page-54-1"></span>In each case, the contraction does not contain the operative word for the item. But in Sherlock, for example, menu items enabling users to choose between text that "contains" and "does not contain" are communicated more clearly without the use of contractions.

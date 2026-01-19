@@ -1,0 +1,8 @@
+<!-- Chunk 247 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 365 -->
+The **Help button** opens a window that displays a specific help page appropriate for the context of the button. Don't create a custom button to do this; use the standard Help button, which containsthe Mac OS X question mark graphic.  
+<span id="page-275-1"></span>In dialogs(including preferences windows) and drawers, the Help button can be located in either the lower-left or lower-right corner. In a dialog that includes OK and Cancel buttons (or other buttons used to dismiss the dialog), the Help button should be in the lower-left corner, vertically aligned with the buttons. In a dialog that does not include OK and Cancel buttons, such as a preferences window, the Help button should be in the lower-right corner. Figure 15-16 shows an example of a preferences pane that includes a Help button.  
+Help button  
+**Figure 15-16** Help button in a preferences pane  
+For information on providing help in your application, see "User [Assistance"](#page-80-0) (page 81).  
+<span id="page-276-4"></span>The standard Help button is 20 pixels in diameter and should be placed at least 12 pixels from other interface elements. See "A Simple [Preferences](#page-346-2) Dialog" (page 347) for an example of Help button placement in a dialog.  
+The standard Help button is available in Interface Builder. To create a Help button using Application Kit programming interfaces, use the setBezelStyle: method of NSButtonCell with NSHelpButtonBezelStyle as the argument.

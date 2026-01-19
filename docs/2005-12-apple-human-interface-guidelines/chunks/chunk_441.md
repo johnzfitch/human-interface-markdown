@@ -1,0 +1,2 @@
+<!-- Chunk 441 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 52 -->
+The part of a document that can accept data dragged to it. In a document window, the destination region is usually the content area minus the title bar and areas used for controls such as scroll bars and rulers.

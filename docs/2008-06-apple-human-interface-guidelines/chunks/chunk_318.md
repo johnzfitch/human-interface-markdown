@@ -1,0 +1,3 @@
+<!-- Chunk 318 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 156 -->
+<span id="page-261-1"></span>Icon buttons contain icons; in addition, they can display a text label that users can choose to view. Icon buttons can also contain a single downward-pointing arrow, which indicatesthe presence of a pop-up menu.  
+Icon button labels should name a thing (such as Network or Accounts) or describe an action (such as Mask or Show Art). Remember that users can choose to view the icon without the label, so make sure the meaning of the icon is clear and unambiguous. See ["Designing](#page-148-0) Iconsfor Icon Buttons" (page 149) for more information on designing attractive and useful toolbar icons.

@@ -1,0 +1,2 @@
+<!-- Chunk 98 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 41 -->
+Page Setup lets the user specify printing parameters such as what the document's paper size and printing orientation are. These parameters remain with the document.

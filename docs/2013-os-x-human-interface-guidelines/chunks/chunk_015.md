@@ -1,0 +1,8 @@
+<!-- Chunk 15 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 414 -->
+Occasionally, users need help understanding how to use a control or perform a task. OS X provides two help mechanisms that supply help to users without getting in their way.  
+UI element–specific help is provided in a short message that appears when users allow the pointer to rest on the element for a few seconds. This message, called a **help tag**, is a brief description of what the UI element does. For example, Mail displays help tags for most of its controls, such as the Format button.  
+![](images/_page_21_Picture_2.jpeg)  
+For some guidelines on how to craft good help tags, see "User [Assistance"](#page-105-0) (page 106).  
+OS X also provides a systemwide Help window that all apps use to display in-depth, task-focused help content. The Help window floats above the main windows of an app in the same layer as the app's dialogs and alerts (to learn more about window layering, see ["Layering"](#page-171-1) (page 172)). This position allows users to follow the instructions in the Help window while they use the app. For example, Mail supplies extensive help content in the Help window, such as instructions on how to add attachments to a message.  
+![](images/_page_22_Picture_2.jpeg)  
+<span id="page-22-0"></span>Users open the Help window by choosing an item in the app's Help menu, pressing Command-?, or in some cases clicking the Help button in a window (to learn how to include the Help button in a window, see ["The](#page-248-0) Help [Button"](#page-248-0) (page 249)). Apps supply help content to display in the Help window by including a help book in their app bundle (to learn how to do this, see *Apple Help Programming Guide* ).

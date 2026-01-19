@@ -1,0 +1,76 @@
+<!-- Chunk 113 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 2578 -->
+The following works are recommended for those interested in further reading on human interface design and the use of color.  
+#### Articles and Papers  
+- Baron, S., and R. W. Pew. "Perspectives on Human Performance Modelling." Automatica, November 1983, 665-676.
+- Buxton, W. "A Directory of Sources for Interactive Technologies." SIG-CHI Bulletin, July 1986, 58-63.
+- Carroll, John. "Presentation and Form in User-Interface Architecture." BYTE, December 1983, 113-122.
+- Carroll, John, and Mary Beth Rosson. "Beyond MIPS\*: Performance Is Not Quality." BYTE, February 1984, 168-172.
+- Colby, K. M., L. Tesler, and H. Enea. "Experiments With a Search Algorithm for the Data Base of <sup>a</sup> Human Belief Structure." Proceedings of the International Joint Conference on Artificial Intelligence, May 1969, 649-654.
+- D Covington, Jon S. "The Uses of Apple in Training." Society for Applied Learning Technology, February 1983.
+- Gassee, Jean-Louis. "The Next Decade: An Insider's View." A+: The Independent Guide to Apple Computing, February 1987, 51-53.  
+- Hooper, K. "A Cognitive Approach to Computer Graphics, Environmental Simulation and Design." Proceedings of the International Conference on Cybernetics and Society, 1975, 112-113.
+- D Kay, A. "Inventing the Future (Computer Industry)." In Al Business. The Commercial Uses of Artificial Intelligence. Cambridge, MA: MIT Press, 1984, 103-112.
+- Kay, A. "Smaller Is More Portable." Computing (GB), June 1984, 28.
+- D Kay, A., and A. Goldberg. "Personal Dynamic Media." Computer (USA), March 1977, 31-41.
+- D Licklider, J. C, et al. "The Computer as <sup>a</sup> Communication Device." International Science and Technology, 76, 21-31.
+- a Miller, D.C., and R. W. Pew. "Exploiting User Involvement in Interactive System Development." Proceedings of the Human Factors Society 25th Annual Meeting, 1981, 401-405.
+- Minsky, M. R. "Manipulating Simulated Objects with Real-World Gestures Using a Force and Position Sensitive Screen." Comput. and Graphics (GB), July 1984, 195-203.
+- Myers, B.A., and W. Buxton. "Creating Highly-Interactive and Graphical User Interfaces by Demonstration." Comput. Graphics (USA), August 1986, 249-256.
+- Price, Jonathan. "How Apple Put Training on <sup>a</sup> Disk." Softalk, July 1984, 48-55.
+- D Schneiderman, Ben. "Direct Manipulation: A Step Beyond Programming Languages." IEEE Computer, \6 (8), 57-69.
+- Sculley, John. "Why We Need <sup>a</sup> Counterbalance." Personal Computing, October 1986, 280.
+- Shackel, B. "Man-Computer Interaction: The Contribution of the Human Sciences." IEEE Trans. Man-Mach. Syst. (USA), December 1969, 149-163.
+- Shackel, B. "Designing for People in the Age of Information." Comput. Compacts (Netherlands), 2 (5-6), 150-157.
+- Shackel, B. "The Ergonomics of the Man-Computer Interface." Infotech (GB), 1979, 299-324.
+- D Smith, D. C, et al. "Designing the Star User Interface." BYTE, 7 (4), 242-282.
+- Spiliotopoulos, V., and B. Shackel. "Towards a Computer Interview Acceptable to the Naive User." Int. J. Man-Mach. Stud. (GB), 14 (1), 77-90.  
+- Tesler, Larry. "Enlisting User Help in Software Design." SIG-CHI Bulletin, January 1983, 5-7.
+- d Tesler, Larry. "Object-Oriented User Interfaces and Object-Oriented Languages." ACM Conference on Personal and Small Computers, 1983, 3-5.
+- Tesler, Larry. "The Legacy of the Lisa." Macworld, September 1985, 17-22. How the Lisa changed personal computing, by <sup>a</sup> member of the Lisa design team.
+- Tesler, Larry. "Programming Experiences." BYTE, August 1986, 195.  
+#### Books  
+- Apple Computer, Inc. Inside Macintosh. Reading, MA: Addison-Wesley, 1985-1987, five volumes. The essential reference for Macintosh programmers. Chapters on memory management, assembly language, the Resource Manager, QuickDraw, the Font Manager, the Toolbox Event Manager, the Window Manager, the Control Manager, and so on. Note that the "User Interface Guidelines" chapter in Inside Macintosh is superseded by Human Interface Guidelines: The Apple Desktop Interface.
+- Baecker, Ron, and William Buxton, eds. Readings in Human-Computer Interaction: A Multidisciplinary Approach. Des Moines, IA: Morgan Kaufmann, 1987.
+- Beech, D., ed. Concepts in User Interfaces. lecture Notes in Computer Science Series, vol. 234, New York: Springer-Verlag, 1986.
+- Berryman, Gregg. Notes on Graphic Design and Visual Communication. Los Altos, CA: William Kaufmann, 1984. Deals with logos, colors, many other topics.
+- Bertin, Jacques. Semiology of Graphics. Madison: University of Wisconsin Press, 1983.
+- Bolt, Richard A. The Human Interface.- Where People and Computers Meet. New York: Van Nostrand Reinhold, 1984.
+- Card, Stuart K., et al. The Psychology of Human-Computer Interaction. Hillsdale, NJ: Lawrence Erlbaum Associates, 1983.
+- Carroll, J. M. Interfacing Thought: Cognitive Aspects of Human Computer Interaction. Hillsdale, NJ: Lawrence Erlbaum Associates, 1987.  
+- d Coombs, M. J., and J. L. Alty. Computing Skills and the User Interface. New York: Academic Press, 1981.
+- Diethelm, Walter. Signet Sign Symbol. Zurich: ABC Verlag, 1976.
+- d Drexler, Eric. Engines of Creation. New York: Doubleday, 1986. Foreword by Marvin Minsky.
+- Dreyfuss, Henry. Symbol Sourcebook, an Authoritative Guide to International Graphic Symbols. New York: Van Nostrand Reinhold, 1984. Foreword by R. Buckminster Fuller. Symbols are grouped by subject areas. Includes index.
+- Engelbart, Douglas C. Augmenting Human Intellect, a Conceptual Framework. Menlo Park, CA: Stanford Research Institute, 1962.
+- Favre, Jean-Paul, and Andre November. Color and Communication. Zurich: ABC Verlag, 1979.
+- Frutiger, Adrian. Type Sign Symbol. Zurich: ABC Verlag, 1980.
+- Gassee, Jean-Louis. The Third Apple: Personal Computers and the Cultural Revolution. New York: Harcourt Brace Jovanovich, 1987.
+- Goldberg, A. Smalltalk-80, the Interactive Programming Environment. Reading, MA: Addison-Wesley, 1984.
+- Green, Thomas, and Ernest Edmonds, eds. The Ergonomics of the User Interface. Behaviour and Information Technology Special Issue Series, vol. 3, no. 2. Philadelphia: Taylor & Francis, 1984.
+- Greenberg, D., A. Marcus, A. Schmidt, and V. Gorter. The Computer Image. Menlo Park, CA: Addison-Wesley, 1982.
+- d Guedj, R. A., et al. Methodology of Interaction. Amsterdam: North-Holland, 1980.
+- Heckel, Paul. The Elements ofFriendly Software Design. New York: Warner Books, 1984.
+- Hildreth, Charles. Foreword by C. Lee Jones. Online Public Access Catalogs.- The User Interface. OCLC Library Information and Computer Science Series. Dublin, OH: OCLC Online Comp, 1982.
+- d Hunt, Morton. The Universe Within. New York: Simon & Schuster, 1982.
+- Itten, Johannes. The Elements of Color, edited by F. Birren. New York: Van Nostrand Reinhold, 1970.  
+- D Kay, Alan. Creative Art Through Photography. Newton Centre, MA: Branford, 1973.
+- Kay, Alan. My Generations. New York: Behrman, 1984.
+- Lindsay, Peter H., and Donald A. Norman. Human Information Processing: An Introduction to Psychology. New York: Academic Press, 1977.
+- McConnell, Vicki. Building the End User Interface. Reading, MA: Addison-Wesley, 1983.
+- McCormick, Ernest J. Human Factors in Engineering and Design. New York: McGraw-Hill, 1976.
+- McKim, Robert H. Experiences in Visual Thinking. Monterey, CA: Brooks/Cole, 1972.
+- Minsky, Marvin. Computation: Finite and Infinite Machines. Englewood Cliffs, NJ: Prentice-Hall, 1967.
+- D Minsky, Marvin. The Society ofMind. New York: Simon & Schuster, 1987.
+- Modley, Rudolf. Handbook of Pictorial Symbols. New York: Dover Publications, 1976.
+- Nelson, Theodor H. Computer Lib. Schooleys Mountain, NJ: Nelson, 1974.
+- Nelson, Theodor H. Literary Machines. Schooleys Mountain, NJ: Nelson, 1981.
+- a Nickerson, Raymond S.Using Computers: Human Factors in Information Systems. Cambridge, MA: MIT Press, 1986.
+- Norman, Donald A. Memory and Attention: An Introduction to Human Information Processing. New York: Wiley, 1976.
+- Norman, Donald A., ed. Perspectives on Cognitive Science. Hillsdale, NJ: Lawrence Erlbaum Associates, 1981.
+- d Norman, Donald A., ed. Perspectives on Cognitive Science. Norwood, NJ: Ablex, 1981.
+- Norman, Donald A. Learning and Memory. San Francisco: W. H. Freeman, 1982.
+- Norman, Donald A. The Psychology of Everyday Things. New York: Basic Books, 1988.
+- Norman, Donald A., and Stephen Draper, eds. User Centered System Design. Hillsdale, NJ: Lawrence Erlbaum Associates, 1986. Compilation of articles by nineteen authors.
+- D Norman, Donald A., and David E. Rumelhart. Explorations in Cognition. San Francisco: W. H. Freeman, 1975.  
+Pfaff, G., ed. User Interface Management Systems. New York: Springer-Verlag, 1985. Schneiderman, Een, ed. Data Bases: Improving Usability and Effectiveness. New York: Academic Press, 1978. Schneiderman, Ben. Software Psychology: Human Factors in Computer and Information Systems. Cambridge, MA: Winthrop Publishers, 1980. Schneiderman, Ben. Designing the User Interface: Strategies for Effective Human-Computer Interaction. Reading, MA: Addison-Wesley, 1987. Simpson, H. K. Programming the Macintosh User Interface. New York: McGraw-Hill, 1986. Smith, H. T., and T. R. G. Green, eds. Human Interaction with Computers. New York: Academic Press, 1980. Vassilou, Y. Human Factors and Interactive Computer Systems. Norwood, NJ: Ablex, 1982. D Whitney, Patrick, and Cheryl Kent, eds. Design in the Information Environment. New York: Knopf, 1985. Periodicals D Cognitive Science. Journal of the Cognitive Science Society. Ergonomics. Published by the Ergonomics Research Society, London, quarterly since 1957, monthly since 1982. D "Human Factors in Computing Systems," annual issue of the SIG- CHI Bulletin, the journal of ACM's SIG-CHI (the Association for Computing Machinery's Special Interest Group on Computers and Human Interaction). Once <sup>a</sup> year, the Bulletin is devoted to the proceedings of SIG-CHTs annual meeting. d Human Factors.- thefournal of the Human Factors Society. Santa Monica, California. Published since September 1958. Human Factors Review. Published by the Human Factors Society Santa Monica, California. Published since 1985. IEEE Transactions on Systems, Man, and Cybernetics. InternationalJournal ofMan-Machine Studies. d Proceedings of the Annual Conference of Cognitive Science  
+Society.

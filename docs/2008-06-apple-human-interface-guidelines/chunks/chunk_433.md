@@ -1,0 +1,4 @@
+<!-- Chunk 433 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 197 -->
+A **disclosure button** expands a dialog or panel to offer the user a wider range of choices related to a specific selection control, such as a pop-up menu, combination box, or command pop-down menu. For example, the minimal Save dialog (shown in [Figure](#page-241-0) 14-57 (page 242)) uses a pop-up menu to provide the user with a list of standard and recently accessed locations in which to save a file. To get a wider range of choices, the user clicksthe disclosure button, which putsthe file system at the user'sfingertips without requiring the user to leave the context of the Save dialog. An example of the expanded Save dialog is shown in Figure 15-78.  
+<span id="page-322-0"></span>**Figure 15-78** A disclosure button expands a Save dialog  
+![](images/_page_322_Picture_3.jpeg)

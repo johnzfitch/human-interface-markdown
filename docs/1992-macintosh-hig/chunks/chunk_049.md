@@ -1,0 +1,4 @@
+<!-- Chunk 49 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 191 -->
+People with a visual disability have the most trouble with the output display, the screen. Fortunately, the software capability to handle different text sizes can make it easier to support people with a vision disability. You can design your software with a "zoom" feature that increases the size of characters or graphics on the screen.  
+Color-vision deficiencies create problems for many people. Don't create software that uses only color coding to convey important information. Color coding should always be redundant to other types of cues, such as text, position, or highlighting. If you allow users to select the colors your software uses to convey information, they will choose colors that are visually appropriate for their needs.  
+Universal Access **25**

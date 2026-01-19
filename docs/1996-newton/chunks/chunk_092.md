@@ -1,0 +1,5 @@
+<!-- Chunk 92 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 252 -->
+The picture button at the left end of a separator bar, which is called an Item Info button, depicts the type of item below the separator bar. For example, the Notepad application includes three types of items: plain note, checklist, and outline. Tapping an Item Info button brings up an Item Info slip, in which a user can change the title of the item below the separator bar. The Item Info slip also reports statistics about the item, such as its type, when it was created, where it is stored, and how much storage space it occupies. [Figure 3-32](#page-123-0) shows a sample Item Info button and slip.  
+**Figure 3-32** Seeing an Item Info slip  
+<span id="page-123-0"></span>![](images/_page_123_Figure_3.jpeg)  
+If a user scrolls an item's separator bar out of view while its Item Info slip is displayed, the Item Info slip closes automatically and does not reopen automatically if the user scrolls the separator bar back into view. To see the Item Info slip again, the user must tap the Item Info button.

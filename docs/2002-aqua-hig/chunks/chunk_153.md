@@ -1,0 +1,3 @@
+<!-- Chunk 153 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 99 -->
+- The minimum screen resolution a dialog needs to accommodate is 800 by 600. (Support for 640 by 480 is provided for games.)
+- <span id="page-150-1"></span>■ For most document windows that contain a single view (scrolling text or tables, for example), do not specify any space between the window edge and scroll bars (when using the Control Manager) or the frame of the view (in Interface Builder).

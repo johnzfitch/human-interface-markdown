@@ -1,0 +1,3 @@
+<!-- Chunk 367 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 127 -->
+**Control sizes**: The Action menu icon is available in regular and smallsizes. Use the icon size that's proportional to the size of the control you want to use.  
+**Control spacing**: Spacing depends on what type of control you use. For details,see ["Rectangular-Style](#page-249-0) Toolbar [Controls"](#page-249-0) (page 250) (if you plan to put an Action menu in a toolbar) or ["Gradient](#page-264-0) Buttons" (page 265) (if you plan to put an Action menu below a source list or other type of list view).

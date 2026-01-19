@@ -1,0 +1,5 @@
+<!-- Chunk 177 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 218 -->
+Use a segmented control to offer closely related, but mutually exclusive choices.  
+**Make sure that each segment is easy to tap**. To maintain a comfortable hit region of 44 x 44 points for each segment, you need to limit the number of segments. On iPhone, a segmented control should have five or fewer segments.  
+**As much as possible, maintain consistency in the size of each segment's contents**. Because all segments in a segmented control have equal width, it does not look good if the content fills some segments, but not others.  
+<span id="page-132-0"></span>**Avoid mixing text and images in a single segmented control**. A segmented control can contain text or images. An individual segment can contain either text or an image, but not both. In general, it's best to avoid putting text in some segments and images in other segments of a single segmented control.

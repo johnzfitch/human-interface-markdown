@@ -1,0 +1,53 @@
+<!-- Chunk 5 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 2613 -->
+<span id="page-6-0"></span>  
+| Chapter 1 | Mac OS 8 Human Interface Overview<br>11              |                                                                                                                                                                                                                 |  |
+|-----------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|           | Figure 1-1<br>Figure 1-2<br>Figure 1-3<br>Figure 1-4 | Appearance control panel<br>14<br>Find File dialog box under platinum appearance<br>14<br>Find File dialog box with platinum appearance turned off<br>15<br>Color control in the Appearance control panel<br>16 |  |
+| Chapter 2 | Control Guidelines                                   | 19                                                                                                                                                                                                              |  |
+|           | Figure 2-1                                           | Push buttons in a dialog box<br>21                                                                                                                                                                              |  |
+|           | Figure 2-2                                           | A highlighted push button<br>22                                                                                                                                                                                 |  |
+|           | Figure 2-3                                           | Standard and default states of push buttons<br>23                                                                                                                                                               |  |
+|           | Figure 2-4                                           | Radio buttons for selecting icon size<br>24                                                                                                                                                                     |  |
+|           | Figure 2-5                                           | Radio button modes and states<br>25                                                                                                                                                                             |  |
+|           | Figure 2-6                                           | Pop-up menu button in normal state<br>26                                                                                                                                                                        |  |
+|           | Figure 2-7                                           | Pop-up menu button with displayed list<br>27                                                                                                                                                                    |  |
+|           | Figure 2-8                                           | Checkbox modes and states<br>28                                                                                                                                                                                 |  |
+|           | Figure 2-9                                           | A set of checkboxes with concurrent selections<br>29                                                                                                                                                            |  |
+|           | Figure 2-10                                          | Bevel buttons with small, medium, and large bevels<br>29                                                                                                                                                        |  |
+|           | Figure 2-11                                          | Bevel button states<br>30                                                                                                                                                                                       |  |
+|           | Figure 2-12                                          | A pair of bevel buttons used as push buttons<br>31                                                                                                                                                              |  |
+|           | Figure 2-13                                          | Bevel buttons used as radio buttons in a toolbar<br>32                                                                                                                                                          |  |
+|           | Figure 2-14                                          | Bevel buttons used as checkboxes in a toolbar<br>32                                                                                                                                                             |  |
+|           | Figure 2-15                                          | A pop-up bevel button with sticky menu<br>33                                                                                                                                                                    |  |
+|           | Figure 2-16                                          | A pop-up bevel button used with a slider<br>33                                                                                                                                                                  |  |
+|           | Figure 2-17                                          | A slider and ghost indicator<br>34                                                                                                                                                                              |  |
+|           | Figure 2-18                                          | A horizontal slider with vertical tick marks<br>34                                                                                                                                                              |  |
+|           | Figure 2-19                                          | A slider with directional information<br>35                                                                                                                                                                     |  |
+|           | Figure 2-20                                          | Little arrows in various states<br>36                                                                                                                                                                           |  |
+|           | Figure 2-21                                          | Little arrows used to control a RAM cache<br>36                                                                                                                                                                 |  |
+|           | Figure 2-22                                          | Clock control displaying date<br>37                                                                                                                                                                             |  |
+|           | Figure 2-23                                          | A disclosure triangle revealing additional information<br>38                                                                                                                                                    |  |
+|           | Figure 2-24                                          | Disclosure triangles used in Finder list view<br>38                                                                                                                                                             |  |
+|           | Figure 2-25                                          | A list box<br>39                                                                                                                                                                                                |  |
+|           | Figure 2-26                                          | A horizontal scroll bar<br>40                                                                                                                                                                                   |  |
+|           | Figure 2-27                                          | An edit text field with label<br>41                                                                                                                                                                             |  |  
+| Figure 2-28 | An edit text frame<br>41                                          |
+|-------------|-------------------------------------------------------------------|
+| Figure 2-29 | A static text field in active and disabled states<br>42           |
+| Figure 2-30 | Tab control with 12-point font labels<br>43                       |
+| Figure 2-31 | Tab control with 10-point font labels<br>43                       |
+| Figure 2-32 | Tab control with sides tucked under edge of content region<br>44  |
+| Figure 2-33 | Tab control used in a modal dialog box<br>45                      |
+| Figure 2-34 | Tab control with tucked edges and a scrollable content area<br>45 |
+| Figure 2-35 | A placard used to report information to the user<br>46            |
+| Figure 2-36 | Iimage wells in enabled and selected states<br>47                 |
+| Figure 2-37 | An untitled primary group box<br>48                               |
+| Figure 2-38 | A titled primary group box<br>48                                  |
+| Figure 2-39 | A primary group box with a pop-up menu title<br>49                |
+| Figure 2-40 | A primary group box with a checkbox title<br>49                   |
+| Figure 2-41 | A secondary group box<br>50                                       |
+| Figure 2-42 | A horizontal separator line<br>50                                 |
+| Figure 2-43 | A Finder window using headers<br>51                               |
+| Figure 2-44 | A modeless dialog frame in active state<br>52                     |
+| Figure 2-45 | Progress indicators<br>52                                         |
+| Figure 2-46 | Various states of asynchronous arrows<br>53                       |

@@ -1,0 +1,3 @@
+<!-- Chunk 38 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 120 -->
+Good product design incorporates a number of timeless principles for human-computer interaction. This chapter presents these principles for your consideration as you design your product. It also points out what to consider for worldwide compatibility and universal access.  
+For detailed information on specific user interface components and how to assemble them in your own Aqua-compliant user interface, see the chapters in Part III, "The Aqua [Interface"](#page-92-0) (page 93).

@@ -1,0 +1,5 @@
+<!-- Chunk 32 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 212 -->
+![](images/_page_33_Picture_7.jpeg)  
+You can encourage people to explore your application by building in forgiveness. Forgiveness means that actions on the computer are generally reversible. People need to feel that they can try things without damaging the system; create safety nets for people so that they feel comfortable learning and using your product.  
+Always warn people before they initiate a task that will cause irretrievable data loss. Alert boxes are a good way to warn users of this kind of situation. Note, however, that when options are presented clearly and feedback is appropriate and timely, learning how to use a program should be relatively error-free. This means that frequent alert boxes are a good indication that something is wrong with the program design.  
+<span id="page-34-0"></span>![](images/_page_34_Picture_4.jpeg)

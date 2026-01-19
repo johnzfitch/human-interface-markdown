@@ -1,0 +1,6 @@
+<!-- Chunk 44 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 280 -->
+Instead of creating a new application, you might be planning to bring an existing piece of software to the iOS platform. In some ways, redesigning an app or website for a new platform can be more challenging than starting from scratch.  
+As you embark on this project, consider how people use iOS-based devices:  
+- People use iOS-based devices very differently than they use desktop and laptop computers, and they have different expectations for the user experience. Transitioning software from a computer to an iOS-based device is rarely a straightforward port.
+- People often use iOS-based devices while they're on the go, and in environments filled with distractions. Part of your job is to create a responsive, compelling experience that pulls people in and gets them to the content they care about quickly and easily.
+- Remember the 80-20 rule: In general, the largest percentage of users (at least 80 percent) use a very limited number of features in an app, while only a small percentage (no more than 20 percent) use all the features. iOS apps seldom need to provide all the features that only power users need.

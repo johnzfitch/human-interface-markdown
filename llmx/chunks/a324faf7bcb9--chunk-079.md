@@ -1,0 +1,30 @@
+---
+chunk_index: 410
+ref: "a324faf7bcb9"
+id: "a324faf7bcb9967aef2321fd772444619c6fc6ee3a549da1be9f1c42b0b1fe12"
+slug: "chunk-079"
+path: "marker/1985 Apple II Human Interface Guidelines/chunks/chunk_079.md"
+kind: "markdown"
+lines: [1, 13]
+token_estimate: 594
+content_sha256: "cf625768f400274f464b9e509da9338f1c6127f2b97f92b6378c4dfaf4168541"
+compacted: false
+heading_path: []
+symbol: null
+address: null
+asset_path: null
+---
+
+<!-- Chunk 79 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 571 -->
+There are several instances when the application, rather than the user, scrolls the document. These instances involve some potentially sticky problems about how to position the document within the window after scrolling.  
+The first case is when the user moves the pointer out of the window while selecting by dragging. The window keeps up with the selection by scrolling automatically in the direction the pointer has been moved. The rate of scrolling is the same as if the user were pressing on the corresponding scroll arrow or arrows.  
+The second case is when the selection isn't currently showing in the window, and the user performs an operation on it. When this happens, it's usually because the user has scrolled the document after making a selection. In this case, the application scrolls the window so that the selection is showing before performing the operation.  
+The third case is when the application performs an operation whose side-effect is to make a new selection. An example is a search operation, after which the object of the search is selected. If this object isn't showing in the window, the application must scroll the window so as to show it.  
+The second and third cases present the same problem: Where should the selection be positioned within the window after scrolling? The primary rule is that the application should avoid unnecessary scrolling; users  
+1/15/85 Tognazzini  
+WINDOWS 85  
+prefer to retain control over the positioning of a document. The following guidelines should be helpful:  
+- If part of the new selection is already showing in the window, don't scroll at all. An exception to this rule is when the part of the selection that isn't showing is more important than the part that's showing.
+- If scrolling in one orientation (horizontal or vertical) is sufficient to reveal the selection, don't scroll in both orientations.
+- If the selection is smaller than the window, position the selection so that some of its context is showing on each side. It's better to put the selection somewhere near the middle of the window than right up against the corner.
+- Even if the selection is too large to show in the window, it might be preferable to show some context rather than to try to fit as much as possible of the selection in the window.

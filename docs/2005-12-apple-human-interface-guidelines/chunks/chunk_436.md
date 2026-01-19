@@ -1,0 +1,2 @@
+<!-- Chunk 436 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 58 -->
+<span id="page-320-0"></span>A graphic object that causes instant actions or visible results when the user manipulates the object with the mouse. Standard controls include buttons, scroll bars, checkboxes, sliders, and pop-up menus.

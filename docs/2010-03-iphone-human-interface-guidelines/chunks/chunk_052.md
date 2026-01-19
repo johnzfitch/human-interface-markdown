@@ -1,0 +1,4 @@
+<!-- Chunk 52 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 155 -->
+If your layout places controls too close together, users must spend extra time and attention being careful where they tap, and they are more likely to tap the wrong element. A simple, easy-to-use user interface spaces controls and other user-interaction elements so that users can tap accurately with a minimum of effort.  
+For example, the built-in Calculator application displays large, easy-to-tap controls that each have a target area of about 44 x 44 pixels. Figure 3-2 shows the Calculator application.  
+<span id="page-38-1"></span>**Figure 3-2** The built-in Calculator application displays fingertip-size controls

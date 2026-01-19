@@ -1,0 +1,2 @@
+<!-- Chunk 185 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 52 -->
+A text field is a fixed-height field with rounded corners. When userstap a text field a keyboard appears; when users tap Return in the keyboard, the text field handles the input in an application-specific way.

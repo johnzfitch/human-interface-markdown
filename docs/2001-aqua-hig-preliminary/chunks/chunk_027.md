@@ -1,0 +1,9 @@
+<!-- Chunk 27 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 389 -->
+<span id="page-32-2"></span>**Figure 4-1** Application menu region  
+![](images/_page_32_Figure_7.jpeg)  
+<span id="page-32-3"></span>■ **Menu bar.** The system-wide **Apple menu** has new functionality in Mac OS X. For more information, see ["The Apple Menu" \(page 41\).](#page-40-3) The menu bar region to the right of the Apple menu displays menus belonging to the active application.  
+<span id="page-33-7"></span><span id="page-33-2"></span>The **application menu** displays the boldface application name and contains items pertaining to the entire application, such as Hide, Preferences, and Quit. For more information, see ["The Application Menu" \(page 41\)](#page-40-4). (The Mac OS 9 Application, or Process, menu, has been replaced in Mac OS X by the Dock.)).  
+- **Window menu.** A Window menu has been introduced to aid in managing multiple open documents within an application. See ["The Window Menu"](#page-45-1)  [\(page 46\).](#page-45-1)
+- <span id="page-33-5"></span>■ **Menu separators.** Pull-down menu divisions in Mac OS X are blank space (provided automatically by the Mac OS X application tools) rather than lines.
+- <span id="page-33-6"></span>■ **Sticky menus.** Sticky menus no longer close automatically after a period of time; they stay open until an action forces them to close. See ["Sticky Menus" \(page 40\)](#page-39-2).
+- <span id="page-33-4"></span><span id="page-33-3"></span>■ **Dynamic menu items.** In Aqua, pull-down menu commands can be toggled while the menu is open. See ["Menu Behavior" \(page 37\).](#page-36-2)

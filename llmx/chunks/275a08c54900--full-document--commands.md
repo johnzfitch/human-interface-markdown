@@ -1,0 +1,34 @@
+---
+chunk_index: 4112
+ref: "275a08c54900"
+id: "275a08c54900ae77a11ab3a2f1ef70759d7b18d738d4eaf7f6bb43be7a626f10"
+slug: "full-document--commands"
+path: "marker/1993 NeXTSTEP User Interface Guidelines - Release 3/full_document.md"
+kind: "markdown"
+lines: [2046, 2063]
+token_estimate: 579
+content_sha256: "526f17de79ebf723dc52dbf15c88c8f68241855679ddd3def623b1082c3e7288"
+compacted: false
+heading_path: ["5 *Panels*","**Commands**"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## **Commands**
+
+A menu can display several different kinds of commands, all of which use the targeted-action paradigm. Some commands require the user to select the target-Copy, Paste, and Miniaturize Window, for example. Others-such as Hide, Quit, and Info-don't require a selection: The target is built into the program.
+
+When a command is chosen-whether it's clicked or activated by a keyboard alternativeit's highlighted. Keyboard alternatives can also operate commands in off-screen menus. When they do, the menu's controlling command (or, if the supermenu isn't visible, the supermenu's controlling command) is highlighted. This ensures users of immediate, visual feedback that the keyboard alternative has in fact invoked the command.
+
+Some commands control submenus. The action of the command is simply to attach the submenu to the menu. These commands are marked by the submenu symbol [~'.
+
+Many commands cause panels or standard windows to appear on-screen:
+
+- Some bring up a standard window-the New command in the Document menu, for example, or the Console command in the Workspace Manager Tools menu.
+- Some put an attention panel on-screen to help clarify or complete the command. For example, the Save As command produces a panel that asks the user to type in the file name the user wants to use for the document.
+- Others bring up a panel that can stand on its own, independent of the command that produced it. Sometimes the panel simply imparts information to the user-a Help panel, for example. But usually it acts as a control panel where the user can give instructions .to the application-the Font and Find panels, for example. Such panels are similar to submenus in that they open a range of options to the user.
+
+If a menu command controls a submenu, it remains highlighted as long as the submenu is attached. If it controls an attention panel, it remains highlighted until the panel is dismissed from the screen. Commands don't stay highlighted if they bring up a panel that isn't an attention panel.
+
+The programmer can disable a command, as described later in this chapter in "Disabling Invalid Commands." Disabled commands have dark gray text (instead of the usual black) on the usual light gray background. They're completely inoperative and don't highlight in response to user actions.

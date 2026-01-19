@@ -1,0 +1,14 @@
+<!-- Chunk 88 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 652 -->
+A **panel** is an auxiliary window that contains controls and options that affect the active document or selection. An app-wide toolbar in its own window is also called a **tool panel** or, less frequently, a **tool palette**.  
+**Note:** Modern OS X apps often present auxiliary information and tools in a section of the main window instead of in a panel.  
+Panels are either app-specific or systemwide.  
+![](images/_page_144_Picture_4.jpeg)  
+App-specific panels float on top of the app's windows and disappear when the app is deactivated. For example, the Preview Inspector panel is visible only when a Preview window is main or key.  
+Systemwide panels, such as the Fonts window shown here, float on top of all open windows. (To learn more about the Fonts window, see [Colors](#page-267-0) and Fonts [Windows](#page-267-0) (page 268).)  
+![](images/_page_145_Picture_2.jpeg)  
+**In general, use a standard panel.** For some apps, such as highly visual, immersive apps, translucent panels (sometimes called HUD panels) can be appropriate, but for most apps, standard panels are best. Users don't expect to see a translucent panel unless it contains image adjustment tools or it is displayed by an immersive app that uses a dark UI. To learn more about when translucent panels are appropriate, and how to design one, see [Translucent](#page-147-0) Panels (page 148).  
+**Consider using a panel to give users easy access to important controls or information that directly affects their task.** For example, you can create a modeless panel, such as a tools panel, to offer controls or settings that affect the active document window. Because panels take up screen space, however, don't use them when you can meet the need by using a popover, a modeless dialog, or by adding a few appropriate controls to a toolbar.  
+**Hide and show panels appropriately.** When a user makes a document active, all of the app's panels should be brought to the front, regardless of which document was active when the user opened the panel. When an app is inactive, its panels should be hidden.  
+Don't list panels in the Window menu as documents, but you can put commands to show or hide all panels in the Window menu.  
+**Make sure a panel includes a title bar.** Even if a panel doesn't need a title, give it a title bar so that users can drag the panel.  
+**Avoid including an active minimize button in a panel.** Users shouldn't need to minimize a panel, because it's displayed only when needed and disappears when its app is inactive. Instead, include the close and zoom buttons or, more commonly, only the close button.

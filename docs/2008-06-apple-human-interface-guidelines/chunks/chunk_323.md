@@ -1,0 +1,2 @@
+<!-- Chunk 323 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 107 -->
+Typically, round rectangle and recessed scope buttons contain text, but they can instead contain images. If you want to display an image in a scope button, be sure to consider the system-provided images before you spend time designing your own. If you decide to design a custom icon for use in a scope button,see ["Designing](#page-149-1) Icons for [Rectangular-Style](#page-149-1) Toolbar Controls" (page 150) for some guidelines.

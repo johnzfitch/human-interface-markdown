@@ -1,0 +1,3 @@
+<!-- Chunk 254 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 84 -->
+Mac OS X includes standard windows for users to select fonts or colors. If you need a way for users to set fonts or colors, use these standard windows instead of making your own. In this way, users don't have to learn a new way to accomplish a familiar task.  
+By implementing these windows, you get the correct utility window behavior.

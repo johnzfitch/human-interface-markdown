@@ -1,0 +1,2 @@
+<!-- Chunk 126 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+In addition to displaying web content, a web view performs some automatic processing on web content, such as converting a phone number to a phone link.

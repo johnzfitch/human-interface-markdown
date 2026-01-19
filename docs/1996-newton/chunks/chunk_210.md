@@ -1,0 +1,2 @@
+<!-- Chunk 210 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 65 -->
+If your application includes a Keyboard button on the status bar or at the bottom of a slip, use the larger-size button (as in the Notepad) unless space on the status bar is constrained (as in the Date Book). See pages [3-25](#page-118-0) and [6-33](#page-200-0).

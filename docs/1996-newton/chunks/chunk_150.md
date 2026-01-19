@@ -1,0 +1,5 @@
+<!-- Chunk 150 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 267 -->
+The built-in In/Out Box application holds incoming and outgoing data items received or sent by a Newton transport—a communications method such as printing, faxing, beaming, and e-mailing. On some Newton devices, the In/Out Box application has two icons in the Extras Drawer, one labeled In Box and the other labeled Out Box.  
+A user can open the In/Out Box application by tapping whichever of these icons is present: the In Box icon, the Out Box icon, or the In/Out Box icon. Once the application is open, the user sees either incoming items in the In Box or outgoing items in the Out Box, and can switch between them by tapping a radio button in the application's main view. The user can choose to sort the items in the In Box and the Out Box by various criteria, such as date, type of transport, or status. [Figure 7-1](#page-208-0) shows the In Box and Out Box overviews with the items sorted by type of transport.  
+**Figure 7-1** The In/Out Box application displays either the In Box or the Out Box  
+<span id="page-208-0"></span>![](images/_page_208_Figure_3.jpeg)

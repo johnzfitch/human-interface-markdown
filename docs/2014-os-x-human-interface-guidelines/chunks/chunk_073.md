@@ -1,0 +1,9 @@
+<!-- Chunk 73 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 462 -->
+A **hierarchical menu** displays a set of choices that are related to a menu item in a separate menu area known as a **submenu**. A menu item that contains a submenu, such as the Find menu item in the Mail Edit menu, displays the submenu indicator to show users that there are additional choices. It's easy for users to discover the existence of submenus because they open automatically when the pointer passes over the menu item.  
+![](images/_page_104_Picture_2.jpeg)  
+Submenus can have all the features of menus, including keyboard shortcuts,status markers(such as checkmarks), and so on.  
+**Ensure that a submenu's title is undimmed even when all its commands are unavailable.** A submenu's title is the title of the menu item to which the submenu is attached. As with menu titles, it's important for users to be able to view a submenu's contents, even if none of them are available in the current context.  
+**Use submenus cautiously.** Submenus add complexity to the interface and are physically more difficult to use, so you don't want to overuse them. In general, it's appropriate to use submenus when you have sets of closely related commands (or alternative ways to perform one type of command, such as Find) and when you need to save space.  
+**Avoid using more than one level of submenus.** A submenu that contains other submenus can be difficult for users to use. Also, if a submenu contains more than five items, consider giving it its own menu.  
+**Ensure that a submenu's contents have a logical relationship with the submenu title.** For example, the Mark menu item in the Mail Message menu reveals a submenu that allows usersto mark a message in different ways,such asjunk or high priority. In general, hierarchical menus work best for providing submenus of attributes (rather than actions).  
+![](images/_page_105_Figure_1.jpeg)

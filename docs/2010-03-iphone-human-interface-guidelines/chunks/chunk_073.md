@@ -1,0 +1,6 @@
+<!-- Chunk 73 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 317 -->
+Users appreciate the convenience of wireless headsets, such as Bluetooth A2DP devices. People use wireless headsets and headphones for the same reasons they use wired headsets and headphones: they want to hear sounds privately and they want to free their hands.  
+Users also have very similar expectations for the user experience of wireless headsets:  
+- When users connect to a wireless audio device, they intend to continue listening to the current audio, but privately. In this situation, they expect the audio to continue playing without pause.
+- When users disconnect from a wireless device (or the device goes out of range or turns off), they don't want to automatically share what they've been listening to with others. In this situation, they expect currently playing audio to pause, allowing them to explicitly restart playback when they're ready.  
+<span id="page-54-2"></span>Even though people don't physically plug in or unplug a wireless audio device, they still expect to be able to choose a different audio route. To handle this, iPhone OS automatically displays a control that allows users to pick an output audio route. Because choosing a different audio route is a user-initiated action, users expect currently playing audio to continue without pause.

@@ -1,0 +1,2 @@
+<!-- Chunk 167 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+A rounded rectangle button has a corner radius that is the same as the corner radius of a grouped table view. By default, the button's background is white.

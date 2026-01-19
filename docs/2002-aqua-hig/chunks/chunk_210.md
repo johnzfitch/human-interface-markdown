@@ -1,0 +1,2 @@
+<!-- Chunk 210 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 75 -->
+The following definition of a word applies in the United States, Canada, and some other countries. In many countries, the definition differs to reflect local formats for numbers, dates, and currency. Double-clicking a character *not* in the list below results in the selection of only that character.

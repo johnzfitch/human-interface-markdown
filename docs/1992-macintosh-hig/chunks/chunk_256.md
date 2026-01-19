@@ -1,0 +1,2 @@
+<!-- Chunk 256 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+If you create custom applications for internal use within your organization, call 1-800-950-2442 for information on how to obtain technical documentation and direct access to Apple development support engineers to help you integrate the Macintosh into existing enterprise computing solutions.

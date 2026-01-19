@@ -1,0 +1,2 @@
+<!-- Chunk 48 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 66 -->
+<span id="page-46-2"></span>An insertion indicator should appear in a list where a dragged item would be inserted if the user releases the mouse button. For example, when a user drags an item into the sidebar of the Finder, a horizontal insertion indicator appears.

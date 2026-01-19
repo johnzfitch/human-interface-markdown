@@ -1,0 +1,2 @@
+<!-- Chunk 411 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 39 -->
+A button that does not have a rectangular edge around it; the clickable region is the graphic (for example, the toolbar buttons in System Preferences windows).

@@ -1,0 +1,4 @@
+<!-- Chunk 24 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 174 -->
+This section presents a set of principles useful for designing products for Macintosh computers. The reason for defining a set of design principles is to help you build a product that meets the standards of the Macintosh computer. Also, these principles can help clarify what you can do in order to design a product based on what is known about people and how they operate in the world.  
+You'll undoubtedly find out that you can't design in accordance with all of the principles all of the time. In that type of situation, you'll have to make a decision based on which principle or set of principles is most important in the context of the task you're solving.  
+![](images/_page_27_Picture_7.jpeg)

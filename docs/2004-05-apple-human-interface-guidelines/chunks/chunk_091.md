@@ -1,0 +1,3 @@
+<!-- Chunk 91 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 165 -->
+To help users identify the active application, the application menu title is in boldface.  
+In order to fit within the allotted menu bar space, the application menu title should be one word, if possible, and a maximum of 16 characters. Don't include the application version number in the name; version information belongs in the About window. If the application name is too long, provide a short name (16 characters or fewer) as part of the application package. The Hide, Quit, and About items should also use the short application name. If you don't provide a short name, the application name is truncated from the end (and an ellipsis is added), if necessary.

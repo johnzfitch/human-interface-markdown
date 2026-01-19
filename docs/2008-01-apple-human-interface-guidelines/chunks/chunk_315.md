@@ -1,0 +1,86 @@
+<!-- Chunk 315 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 4257 -->
+This table describes the changes to *Apple Human Interface Guidelines*.  
+| Date       | Notes                                                                                                                              |
+|------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 2008-01-15 | Updated for Mac OS X v10.5.                                                                                                        |
+| 2006-10-03 | Made minor corrections.                                                                                                            |
+| 2006-06-28 | Made minor corrections.                                                                                                            |
+| 2006-05-23 | Added information about communication from background processes and<br>handling text fields that require user input.               |
+| 2006-04-04 | Added guidelines for using the colon character and updated guidelines<br>for using the ellipsis character.                         |
+| 2006-02-07 | Updated the toolbar icon section and made some minor corrections.                                                                  |
+| 2005-12-06 | Added an appendix containing guidelines on how to prioritize design<br>decisions and updated the Keyboard Shortcuts appendix.      |
+| 2005-11-09 | Made minor bug fixes.                                                                                                              |
+| 2005-09-08 | Made minor bug fixes.                                                                                                              |
+| 2005-08-11 | Made minor bug fixes. Changed guidelines for dimming of menu titles<br>for menus containing inactive commands.                     |
+| 2005-07-07 | Made minor bug fixes.                                                                                                              |
+| 2005-06-04 | Made minor bug fixes.                                                                                                              |
+| 2005-04-29 | Made minor bug fixes.                                                                                                              |
+|            | Updated for Mac OS X version 10.4. Also contains information that was<br>previously available in Apple Software Design Guidelines. |
+| 2004-11-02 | Minor bug fixes.                                                                                                                   |
+| 2004-10-05 | Minor bug fixes.                                                                                                                   |  
+| Date       | Notes                                                                                                                                                            |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2004-08-31 | Minor bug fixes.                                                                                                                                                 |
+| 2004-05-27 | Removed Part I and Part II. This information is now available in Apple<br>Software Design Guidelines.                                                            |
+|            | Updated Introduction to reflect new structure of the document.                                                                                                   |
+|            | Minor bug fixes.                                                                                                                                                 |
+| 2004-03-29 | Clarifications to font guidelines in Text.                                                                                                                       |
+|            | Corrected minor errors in artwork in Figure 13-21 and Figure 13-24.                                                                                              |
+| 2004-02-26 | Minor revisions throughout including updating some artwork.                                                                                                      |
+|            | Reworked organization of Layout Examples and added more specific<br>guidelines and examples.                                                                     |
+|            | Minor corrections to some of the specifications in the Controls.                                                                                                 |
+| 2003-10-18 | Updated for Mac OS X version 10.3 by updating artwork and including<br>new controls.                                                                             |
+|            | Divided the document into parts.                                                                                                                                 |
+|            | Added all of content in Part II.                                                                                                                                 |
+|            | Added Cursors.                                                                                                                                                   |
+|            | Added a list of all keyboard shortcuts.                                                                                                                          |
+|            | Called out differences between Carbon and Cocoa where appropriate.                                                                                               |
+|            | Reorganized Windows.                                                                                                                                             |
+|            | Reorganized Menus.                                                                                                                                               |
+|            | Added content and fixed various bugs throughout.                                                                                                                 |
+| 2002-06-11 | Updated for Mac OS X version 10.2. Deleted "What's New in Aqua"<br>sections from Chapter 1 and beginning of each chapter.                                        |
+|            | Speech chapter added.                                                                                                                                            |
+|            | New controls: command pop-down menus, toolbar control, spinning<br>arrows, small image wells.                                                                    |
+|            | Other additions/changes include: accessibility features, installers, metal<br>windows, new document window position, utility window controls, font<br>constants. |
+| 2001-10-01 | Updated for Mac OS X version 10.1.                                                                                                                               |  
+| Date       | Notes                                                                                                                                                                                                                                                                                                                     |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|            | Added information about filename extension hiding, Dock menus and<br>notification, setup assistants, new focus ring specifications, accessibility<br>guidelines, full keyboard access, customizing Print dialogs, window<br>positioning on multiple monitors, proxy icons. Various other editorial<br>changes throughout. |
+| 2001-05-21 | Updated for WWDC.                                                                                                                                                                                                                                                                                                         |
+|            | Changes made to many illustrations.                                                                                                                                                                                                                                                                                       |
+|            | Slight engineering comments and changes throughout.                                                                                                                                                                                                                                                                       |
+|            | Icons chapter expanded.                                                                                                                                                                                                                                                                                                   |
+|            | File Location chapter added.                                                                                                                                                                                                                                                                                              |
+|            | "What's New in Aqua" chapter appended to Intro chapter.                                                                                                                                                                                                                                                                   |
+|            | "Layout Guidelines" broken out from "Controls" chapter.                                                                                                                                                                                                                                                                   |
+|            | Other additions include "Additional Considerations" section in principles<br>chapter; windows with different panes.                                                                                                                                                                                                       |
+| 2000-12-11 | Updated for Jan 2001 Macworld; now called Inside Mac OS X: Aqua Human<br>Interface Guidelines.                                                                                                                                                                                                                            |
+|            | Document divided into chapters. TOC added.                                                                                                                                                                                                                                                                                |
+|            | Major content added to entire document. Added many screen shots.                                                                                                                                                                                                                                                          |
+|            | Added Human Interface principles chapter.                                                                                                                                                                                                                                                                                 |
+|            | Added Help chapter.                                                                                                                                                                                                                                                                                                       |
+|            | Added Language chapter.                                                                                                                                                                                                                                                                                                   |
+|            | Added Drag and Drop chapter.                                                                                                                                                                                                                                                                                              |
+|            | Added Checklist appendix.                                                                                                                                                                                                                                                                                                 |
+|            | Added Mac OS X terminology appendix.                                                                                                                                                                                                                                                                                      |
+|            | Added index.                                                                                                                                                                                                                                                                                                              |
+|            | Content revisions include click-through, icon creation process, combo<br>boxes, sheets, Save-Close-Quit behavior, keyboard equivalents, About<br>boxes, pop-up bevel buttons, and pop-up icon buttons.                                                                                                                    |
+| 2000-09-08 | Updated for Mac OS X Public Beta Release.                                                                                                                                                                                                                                                                                 |
+|            | Added section on working with the Appearance Manager.                                                                                                                                                                                                                                                                     |
+|            | Added section on designing alerts.                                                                                                                                                                                                                                                                                        |  
+#### Document Revision History  
+| Date       | Notes                                                                                |
+|------------|--------------------------------------------------------------------------------------|
+|            | Added section on sheets.                                                             |
+|            | Added section on drawers.                                                            |
+|            | Added section on list and column view.                                               |
+|            | Added material on small controls.                                                    |
+|            | Added examples of font usage.                                                        |
+|            | Clarified description of tab control usage.                                          |
+| 2000-04-19 | Updated for Mac OS X Developer Preview4 and retitled Adopting the Aqua<br>Interface. |
+|            | Changed content and art to reflect new control metrics.                              |
+|            | Added section on icon design.                                                        |
+|            | Added section on window layering.                                                    |
+|            | Added section on menu layout.                                                        |
+|            | Added material on using an ellipsis in menus.                                        |
+| 2000-01-20 | Document published as Aqua Layout Guidelines.                                        |

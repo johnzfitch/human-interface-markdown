@@ -1,0 +1,6 @@
+<!-- Chunk 285 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 240 -->
+Because speech and sounds can be ambiguous, the speech-recognition process sometimes produces errors. Two such errors are the following:  
+- A **rejection error** occurs when the system hears something it considers speech (rather than noise) but can't match the sound to a known command. By default, this kind of error returns "???"; your application can specify its own rejection word or other response.
+- A **substitution error** occurs when the system incorrectly interprets a sound recognizing the command "cut" as "quit," for example.  
+Because substitution errors are generally more annoying to users than rejection errors, the speech-recognition engine has been tuned to prefer to reject rather than substitute.  
+With the "Listen for" AppleScript command, you can easily test your application's spoken commands without writing any code. Consult the Mac OS X Developer Tools CD for examples of using the speech-recognition server's "Listen for" command.

@@ -1,0 +1,2 @@
+<!-- Chunk 258 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 63 -->
+The most straightforward method of selecting an object is by clicking it once. Icons and most other things that can be selected are selected in this way. The user positions the pointer over the desired object, then presses and releases the mouse button.

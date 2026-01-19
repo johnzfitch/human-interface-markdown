@@ -1,0 +1,8 @@
+<!-- Chunk 106 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 332 -->
+Sometimes, displaying icons in menus can help users recognize menu items and relate them to other items they know about. As with all icons, you need to make sure that using them does not add confusion or ambiguity. Follow the guidelines in this section if you decide to use icons in your menus.  
+**Don't use an icon without any text.** Even if you use an icon you think all users will recognize, it's best to reinforce the icon's meaning by including a textual menu item name.  
+**Use only familiaricons.** You can use iconsin menu itemsif the icon issomething the user can learn to associate with specific functionality in your app or if the icon represents something unique. For example, the Finder uses icons in the Go menu because users can associate them with the icons they see in the sidebar.  
+![](images/_page_139_Picture_6.jpeg)  
+In another example, Safari uses the icons displayed by some webpages to help users make the connection between the webpage and the menu item for that webpage.  
+![](images/_page_140_Picture_2.jpeg)  
+<span id="page-140-0"></span>**Avoid displaying an icon for every menu item.** If you include icons in your menus, include them only for menu items for which they add significant value. A menu that includes too many icons (or poorly designed ones) can appear cluttered and be hard to read.

@@ -1,0 +1,2 @@
+<!-- Chunk 101 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 84 -->
+When a block of text is selected, either with a pointing device or with cursor keys, pressing either Left Arrow or Right Arrow deselects the range. If Left Arrow is pressed, the insertion point goes to the beginning of what had been the selection. If Right Arrow is used, the insertion point goes to the end of what had been the selection.

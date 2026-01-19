@@ -1,0 +1,2 @@
+<!-- Chunk 358 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 62 -->
+This section describes controls that either display text or take text as input. The combination box, which includes a text input field, is not covered in this section. See ["Combination Boxes"](#page-246-0) (page 247) for information on this control.

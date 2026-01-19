@@ -1,0 +1,6 @@
+<!-- Chunk 20 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 230 -->
+Before you decide how to present your product to iPhone OS users, you need to understand the range of options you have. Depending on the implementation details of your proposed product and its intended audience, some types of software may be better suited to your needs than others.  
+This section divides software for iPhone OS–based devices into three broad categories, primarily based on implementation method. Roughly speaking, you can create:  
+- An **iPhone application**, which is an application you develop using the iPhone SDK to run natively on iPhone OS–based devices.
+- **Web-only content**, including web applications, which are websites that behave like built-in iPhone applications.
+- <span id="page-16-2"></span>■ A **hybrid application**, which is an iPhone application that provides access to web content primarily through a web-content viewing area, but includes some iPhone OS user interface elements.

@@ -1,0 +1,6 @@
+<!-- Chunk 344 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 306 -->
+Use a group of radio buttons when you need to display a set of choices from which the user can choose only one. If you need to display a set of choices from which the user can choose more than one at the same time, use checkboxesinstead. Also, if you need to display a single setting,state, or choice the user can either accept or reject, don't use a single radio button; instead you can use a checkbox. To learn more about checkboxes, see ["Checkboxes"](#page-274-0) (page 275).  
+A group of radio buttons should contain at least two items and a maximum of about five. If you need to display more than five items, consider using a pop-up menu (described in ["Pop-Up](#page-280-0) Menus" (page 281)).  
+<span id="page-272-0"></span>A radio button should never initiate an action, although the choice of a radio button can change the state of the application. For example, Speech preferences allowsthe user to choose between two listening methods, asshown in Figure 15-21. If the user choosesthe second listening method ("Listen continuously with keyword"), the keyword setup preferences are automatically enabled.  
+**Figure 15-21** A radio button can change the state of an application  
+![](images/_page_272_Picture_7.jpeg)

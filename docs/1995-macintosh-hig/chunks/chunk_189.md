@@ -1,0 +1,3 @@
+<!-- Chunk 189 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 140 -->
+This section presents some basic guidelines for designing effective icons. Remember that all your icon designs must work in the Macintosh context. The desktop interface is based on an office metaphor using a desktop as the primary workspace. You want to build on this basis and diverge from it as little as possible. You must also consider other important facets of the Macintosh interface described here when you're designing icons. For information on designing color icons, see Chapter 9, "Color," beginning on page 257.  
+![](images/_page_252_Picture_6.jpeg)

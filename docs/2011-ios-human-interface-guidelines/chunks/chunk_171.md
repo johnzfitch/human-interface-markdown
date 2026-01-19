@@ -1,0 +1,2 @@
+<!-- Chunk 171 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 61 -->
+<span id="page-130-1"></span>It can be useful to display a scope bar when there are clearly defined or typical categories in which users might want to search. For example, users often want to narrow their search to one field in an email message.

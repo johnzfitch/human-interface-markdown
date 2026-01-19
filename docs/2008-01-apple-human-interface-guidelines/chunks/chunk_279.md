@@ -1,0 +1,3 @@
+<!-- Chunk 279 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 103 -->
+Indicators are controls that show users the status of something. For the most part, users don't interact with indicators.  
+**Important:** The controls described in this section are suitable for use in thewindowbody; theyshould not be used in thewindow-frame areas. See ["Window-Frame](#page-259-0) Controls" (page 260) for controls designed specifically for use in the toolbar and bottom-bar areas in your window.

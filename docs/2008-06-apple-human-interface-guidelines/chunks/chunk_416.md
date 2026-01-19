@@ -1,0 +1,2 @@
+<!-- Chunk 416 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 43 -->
+<span id="page-316-0"></span>Token field controls are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSTokenField class.

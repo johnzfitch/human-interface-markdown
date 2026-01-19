@@ -1,0 +1,15 @@
+<!-- Chunk 272 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 741 -->
+It'simportant to understand that transparent panels are not intended to replace all panelsin every application. In fact, in applications that don't focus on highly visual content or provide an immersive environment, a transparent panel can be more distracting to users than a standard panel, because there is no logical reason for its presence.  
+In general, therefore, you should use transparent panels only when at least one of the following statements is true:  
+- Your application is media-centric, that is, focused on movies, photos, or slides.
+- Users use your application in a dark environment or in an immersion mode.
+- A standard panel would distract users from the main window.
+- Users make only quick adjustments in the panel and dismiss it quickly.  
+For example, in Aperture (a photo post-production and management tool), a transparent panel is appropriate because it does not block the content the way a standard panel would. In addition, the transparent adjustment panel in Aperture contains easy-to-use controls that don't require any keyboard input from the user. Figure 14-42 shows how this transparent panel allows users to focus on the images.  
+<span id="page-226-0"></span>**Figure 14-42** A transparent panel allows users to make adjustments without distracting them from the main window  
+![](images/_page_226_Picture_3.jpeg)  
+If your application focuses on highly visual content only atspecific times or only in some modes, a combination of standard and transparent panels is reasonable, as long as each panel is suited to its task and environment. Also, if you provide a transparent panel under these circumstances, don't transform the panel into a standard (nontransparent) panel when your application switches modes. In other words, a transparent panel is always a transparent panel; it never converts to a standard panel.  
+For example, Keynote allows users to create presentations that contain text, images, video, and sound. In addition to providing the Mac OS X Colors and Fonts windows, Keynote provides an inspector window and a media browser, which are standard panels. The inspector window allows users to set slide transitions, edit tables and graphs, and make complex adjustments to text and formatting, and the media browser allows them to navigate collections of media files and make selections. Neither of these panels focuses solely on adjustments to visual content, so there is no reason for them to be transparent.  
+But Keynote also provides an image-adjustment panel, which helps users make simple adjustments to slide images. The image-adjustment panel is transparent, because users use it while they are focusing on the image, watching the effect of the adjustments they make. Figure 14-43 shows the transparent image-adjustment panel in Keynote.  
+<span id="page-227-0"></span>**Figure 14-43** A transparent panel can be appropriate for tasks that focus on highly visual content  
+![](images/_page_227_Picture_3.jpeg)

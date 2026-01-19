@@ -1,0 +1,17 @@
+<!-- Chunk 51 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 801 -->
+The most common type of auxiliary view is called a **slip.** An application can use slips to get detailed user input. For example, the Date Book application displays essential information about meetings and events in its main view but has users input or change details in meeting and event slips. In addition, an application can use slips to display and allow users to change incidental and infrequently accessed information such as the title of an item or preference settings. Slips can also request responses and present alternatives that specify how an action should be completed. For example, a slip for routing e-mail should insist the user enter an e-mail address, without which the e-mail cannot be sent, and the slip offers numerous options that affect what the e-mail message includes.  
+Most slips are movable, but some are stationary. Movable slips provide more flexibility for someone using your application. If a user wants to see something under a movable slip while the slip is open, the user can drag the slip out of the way. To see something under a stationary slip, a user has no choice but to close the slip. Figure 2-14 compares slips that move with slips that can't.  
+**Figure 2-14** Users can move most slips  
+![](images/_page_58_Picture_7.jpeg)  
+Movable slips should have a drag handle and a matte border  
+![](images/_page_58_Picture_9.jpeg)  
+Stationary slips do not have a drag handle or a matte border  
+Auxiliary Views **2-15**  
+<span id="page-59-0"></span>Movable slips should have matte borders, and stationary slips should not. For instance, routing slips are stationary and have special striped borders. Border styles are described in ["View Border" on page 2-6.](#page-49-0)  
+A slip contains text and controls and may contain icons, pictures, and input fields. Each slip contains some text to indicate the purpose of the slip and what caused the slip to appear. In some cases this text is a title for the slip.  
+Most slips have a Close box or large Close box in the bottom right corner, and some slips have additional primary controls at the bottom. For instance, a Close box alone is not enough in a slip whose purpose is to prepare for and initiate an action. In this case users must be presented with a choice for dismissing the slip: take action or cancel. A text button named with a verb such as Do or Find clearly means "Take this action with the settings I've made in this slip." A large Close box located next to one of those take-action buttons thus means "Ignore these settings and cancel the action." The alternative combination of buttons—a text button named Cancel to mean "cancel" next to a large Close box to mean "take action"—is ambiguous. Figure 2-15 compares these two alternatives.  
+Close (take action?)  
+Better— Clear choice Worse— Vague choice Take specific action Close (don't take action) Cancel  
+**Figure 2-15** Dismissing slips that complete actions  
+<span id="page-60-0"></span>In the absence of a take-action button, a Close box means simply, "I'm done with this task."  
+Close boxes and text buttons are covered in [Chapter 3, "Controls."](#page-94-0) Input fields follow the guidelines given in [Chapter 6, "Data Input."](#page-168-0)

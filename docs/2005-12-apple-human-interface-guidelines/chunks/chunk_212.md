@@ -1,0 +1,2 @@
+<!-- Chunk 212 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 98 -->
+The **menu bar** extends across the top of the main screen and contains pull-down menus. There is only one menu bar at the top of the screen; don't put menu bars in windows. The menu bar provides a consistent location where people can look for commands. Each application, including the Finder, has its own menu bar consisting of a few standard menus, application-specific menus, and menu extras.

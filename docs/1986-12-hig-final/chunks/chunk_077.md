@@ -1,0 +1,2 @@
+<!-- Chunk 77 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 32 -->
+This section discusses graphical menus called palettes, as well as a hybrid of palettes and pull-down menus called tear-off menus.

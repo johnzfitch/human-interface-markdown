@@ -1,0 +1,10 @@
+<!-- Chunk 97 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 495 -->
+Alerts, action sheets, and modal views are all modal, which means that users must explicitly dismiss them, by tapping a button, before they can continue to use the application. Although there are times when you need to warn users of potentially dangerous actions or provide extra choices, it'simportant to avoid overusing these views. This is because:  
+- All types of modal views interrupt the user's workflow.
+- The too-frequent appearance of a view requesting confirmation or acknowledgment is likely to be more annoying than helpful.  
+Alerts, in particular,should be used only rarely. When alerts appear too frequently, people are likely to dismiss them without reading them, just to get them out of the way.  
+Alerts, action sheets, and modal views are designed to communicate different things:  
+- **Alerts give people important information that affects their use of the application (or the device)**. The arrival of an alert is usually unexpected, because it generally tells people about a problem or a change in the current situation that might require them to take action.
+- **Action sheets give people additional choices related to the action they are currently taking**. People learn to expect the appearance of an action sheet when they tap a toolbar button that begins either a potentially destructive action (such as deleting all recent calls) or an action that can be completed in different ways (such as a send action for which users can specify one of several destinations).
+- **Modal views provide more extensive functionality in the context of the current task**. Modal views can also provide a way to perform a subtask directly related to the user's workflow.  
+<span id="page-79-0"></span>These types of views also differ in appearance and behavior, which underscoresthe difference in the messages they send. Because users are accustomed to the appearance and behavior of these views, it's important to use them consistently and correctly in your application.

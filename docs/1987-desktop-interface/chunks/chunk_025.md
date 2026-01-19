@@ -1,0 +1,2 @@
+<!-- Chunk 25 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 96 -->
+Hearing problems are generally no obstacle to using computers, except when important cues are given only with sound. Aside from the obvious exceptions of music or voice-synthesis applications, software should never rely solely on sound to provide important information. Supplement all audible messages with visual cues, or allow the user to choose visible instead of audible messages.

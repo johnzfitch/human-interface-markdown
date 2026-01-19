@@ -1,0 +1,7 @@
+<!-- Chunk 71 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 332 -->
+If your app provides onscreen help, the **Help menu** should be the rightmost menu of your app's menus.  
+![](images/_page_102_Picture_3.jpeg)  
+If you have registered your help book, the system provides the Spotlight For Help search field as the first item in the menu. For information on how to register your help book, see *Apple Help Programming Guide* .  
+The next menu item is *AppName* **Help**, which opens Help Viewer to the first page of your app's help book. For some guidelines on creating useful help content, see User [Assistance](#page-270-0) (page 271).  
+**As much as possible, display only one custom item in the Help menu.** That is, it's best to display only the *AppName* Help item. If you do have more items, display them below this item. If you have additional items that are unrelated to help content, such as arbitrary website links, registration information, or release notes, link to these within your help book instead of listing them as separate items in the Help menu.  
+<span id="page-102-1"></span>**Avoid using the Help menu as a table of contents for your help book.** When users choose the *AppName* Help item, they can see the sections in your help book in the Help Viewer window. If you choose to provide additional links into your help content within the Help menu, be sure they are distinct.

@@ -1,0 +1,3 @@
+<!-- Chunk 126 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 141 -->
+Your application should check whether the Option key is pressed at drop time. This behavior gives the user the flexibility of making the move-or-copy decision at a later point in the drag-and-drop sequence. Pressing the Option key during the drag-and-drop sequence should not "latch" for the remainder of the sequence.  
+<span id="page-121-12"></span><span id="page-121-2"></span>**Note:** The Option key does not act as a toggle switch; Option-dragging between containers always initiates a copy operation. This guideline helps users learn that Option means copy.

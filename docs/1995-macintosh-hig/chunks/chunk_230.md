@@ -1,0 +1,2 @@
+<!-- Chunk 230 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 88 -->
+People cannot easily distinguish colors in small areas. In order for people to be able to tell what color an object is, that object must be large enough for them to see without effort. If more than one color is used in a small object, the differences must be obvious, not subtle, especially if the different colors are conveying significant information.

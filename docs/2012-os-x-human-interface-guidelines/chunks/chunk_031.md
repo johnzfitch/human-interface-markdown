@@ -1,0 +1,5 @@
+<!-- Chunk 31 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 270 -->
+The Aqua interface is designed to provide an understandable, familiar, and predictable environment. To give users a visual sense of stability, the interface defines many standard graphical elements, such as the menu bar, window controls, and so on. These standard elements provide users with a familiar environment in which they know how things behave and what to do with them.  
+To give users a conceptual sense of stability, the interface provides a clear, finite set of objects and a set of actions to perform on those objects. For example, when a menu command doesn't apply to a selected object or to the object in its current state, the command is dimmed rather than omitted.  
+To help convey the perception of stability, preserve user-modifiable settings such as window dimensions and locations. When a user sets up his or her onscreen environment to have a certain layout, the settings should stay that way until the user changes them.  
+Providing status and feedback also contributes to perceived stability by letting users know that the app is performing the specified task.

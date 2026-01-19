@@ -1,0 +1,3 @@
+<!-- Chunk 166 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 114 -->
+There are four kinds of keys: character keys, modifier keys, arrow keys, and function keys. A **character key** sends a character to the computer. When the user holds down a **modifier key,** it alters the meaning of the character key being pressed or the meaning of a mouse action.  
+<span id="page-165-5"></span>**Note:** Not all the keys described here exist on all Macintosh keyboards. Don't depend on a key as the only way for users to accomplish a task.

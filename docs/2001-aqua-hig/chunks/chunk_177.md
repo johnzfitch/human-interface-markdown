@@ -1,0 +1,3 @@
+<!-- Chunk 177 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 88 -->
+When pressed at the same time as a character key, the Shift key produces the uppercase alphabetic letter or the upper symbol on the key.  
+The Shift key is also used with the mouse for extending a selection or for constraining movements in graphics applications. For example, in some applications pressing Shift while using a rectangle tool draws squares.

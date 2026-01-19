@@ -1,0 +1,14 @@
+<!-- Chunk 63 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 646 -->
+When designing an application, you must decide where to position the application's main view, ordinary slips, and palettes. The system takes care of positioning routing slips, status slips, notification alerts, and confirmation alerts. In making these decisions consider the type of view, its size in relation to the main view (or the screen), what other views you know will also be open, and how the view's content relates to the other open views.  
+The positions at which views open affects the usability of your application and of the whole Newton device. Each view that opens may obscure part of the other views already open.  
+Equally important are users' preferences. If a user moves a view, your application should maintain that position.  
+#### Position of a Main View 2  
+The initial position of a main view that fills the screen is obvious. Most smaller main views are centered horizontally but are off-center vertically. Usually there is about three times as much uncovered screen space below the view as above it. Some main views, such as the built-in Find and Assist views, are centered at the bottom edge of the visible screen area.  
+<span id="page-74-0"></span>If the main view is movable, your application should save its position before closing it, and should reopen it in the position at which the user left it. Keep users in control.  
+#### Position of Auxiliary Views 2  
+When a user opens a slip, palette, or other auxiliary view, your application should initially position it directly over the view to which it relates. This arrangement reinforces the relationship between the auxiliary view and its related view, and also puts the auxiliary view near the user's focus. In general you should horizontally center a small auxiliary view over its related view, and place it near the top of the related view, leaving about one-fourth of the uncovered portion of the related view visible above the auxiliary view. Figure 2-25 shows the best position for a small auxiliary view.  
+**Figure 2-25** Where to position a small auxiliary view  
+![](images/_page_74_Picture_6.jpeg)  
+Keep an auxiliary view within the bounds of its related main view (its parent view). If an auxiliary view hangs outside its parent view, the Newton system draws and refreshes the auxiliary view unpredictably. Moreover, the auxiliary  
+How Views Work **2-31**  
+<span id="page-75-0"></span>view does not get any pen input from outside the parent's bounds. These restrictions have no practical effect on an auxiliary view that is attached to the root view instead of an application's base view.

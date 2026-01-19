@@ -1,0 +1,2 @@
+<!-- Chunk 432 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 63 -->
+<span id="page-321-0"></span>Disclosure triangles are available in Interface Builder. To create one using Application Kit programming interfaces, use NSButton and set the bezel style to NSDisclosureBezelStyle and the button type to NSPushOnPushOffButton.

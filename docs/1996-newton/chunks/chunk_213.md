@@ -1,0 +1,2 @@
+<!-- Chunk 213 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 52 -->
+Allow users to move your application's data between storage locations with the Filing button in the Extras Drawer's status bar. This is the method used by the built-in applications. See page [8-14.](#page-255-0)

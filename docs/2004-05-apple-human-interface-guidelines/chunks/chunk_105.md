@@ -1,0 +1,2 @@
+<!-- Chunk 105 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+All windows should have a title bar even if the window doesn't have a title (which should be a very rare exception).

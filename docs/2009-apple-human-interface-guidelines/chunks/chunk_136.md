@@ -1,0 +1,2 @@
+<!-- Chunk 136 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 105 -->
+<span id="page-124-2"></span>When an item is being dragged, your application must determine whether to scroll the contents or allow the item to "escape" the window. If your application allows items to be dragged outside of windows, you should define an automatic scrolling region. Automatically scroll a destination window only if it is also the source window and is frontmost. Don't automatically scroll inactive windows.

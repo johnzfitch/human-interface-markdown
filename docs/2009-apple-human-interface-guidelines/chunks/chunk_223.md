@@ -1,0 +1,15 @@
+<!-- Chunk 223 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 737 -->
+The term **panel** is a general term used to describe auxiliary windows that contain controls and options that affect the active document or selection. Different types of panels may have more specific names, such as Colors window or inspector. Note that in end-user documentation, it's usually clearer to describe panels as windows, when it is necessary to specify their type. When possible, you should refer to all windows by their title, not their type.  
+For some applications, such as highly visual, immersive applications, transparent panels are appropriate. For most applications, however, standard panel types are best. See [Figure](#page-191-1) 14-1 (page 192) for an example of a transparent panel; to learn more about them, see ["Transparent](#page-229-0) Panels" (page 230).  
+Panels are either application-specific orsystemwide. Application-specific panels disappear when the application is deactivated.  
+Systemwide panels, such as the Colors window and the Fonts window, float on top of all open windows.  
+<span id="page-227-1"></span>You can create a modeless panel, such as a tools panel, to present controls or settings that affect the active document window. Panels are useful for keeping extremely important controls or information accessible at all times in the context of a user task. Because panels take up screen space, however, don't use them when you can meet the need by using a modeless dialog (the user changes settings and then closes the dialog) or by adding a few appropriate controls to a toolbar.  
+<span id="page-227-0"></span>A user can open several panels at a time; they float on top of document windows. When a user makes a document active, all of the application's panelsshould be brought to the front, regardless of which document was active when the user opened the panel. When your application is inactive, its panels should be hidden. Panels should not be listed in the Window menu as documents, but you may put commands to show or hide all panels in the Window menu. Figure 14-38 shows examples of different styles of panels.  
+**Figure 14-38** Examples of standard panels  
+![](images/_page_227_Picture_8.jpeg)  
+![](images/_page_227_Picture_9.jpeg)  
+<span id="page-227-2"></span>A panel may have a title. An untitled panel should have a title-bar region for dragging it.  
+A user would never need to minimize a panel because it is displayed only when needed and disappears when its application isinactive. Therefore, the minimize button is always unavailable. A panelshould have the close and zoom buttons or, if you don't want users to be able to use the zoom button, only the close button. These configurations are shown in Figure 14-39.  
+<span id="page-228-1"></span>**Figure 14-39** Panel controls  
+![](images/_page_228_Picture_3.jpeg)  
+<span id="page-228-0"></span>For information about designing the layout of a panel, see "Using Small and Mini Versions of [Controls"](#page-355-0) (page 356).

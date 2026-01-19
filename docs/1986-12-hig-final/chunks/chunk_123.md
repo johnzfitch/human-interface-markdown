@@ -1,0 +1,2 @@
+<!-- Chunk 123 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 46 -->
+Two principles should guide the design of your application: begin the design in black and white, and limit the use of color, especially in the application's use of the standard interface.

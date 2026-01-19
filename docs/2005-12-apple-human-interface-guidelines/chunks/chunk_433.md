@@ -1,0 +1,2 @@
+<!-- Chunk 433 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 95 -->
+A menu that contains commands and appears in a window rather than in the menu bar. Use of this control is limited to cases where the window is shared among multiple applications and the menu contains commands that affect the window's contents. A closed pop-down menu always displays the same text, which is the menu title. Pop-down menus have a single, downward-pointing triangle.

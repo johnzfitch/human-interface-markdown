@@ -1,0 +1,5 @@
+<!-- Chunk 77 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 247 -->
+<span id="page-78-7"></span>Mac OS X includes an advanced printing system. Because of all the options this system provides, it is important that you use the standard printing dialogs so that users understand the options that are available to them without getting lost in features. The printing architecture allows users to print "digital paper" documents that can be sent to a printer, faxed, or saved as a PDF file (Figure 6-8). These features are all available automatically when you use the Mac OS X printing system in your application.  
+<span id="page-78-2"></span>**Figure 6-8** Print options available in Mac OS X  
+![](images/_page_78_Picture_5.jpeg)  
+See "The Print [Dialog"](#page-255-0) (page 256) for information about the standard printing dialog. See *Mac OS X Printing System Overview* for general information about the printing system. For information on how to extend the Print dialogto include options not provided in the standard panes, see *Extending Printing Dialogs*.

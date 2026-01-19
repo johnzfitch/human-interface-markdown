@@ -1,0 +1,4 @@
+<!-- Chunk 345 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 134 -->
+The selected and unselected appearances of a radio button are provided automatically; you cannot display any text or images in a radio button.  
+Radio buttons should be accompanied by text labels that describe the choice associated with each button. These labels should have sentence-style capitalization, as described in ["Capitalization](#page-130-1) of Interface Element [Labels](#page-130-1) and Text" (page 131).  
+A set of radio buttons is never dynamic; that is, the contents and labels shouldn't change depending on the context.

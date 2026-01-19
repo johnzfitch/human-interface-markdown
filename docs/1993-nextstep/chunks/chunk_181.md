@@ -1,0 +1,2 @@
+<!-- Chunk 181 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 85 -->
+*Afile package* is a folder that the Workspace Manager presents to users as if it were a file. Because users normally don't look inside a file package (unless they explicitly open it as a folder), they're not likely to alter or reorganize its contents. "Using File Packages," later in this chapter, describes when you should use file packages.

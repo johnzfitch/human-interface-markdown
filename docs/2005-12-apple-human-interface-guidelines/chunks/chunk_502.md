@@ -1,0 +1,2 @@
+<!-- Chunk 502 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 39 -->
+A rectangular area in which the user enters text or modifies existing text. Also called an editable text field, it supports keyboard focus and password entry.

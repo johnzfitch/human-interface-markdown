@@ -1,0 +1,2 @@
+<!-- Chunk 127 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 50 -->
+The rounded rectangle button has been deprecated in iOS 7. Instead, use the system button—that is, a UIButton of type UIButtonTypeSystem. For guidelines, see ["System](#page-193-0) Button" (page 194).

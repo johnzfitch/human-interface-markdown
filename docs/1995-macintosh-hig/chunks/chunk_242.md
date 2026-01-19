@@ -1,0 +1,4 @@
+<!-- Chunk 242 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 161 -->
+The Delete (or Backspace) key deletes text or graphics. Generally, if a selection has been made, pressing Delete removes the selection without putting it in the Clipboard. If there is no selection, pressing Delete removes the character preceding the insertion point without putting it in the Clipboard. The Delete key has an effect like that of the Clear command in the Edit menu.  
+You can support the keyboard combination Option-Delete to delete the word that contains the insertion point.  
+Note that the Delete key is different from the Forward Delete key (labeled Del), which removes the character or selection following the insertion point.

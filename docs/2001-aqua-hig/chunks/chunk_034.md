@@ -1,0 +1,3 @@
+<!-- Chunk 34 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 135 -->
+<span id="page-32-3"></span>Macintosh system software is designed to address the complex problems you'll encounter when you create an application designed to be compatible with regional, linguistic, and writing system differences around the globe.  
+It's much easier to include worldwide compatibility from the beginning of your development process rather than try to incorporate support for script systems after your product is complete. Before you develop software for worldwide use, consider the issues discussed in the following sections.

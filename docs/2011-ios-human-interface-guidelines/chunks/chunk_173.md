@@ -1,0 +1,9 @@
+<!-- Chunk 173 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 415 -->
+A search bar looks like a text field with rounded ends. By default, a search bar displays the search icon on the left side. When the user taps a search bar, a keyboard appears; when the user is finished typing search terms, the input is handled in an application-specific way.  
+In addition, a search bar can display a few optional elements:  
+- **Placeholder** text. Thistext mightstate the function of the control (for example, "Search") or remind users in what context they are searching (for example, "YouTube" or "Google").
+- The **Bookmarks** button. This button can provide a shortcut to information users want to easily find again. For example, the Bookmarks button in the Maps search mode gives access to bookmarked locations, recent searches, and contacts.  
+The Bookmarks button is visible only when there is no user-supplied or nonplaceholder text in the search bar, because the Clear button is visible when there is text in the search bar that users might want to erase.  
+- The **Clear** button. Most search bars include a Clear button that allows users to erase the contents of the search bar with one tap. (The Clear button is a gray circle with a white "x" in it.)
+- When the search bar contains any nonplaceholder text, the Clear button is visible so users can erase the text. If there is no user-supplied or nonplaceholder text in the search bar, the Clear button is hidden because there is no need to erase the contents of the search bar.
+- A descriptive title, called a **prompt**, that appears above the search bar. For example, a prompt can be a short phrase that provides introductory or application-specific context for the search bar.

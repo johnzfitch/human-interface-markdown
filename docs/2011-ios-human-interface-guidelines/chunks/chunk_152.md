@@ -1,0 +1,2 @@
+<!-- Chunk 152 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 29 -->
+A label displays any amount of static text. Users do not interact with labels except, potentially, to copy the text.

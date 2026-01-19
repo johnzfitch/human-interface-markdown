@@ -1,0 +1,5 @@
+<!-- Chunk 165 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 195 -->
+OS X includes an advanced printing system. Users appreciate the extensive printing options that are available and they expect to be able to access them regardless of the app they're using. Fortunately, when you use the OS X printing system in your app, the printing features are easy to make available to users.  
+**Use the standard printing dialog instead of creating a custom dialog.** Because of all the options the OS X printing system provides, it is important to use the standard printing dialog with which users are familiar.  
+![](images/_page_269_Figure_3.jpeg)  
+For information about the standard printing dialog,see The Print and Page Setup [Dialogs](#page-162-0) (page 163). For general information about the printing system, see *Printing Programming Guide for Mac* .

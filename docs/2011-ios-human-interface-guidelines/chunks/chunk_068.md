@@ -1,0 +1,5 @@
+<!-- Chunk 68 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 206 -->
+The screen size of iOS-based devices might vary, but the average size of a fingertip does not. Regardless of the device your app runs on, following these guidelines ensures that people can comfortably use your app.  
+**Give tappable elements in your application a target area of about 44 x 44 points**. The iPhone Calculator application is a good example of fingertip-size controls.  
+![](images/_page_60_Picture_2.jpeg)  
+If you create smaller controls, or if you place them too close together, people must aim carefully before they tap and they're more likely to tap the wrong element. As a consequence, the application becomes much less enjoyable, or even impossible, to use. For example, a game that hassmall controlsthat are too close together forces people to concentrate on the interface, instead of on playing the game.

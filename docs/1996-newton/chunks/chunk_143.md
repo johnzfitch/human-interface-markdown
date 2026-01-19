@@ -1,0 +1,9 @@
+<!-- Chunk 143 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 389 -->
+There are several ways users can display a keyboard. One is to double-tap any blank space in a text-input area. Another is to double-tap a word to bring up a Correction picker and then tap the keyboard in that picker (as described under ["Correcting Misrecognized Text" on page 6-29](#page-196-0)). Users can also bring up a keyboard by tapping any visible Keyboard button. (An application can put a Keyboard button on the left side of its status bar and at the bottom left corner of slips, as described in ["Keyboard Button" on page 3-25](#page-118-0).)  
+If a keyboard is already displayed, then tapping a Keyboard button pops up a Keyboard picker. The Keyboard picker lists the available keyboards, and a user can select one by tapping its name in the Keyboard picker. A check in the Keyboard picker marks the currently selected keyboard. Figure 6-28 shows the Keyboard picker in the built-in Notepad application.  
+**Figure 6-28** A Keyboard picker lists alternate on-screen keyboards  
+![](images/_page_200_Picture_6.jpeg)  
+Any time the user is about to input data that the Newton system is unlikely to recognize, such as an e-mail address, your application should automatically display an appropriate keyboard for the user. Another option is to embed a keyboard in a slip used for data input, as the built-in Names File application does. [Figure 6-29](#page-201-0) shows a keyboard embedded in a slip.  
+Typing **6-33**  
+<span id="page-201-0"></span>**Figure 6-29** A keyboard can be embedded in a data-input slip  
+![](images/_page_201_Figure_3.jpeg)

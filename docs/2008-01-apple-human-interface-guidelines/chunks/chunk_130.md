@@ -1,0 +1,2 @@
+<!-- Chunk 130 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+<span id="page-124-1"></span>While the user is dragging an item to a text area, an insertion indicator (a vertical bar) should appear in the text where the dragged item would be inserted if the user releases the mouse button.

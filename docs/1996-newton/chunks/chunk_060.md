@@ -1,0 +1,3 @@
+<!-- Chunk 60 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 154 -->
+A Newton user can keep more than one application open at a time (memory permitting). Each open application has its own pile of container views. At the bottom of an application's pile of views is its main view. An application's auxiliary views appear on top of the main view in the order in which they were opened. (Technically, it is the application base view that contains all of an application's other views. Usually the main view is the base view, but you can organize your application differently if necessary.)  
+A user can bring a view with a matte border and drag handle to the front by tapping the drag handle.

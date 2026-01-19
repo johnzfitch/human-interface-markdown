@@ -1,0 +1,2 @@
+<!-- Chunk 2 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+[The Dock's Onscreen Position](#page-40-1) 41 [Dock Notification Behavior](#page-41-0) 42 [Dock Menus](#page-42-0) 43 [Clicking in the Dock](#page-43-0) 44

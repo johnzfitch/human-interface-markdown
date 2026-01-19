@@ -1,0 +1,14 @@
+<!-- Chunk 41 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 696 -->
+iOS apps can help people create and manipulate files, but this doesn't mean that people should have to think about the file system on an iOS device.  
+There is no iOS app analogous to the OS X Finder, and people shouldn't be asked to interact with files as they do on a computer. In particular, people shouldn't be faced with anything that encourages them to think about file metadata or locations, such as:  
+- An open or save dialog that exposes a file hierarchy
+- Information about the permissions status of files  
+**As much as possible, let people manage documents without opening iTunes on their computer.** Consider using iCloud to help users access their content on all of their devices. For some tips on how to provide a great iCloud experience in your app, see ["iCloud"](#page-101-0) (page 102).  
+If your app helps people create and edit documents, it's appropriate to provide some sort of document picker that lets them open an existing document or create a new one. Ideally, such a document picker:  
+- **Is highly graphical.** People should be able to easily identify the document they want by looking at visual representations of the documents onscreen.
+- **Lets people make the fewest possible gestures to do what they want.** For example, people might scroll horizontally through a carousel or grid of existing documents and open the desired one with a tap.
+- **Includes a new document function.** Instead of making people go somewhere else to create a new document, a document picker can allow them to tap a placeholder image to create a new document.  
+![](images/_page_63_Figure_8.jpeg)  
+**Tip:** You can use the Quick Look Preview feature to let people preview documents within your app, even if your app can't open them. To learn how to provide this feature in your app, see ["Quick](#page-123-0) Look" (page 124).  
+**Give people confidence that their work is always preserved unless they explicitly cancel or delete it.** If your app helps people create and edit documents, don't require them to take an explicit save action. iOS apps should take responsibility forsaving people'sinput, both periodically and when they open a different document or switch away from the app.  
+If the main function of your app isn't content creation—but you allow people to switch between viewing information and editing it—it can make sense to ask them to save their changes. In thisscenario, it often works well to provide an Edit button in the view that displays the information. When people tap the Edit button, replace it with a Save button and add a Cancel button. The transformation of the Edit button helps remind people that they're in an editing mode and might need to save changes, and the Cancel button gives them the opportunity to exit without saving their changes.

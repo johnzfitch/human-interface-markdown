@@ -1,0 +1,14 @@
+<!-- Chunk 68 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 644 -->
+A sheet is a modal dialog "attached" to a particular document or window, ensuring that the user never loses track of which window the dialog applies to. The ability to keep a dialog attached to its pertinent window enables users to take full advantage of the Mac OS X window layering model. Sheets also enable users to perform other tasks before dismissing the dialog, so there's no longer the sense of the system being "hijacked" by the application.  
+You lay out sheets like any other dialog in Mac OS X. Carbon developers are responsible for creating, showing, handling the events for, and closing sheets. Other sheet behavior, such as the animation when it appears, is handled automatically by the Window Manager.  
+<span id="page-72-2"></span><span id="page-72-1"></span>**Figure 6-1** Example of using a sheet to display a modal dialog  
+![](images/_page_72_Picture_4.jpeg)  
+#### <span id="page-72-0"></span>Sheet Behavior  
+Sheets are displayed as an animation that appears to emerge from the window's title bar. When a sheet displays on a window near the edge of the screen, the sheet moves the window away from the edge; when the sheet is dismissed, the window returns to its previous position.  
+Only one sheet may be open for a window at any one time. A sheet presenting a modal dialog prevents any other operation on that window until the dialog is dismissed. If a sheet is open when the user performs an action that opens another sheet, the first sheet closes before the second one opens.  
+A sheet on an active document window should cover (appear on top of) any active utility windows. However, if the user leaves a sheet open and clicks another document in the same application, the sheet on the inactive window should go *behind* any open utility windows.  
+#### <span id="page-73-0"></span>When to Use Sheets  
+Use sheets for modal dialogs or for modeless dialogs specific to a document when the user interacts with the dialog and dismisses it before proceeding with work. Some examples of when to use sheets:  
+- A modal dialog that is specific to a particular document, such as saving or printing.
+- A modal dialog that is specific to a single-window application that does not create documents. A single-window utility program might use a sheet to request acceptance of a licensing agreement from the user, for example.
+- Other window-specific dialogs typically dismissed by the user before proceeding. Use a sheet when a dialog benefits from being attached to the window as a modal dialog, even if you might otherwise design the dialog as a modeless dialog.

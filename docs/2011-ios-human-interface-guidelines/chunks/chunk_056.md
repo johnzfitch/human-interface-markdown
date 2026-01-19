@@ -1,0 +1,5 @@
+<!-- Chunk 56 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 258 -->
+Inputting information takes time and attention, whether people tap controls or use the keyboard. If your application requires a lot of user input before anything useful happens, that input slows people down and can discourage them from using your app.  
+**Balance any requestforinput by users with what you offer users in return**. In other words,strive to provide as much information or functionality as possible for each piece of information people give you. That way, people feel they are making progress and are not being delayed as they move through your application.  
+**Make it easy for users to input their choices**. For example, you can use a table view or a picker instead of a text field, because it's usually easier for people to select an item from a list than to type words.  
+**Get information from iOS, when appropriate**. People store lots of information on their devices. When it makessense, don't force people to give you information you can easily find for yourself,such astheir contacts or calendar information.

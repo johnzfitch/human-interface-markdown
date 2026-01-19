@@ -1,0 +1,2 @@
+<!-- Chunk 174 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 54 -->
+The Clear key has the same effect as the Delete command in the Edit menu: It removes the selection without putting it on the Clipboard. Not all keyboards have a Clear key, so don't require its use in your application.

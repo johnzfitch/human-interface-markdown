@@ -1,0 +1,4 @@
+<!-- Chunk 153 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 137 -->
+Immediately after text is dropped, it is shown highlighted at its destination.  
+When text is dropped in a destination that supports styled text, the dropped text should maintain its font, typeface, and size attributes. If the destination does not support styled text, the dropped text should assume the font, typeface, and size attributes specified by the destination insertion point.  
+Drag-and-drop operations involving text should support intelligent cut-and-paste rules, as explained in ["Intelligent Cut and Paste" \(page 151\)](#page-150-0).

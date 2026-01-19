@@ -1,0 +1,3 @@
+<!-- Chunk 430 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 120 -->
+Disclosure triangles should be in the closed position (that is, pointing to the right) by default. When the user clicks a disclosure triangle, it points down and the additional information is displayed.  
+Disclosure triangles in dialogs should have a label indicating what is disclosed or hidden. Ideally, the label changes depending on the position of the disclosure triangle. For example, when closed it might say, "Show advanced settings," and when open, "Hide advanced settings."

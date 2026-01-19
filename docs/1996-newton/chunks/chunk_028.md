@@ -1,0 +1,2 @@
+<!-- Chunk 28 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 50 -->
+In addition to the general user interface principles presented in the previous section, you should keep in mind the guidelines in this section as you design software specifically for the Newton system.

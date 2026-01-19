@@ -1,0 +1,4 @@
+<!-- Chunk 193 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 143 -->
+A user accesses system-wide preferences through the built-in Prefs application. Its main view lists preference categories, and tapping a category displays a slip containing relevant preference items. Your application can add categories and corresponding views that the Prefs application displays, but they must be for system-wide preferences rather than application-specific ones. Figure 8-26 shows the standard system-wide categories on a MessagePad 120.  
+**Figure 8-26** The Prefs application shows system-wide preference settings  
+![](images/_page_271_Picture_7.jpeg)

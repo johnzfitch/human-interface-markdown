@@ -1,0 +1,8 @@
+<!-- Chunk 73 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 397 -->
+In the Window menu, a **checkmark** should appear next to the active document's name. Checkmarks can also be used in other menus to indicate that the setting applies to the entire selection. You can use checkmarks for mutually exclusive attribute groups (the user can select only one item in the group, such as font size) or accumulating attribute groups (more than one item can be selected at once, such as Bold and Italic).  
+Use **dashes** to indicate that an attribute applies to only part of the selection. For example, if selected text has two styles applied to it, put a dash next to each style name. When it's appropriate, you can combine checkmarks and dashes in the same menu.  
+<span id="page-65-1"></span>**Note:** Include a menu command, such as Plain, for removing all formatting from mixed-state text.  
+<span id="page-65-0"></span>Use a **bullet** next to a document with unsaved changes, and a **diamond** for a document the user has minimized into the Dock. A minimized document with unsaved changes should have a diamond only. If the active window has unsaved changes, the checkmark should override the bullet in the Window menu.  
+**Figure 4-13** Symbols in menus  
+![](images/_page_65_Picture_6.jpeg)  
+For Cocoa applications, these symbols are managed by the Cocoa framework. In Carbon, if you use the standard Window menu, these symbols are managed automatically. Otherwise, use the SetItemMark function with a char parameter of kCheckCharCode for the active document, kBulletCharCode for a document with unsaved changes, and kDiamondCharCode for a minimized document.

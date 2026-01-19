@@ -1,0 +1,3 @@
+<!-- Chunk 166 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 128 -->
+When the user begins a selection in the visible part of a document then drags outside the opening, the document will scroll continuously to bring more of the selection into view, until the user releases the mouse button. The farther the user drags outside the opening, the greater each repeated change in the display. It's as if the application tries repeatedly to bring the point under the cursor into view.  
+As the document scrolls, the scroller knob is adjusted to reflect the current position of the display.

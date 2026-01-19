@@ -1,0 +1,13 @@
+<!-- Chunk 345 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 615 -->
+A **split view** groups together two or more other views, such as column or list views, and allows the user to adjust the relative width or height of those views. A split view includes a **splitter bar** between each of its subviews; for example, a split view with five subviews would have four splitter bars.  
+A split view can display its subviews either side-by-side (with vertical splitter bars) or stacked on top of each other (with horizontal splitter bars). A single split view does not display a combination of vertically and horizontally oriented subviews. However, a single window might contain different split views that each displaya different orientation.For an example of howthis might look, see[Figure](#page-298-2) [15-11](#page-298-2) (page 299).  
+The user can adjust the relative widths or heights of the subviews by dragging anywhere on the splitter bar. The splitter bar displays a circular dimple at its midpoint that indicates to the user that it is draggable. In addition, the entire splitter baris a hot zone. In otherwords,when the mouse pointer passes over any part of the splitter bar, the cursor changes to one of the move or resize cursors (shown in [Table](#page-142-2) 11-1 (page 143)).  
+If a user drags a splitter bar all the way to the edge of the split view (or to the next splitter bar), the subview should disappear but the splitter bar should not. The splitter bar should remain in view to remind the user where the hidden subview is and to make it easier for the user to uncover it.  
+The width of the splitter bar in a metal window is different from its width in a standard window. In a metal window, the width of a splitter bar is 7 pixels (as shown in [Figure](#page-277-0) 14-57 (page 278)).  
+<span id="page-277-0"></span>**Figure 14-57** A splitter bar in a metal window  
+![](images/_page_277_Picture_3.jpeg)  
+<span id="page-277-1"></span>In a standard Aqua window, the width of the splitter bar is 9 pixels, as shown in [Figure](#page-277-1) 14-58 (page 278).  
+**Figure 14-58** A splitter bar in an Aqua window  
+![](images/_page_277_Picture_6.jpeg)  
+**Carbon:** Split views are not available in Interface Builder.  
+<span id="page-278-3"></span>**Cocoa:** Split views are available in the Layout menu of Interface Builder selecting the subviews and choosing Layout > Make subviews of > Split View). To create one programmatically, use the NSSplitView class (note that splitter bars are horizontal by default).

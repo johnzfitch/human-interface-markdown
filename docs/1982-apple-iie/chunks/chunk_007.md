@@ -1,0 +1,4 @@
+<!-- Chunk 7 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 140 -->
+The Apple IIe has all 64K of its memory in RAM. A reset now affects the contents of what used to be the "language card" area of main memory.  
+- Do not require the use of the RESET key during program operation unless you are not concerned that the bank-switched RAM (former language card addresses) will be switched out.
+- Have BASIC or assembly language programs start up using the OPEN-APPLE CONTROL-RESET sequence rather than PR#s (slot s for the startup disk drive). This recommendation is related to the requirements of the new Apple 80-column text cards.

@@ -1,0 +1,2 @@
+<!-- Chunk 2 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 100 -->
+[Packaging](#page-76-1) 77 [Identify System Requirements](#page-76-2) 77 [Bundle Your Software](#page-77-0) 78 [Installation](#page-77-1) 78 [Use Internet-Enabled Disk Images](#page-77-2) 78 [Drag-and-Drop Installation](#page-77-3) 78 [Installation Packages](#page-78-0) 79 [General Installer Guidelines](#page-78-1) 79 [Setup Assistants](#page-79-0) 80 [Updating Installed Applications](#page-81-0) 82

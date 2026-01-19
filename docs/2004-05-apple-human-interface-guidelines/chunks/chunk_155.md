@@ -1,0 +1,9 @@
+<!-- Chunk 155 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 442 -->
+A **bevel button** has a beveled edge that gives the button a three-dimensional appearance.  
+<span id="page-159-1"></span>Bevel buttons are extremely versatile and can display text, icons, or other images. They can behave like standard push buttons or can be grouped and used like radio buttons or checkboxes. For example, bevel buttons could be used to graphically represent text-alignment options in a toolbar.  
+**Figure 10-6** Bevel buttons as radio buttons and push buttons  
+![](images/_page_159_Picture_13.jpeg)  
+Bevel buttons can have a menu attached, so the button behaves like a pop-up menu. See ["Icon](#page-169-0) [Buttons and Bevel Buttons With Pop-Up Menus"](#page-169-0) (page 170).  
+Even though bevel buttons can be used many different ways, be careful not to over use them; use other controls such as radio buttons, checkboxes, and push buttons when appropriate. Bevel buttons can have rounded or square corners. The square buttons work well for tiling together in groups (to be used as radio buttons, for example).  
+<span id="page-159-3"></span>**Carbon:** Both the rounded and square versions of the button are in Interface Builder. To create them programmatically, use the CreateBevelButtonControl function, or use the Appearance Manager function DrawThemeButton with the kThemeBevelButton constant.  
+**Cocoa:** Bevel buttons are available in Interface Builder. To create one programmatically use the NSButtonCell method setBezelStyle with NSRoundedBezelStyle as the argument. To make a square-cornered bevel button in Interface Builder, use the bevel button widget (NSButton) from the Controls palette. Select the button, and in the Attributes inspector, change its type to Square Button. See *Buttons* in Cocoa User Experience Documentation.

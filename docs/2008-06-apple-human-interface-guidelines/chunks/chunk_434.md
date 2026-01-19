@@ -1,0 +1,2 @@
+<!-- Chunk 434 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 111 -->
+Use a disclosure button when you need to provide additional options that are closely related to a specific list of choices. If you need to display additional information or functionality related to the contents of a window or a section of a window, or if you need a way to reveal subordinate items in a hierarchical list, use a disclosure triangle instead. See ["Disclosure](#page-319-1) Triangles" (page 320) for more information on this control.

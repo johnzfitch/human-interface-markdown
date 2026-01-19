@@ -1,0 +1,3 @@
+<!-- Chunk 35 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 169 -->
+Before you delve into the details about specific views and controls, it's helpful to gain a high-level understanding of the way these elements can work together and how users expect them to behave. This chapter introduces the views that comprise the building blocks of most applications, describing where they belong and touching on how they're used.  
+To learn more about the appearance, behavior, and usage guidelines of individual user interface elements, be sure to read the chapters following this one. Understanding how each user interface element is designed to be used helps you use it correctly in your application and, if appropriate, customize it to meet your needs.

@@ -1,0 +1,2 @@
+<!-- Chunk 6 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 65 -->
+Use Standard UI [Elements](#page-59-1) Correctly 60 Respond to Changes in Device [Orientation](#page-60-0) 61 Downplay File and [Document](#page-62-0) Handling 63 Be [Configurable](#page-63-0) If Necessary 64 Take Advantage of iOS [Technologies](#page-64-0) 65

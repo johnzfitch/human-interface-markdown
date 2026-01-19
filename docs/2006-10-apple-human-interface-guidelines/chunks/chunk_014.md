@@ -1,0 +1,2 @@
+<!-- Chunk 14 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+Anyone building applications for Mac OS X should read and become familiar with the contents of this document. This document combines information on the mechanics of designing a great user interface with fundamental software design principles and information on leveraging Mac OS X technologies.

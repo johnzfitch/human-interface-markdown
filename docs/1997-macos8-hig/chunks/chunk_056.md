@@ -1,0 +1,3 @@
+<!-- Chunk 56 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 169 -->
+This section describes the layout and spacing of controls in dialog boxes. In particular, this section discusses push buttons, bevel buttons, radio buttons, checkboxes, pop-up menu buttons, group boxes, edit text fields, progress indicators, disclosure triangles, static text fields, list boxes and Help buttons.  
+The Western reader's eye tends to move from the upper-left corner of the dialog box to the lower right. Put the initial impression that you want to convey in the upper-left area (such as the alert icon), and place the buttons that a user clicks in the lower right. Following this guideline makes it easier for users to identify what's important in a dialog box.

@@ -1,0 +1,2 @@
+<!-- Chunk 61 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 106 -->
+<span id="page-50-3"></span>When you use existing interface building blocks, use them in the standard way. Make sure you do not change the behavior of standard elements. When you need a new behavior, design a new element for it. If elements behave differently in different situations, the interface becomes unpredictable and therefore harder to figure out. This can adversely affect the user's confidence in your application.

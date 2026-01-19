@@ -1,0 +1,8 @@
+<!-- Chunk 129 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 360 -->
+An application gathers user input in areas called **input fields.** An input field generally consists of a text label, a value, and some means of changing an existing value or entering a new value. [Figure 6-1](#page-169-0) illustrates some typical input fields.  
+Input Fields **6-1**  
+<span id="page-169-0"></span>**Figure 6-1** Users enter and edit data in input fields  
+![](images/_page_169_Picture_3.jpeg)  
+Align field labels in neat columns, and be consistent in how you align field values with field labels (including picker labels). Line up every field's label with the field's displayed value, or line up every field's label with the dotted line on which a user edits the field value.  
+Use the bold style of the system font for text that is the voice of the application or system, such as field labels. Use the plain style of the casual font for text that represents the voice of a user, such as values the user enters or changes. The casual font contrasts well with the system font and it has tested very well with users. On an Apple MessagePad, use the 9- or 10-point size of the system font and the 10- or 12-point size of the casual font.  
+Field labels are usually capitalized like sentences. That is, you capitalize the first word but not any additional words unless they are proper nouns. Do not put a colon at the end of a field label. The consistent use of fonts make it clear which text is a label and which is a value.

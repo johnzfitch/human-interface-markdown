@@ -1,0 +1,2 @@
+<!-- Chunk 99 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 44 -->
+Print lets the user specify various parameters such as print quality and number of copies, then prints the document. The parameters apply only to the current printing operation.

@@ -1,0 +1,2 @@
+<!-- Chunk 32 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 68 -->
+All great apps begin with a great idea, but that doesn't mean that the path from idea to successful iOS app is an easy one. This chapter describes some strategies you can use to refine your idea, review your design options, and converge on an app that people will appreciate.

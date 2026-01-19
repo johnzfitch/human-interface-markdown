@@ -1,0 +1,8 @@
+<!-- Chunk 37 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 421 -->
+Nearly every user operation involvesthe manipulation of an object using an action. Typically, an action involves these three steps:  
+- **1.** Identify an object onscreen.
+- **2.** Select or designate the object.
+- **3.** Perform an action, either by invoking a command or by direct manipulation of the object.  
+These steps lead to two paradigms for manipulating objects: explicit actions and implied actions.  
+An **explicit action** clearly states the result of applying an action to an object. For example, menus list the commands that can be performed on the currently selected object. The name of each menu command clearly indicates what the action is; the current state of the command (such as dimmed or enabled) indicates whether that action is valid in the current context. Explicit actions don't require users to memorize the commands that can be performed on a given object.  
+An **implied action** conveysthe result of an action through visual cues or context. A good example of an implied action is a drag-and-drop operation: Dragging one object onto another object can have various results, but none of them are explicitly stated. Users rely on visual cues, such as changes to the appearance of the pointer or the destination, to predict the result of a drag operation. For implied actions to be useful, users must be able to recognize the objectsinvolved, the manipulation to be performed, and the consequences of the action. Typically, an app supports both explicit and implied actions, often for the same task. Depending on the mental model of a task, and the sophistication and expectations of the user audience, one action style can be more appropriate than the other.

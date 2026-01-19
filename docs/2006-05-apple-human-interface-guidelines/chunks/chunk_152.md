@@ -1,0 +1,2 @@
+<!-- Chunk 152 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 61 -->
+<span id="page-113-5"></span>Your application must determine whether to move or copy a dragged item after it is dropped on a destination. The appropriate behavior depends on the context of the drag-and-drop operation, as described in this section.

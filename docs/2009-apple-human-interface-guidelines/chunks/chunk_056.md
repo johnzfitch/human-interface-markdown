@@ -1,0 +1,5 @@
+<!-- Chunk 56 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 249 -->
+<span id="page-60-6"></span><span id="page-60-4"></span>As the center of the user's digital hub, Mac OS X is designed to be always ready to use. Because of energy saving systems, it's common for a user to leave a computer on most of the time. To allow for the fact that a computer may be on for hours, days, weeks, or even months at a time, you should consider the following guidelines:  
+- <span id="page-60-7"></span>● Avoid relying on a restart to get rid of cached or temporary files that may use up disk space. Be prepared to remove these files yourself when they are no longer needed.
+- Avoid relying on startup or login itemsto initiate user-level processes. If the user quits a processinitiated only at boot time, that process will be unavailable until the machine restarts.
+- Avoid requiring usersto reboot as a part of an installation orsoftware update unless absolutely necessary. Your application is probably not the only one they have open,so a restart can come as a rude interruption.

@@ -1,0 +1,5 @@
+<!-- Chunk 228 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 181 -->
+<span id="page-234-2"></span>A **dialog** is a window designed to elicit a response from the user. Many dialogs—the Print dialog, for example—permit the user to provide many responses at one time.  
+An **alert** is a dialog that appears when the system or an application needs to communicate information to the user. Alerts provide messages about error conditions or warn users about potentially hazardoussituations or actions.  
+<span id="page-234-1"></span>For information about using the keyboard to interact with dialogs,see "Keyboard Focus and [Navigation"](#page-109-0) (page 110).  
+<span id="page-234-5"></span>For specific design information on how to lay out dialogs, see "Layout [Examples"](#page-346-0) (page 347).

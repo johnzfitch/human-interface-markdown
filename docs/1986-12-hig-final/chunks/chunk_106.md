@@ -1,0 +1,2 @@
+<!-- Chunk 106 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 61 -->
+If the user starts typing when the selection is one or more characters, the characters that are typed replace the selection. The deleted characters don't go into the Clipboard, but the user can undo the replacement by immediately choosing Undo.

@@ -1,0 +1,4 @@
+<!-- Chunk 4 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 220 -->
+Naming New [Windows](#page-182-0) 183 [Positioning](#page-183-0) Windows 184 Moving [Windows](#page-185-0) 186  
+Resizing and Zooming [Windows](#page-186-0) 187 [Minimizing](#page-186-1) and Expanding Windows 187  
+Closing [Windows](#page-187-0) 188 Window [Layering](#page-187-1) 188 Scrolling [Windows](#page-191-0) 192 Utility [Windows](#page-193-0) 194 Inspector [Windows](#page-195-0) 196 Info [Windows](#page-196-0) 197 About [Windows](#page-197-0) 198 Fonts [Window](#page-198-0) and Colors Window 199 [Dialogs](#page-198-1) 199 Types of [Dialogs](#page-198-2) and When to Use Them 199 Dialog [Appearance](#page-203-0) and Behavior 204 Find [Windows](#page-206-0) 207 [Preferences](#page-207-0) Windows 208 The Open [Dialog](#page-208-0) 209 Dialogs for Saving, Closing, and [Quitting](#page-210-0) 211 The [Choose](#page-215-0) Dialog 216 [Printing](#page-217-0) Dialogs 218

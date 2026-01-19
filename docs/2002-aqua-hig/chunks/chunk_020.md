@@ -1,0 +1,9 @@
+<!-- Chunk 20 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 433 -->
+If your application requires an element or a behavior that doesn't already exist, or has a need that this document doesn't address, you can extend the set of controls using these guidelines, provided that the new element or behavior supports Apple's interface design principles.  
+Be very cautious about creating new interface elements because you may introduce unnecessary complexity. Make sure that you can't use existing elements or a combination of them to achieve the desired result. Usability testing is essential for determining whether a new element works.  
+If you must invent a new element or behavior, consider the following recommendations:  
+- **Build on the existing interface.** Begin with the already-defined visual and behavioral language that users are familiar with. Think about what the appearance means to people (the look) and how they expect elements to behave (the feel). Visual cues, such as the drop shadow and arrow on a pop-up menu, help people recognize how to use an element.
+- **Don't assign new behaviors to existing objects.** When you need a new behavior, design a new element for it, rather than changing the behavior of a standard element. If the same element behaves differently in different situations, the interface becomes unpredictable and harder to figure out.  
+#### **CHAPTER 1**  
+Introduction to the Aqua Human Interface Guidelines  
+<span id="page-26-3"></span><span id="page-26-0"></span>Products from Apple Computer are designed using a number of basic principles of human-computer interaction. This chapter presents these principles, and also points out what to consider for worldwide compatibility and universal access. Keep these considerations in mind as you design your product.

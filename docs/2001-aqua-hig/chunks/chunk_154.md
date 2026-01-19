@@ -1,0 +1,10 @@
+<!-- Chunk 154 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 438 -->
+<span id="page-142-2"></span>Keep these guidelines in mind when designing dialogs and windows:  
+- <span id="page-142-3"></span>■ In general, try for a more centered approach to dialog layout, as opposed to the strongly left-biased approach of the traditional Mac OS 9 dialog. Most of the sample layouts in this document illustrate the center-biased approach.
+- All spacing between dialog elements involves a multiple of 2 pixels—2, 4, 6, 8, and so on.
+- For most document windows that contain a single view (scrolling text or tables, for example), do not specify any space between the window edge and scroll bars (when using the Control Manager) or the frame of the view (in Interface Builder).
+- Try to maintain a 20-pixel space between the left and right edge of the window and any controls. Keep 20 pixels of space between the bottom edge and any controls; this can include the shadow of any push buttons in that area. Top spacing is determined by which controls are placed closest to the top of the  
+dialog. For example, Figure 8-5 (page 149) uses a radio button as the topmost control, so the spacing is set to 14 pixels. In contrast, [Figure 8-6 \(page 150\)](#page-149-1) uses a tab control as the topmost element, so the spacing is set to 12 pixels.  
+- For dialogs that contain a mix of controls, set 16 pixels of vertical space between groups of controls. Vertical spacing between controls is determined by the tallest control in the row.
+- Groups of controls should be separated by 20 pixels of vertical spacing and subgroups of controls within groups should be separated by 16 pixels.
+- <span id="page-143-1"></span>■ The minimum screen resolution a dialog needs to accommodate is 800 by 600. (Support for 640 by 480 is provided for games.)

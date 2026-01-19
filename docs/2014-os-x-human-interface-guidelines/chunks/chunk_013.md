@@ -1,0 +1,11 @@
+<!-- Chunk 13 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 537 -->
+All users need to use the keyboard sometimes, and some users prefer using the keyboard to using a mouse or trackpad. VoiceOver users often use only the keyboard.  
+![](images/_page_30_Picture_3.jpeg)  
+**Note:** OS X also provides full keyboard access mode, in which users can navigate through windows and dialogs. When this mode is active, other keyboard combinations may be reserved by default. (Users turn on full keyboard access in Keyboard preferences.)  
+**Provide keyboard-only alternatives.** Many people prefer using a keyboard to using a mouse or a trackpad. Others, such as VoiceOver users, need to use the keyboard. There are two main ways to support keyboard users:  
+- Respect the standard keyboard shortcuts and create app-specific shortcutsfor frequently used commands.
+- Add support for full keyboard access mode to all your custom UI elements. Full keyboard access mode allows usersto navigate and activate windows, menus, UI elements, and system features using the keyboard alone.  
+**Avoid overriding the standard keyboard shortcuts users are familiar with.** Users expect these shortcuts to mean the same thing in each app they use. The standard shortcuts are also listed in [Table](#page-299-0) 68-3 (page 300). Standard shortcuts are *not* marked with the Apple symbol shown here.  
+![](images/_page_31_Picture_6.jpeg)  
+In rare cases, it is acceptable to redefine a common keyboard shortcut. For example, if users spend most of their time in your app, it can make sense to redefine shortcuts that don't apply to the tasks your app enables. Or, if most of your users have used your app on a different platform, you might not want to change the keyboard shortcuts they already know.  
+**Don't feel that you must create a shortcut for every command in your app.** If you try to do this, you'll probably end up with some shortcutsthat are unintuitive, hard to remember, and physically difficult to perform. Instead, identify the most frequently used commandsin your app and create logicalshortcutsfor them. Examine [Table](#page-299-0) 68-3 (page 300) for characters and combinations that are not reserved by OS X or commonly used.

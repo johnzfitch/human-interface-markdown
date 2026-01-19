@@ -1,0 +1,2 @@
+<!-- Chunk 192 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 102 -->
+<span id="page-175-6"></span>Mac OS X reserves certain keys and keyboard combinations for use by the system. These combinations, listed in Table 9-3 through Table 9-6, affect all applications and should not be used for any other function. To maintain a consistent and familiar user experience across applications, the keyboard equivalents listed in all other tables in this document are strongly recommended.

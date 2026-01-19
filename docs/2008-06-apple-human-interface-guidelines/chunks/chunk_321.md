@@ -1,0 +1,2 @@
+<!-- Chunk 321 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+A **scope button** is used in a scope bar to specify the scope of an operation, such as search, or to save or manipulate a set of scoping criteria. These two complementary functions are supported by two styles of scope buttons, the recessed button and the round rectangle button, respectively (see "Scope Button Usage" for examples of these controls). See ["Scope](#page-200-0) Bars" (page 201) for more information about scope bars.

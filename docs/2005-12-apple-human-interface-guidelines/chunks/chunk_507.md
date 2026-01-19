@@ -1,0 +1,2 @@
+<!-- Chunk 507 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 34 -->
+A window's user-defined size and position. See also ["standard state"](#page-325-1) (page 326); ["zoom button"](#page-326-2) (page 327).

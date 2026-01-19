@@ -1,0 +1,4 @@
+<!-- Chunk 112 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 139 -->
+The commands in the Style menu are Plain Text, Bold, Underline, Italic, Outline, and Shadow. The first three are reasonably implemented on most printers and should be considered standard on Apple. All the commands except Plain Text are accumulating attributes; the user can choose any combination. They are also toggled commands; a command that's in effect for the current selection is preceded by a check mark. Plain Text cancels all the other choices. Figure 22 shows these styles. II software.  
+![](images/_page_118_Picture_5.jpeg)  
+Figure 22. Style Menu

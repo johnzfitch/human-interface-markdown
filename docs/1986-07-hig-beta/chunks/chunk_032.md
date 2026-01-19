@@ -1,0 +1,2 @@
+<!-- Chunk 32 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 110 -->
+People with cognitive or verbal impairments are greatly helped by clear and simple language, icons with obvious meanings, and carefully designed displays. Don't make the user's success depend on his or her ability to *remember* many different things. Another way to make computers easier for both disabled people and others is to provide macros, making it possible to combine a number of keystrokes and mouse movements into *one* keystroke.

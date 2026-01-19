@@ -1,0 +1,24 @@
+---
+chunk_index: 1302
+ref: "1974a7d48437"
+id: "1974a7d48437ae1fd932aa17e601ee4d793314713a19121713e5b7e5eae21ddf"
+slug: "full-document--human-computer-interaction"
+path: "marker/1986-12 Human Interface Guidelines (Final Draft)/full_document.md"
+kind: "markdown"
+lines: [543, 550]
+token_estimate: 258
+content_sha256: "a360fc1974fa8fef3f2321d2a249508499cb711dd44c2f0d4f60d6600dc4dab6"
+compacted: false
+heading_path: ["Human-computer interaction"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# Human-computer interaction
+
+Central to the Apple Desktop Interface is direct manipulation, by the user, of graphical objects on the screen. The mouse, or other pointing device, lets the user point to objects, select objects with a click of the mouse button, move objects about, and choose actions to apply to the selected objects. Direct physical control over one's work environment puts the user in command and optimizes the "see and point" style of interface.
+
+**Pointing** is central to this interface, as it allows users to directly indicate what elements on the screen are relevant to their plans. Once an item is pointed to, it can be **selected** for action; until something is selected, pointing serves simply to browse available items.
+
+The **Keyboard** is not then the central element in the Apple Desktop Interface, as it is in most computer systems. Of course, the keyboard is essential for text entry, and can provide alternative ways to accomplish some tasks, but it's not part of the direct manipulation interface.

@@ -1,0 +1,8 @@
+<!-- Chunk 72 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 371 -->
+Users, and not apps, place menu bar extras in the menu bar. Typically, users decide to hide or show a menu bar extra by changing a setting in the appropriate preferences pane.  
+If there isn't enough room in the menu bar to display all menus, OS X automatically removes menu bar extras to make room for app menus. Similarly, if there are too many menu bar extras, OS X may remove some of them to avoid crowding app menus.  
+**Don't rely on the presence of menu bar extras.** The system might change which menu bar extras are visible, and you can't be sure which menu bar extras users have chosen to show or hide.  
+**Avoid creating a popover that emerges from a menu bar extra.** Popovers emerge from controls and specific window areas. For guidelines on how to use a popover in your app, see [Popover](#page-216-1) (page 217). A menu bar extra can open a menu, such as the Keyboard & Character Viewer menu.  
+![](images/_page_103_Picture_2.jpeg)  
+**Use a template image to represent a menu bar extra.** In General system preferences, users can change the menu bar (and Dock) to a dark appearance. If you don't use a template image to represent your menu bar extras, they might not look good in both menu bar appearances.  
+**Consider alternatives to creating a menu bar extra.** For example, you can use the Dock menu functions to open a menu from your app's icon in the Dock. For some guidelines on how to create a Dock menu, see [Dock](#page-110-0) [Menus](#page-110-0) (page 111).

@@ -1,0 +1,4 @@
+<!-- Chunk 64 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 142 -->
+![](images/_page_88_Figure_4.jpeg)  
+**If necessary, recenter dominant visual elements.** After adjusting backgrounds or views to accommodate the additionalspace, you might want to make sure that principal elements of your UI are still centered appropriately. One way to do this is to first stretch a region near the top of the screen and then adjust the centering of the elements. For example, Compass on iPhone 5 maintains the user's focus on the compass and heading by keeping these elements centered on the extended background.  
+![](images/_page_89_Figure_2.jpeg)

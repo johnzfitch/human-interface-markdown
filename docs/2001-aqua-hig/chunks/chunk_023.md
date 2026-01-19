@@ -1,0 +1,2 @@
+<!-- Chunk 23 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 116 -->
+Direct manipulation allows people to feel that they are directly controlling the objects represented by the computer. According to this principle, an onscreen object should remain visible while a user performs an action on it, and the impact of the action should be immediately visible. For example, a user moves a file by dragging its icon from one location to another. The drag-and-drop feature enables users to drag selected text directly into another document.

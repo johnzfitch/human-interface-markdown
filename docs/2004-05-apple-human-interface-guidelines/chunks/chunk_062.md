@@ -1,0 +1,7 @@
+<!-- Chunk 62 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 308 -->
+An **ellipsis character** (…) after a menu item or button label indicates to the user that additional information is required to complete a command. You should use an ellipsis in the following cases:  
+- An action that requires further user input to complete or presents an alert allowing the user to cancel the action. Examples include Find, Go To, Open, Page Setup, and Print.
+- An action that opens a settings window. The main function of settings windows is to allow the user to change some aspect of the application, not the document content. Examples include Set Title, Preferences, and Options.  
+Don't use an ellipsis in the following cases:  
+- An action that requires no further user input to complete and does not present an alert. Often the item to be acted upon is already selected. Examples include New, Cut, Bold, and Quit.
+- An action that opens an informational, accessory, or tool window. These windows can be implemented as either utility windows (as in the case of a color palette) or modeless windows. These windows provide tools that help create or manage the content in the main window and are frequently left open to assist in accomplishing the task of the main window. Examples include Get Info and Show Tools.

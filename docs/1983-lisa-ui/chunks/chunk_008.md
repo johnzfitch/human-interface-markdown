@@ -1,0 +1,2 @@
+<!-- Chunk 8 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 109 -->
+The Lisa user interface has several different styles of interaction between the user and the application. In the first release applications, four styles can be identified: text, graphics, tables, and forms. Each of these styles is appropriate for different situations. Some applications use one style almost exclusively; others use different styles in different panels; still others are hydrids, using two or more styles simultaneously.

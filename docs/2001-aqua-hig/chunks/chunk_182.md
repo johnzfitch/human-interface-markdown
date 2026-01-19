@@ -1,0 +1,2 @@
+<!-- Chunk 182 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 92 -->
+Apple keyboards have four arrow keys: Up Arrow, Down Arrow, Left Arrow, and Right Arrow. They can be used alone or in combination with other keys. Keyboard combinations using the arrow keys should be used only for shortcuts for mouse actions. It is *never* appropriate to implement only a keyboard combination and not provide a mouse-based way to perform the same action.

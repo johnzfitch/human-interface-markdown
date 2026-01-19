@@ -1,0 +1,3 @@
+<!-- Chunk 11 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 157 -->
+Animation 336 Cognitive Psychology and Human Factors 336 Color 337 Environmental Design 338 Graphic and Information Design 339 Graphic Design and Drawing 339 Icons and Symbols 339 Typography 340 History of Human Interface 340 Human-Computer Design 341 Consistency 341 Direct Manipulation 341  
+Menus 342 Metaphors 342 Product Design 343 Usability Testing 343 User-Centered Design 344 Human-Computer Interaction 344 Language 346 Programming 346 Special Applications 347 Collaborative Computing 347 Hypertext 347 Multimedia 348 Online Documentation and Online Help 348 Universal Access 349 Visual Thinking 349 Worldwide Software 350

@@ -1,0 +1,4 @@
+<!-- Chunk 130 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 189 -->
+Pressing the Forward Delete (labeled Del) key deletes the character *after* the insertion point, shifting everything following the removed character one position back. The effect is that the insertion point remains stationary while it "vacuums" the character or selection ahead of it.  
+If something is selected when Fwd Del is pressed, it has the same effect as pressing Delete (Backspace) or choosing Delete from the Edit menu.  
+You can support Option–Fwd Del to delete the next larger semantic unit, as described in ["Moving](#page-91-0) [the Insertion Point"](#page-91-0) (page 92), but deleting more than one word at a time is inadvisable. Users prefer to select large amounts of text with the mouse so they have more control over what they're deleting.

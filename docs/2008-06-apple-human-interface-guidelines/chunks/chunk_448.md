@@ -1,0 +1,2 @@
+<!-- Chunk 448 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 62 -->
+**Control sizes**: Split views are available with a horizontal splitter (the views are stacked one above another) or a vertical splitter (the views are side by side), and splitters can be either zero-width (1 pixel wide) or "thick" (9 pixels wide).

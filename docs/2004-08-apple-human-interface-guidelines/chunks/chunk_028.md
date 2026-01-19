@@ -1,0 +1,15 @@
+<!-- Chunk 28 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 709 -->
+There are 15 nondedicated function keys on desktop Macintosh keyboards (F1 through F15). Default function key combinations are listed in *Making Carbon Applications Accessible to Users With Disabilities*. Desktop Macintosh keyboards provide the following six dedicated function keys with standard behaviors. Because not all Macintosh computers have all function keys, don't rely on these keys for critical keyboard shortcuts. For example, portable computers usually have 12 function keys (F1 through F12), not 15.  
+#### <span id="page-26-4"></span><span id="page-26-0"></span>**Help**  
+<span id="page-26-2"></span>Pressing the Help key (or Command-? or Command-/) invokes the application's help in Help Viewer.  
+#### **Forward Delete (Fwd Del)**  
+Pressing the Forward Delete (labeled Del) key deletes the character *after* the insertion point, shifting everything following the removed character one position back. The effect is that the insertion point remains stationary while it "vacuums" the character or selection ahead of it.  
+If something is selected when Fwd Del is pressed, it has the same effect as pressing Delete (Backspace) or choosing Delete from the Edit menu.  
+<span id="page-26-1"></span>You can support Option–Fwd Del to delete the next larger semantic unit, as described in ["Moving](#page-23-0) [the Insertion Point"](#page-23-0) (page 24), but deleting more than one word at a time is inadvisable. Users prefer to select large amounts of text with the mouse so they have more control over what they're deleting.  
+#### **Home, End**  
+Pressing the Home key is equivalent to moving the scrollers all the way to the top and to the left. In a text document, for example, pressing Home scrolls to the beginning of the document; in a spreadsheet, it may scroll to the beginning of the spreadsheet or to the beginning of a row. These keys should also work in scrolling lists to display the top or bottom of the list.  
+End is the opposite of Home: It scrolls to the end of a document.  
+If the beginning or end of the document is already reached, pressing Home or End produces a system alert sound. Pressing the Home or End key has no effect on the location of the insertion point or selected data.  
+#### <span id="page-27-5"></span>**Page Up, Page Down**  
+Pressing Page Up or Page Down scrolls the document up or down one page. If an entire page can't be displayed in the window, these keys first scroll incrementally up or down, until the top or bottom of the page is visible, before scrolling to the next page. These keys should also work in scrolling lists.  
+<span id="page-27-4"></span>If the beginning or end of the document is reached, pressing Page Up or Page Down produces a system alert sound. Pressing the Page Up or Page Down key has no effect on the location of the insertion point or selected data.

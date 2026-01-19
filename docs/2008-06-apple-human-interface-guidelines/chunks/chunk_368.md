@@ -1,0 +1,3 @@
+<!-- Chunk 368 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 154 -->
+You can create an Action menu in Interface Builder. If you need an Action menu control for a toolbar, select a rectangular-style toolbar control (see ["Rectangular-Style](#page-249-0) Toolbar Controls" (page 250) for more information about this control). In the Attributes pane of the inspector, specify NSActionTemplate for the image.  
+<span id="page-285-2"></span><span id="page-285-1"></span><span id="page-285-0"></span>If you need an Action menu control at the bottom of a source list or list view, you can use a gradient button (see ["Gradient](#page-264-0) Buttons" (page 265) for information on this control).

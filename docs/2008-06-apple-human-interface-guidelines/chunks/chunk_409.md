@@ -1,0 +1,2 @@
+<!-- Chunk 409 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 114 -->
+Use a text input field when you need to get information from the user. When you receive user input, be sure to perform appropriate edit checks. For example, if the only legitimate value for a field is a string of digits, an application should issue an alert if the user types characters other than digits. In most cases, the appropriate time to check the data in the field is when the user clicks outside the field or presses the Return, Enter, or Tab key.

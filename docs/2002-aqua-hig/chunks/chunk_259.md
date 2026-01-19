@@ -1,0 +1,8 @@
+<!-- Chunk 259 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 331 -->
+<span id="page-226-6"></span><span id="page-226-4"></span><span id="page-226-3"></span>When an item is dragged from an application or a Finder window to the desktop, the Finder creates a clipping that contains the data in the dragged item. If discontinuous selections are dragged from a source to the Finder, a separate clipping is created for each selected item.  
+<span id="page-226-5"></span>Your application should provide a number of representations (such as TEXT, PICT, and native formats) to ensure flexibility with different subsequent destinations. Regardless of which representations are stored, round-trip data integrity should be preserved; a clipping dragged back into its source should be identical to the original item.  
+Clippings **227**  
+#### **CHAPTER 12**  
+Drag and Drop  
+<span id="page-228-3"></span><span id="page-228-0"></span>Although Mac OS X uses graphics as a primary means of user-computer interaction, text is still very prevalent throughout the interface for such things as button names, pop-up menu labels, dialog messages, and onscreen help. Using text consistently and clearly is a critical component of interface design.  
+Your product team should include a skilled writer who is responsible for reviewing all user-visible onscreen text as well as creating the instructional documentation.

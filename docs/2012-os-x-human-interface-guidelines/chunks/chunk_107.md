@@ -1,0 +1,20 @@
+<!-- Chunk 107 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 969 -->
+<span id="page-142-1"></span>There are a few standard symbols you can use to provide additional information in menus. These symbols are used consistently throughout OS X, so users are accustomed to their meaning.  
+Table 6-1 lists the standard symbols and what they mean.  
+**Table 6-1** Standard symbols for use in menus  
+| Symbol | Meaning                                                                                                                                                    |  |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+|        | In<br>the<br>Window<br>menu,<br>the<br>active<br>document;<br>in<br>other<br>menus,<br>a<br>setting<br>that<br>applies<br>to<br>the<br>entire<br>selection |  |
+|        | A<br>setting<br>that<br>applies<br>to<br>only<br>part<br>of<br>the<br>selection                                                                            |  |
+|        | A<br>window<br>with<br>unsaved<br>changes<br>(typically,<br>when<br>Auto<br>Save<br>is<br>not<br>available)                                                |  |  
+| Symbol | Meaning                                                                                                    |
+|--------|------------------------------------------------------------------------------------------------------------|
+|        | In<br>the<br>Window<br>menu,<br>a<br>document<br>that<br>is<br>currently<br>minimized<br>in<br>the<br>Dock |  
+To use symbols appropriately in your menus, follow these guidelines.  
+**Avoid using custom symbols in a menu.** If you use other, arbitrary symbols in menus, users are unlikely to know what they mean. Also, additional symbols tend to add visual clutter.  
+**Use a checkmark to indicate that something is currently active.** In an app's Window menu, a checkmark appears next to the active window's name. In other menus, a checkmark can indicate that a setting applies to the entire selection. As described in ["Providing](#page-138-0) Toggled Menu Items" (page 139), you can use checkmarks within mutually exclusive attribute groups (the user can select only one item in the group, such as font size) or accumulating attribute groups (more than one item can be selected at once, such as Bold and Italic).  
+**Use a dash to indicate that an attribute applies to only part of the selection.** For example, if the selected text has two styles applied to it, you can put a dash next to each style name. Or, you can display a checkmark to every style currently in effect. When it's appropriate, you can combine checkmarks and dashes in the same menu.  
+**Note:** If you allow users to apply several types of styles to selected text, it can be convenient to include a menu command,such as Plain,so that users can remove all formatting using one command.  
+**As much as possible, use a dot only when Auto Save is not available.** When you support Auto Save, users should not have to be aware of the saved state of their documents. However, you might need to display a dot if, for example, the user's disk is full and Auto Save cannot complete. For more information about supporting Auto Save in your app, see "Auto Save and [Versions"](#page-102-0) (page 103).  
+**Allow the diamond and the checkmark to replace the dot(if itis used).** A minimized document with unsaved changesshould have a diamond only. If the active window has unsaved changes, the checkmark should override the dot in the Window menu.  
+**Use actual text styles only in a Style menu.** If you have a Style menu, you can display menu itemsin the actual styles that are available, so that users can see what effect the menu item has. Don't use text styles in menus other than a Style menu. Also, it would not make sense to apply a list or indentation style to a menu item.

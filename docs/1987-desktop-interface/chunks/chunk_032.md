@@ -1,0 +1,26 @@
+<!-- Chunk 32 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 1234 -->
+The standard pointing device is the one-button mouse. A pointer on the screen follows the motion of the mouse. Other devices—including track balls, joysticks, and styluses—can also perform the functions of a mouse.  
+#### Mouse actions  
+Simply moving the mouse just moves the pointer. All other events—changes to the information displayed on the screen—take place only when the **mouse button** is used.  
+The user can do three things with the mouse button: click, press, and drag. Clicking happens when the user presses down on the mouse button and quickly releases it while the mouse remains stationary. Pressing means holding the mouse button down for a time while the mouse remains stationary. Dragging involves pushing down the mouse button, moving the mouse (and the pointer) to a new location, and then releasing the mouse button. With these few basic actions, the user can perform a wide range of tasks in a consistent way.  
+#### **Pointers**  
+Pointers on the screen assume different shapes, according to the context of the application, giving users additional feedback about their interactions with the computer (Table 2-1). The changing pointer is one of the few truly *modal* aspects of the Apple Desktop Interface: a given action may yield quite different results, depending on the shape of the pointer at the time. It is essential that the user can easily distinguish the different modes.  
+Three common pointer shapes are the arrow pointer, the I-beam, and the wristwatch.  
+The **arrow pointer** is the general-purpose pointer for selecting icons, pulling down menus, and choosing menu items.  
+To move the insertion point (the blinking vertical bar that shows the user where text can be entered), the user moves the **I-beam pointer** to the new location and clicks the mouse button. For the user, this is less awkward, more natural, and much faster than a cursor-based system. Unlike cursors moved by arrow keys, the insertion point is moved directly to a new location without intermediate states.  
+The wristwatch pointer indicates that user input is disabled while the computer is doing something that will take a few moments.  
+Table 2-1 Pointers  
+| Pointer | Name                  | Used<br>for                                                                                            |
+|---------|-----------------------|--------------------------------------------------------------------------------------------------------|
+| 1^      | Arrow                 | menu<br>and<br>bar<br>box,<br>desktop<br>other<br>controls,<br>size<br>bar,<br>bar,<br>Scroll<br>title |
+| I       | I-beam                | and<br>Selecting<br>inserting<br>text                                                                  |
+| +       | Crosshairs            | Drawing,<br>or<br>graphic<br>shrinking,<br>stretching<br>objects                                       |
+| <§j     | Plus<br>sign          | an<br>Selecting<br>in<br>fields<br>array                                                               |
+| £>      | Wristwatch            | Showing<br>operation<br>lengthy<br>progress<br>that<br>a<br>is in                                      |
+| ^       | Spinning<br>beachball | Showing<br>system<br>during<br>lengthy<br>operation<br>that<br>the<br>a<br>alive<br>is still           |  
+#### Selecting  
+Before performing an operation on an object (or several objects), the user must select it to distinguish it from other objects. This selection is typically done by clicking on an object, or by dragging through a range of objects or a portion of text.  
+Selecting the object of an operation before identifying the operation itself is a fundamental characteristic of the Apple human interface, and has been referred to earlier as the "noun-verb" paradigm. The paradigm matches the syntax that we normally use in ordinary noncomputer actions: "Hey, you..." (selection) "...do this" (choose an action).  
+There is always a visual cue to show that something has been selected. For example, text and icons usually appear in inverse video when selected. The important thing is that there should always be immediate feedback, so the user knows that clicking or <sup>i</sup> dragging the mouse had an effect.  
+Separating the selection and action functions gives the user considerable power and flexibility. Selecting before committing to an action means that the user can explore land change direction without executing inappropriate or time-consuming routines. ISimply selecting an object—for example, <sup>a</sup> document—doesn't alter the contents of [this object. Making a selection needn't commit the user to anything; there is no |penalty for making an incorrect selection.  
+In most cases, the user can undo any selection by making any other selection. When is is not possible, either use an alert box to warn the user, or implement cancel or indo commands to let the user gracefully back out of undesired situations.

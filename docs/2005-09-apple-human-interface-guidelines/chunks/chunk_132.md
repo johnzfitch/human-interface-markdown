@@ -1,0 +1,2 @@
+<!-- Chunk 132 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 28 -->
+<span id="page-104-0"></span>See ["Extending](#page-92-2) Text Selection With the Shift and Arrow Keys" (page 93).

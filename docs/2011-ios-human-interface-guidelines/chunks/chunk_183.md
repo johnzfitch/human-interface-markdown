@@ -1,0 +1,3 @@
+<!-- Chunk 183 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 125 -->
+Use a switch in a table row to give users two simple, diametrically opposed choices that determine the state of something, such as yes/no or on/off. Use a predictable pair of values so that users don't have to slide the control to discover what the other value is.  
+<span id="page-133-1"></span>You can use a switch control to change the state of other UI elements in the view. Depending on the choice users make, new list items might appear or disappear, or list items might become active or inactive.

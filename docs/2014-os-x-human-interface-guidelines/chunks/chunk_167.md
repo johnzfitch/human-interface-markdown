@@ -1,0 +1,4 @@
+<!-- Chunk 167 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 188 -->
+Dashboard gives users a way to get information and perform simple tasks quickly and easily. Appearing and disappearing with a single keystroke or gesture, Dashboard presents a default or user-defined set of widgets in a format reminiscent of a heads-up display, as shown below.  
+![](images/_page_274_Picture_2.jpeg)  
+Each Dashboard component, called a **widget**, is small, visually appealing, and narrowly focused on the task it enables. You can develop a standalone widget that performs a lightweight task or a widget whose task is actually performed by your larger, more functional app. In-depth instructionsfor how to implement a Dashboard widget, including plentiful code examples and UI guidance, are available in *Dashboard Programming Topics*.

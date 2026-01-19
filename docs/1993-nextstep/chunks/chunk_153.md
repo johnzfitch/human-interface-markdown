@@ -1,0 +1,17 @@
+<!-- Chunk 153 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 856 -->
+![](images/_page_141_Picture_1.jpeg)  
+The Windows menu contains commands affecting the windows that belong to the application. You can replace this menu with one more suitable for your application. For example, an application that has multiple windows per document might have its own tools to organize the windows.  
+| Command            | Action                                                                                                                                                                                                                                                                          |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arrange in Front   | Stacks and offsets all the application's document windows<br>(those that can become the main window and are created using<br>Open and New commands) at the front of the screen. While this<br>command is recommended, it isn't mandatory.                                       |
+| Miniaturize Window | Miniaturizes the key window (if it has a miniaturize button).<br>The affected window need not be a document window.                                                                                                                                                             |
+| Close Window       | Closes the key window (if it has a close button). If the window<br>is the last one (or only one) open displaying a document, it also<br>closes the document, just as the Close command would.<br>(See "The Document Menu," earlier, for a description of the<br>Close command.) |  
+The commands in this menu bring windows to the front of the screen and, in the case of the last two commands, remove them. Other kinds of commands, even if they affect windows in some way, should be located elsewhere in the menu hierarchy.  
+You can replace Arrange in Front with an Arrange command that brings up a panel or menu giving the user more choices concerning which windows to arrange and how they should be tiled or stacked.  
+#### **Programming Note: The Windows Menu**  
+This menu and all of its functionality are provided for you. All you have to do is drag the Windows command into your main menu from the Palettes window of Interface Builder.  
+The commands inserted below Arrange in Front list document windows. Each command brings one window to the front and, if possible, makes it the key window. The Application Kit creates this list and dynamically adds a command for each document window when it's opened. An example of these dynamically created commands is below. Because the Application Kit creates the command names from the title bar of each window, improperly titled windows can lead to the Windows menu becoming confusing or too wide. Window titles are discussed in "Choosing a Title" in Chapter 4.  
+![](images/_page_142_Picture_1.jpeg)  
+#### The Services Menu  
+![](images/_page_142_Picture_3.jpeg)  
+This required menu contains commands that invoke services provided by the system or by other applications. All the commands in the menu are placed there by the Application Kit from information furnished by service providers (so there's no need to specify where commands should be added).

@@ -1,0 +1,5 @@
+<!-- Chunk 353 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 223 -->
+A **segmented control** is divided into two or more segments and behaves as a collection of radio buttons or checkboxes. Like a push button, a segmented control initiates an immediate action—that is, when the user clicks one of the segments, something should happen.  
+Mac OS X offers different styles of segmented controls for use in different window areas. The segmented control described in this section is suitable for use in the window body; it should not be used in the window-frame areas. For information on styles of segmented controls that are available for use in the window-frame areas(the toolbar and the bottom bar),see ["Window-Frame](#page-248-1) Controls" (page 249). Figure 15-26 shows an example of segmented controls in a window-body area.  
+<span id="page-277-0"></span>**Figure 15-26** Segmented controls can be used as radio buttons  
+![](images/_page_277_Figure_4.jpeg)

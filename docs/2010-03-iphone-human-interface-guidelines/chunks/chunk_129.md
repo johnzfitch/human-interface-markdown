@@ -1,0 +1,4 @@
+<!-- Chunk 129 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 196 -->
+In addition, you can display a scope bar below the search bar, which contains buttons that users tap to select a scope for the search. The scope bar adopts the same appearance you specify for the search bar, and you supply custom titles for the scope buttons.  
+The scope bar displays below the search bar, regardless of orientation, unless you use a search display controller in your code (see *UISearchDisplayController Class Reference* for more information). When you use a search display controller, the scope bar is displayed within the search bar to the right of the search field when the device is in landscape orientation (in portrait orientation, it's below the search bar).  
+To learn more about using a search bar and scope bar in your code, see *UISearchBar Class Reference*.

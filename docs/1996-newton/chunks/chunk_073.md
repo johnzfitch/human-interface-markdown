@@ -1,0 +1,15 @@
+<!-- Chunk 73 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 742 -->
+Although text buttons and picture buttons look different, their basic behavior is the same. Both types of buttons provide similar feedback to the user, and an application disables both types the same way.  
+#### Button Feedback 3  
+When a user taps a text button or a picture button, the button highlights (inverts) to give visual feedback to the user that the item has been tapped. Figure 3-9 shows how several buttons look when highlighted.  
+![](images/_page_102_Figure_6.jpeg)  
+A button stays highlighted as long as the user continues to press the pen on that button. When the user lifts the pen from the highlighted button, the action associated with the button takes place. Your application must continue to highlight the button until the action is complete. In the case of a button that displays an ordinary slip (not a status slip), the button stays highlighted only until the slip appears. In the case of a button that pops up a picker (described in [Chapter 4, "Pickers"\)](#page-126-0), the button stays highlighted as long as any action initiated by the picker is in progress.  
+Keeping the button highlighted provides the minimal feedback to the user that Newton is still working. When an action begun by a button takes more than a few seconds, your application should provide more feedback by displaying a status slip that names the action underway (as described in ["Status Slips" on](#page-63-0)  [page 2-20](#page-63-0)).  
+If your application uses buttons made from system protos, the system automatically adjusts button highlighting in response to a user's pen movements. When a user slides the pen away from a highlighted button while still pressing  
+Buttons **3-9**  
+<span id="page-103-0"></span>the pen on the screen, the button becomes unhighlighted. The button tracks the pen movement as long as the user keeps pressing the pen. If the user slides the pressed pen back over the button, it is highlighted again. If the user lifts the pen while the pointer is not over the button, nothing happens. The display of electronic ink is turned off while the pen is tracked. A button is not highlighted if a user initially presses the pen outside the button and slides the pressed pen over the button.  
+#### Button States 3  
+Text buttons and picture buttons are never dimmed (displayed in gray instead of black) in a Newton application. If a button is not available, your application should make it disappear. If you want it to be available, your application should make it reappear. Figure 3-10 shows how to disable a Newton button.  
+**Figure 3-10** A button disappears when it isn't available  
+![](images/_page_103_Figure_6.jpeg)  
+<span id="page-104-0"></span>A button can disappear and reappear with no visual effect or with a subtle visual effect such as zoom closed and zoom open. Generally, buttons should not flash as they appear. Visual effects that attract the eye virtually compel immediate action, as if they were shouting, "Tap me now!"

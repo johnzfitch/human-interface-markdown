@@ -1,0 +1,2 @@
+<!-- Chunk 72 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 76 -->
+This chapter covers relevant features of Mac OS X that can influence the design of your software. These features are not always associated with a single technology or developer type but sometimes apply to development in general. You should be familiar with these guidelines before developing your software.

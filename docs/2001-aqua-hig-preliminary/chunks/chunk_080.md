@@ -1,0 +1,2 @@
+<!-- Chunk 80 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 110 -->
+<span id="page-89-5"></span>**Note:** The Control Manager (Carbon) and Application Kit (Cocoa) include smaller versions of some controls, for use in utility windows when necessary. The specifications listed here are for the standard size controls. If a small version of a control is available, it's shown (with its dimensions) in the following sections. For more information, see ["Using Small Versions of Controls" \(page 123\)](#page-122-2).

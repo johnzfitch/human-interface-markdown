@@ -1,0 +1,4 @@
+<!-- Chunk 151 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 202 -->
+Typically, Finder Sync extensions are provided by apps that synchronize the contents of a local folder with a remote data source. People use a Finder Sync extension to check on the sync status of their files and manage folder contents within a Finder window.  
+A Finder Sync extension provides badges that indicate the sync status of each item, and contextual menus that contain folder-management menu items, such as Copy and Open. In addition, a Finder Sync extension can provide custom buttonsfor the Finder toolbar that can perform global actions,such as opening a monitored folder or forcing a sync operation.  
+**Use badges sparingly.** For example, it can be better to show users which files are not synced if the alternative is to clutter the Finder window by badging every file with your "synced" badge.

@@ -1,0 +1,4 @@
+<!-- Chunk 237 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 195 -->
+The **tab view** provides a convenient way to present information in a multipane format. The tab control displays horizontally centered across the top edge of a content area.  
+<span id="page-195-3"></span>The content area below the control is called a **pane.** In a window with a tab view, you can use other controls, such as push buttons and text entry fields.The controls can be global—affecting the settings of all panes—or specific to an individual pane; make it clear through labeling and placement (within or outside of a pane's boundary) whether a control affects one pane or all panes.  
+A segmented control can provide a way to switch between panes. It looks similar to a tab view, but it is not attached to the panes. See ["Segmented Control"](#page-167-0) (page 168).

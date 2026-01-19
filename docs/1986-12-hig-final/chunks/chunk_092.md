@@ -1,0 +1,4 @@
+<!-- Chunk 92 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 203 -->
+Various text-editing programs treat empty documents in different ways. Some assume that an empty document contains no characters, in which case clicking at the bottom of a blank screen causes the insertion point to appear at the top. In this situation, Down Arrow cannot move the insertion point into the blank space (because there are no characters there).  
+Other applications treat an empty document as a page of space characters, in which case clicking at the bottom of a blank screen puts the insertion point where the user clicked and lets the user type characters there, overwriting the spaces. In this sort of application, Down Arrow moves the insertion point straight down through the spaces.  
+Whichever of these methods you choose for your application, it's essential that you be consistent throughout.

@@ -1,0 +1,5 @@
+<!-- Chunk 19 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 184 -->
+During the design process, if you discover problems with your product design, you might consider applying the 80 percent solution—that is, designing your software to meet the needs of at least 80 percent of your users. This type of design typically favors simpler, more elegant approaches to problems.  
+If you try to design for the 20 percent of your target audience who are power users, your design may not be usable bythe other 80 percent of users. Even though that smallergroup of power users is likely to havegood ideas forfeatures, the majorityofyour user base may not thinkin the sameway. Involving a broad range of users in your design process can help you find the 80 percent solution.  
+#### **C HAPTER 1**  
+The Design Process

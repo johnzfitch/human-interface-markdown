@@ -1,0 +1,2 @@
+<!-- Chunk 56 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 91 -->
+<span id="page-46-3"></span><span id="page-46-2"></span>In addition to the basic principles of interface design, consider the needs of your audience. Are your users more comfortable in a language other than English? Do they have special needs that might affect the way you present data to them? The following sections identify areas that might influence your design.

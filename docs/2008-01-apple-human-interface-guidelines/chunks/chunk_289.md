@@ -1,0 +1,2 @@
+<!-- Chunk 289 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 93 -->
+Scrolling lists are available in Interface Builder. Start with a table view object and ensure that it is sized so that only the vertical scroller is displayed. Then, in the Attributes pane of the inspector, set the number of columns to 1 and deselect the Headers checkbox. To create a scrolling list using Application Kit programming interfaces, use the NSTableView class.

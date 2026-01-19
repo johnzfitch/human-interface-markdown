@@ -1,0 +1,6 @@
+<!-- Chunk 112 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 255 -->
+When the user attempts to close a document that has unsaved changes, present a Save Changes alert. An application that saves the contents of individual windows like most text and graphics applications—should use document-specific sheets, like the one shown in Figure 6-7, for its Save Changes alert. In an application that can display multiple views of the same file, if the user chooses the Close File command (instead of Close Window; see ["The File Menu" \(page 55\)](#page-54-1)), open the sheet on the frontmost window and change the alert message text from "document" to "file"; after the user clicks Save or Don't Save, close all open views of the file.  
+Dialog Behavior **105**  
+<span id="page-105-1"></span>**Figure 6-7** A Save Changes alert for a document-based application  
+![](images/_page_105_Picture_3.jpeg)  
+When a Save Changes sheet is open, the document's close button and the Close command in the File menu are unavailable; the user can't close the document until the Save Changes sheet is addressed.

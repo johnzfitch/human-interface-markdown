@@ -1,0 +1,2 @@
+<!-- Chunk 20 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+Good product design incorporates a number of timeless principles for human-computer interaction. The principles described in this chapter are critical to the design of elegant, efficient, intuitive, and Aqua-compliant user interfaces. In fact, they drive the design of the OS X user interface.

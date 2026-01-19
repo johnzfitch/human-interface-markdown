@@ -1,0 +1,2 @@
+<!-- Chunk 61 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 92 -->
+A Newton device always has at least one application open, and it is called the **backdrop.** The backdrop's main view is at the bottom of the display order. The backdrop cannot be closed, so its main view has no Close box. For example, the backdrop on an Apple MessagePad 120 is initially the Notepad. A user can change the backdrop with the Extras Drawer application.

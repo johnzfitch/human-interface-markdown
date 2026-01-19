@@ -1,0 +1,3 @@
+<!-- Chunk 296 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 88 -->
+The ACM is a large organization consisting of many special interest groups, or SIGs. It is dedicated to the development of information processing as a discipline and to the responsible use of computers in an increasing diversity of applications. Contact the ACM at  
+Association for Computing Machinery 11 West 42nd Street New York, NY 10036 212-869-7440

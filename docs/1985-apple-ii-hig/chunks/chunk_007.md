@@ -1,0 +1,2 @@
+<!-- Chunk 7 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 115 -->
+Familiarity is the single greatest factor in reducing the learning burden without affecting power and expandability. People feel comfortable with things they already know. You promote familiarity by using guidelines such as this, by conforming the flow of your product as closely as practical to the way your users did things before they "computerized," and by choosing familiar metaphors, such as desktops and file-folders, around which to build your programs.

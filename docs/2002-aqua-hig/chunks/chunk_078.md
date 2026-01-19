@@ -1,0 +1,10 @@
+<!-- Chunk 78 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 493 -->
+Mac OS X version 10.2 provides developers with a new "textured" window appearance (see Figure 5-4). This window style has been designed specifically for use by—and is therefore best suited to—applications that provide an interface for a digital peripheral, such as a camera, or an interface for managing data shared with digital peripherals, such as the Address Book application.  
+This appearance may also be appropriate for applications that strive to re-create a familiar physical device—the Calculator application, for example. Avoid using the textured window appearance in applications or utilities that are unrelated to digital peripherals or to the data associated with these devices.  
+Within an application, the textured window appearance should be limited to the primary application window. Supporting windows, such as preferences and other dialogs, should not use the textured window appearance. It is acceptable to have a mix of standard Aqua windows and textured windows within an application.  
+If a textured window has a drawer or a toolbar, they automatically inherit the textured appearance. Sheets, however, maintain the standard Aqua appearance.  
+**Figure 5-4** The "textured" window appearance  
+![](images/_page_72_Picture_3.jpeg)  
+The textured window has four rounded corners and a beveled edge surrounding the entire window. The beveled edge requires that elements such as lists and other view-type controls be inset at least 10 pixels. Users can move textured windows by dragging anywhere on the textured surface (not just the title bar).  
+Avoid creating custom controls for use with textured windows; standard controls look and behave appropriately when used with this appearance.  
+To create a window with this appearance, Cocoa developers can apply the NSTexturedBackgroundWindowMask to a titled window. Avoid using a borderless window, which won't assume rounded corners. Carbon developers can use the new window type defined in MacWindows.h.

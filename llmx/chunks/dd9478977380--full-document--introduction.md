@@ -1,0 +1,40 @@
+---
+chunk_index: 514
+ref: "dd9478977380"
+id: "dd9478977380a5e395d0f5f3512372c3fac679bd3693fac7cd406d6873aefdaa"
+slug: "full-document--introduction"
+path: "marker/1985 Apple II Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [974, 997]
+token_estimate: 891
+content_sha256: "cdcdc115d6cd9964bbff2f0ab38d6a4f685f8a50cb1c3168c1c386a5402a14ae"
+compacted: false
+heading_path: ["INTRODUCTION"]
+symbol: null
+address: null
+asset_path: null
+---
+
+# INTRODUCTION
+
+Apple II windowing software is designed to appeal to an audience of nonprogrammers, including people who have previously feared and distrusted computers. To achieve this goal, Apple II windowing applications should be easy to learn and to use. To help people feel more comfortable with the applications, the applications should build on skills that people already have, not force them to learn new ones. The user should feel in control of the computer, not the other way around. This is achieved in applications that embody three qualities: responsiveness, permissiveness, and consistency, leading to the user's having a sense of autonomy.
+
+Responsiveness means that the user's actions tend to have direct results. The user should be able to accomplish what needs to be done spontaneously and intuitively, rather than having to think: "Let's see; to do C, first I have to do A and B and then...". For example, with pull-down menus, the user can choose the desired command directly and instantaneously. This is a typical operation: The user moves the pointer to a location on the screen and presses the mouse button.
+
+Permissiveness means that the application tends to allow the user to do anything reasonable. The user, not the system, decides what to do next. Also, error messages tend to come up infrequently. If the user is constantly subjected to a barrage of error messages, something is wrong somewhere.
+
+The most important way in which an application is permissive is in avoiding modes. This idea is so important that it's dealt with in a separate section, "Avoiding Modes", below.
+
+The third and most important principle is consistency. Since users usually divide their time among several applications, they have historically felt confusion and irritation as they faced learning a completely new interface for each application. The main purpose of this manual is to describe the shared interface ideas of windowing applications, so that developers of new applications can gain leverage from the time spent developing and testing existing applications both for Macintosh/Lisa and the Apple II.
+
+With the MouseText and MouseGraphics windowing toolkits available from Apple, consistency has become an achievable goal. However, you should be aware that implementing the user interface guidelines in their full glory often requires writing additional code that isn't supplied.
+
+Of course, you shouldn't feel that you're restricted to using existing features. The Macintosh/Apple II world is a growing system, and new ideas are essential. But the bread-and-butter features, the kind that every application has, should certainly work the same way so that the user can move easily back and forth between applications. The best rule to follow is that if your application has a feature that's described in these guidelines, you should implement the feature exactly as the guidelines describe it. It's better to do something completely
+
+1/15/85 Tognazzini
+
+/INTF/INTRO
+
+different than to half-agree with the guidelines.
+
+Illustrations of most of the features described in this manual can be found in various already-released Macintosh and Apple II applications. However, there is probably no one application that illustrates these guidelines in every particular. Although it's useful and important for you to get the feeling of the user interface by looking at existing Macintosh and Apple II applications, the guidelines in this manual are the ultimate authority. Wherever an existing application disagrees with the guidelines, follow the guidelines.

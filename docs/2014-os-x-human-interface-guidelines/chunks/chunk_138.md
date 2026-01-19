@@ -1,0 +1,10 @@
+<!-- Chunk 138 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 502 -->
+A **split view** groups together two or more other views, such as column or table views, and allows the user to adjust the relative width or height of those views. Automator (shown here) uses more than one split view to give users a customizable work area.  
+![](images/_page_224_Figure_1.jpeg)  
+**API Note:** To define a split view in your code, use the NSSplitView class (note that the splitter bars are horizontal by default).  
+A split view includes a **splitter bar**, or **splitter**, between each of its subviews; for example, a split view with five subviews would have four splitters. Each subview is generally known as a **pane**. A split view can arrange views horizontally or vertically, but not both.  
+**Note:** The standard splitter is known as a "zero-width" splitter, although it is actually 1 point wide. There is also a wider splitter available, which measures 9 points in width, but it is not frequently used.  
+The entire splitter bar is a hot zone. In other words, when the pointer passes over any part of the splitter, the pointer changes to one of the move or resize pointers. To learn more about the different pointers that are available, see [Pointers](#page-307-0) (page 308). For zero-width splitters, the hot zone includes two points on both sides of the splitter.  
+Use a split view to display two or more resizable content views.  
+**In general, use the zero-width splitter.** Users are accustomed to the appearance of the zero-width splitter. You might want to use a wide splitter bar if you need to indicate a stronger visual distinction between panes, but this is unusual.  
+**Don't let users lose the splitter.** A zero-width splitter can disappear when the user drags it far enough to hide the subview. To avoid this, you can define minimum and maximum sizes for the subviews so that the splitter remains visible. Alternatively, if you want to allow usersto completely hide a subview by dragging a zero-width splitter, you should provide a button that re-opens the subview.

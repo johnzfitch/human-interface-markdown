@@ -1,0 +1,3 @@
+<!-- Chunk 124 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+When used with other keys, the Option key produces special symbols. The Keyboard Viewer, which users can add to the Input menu in the International pane of System Preferences, shows which keys generate each symbol.  
+<span id="page-90-1"></span>The Option key can also be used with the mouse to modify the effect of a click or drag. For example, in some applications pressing Option while dragging an object makes a copy of the object.

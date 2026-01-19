@@ -1,0 +1,4 @@
+<!-- Chunk 45 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 201 -->
+<span id="page-40-4"></span>When opening new windows or resizing windows, position them so that they don't overlap with the user's current position of the Dock. Restrict users from resizing a window so that the resize control is behind the Dock.  
+If the user changes the Dock's size or position, don't move or resize application windows that are already open. Users should be able to change specific aspects of their environment without causing other unrequested changes.  
+Carbon developers can determine the Dock's size and location using the GetAvailableWindowPositioningBounds function, which returns a rectangle representing the available Desktop area, not including the menu bar and the space occupied by the Dock. Cocoa developers can use the frame and visibleFrame methods of the NSScreen class.

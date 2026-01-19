@@ -1,0 +1,2 @@
+<!-- Chunk 266 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+Make labels for interface elements easy to understand and in the user's language. Try to be as specific as possible in any element that requires the user to make a choice, such as radio buttons, checkboxes, and push buttons. It's important to be concise, but don't sacrifice clarity for space.

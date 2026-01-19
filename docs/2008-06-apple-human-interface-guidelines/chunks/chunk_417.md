@@ -1,0 +1,5 @@
+<!-- Chunk 417 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 194 -->
+A **search field** is a text field with rounded ends in which the user enters new text or modifies existing text that identifies items to search for. For example, the Finder provides a search field in its toolbar, as shown in Figure 15-74. For information on waysto provide search functionality in your application,see ["Spotlight"](#page-76-1) (page 77) and ["Scope](#page-200-0) Bars" (page 201).  
+<span id="page-317-0"></span>**Figure 15-74** A search field in a toolbar  
+![](images/_page_317_Picture_3.jpeg)  
+**Important:** A search field is one of the three window-body controlsthat can also be used in a window-frame area. To learn more about controls that are designed specifically for use in window-frame areas, see ["Window-Frame](#page-248-1) Controls" (page 249).

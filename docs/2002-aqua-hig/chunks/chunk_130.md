@@ -1,0 +1,6 @@
+<!-- Chunk 130 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 243 -->
+A command pop-down menu is similar to a pull-down menu, but it appears in a window rather than in the menu bar. Use of this control is limited to cases where the window is shared among multiple applications and the menu contains commands that affect the window's contents. For example, the Colors utility window, which can be used in any application, contains a List menu with commands that can be used to change the contents of the Colors window itself. Each application that uses the Colors window doesn't have to populate a menu with these commands.  
+Cocoa developers can create a command pop-down menu with the NSPopUpButton class. Carbon developers can mimic the appearance and behavior with a bevel button.  
+<span id="page-126-2"></span>**Figure 7-9** A command pop-down menu  
+![](images/_page_126_Picture_6.jpeg)  
+Command pop-down menus should contain between 3 and 12 commands. A closed command menu always displays the same text, which acts as the menu title.

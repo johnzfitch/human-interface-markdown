@@ -1,0 +1,2 @@
+<!-- Chunk 49 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+The user experience of iOS-based devices revolves around streamlined interaction with content that people care about. The guidelines in this chapter apply to apps that run on all iOS-based devices.

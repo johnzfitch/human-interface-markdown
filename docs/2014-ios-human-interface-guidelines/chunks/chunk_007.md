@@ -1,0 +1,2 @@
+<!-- Chunk 7 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 38 -->
+[Aesthetic](#page-66-1) Integrity 67 [Consistency](#page-67-0) 68 Direct [Manipulation](#page-68-0) 69 [Feedback](#page-69-0) 70 [Metaphors](#page-69-1) 70

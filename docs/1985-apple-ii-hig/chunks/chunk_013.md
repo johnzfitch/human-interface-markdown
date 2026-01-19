@@ -1,0 +1,8 @@
+<!-- Chunk 13 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 336 -->
+In order to properly address the needs of the users, you must first know who they are and what their needs are. Software design should begin with a user-profile study. This study should cover the following three phases:  
+- Select the target audience. Begin your human interface design by identifying your target audience. Are you writing for businesspeople or children? Will your audience consist of people relaxing at home or accountants under severe time-constraints? Are there several different types of people who will use your program? If so, you need to identify each.
+- 2. Ascertain the level and limitations of their pre-existing knowledge. You should have an understanding of how much the target users know about:
+- A. using the Apple II computer
+- B. the general subject matter your program deals with.
+- 3. Identify their needs. Once you have an understanding of the knowledge and limitations of the users, you can then figure out what types of information and level of support the the program will have to supply.  
+The following are mythical examples of two possible user-profiles for a program which fills the exact same function: a tax planner. Even though the task performed, the formulas used, the raw data required are identical, the programs that would result from the two user-profiles might bear little external resemblance:

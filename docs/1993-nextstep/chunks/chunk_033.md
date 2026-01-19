@@ -1,0 +1,2 @@
+<!-- Chunk 33 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 38 -->
+This section describes how the keyboard and mouse are used in NeXTSTEP. It also describes how the user can make selections using the mouse and keyboard.

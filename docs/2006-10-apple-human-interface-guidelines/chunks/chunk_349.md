@@ -1,0 +1,8 @@
+<!-- Chunk 349 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 334 -->
+The size of the tab views changed between Mac OS X version 10.2 (Jaguar) and Mac OS X version 10.3 (Panther). There are no size changes for tab views in Mac OS X version 10.4 (Tiger). This section discusses how the earlier change in size affects applications that must run on versions of Mac OS X prior to version 10.3.  
+If you are supporting only Mac OS X v10.3 and later, then you do not need to do anything. Follow the guidelines in "Tab [Views"](#page-278-0) (page 279).  
+If you need to support Mac OS X v10.2 (or earlier) in addition to Mac OS X v10.3, then you need to consider the differences.  
+The Mac OS X v10.2 tabs were 29 pixels high from the top of the tab to the bottom of the bar under the tab. The Mac OS X v10.3 and latertabs are only20 pixels high. This means that ifyou have designed your user interface elements for Mac OS X v10.2, there will be an additional space of 4 pixels under the tabs when viewed in Mac OS X v10.3 or later and a space of 5 pixels above.  
+<span id="page-282-2"></span>**Figure 14-65** Tab view differences between versions of Mac OS X  
+![](images/_page_282_Picture_3.jpeg)  
+Considering your users, you must decide whether to redesign your interface so that it does not use tabs, or to allow the new spacing and adhere to the Mac OS X v10.2 specification for spacing around the tab views.

@@ -1,0 +1,3 @@
+<!-- Chunk 144 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 167 -->
+If the user drags an item to a destination in your application, your application provides feedback that indicates whether it will accept that item. Destination feedback should not occur simply because your application is "drag-aware"; rather, it should depend on the destination's ability to accept the type of data contained in the dragged item. For example, a text entry field that accepts only text should not be highlighted when the dragged item is a graphic.  
+The actual appearance of destination feedback depends on the type of destination. The Drag Manager provides some utilities for simple highlighting; your application must handle more complex highlighting.

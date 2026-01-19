@@ -1,0 +1,8 @@
+<!-- Chunk 106 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 394 -->
+Logically grouping menu items is the most important aspect of arranging your menus. Grouping items in a menu makes it easier to quickly locate commands for related tasks.  
+In general, place the most frequently used items at the top of the menu, but create groups of related items rather than arranging them strictly by frequency of use. For example, although the Find Next or the Find Again command may be used infrequently, it should appear right below the Find command. In a menu that contains both actions and attributes, don't put actions and attributes in the same group.  
+Group interdependent attributes. They can be in a **mutually exclusive attribute group** (the user can select only one item, such as font size) or an **accumulating attribute group** (the user can select multiple items, such as Bold and Italic).  
+If a menu repeats a term more than twice, consider dedicating a menu or hierarchical menu to the term instead. For example, if you need commands like Show Info, Show Colors, Show Layers, Show Toolbox, and so on, you could create a Show menu or a submenu off of a Show item.  
+How many separators to use is partly an aesthetic decision and partly a usability decision. Figure 7-10 shows a menu that depicts the right balance of grouping, contrasted with two menus showing insufficient grouping and too much grouping. Use this picture as a visual guide when trying to decide how many separators to use in your menus.  
+<span id="page-83-2"></span><span id="page-83-1"></span>**Figure 7-10** Grouping items in menus  
+![](images/_page_83_Figure_4.jpeg)

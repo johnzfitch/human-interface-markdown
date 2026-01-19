@@ -1,0 +1,2 @@
+<!-- Chunk 100 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 82 -->
+<span id="page-77-6"></span><span id="page-77-2"></span>You should ensure that installing your software is a quick and painless experience. This section provides guidelines on how to handle the installation of your software. For more information on how to implement different installation mechanisms, see *Software Distribution*.

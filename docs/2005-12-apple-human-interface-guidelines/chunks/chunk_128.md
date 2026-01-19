@@ -1,0 +1,2 @@
+<!-- Chunk 128 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 114 -->
+There are 15 nondedicated function keys on desktop Macintosh keyboards (F1 through F15). Desktop Macintosh keyboards provide the following six dedicated function keys with standard behaviors. Because not all Macintosh computers have all function keys, don't rely on these keys for critical keyboard shortcuts. For example, portable computers usually have 12 nondedicated function keys (F1 through F12), not 15 and don't have Help keys or Forward Delete keys.

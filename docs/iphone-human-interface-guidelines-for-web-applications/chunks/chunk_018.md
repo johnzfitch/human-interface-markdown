@@ -1,0 +1,12 @@
+<!-- Chunk 18 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 615 -->
+Communication and feedback are as important in webpages and web applications are they are in desktop applications. Users need to know that their requests are being processed and when their actions might result in data loss or other problems. On the other hand, it's also important to avoid overdoing it by, for example, alerting the user to conditions that aren't really serious or asking for confirmation too often.  
+Here are some guidelines to help you provide the right level of communication and feedback:  
+■ Use user-centric terminology.  
+Avoid technical jargon in the user interface. Use what you know about your users to determine whether the words and phrases you plan to use are appropriate. For example, if your content targets soccer fans, it might be appropriate to use terms and abbreviations that are commonly used in the sport. On the other hand, if your user audience includes fans of many different sports, it's better to avoid relying on terms that are specific to only one sport.  
+- In an iPhone web application, provide embedded navigational functionality, when appropriate.
+- In iPhone web applications that preserve their own context and contain multiple pages through which users can navigate, it's a good idea to provide custom navigation controls. This minimizes the browser experience and helps users avoid inadvertently jumping to a different website. For information on how to do this, see "Provide a Custom [Navigation](#page-44-0) Solution" (page 45).
+- Provide feedback when necessary.  
+If you need to tell the user something important, such as asking for confirmation of input data before the user taps a submit button, you can use the JavaScript alert element. (Safari on iPhone displays such a JavaScript alert as shown in [Figure](#page-26-0) 3-5 (page 27).)  
+If your webpage or iPhone web application is communicating with the server or downloading itsresources, it might be appropriate to let users know that progress is being made, so they don't think that your content has stopped responding. You can create and display a progress indicator for this purpose. If possible, display the progress indicator next to the element that is associated with the processing. You should avoid displaying a progress indicator in a JavaScript alert, however, unless the entire website or iPhone web application is busy.  
+<span id="page-26-0"></span>![](images/_page_26_Picture_8.jpeg)  
+**Figure 3-5** An alert in Safari on iPhone

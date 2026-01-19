@@ -1,0 +1,27 @@
+<!-- Chunk 338 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 1108 -->
+- Does the application have the "look" of the Macintosh desktop interface (including, but not limited to, desktop, windows, and menus)?
+- Does the application have the "feel" of the Macintosh desktop interface (including, but not limited to, pointing, selecting, and keyboard input)?
+- If a metaphor is being used, is it suitable for the application? Does the metaphor match a "real" visual and behavioral representation, as with the desktop, so that the users do not have to carry a "map" in their head?
+- Does the application always provide some indication that an activity is being carried out in response to a command?
+- Is suitable feedback provided during task processing? Is the completion of a processing task indicated somehow? Is the duration of the task indicated?
+- Does the user always have the option of finding an object or action on the screen? In other words, does your interface follow the see-and-point principle of design?
+- Are the operations consistent with the standard elements of the interface; that is, if a user is familiar with such applications as MacPaint, MacDraw, and MacWrite, will the application seem like familiar territory?
+- Is a printout a replica of what the user sees on the screen? In other words, is it WYSIWYG (what you see is what you get)?
+- Is an explanation offered if a particular action cannot be carried out? Are alternatives offered?  
+General Considerations **351**  
+- Are there warnings about risky actions? Are there different warnings for different levels of risky actions? Are there enough warnings without being too many? Are users allowed to back away gracefully from risky territory?
+- Is there a feeling of stability?
+- If an operation can be interrupted, do you provide a Cancel or Stop button? Can Escape or Command-period be used to cancel or stop these operations?
+- Is your application forgiving and explorable by supporting Undo?
+- Do you avoid assigning new behaviors to existing objects?
+- Do you make all changes clearly visible?
+- Do you interpret user's responses consistently?
+- Do you use progressive disclosure, as appropriate?
+- When your application runs in the background, do you gently call the user's attention to a task completion or request for input by using the Notification Manager? If an immediate response is crucial and the user doesn't respond to a notification request, does your application handle the situation gracefully? A background application should not take control from the user by placing an alert box on the screen when the user hasn't activated the application.
+- Is your application MultiFinder friendly? Better workflow is possible when the user can easily switch back and forth between applications.
+- If there are modes, is there a clear visual indication of the current mode? Does the visual indication of the mode appear near the object most affected by the mode? Are there enough landmarks to remind the user what area of the application he or she is in? For example, the MacPaint pointer changes to a pencil in draw mode and to a paint brush in paint mode.
+- Is each mode absolutely necessary? Do the modes within the application properly track the user's own modes? Do users consistently avoid the kind of errors caused by the program being in a mode other than what the user wants or expects? Making a mode visually apparent is no guarantee that the user will track it: test the application on users and find out what sorts of mistakes they are making. If the errors are caused by modes, eliminate the modes.
+- Can the user save a document or quit an application at any time, unless he or she is in a modal dialog box?
+- Are the widest possible range of user activities available at any time? The user should spend most of his or her time in the event loop.
+- Will a user unable to distinguish colors be able to use the application? Will someone without a color monitor be able to use it? The information conveyed by color coding should also be presented in another form, such as text, position, highlighting, gray-scale variations, or pattern. (These questions do not apply to programs in which the task to be carried out requires full-color vision on a color monitor.)  
+■ Will a user with a hearing disability be able to use the application? Audible messages should be supplemented with visual cues or should allow the user to choose visible instead of audible messages. (This question may not apply to music programs.)

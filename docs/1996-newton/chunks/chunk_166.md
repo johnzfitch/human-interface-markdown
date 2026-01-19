@@ -1,0 +1,9 @@
+<!-- Chunk 166 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 390 -->
+The Newton system stores user-configurable preferences and other configuration information for the built-in transports, and can do the same for custom transports. The stored preferences correspond to items in a preferences slip for each transport. Users access the transports' preferences slips from the Info picker that pops up when a user taps the Info button in the In/Out Box application. Each transport that has a preferences slip is listed in the In/Out Box's Info picker. Figure 7-22 illustrates the procedure.  
+**Figure 7-22** Accessing transport preferences from the In/Out Box's Info picker  
+![](images/_page_237_Picture_5.jpeg)  
+Each transport may add its own preferences slip for configuring any options that apply to that transport. [Figure 7-23](#page-238-0) illustrates some common options.  
+**Figure 7-23** Some common preference items for transports  
+<span id="page-238-0"></span>![](images/_page_238_Figure_3.jpeg)  
+A transport's preferences slip can include other items, such as buttons. For example, the fax preferences slip includes a button for scheduling automatic fax sending times and another button for setting the Newton to receive faxes exclusively.  
+<span id="page-239-0"></span>A preferences slip can also include an Info button in the lower left corner. Tapping it pops up an Info picker that lists at least the one item Help. Generally, picking Help from this Info picker simply displays the system help book, open to the routing section. A transport can add more items to the Info picker that pops up in a Preferences slip.

@@ -1,0 +1,39 @@
+<!-- Chunk 207 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 1896 -->
+<span id="page-156-2"></span>Table 12-1 shows the standard cursors and explains when to use each. The "API information" column gives the constants to implement them in Carbon or Cocoa.  
+**Table 12-1** Standard cursors in Mac OS X  
+| Cursor             | Use                                                                                                                                                                    | API information                                                    |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Arrow              | Menu bar, desktop,scroll bar, resize control, title bar, close<br>button, zoom button, minimize button, other controls.                                                | Carbon: kThemeArrowCursor<br>Cocoa:arrowCursor                     |
+| Contextual<br>menu | Indicatesthe user can open a contextual menu for an item.<br>Shown when the user presses the Control key while the<br>cursor is over an object with a contextual menu. | Carbon:kThemeContextual<br>MenuArrowCursor<br>Cocoa: Not available |
+| Alias              | Indicates the drag destination will have an alias for the<br>original object (the original object will not be moved).                                                  | Carbon:kThemeAliasArrow<br>Cursor<br>Cocoa: Not available          |
+| Poof               | Indicates that the proxy object being dragged will go<br>away, without deleting the original object, if the mouse<br>button is released. Used only for proxy objects.  | Carbon:kThemePoofCursor<br>Cocoa:disappearingItemCursor            |
+| Copy               | Indicates that the drag destination will have a copy of the<br>original object (the original object will not be moved).                                                | Carbon:kThemeCopyArrowCursor<br>Cocoa: Not available               |  
+| Cursor           | Use                                                                                                                   | API information                        |
+|------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| Not<br>allowed   | Indicates an invalid drag destination.                                                                                | Carbon:kThemeNotAllowed<br>Cursor      |
+|                  |                                                                                                                       | Cocoa: Not available                   |
+| I beam           | Selecting and inserting text.                                                                                         | Carbon:kThemeIBeamCursor               |
+|                  |                                                                                                                       | Cocoa:IBeamCursor                      |
+| Crosshair        | Precise rectangularselection, especially useful for graphics                                                          | Carbon:kThemeCrossCursor               |
+|                  | objects.                                                                                                              | Cocoa:crosshairCursor                  |
+| Pointing<br>hand | URL links.                                                                                                            | Carbon:kThemePointing<br>HandCursor    |
+|                  |                                                                                                                       | Cocoa:pointingHandCursor               |
+| Open<br>hand     | Indicates that an item can be manipulated within its                                                                  | Carbon:kThemeOpenHandCursor            |
+|                  | containing view.                                                                                                      | Cocoa:openHandCursor                   |
+| Closed<br>hand   | Pushing,sliding, or adjusting an object within a containing<br>view.                                                  | Carbon:kThemeClosed<br>HandCursor      |
+|                  |                                                                                                                       | Cocoa:closedHandCursor                 |
+| Move<br>left     | Moving or resizing an object, usually a pane splitter, to<br>the left. Use when the user can move the object only in  | Carbon:kThemeResize<br>LeftCursor      |
+|                  | the indicated direction.                                                                                              | Cocoa:resizeLeftCursor                 |
+| Move<br>right    | Moving or resizing an object, usually a pane splitter, to<br>the right. Use when the user can move the object only in | Carbon:kThemeResize<br>RightCursor     |
+|                  | the indicated direction.                                                                                              | Cocoa:resizeRightCursor                |
+| Move<br>left or  | Moving or resizing an object, usually a pane splitter, to<br>the left or the right.                                   | Carbon:kThemeResizeLeft<br>RightCursor |
+| right            |                                                                                                                       | Cocoa:resizeLeftRightCursor            |
+| Move             | Moving or resizing an object, usually a pane splitter,                                                                | Carbon:kThemeResizeUpCursor            |
+| up               | upward. Use when the user can move the object only in<br>the indicated direction.                                     | Cocoa:resizeUpCursor                   |  
+| Cursor                | Use                                                                                                                                           | API information                                                 |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Move<br>down          | Moving or resizing an object, usually a pane splitter,<br>downward. Use when the user can move the object only<br>in the indicated direction. | Carbon:kThemeResize<br>DownCursor<br>Cocoa:resizeDownCursor     |
+| Move<br>up or<br>down | Moving or resizing an object, usually a pane splitter, either<br>upward or downward.                                                          | Carbon:kThemeResizeUp<br>DownCursor<br>Cocoa:resizeUpDownCursor |  
+<span id="page-158-1"></span>The spinning wait cursor (see Figure 12-1) is displayed automatically by the window server when an application cannot handle all of the events it receives. If an application does not respond for about 2 to 4 seconds, the spinning wait cursor appears. You should try to avoid situations in your application in which the spinning wait cursor will be displayed. The Spin Control application provided with Xcode can help you eliminate code that is causing this cursor.  
+**Figure 12-1** Spinning wait cursor  
+![](images/_page_158_Picture_5.jpeg)

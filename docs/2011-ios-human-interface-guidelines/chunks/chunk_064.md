@@ -1,0 +1,13 @@
+<!-- Chunk 64 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 662 -->
+People expect standard views and controls to look and behave consistently across applications.  
+**Follow the recommended usages for standard user interface elements**. In this way, users can depend on their prior experience to help them as they learn to use your application. You also make it easy for your app to look up-to-date and work correctly if iOS changesthe look or behavior of these standard views or controls.  
+**For an app that enables an immersive task, such as a game, it's reasonable to create completely custom controls**. This is because you're creating a unique environment, and discovering how to control that environment is an experience users expect in such applications.  
+**Avoid radically changing the appearance of a controlthat performs a standard action**. If you use unfamiliar controls to perform standard actions, users will spend time discovering how to use them and will wonder what, if anything, your controls do that the standard ones do not.  
+iOS makes available to you many of the standard buttons and icons used throughout the built-in applications. For example, you can use the same Refresh, Organize, Trash, Reply, and Compose icons that Mail uses on both iPhone and iPad.  
+![](images/_page_54_Picture_11.jpeg)  
+**To avoid confusing people, never use the standard buttons and icons to mean something else**. Be sure you understand the documented meaning of a standard button or icon; don't rely on your interpretation of its appearance. To learn more about using system-provided items, see ["System-Provided](#page-134-0) Buttons and [Icons"](#page-134-0) (page 135).  
+In addition to the benefit of leveraging users' prior experience, using system-provided buttons and icons imparts two other substantial advantages:  
+● Decreased development time, because you don't have to create custom art to represent standard functions.  
+● Increased stability of your user interface, even if future iOS updates change the appearances of standard icons. In other words, you can rely on the semantic meaning of a standard icon remaining the same, even if its appearance changes.  
+Interface Builder makes it easy to use the system-provided buttons and apply system-provided icons to your controls. For guidance, see the appearance-related information in "iPhone OS Interface Objects" in *Interface Builder User Guide*.  
+If you can't find a system-provided button or icon that has the appropriate meaning for a specific function in your application, you should design a custom button or icon. For some guidelines to help you do this, see "Icons for [Navigation](#page-148-0) Bars, Toolbars, and Tab Bars" (page 149).

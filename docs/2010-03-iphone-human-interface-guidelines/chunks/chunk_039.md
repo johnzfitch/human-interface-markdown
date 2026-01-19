@@ -1,0 +1,3 @@
+<!-- Chunk 39 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 145 -->
+An iPhone application is better than a person at remembering lists of options, commands, data, and so on. Take advantage of this by presenting choices or options in list form, so users can easily scan them and make a choice. Keeping text input to a minimum frees users from having to spend a lot of time typing and frees your application from having to perform a lot of error checking.  
+Presenting choicesto the user, instead of asking for more open-ended input, also allowsthem to concentrate on accomplishing tasks with your application, instead of remembering how to operate it.

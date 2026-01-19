@@ -1,0 +1,30 @@
+---
+chunk_index: 2773
+ref: "8ff5d55a86e8"
+id: "8ff5d55a86e8a5a32940911e17d15db8342f529ee88590410c80f760d098d7df"
+slug: "full-document--movable-modal-dialog-box-appearance"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [2961, 2974]
+token_estimate: 322
+content_sha256: "2ab247de1e288627b97824eeb189ab62f96386c7080cd12f1907b73bd4f6b92a"
+compacted: false
+heading_path: ["Movable Modal Dialog Boxes","Movable Modal Dialog Box Appearance"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## Movable Modal Dialog Box Appearance
+
+The design of the movable modal dialog box adds a title bar with racing stripes to the standard modal dialog box window. A movable modal dialog box does not have a close box or zoom box. This design gives the user visual feedback that the dialog box is modal, and must be responded to before completing any other action in the active application, but the user can move it. Figure 6-8 shows the appearance of a movable modal dialog box.
+
+**Figure 6-8** The essential elements of a movable modal dialog box
+
+![](images/_page_209_Picture_6.jpeg)
+
+Don't use a close box in a movable modal dialog box. As described in the next section, "Movable Modal Dialog Box Behaviors," the only way to close a movable modal dialog box is by clicking a button. If you add a close box, it confuses the appearance of the dialog box with the modeless dialog box. A close box could also create a situation for users where they wouldn't know what to expect. For example, would the close box mean "accept the changes I've made" or "close the dialog box without using the input"? Figure 6-9 shows a movable modal dialog box with a close box, which is incorrect.
+
+**Figure 6-9** Close box used incorrectly in a movable modal dialog box
+
+![](images/_page_210_Picture_3.jpeg)

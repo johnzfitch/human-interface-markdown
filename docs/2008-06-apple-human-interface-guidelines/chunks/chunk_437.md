@@ -1,0 +1,2 @@
+<!-- Chunk 437 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 57 -->
+Disclosure buttons are available in Interface Builder. To create one using Application Kit programming interfaces, use NSButton and set the bezel style to NSRoundedDisclosureBezelStyle and the button type to NSPushOnPushOffButton.

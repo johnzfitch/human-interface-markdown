@@ -1,0 +1,5 @@
+<!-- Chunk 207 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 225 -->
+In arrays and text in which Shift-click extends a continuous selection, the user can make discontinuous selections by holding down the Command key and clicking. Each Command-click adds the new object to the existing selection. If one of the objects selected with Command-click is already within an existing part of the selection, then it is removed from the selection instead of being added.  
+<span id="page-188-1"></span>**Figure 9-6** Discontinuous selection within an array  
+![](images/_page_188_Figure_3.jpeg)  
+Not all applications support discontinuous selections, and those that do might restrict the operations a user can perform on them. For example, a word processor might allow the user to choose a font after making a discontinuous selection, but not allow the user to type replacement characters, because it wouldn't be obvious which part of the selection the characters would replace.

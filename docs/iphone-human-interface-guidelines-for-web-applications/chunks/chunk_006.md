@@ -1,0 +1,3 @@
+<!-- Chunk 6 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 133 -->
+Apple's iPhone introduces a revolutionary platform for your web content. With an innovative user interaction model and exceptional interoperability, iPhone offers significant new opportunities and a few unique challenges to web content developers.  
+The goal of this chapter is to orient you to the iPhone platform and properly set your web-development expectations. To do this, this chapter describes how the environment in which users use iPhone, combined with iPhone features and infrastructure, influences your design decisions.

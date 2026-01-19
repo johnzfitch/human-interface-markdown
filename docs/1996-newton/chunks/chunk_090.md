@@ -1,0 +1,9 @@
+<!-- Chunk 90 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 470 -->
+A Filing button lets users designate a folder and a storage location (if more than one is available) for data that's currently displayed. How much data is affected depends on where the Filing button is located. If the Filing button is on a status bar, it affects all the data in the main view or all the selected items in an overview. If the Filing button is on a separator bar, it affects the information between that separator bar and the next one. If the Filing button is in a slip, it affects all the information in the slip. A Filing button goes to the left of an Action button near the right end of a status bar; at the right end of a separator bar; or in the lower right corner of a slip. Figure 3-29 shows Filing buttons on a status bar, on a separator bar, and in a slip.  
+**Figure 3-29** Where a Filing button goes  
+![](images/_page_120_Picture_5.jpeg)  
+Tapping a Filing button brings up a Filing slip. The slip lists the storage locations currently available, such as the internal store and a named card store. The slip also lists the folders defined for the current application, and has buttons for editing the existing folder names or creating new folders. Tapping a Filing button brings up a Filing slip, which is described in ["Filing](#page-255-0)  [Button and Slip" on page 8-14](#page-255-0). For general information about filing, see ["Filing" on page 8-13](#page-254-0).  
+By looking at a Filing button for a particular data item, users can tell whether the current item is stored internally or on a card. If the item is stored on a  
+<span id="page-121-0"></span>card, the Filing button contains a small black triangle. If the item is stored internally, the Filing button contains nothing. Figure 3-30 compares the two states of the Filing button.  
+**Figure 3-30** A Filing button reports where a data item is stored  
+![](images/_page_121_Picture_4.jpeg)

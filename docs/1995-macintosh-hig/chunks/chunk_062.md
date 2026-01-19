@@ -1,0 +1,2 @@
+<!-- Chunk 62 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+Most collaborative products are based on a number of sophisticated networking and communications technologies. The details of networking and data transport can be very complicated, technical, and often arcane. Ideally, make your product as self-configuring as possible so your users won't need to confront the technological details of the network. Also, try to make interacting with remote resources as simple as using local resources.

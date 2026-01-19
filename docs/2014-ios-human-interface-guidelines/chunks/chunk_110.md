@@ -1,0 +1,14 @@
+<!-- Chunk 110 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 665 -->
+A **scroll view** helps people see content that is larger than the scroll view's boundaries (the image shown below is both taller and wider than the scroll view that contains it).  
+![](images/_page_168_Picture_3.jpeg)  
+**API Note:** To learn more about defining a scroll view in your code, see "Scroll Views".  
+#### A scroll view:  
+- Has no predefined appearance
+- Flashes transient scroll indicators when it first appears or when users interact with it
+- Responds to the speed and direction of gestures to reveal content in a way that feels natural to people When users drag content in a scroll view, the content followsthe touch; when usersflick content, the scroll view reveals the content quickly and stops scrolling when the user touches the screen or when the end of the content is reached.
+- Can operate in paging mode, in which each drag or flick gesture reveals one app-defined page of content  
+Use a scroll view to give people access to large views—or to large numbers of views—in a constrained space.  
+**Support zoom behavior appropriately.** If it makes sense in your app, let users pinch or double-tap to zoom into and out of a scroll view. When you enable zoom, you should also set maximum and minimum scale values that make sense in the context of the user's task. For example, letting users zoom in on text until one character fills the screen is unlikely to make it easier for them to read the content.  
+**Consider using a page control with a paging-mode scroll view.** When you want to display content that's divided into pages, screenfuls, or other chunks, you can use a page control to show users how many chunks are available and which one they're currently viewing.  
+When you use a page control with a paging-mode scroll view, it's a good idea to disable the scroll indicator that's on the same axis asthe page control. Removing the scroll indicator focuses attention on the page control and gives people one unambiguous way to page through the content. For more information about using a page control in your app, see "Page [Control"](#page-185-1) (page 186).  
+**In general, display only one scroll view at a time.** People often make large swipe gestures when they scroll, so it can be difficult for them to avoid interacting with a neighboring scroll view on the same screen. If you decide to put two scroll views on one screen, consider allowing them to scroll in different directions so that one gesture is less likely to scroll both views. For example, Stocks in portrait orientation on iPhone displays stock quotesin a vertically scrolling view above company-specific information, which isin a horizontally scrolling view.

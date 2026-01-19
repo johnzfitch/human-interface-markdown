@@ -1,0 +1,7 @@
+<!-- Chunk 50 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 344 -->
+A **text view** is a region that displays multiple lines of text. Recall that a text view inherits from a scroll view, which means that the text view supports scrolling when the content is too large to fit inside its bounds. Mail uses a text view to allow users to create a signature that appears at the end of each email message they compose, as shown in Figure 8-10.  
+<span id="page-86-1"></span>**Figure 8-10** A text view displays multiple lines of text  
+![](images/_page_86_Picture_3.jpeg)  
+Although you might use a text view to display many lines of text,such asthe content of a large text document, you can also use a text view to support user editing. If you make a text view editable, a keyboard appears when the user taps inside the text view.  
+You have control over the font, color, and alignment of the text in a text view, but only as they apply to the entirety of the text. In other words, you can't change any of these properties for only part of the text. The defaults for the font and color properties are, as you would expect, the system font and black, because they tend to be the most readable. The default for the alignment property is left (you can change this to center or right).  
+If you must enable variable fonts, colors, or alignments within a view that displays text, you can use a web view instead of a text view, and style the text using HTML.

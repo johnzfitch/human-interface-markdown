@@ -1,0 +1,2 @@
+<!-- Chunk 74 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 96 -->
+As a general rule, be cautious about creating a new interface element because you may end up introducing unnecessary complexity to your product. Before you create a new interface element, make sure that you can't use existing elements to achieve the desired result. Involve users during the design process of the new element, because they can help you tell whether it's intuitive or not.

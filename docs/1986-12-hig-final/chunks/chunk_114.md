@@ -1,0 +1,4 @@
+<!-- Chunk 114 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 165 -->
+If a menu contains too many items to display at once, on a Macintosh Plus the menu scrolls to reveal the hidden items. This feature was devised only for the menus to which the user can add many items—the Font menu specifically. Application programmers should not create menus that are too long to be seen without scrolling.  
+#### Menu titles  
+Applications should avoid using too many menus, because translation into other languages almost always widens menu titles, forcing some far to the right (possibly conflicting with the Switcher), or even off the screen. Applications should always leave room for the menu that some desk accessories add to the menu bar.

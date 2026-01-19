@@ -1,0 +1,28 @@
+<!-- Chunk 95 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 1334 -->
+A list picker includes words or icons (bitmap pictures) that name picker items. The list may contain marks next to picker items, and separator lines (which are not pickable) between groups of items. Additionally, some of the items can be disabled (not pickable). Figure 4-1 points out features of list pickers.  
+**Figure 4-1** The parts of list pickers  
+![](images/_page_127_Figure_11.jpeg)  
+![](images/_page_127_Picture_12.jpeg)  
+<span id="page-128-0"></span>A list picker does not include a title because the picker's context should make its purpose clear. The picker may contain scroll arrows, a Close box, and other controls as described in ["Using a List Picker" on page 4-9.](#page-134-0)  
+#### Check Marks 4  
+A check mark (✔) has special meaning in a list picker. In a picker that lists attributes, values, or states, a check mark indicates which picker item is in effect. A check mark is not used in a list of commands because no command is in effect until the user picks one. Also, check marks are not shown for picker items with an icon.  
+#### Icons 4  
+Icons are completely optional in list pickers; in fact, there are several reasons to avoid them. Use icons to clarify and distinguish the wording of picker items, but not purely for decoration. For a discussion of the pros and cons of icons in list pickers, see ["Icons in a Picker" on page 5-12.](#page-165-0)  
+#### Item Names 4  
+In a list picker, use one word for item names when possible, and capitalize it. When you must use more than one word, you should generally capitalize just the first word. You can capitalize differently if it makes sense in a particular context. For example, the items in the Date Book's Show picker are titles of views and are capitalized like book titles. If the text of a picker item ends a sentence begun by a picker label, you should capitalize the label like a sentence and not capitalize the picker items at all (except for proper nouns). The Find slip's Look For picker is an example of sentence capitalization.  
+Avoid punctuation and symbols in list pickers. Except for very common symbols such as an ampersand (&), users find symbols ambiguous. In particular, do not put an ellipsis (...) at the end of a picker item that will bring up a slip. Unlike menus on personal computers, Newton pickers do not use an ellipsis or any other symbol to indicate a command that will need more information from the user.  
+List Pickers **4-3**  
+<span id="page-129-0"></span>You use different parts of speech to name items in a list picker, depending on what effect they have when the user picks one. For picker items that act as commands, use verbs (or verb phrases) that declare the action that will occur when the user picks the item. For example, Duplicate means "Duplicate the current data item," and Fax means "Fax the current data item." Your picker command names should fit into a similar sentence.  
+In a list picker that lists several actions (in the form of verbs), include an object of the action (in the form of a noun) with the first item. Subsequent items that refer to the same object need only list the action; they don't need to repeat the object. For example, start with Print Note and follow up with Fax, Beam, and Mail (where "Note" is understood in all but the first item).  
+If a picker item changes an attribute or a state, use a word or phrase that describes the change. Descriptive words (nouns and adjectives) in pickers imply an action. They should fit into the sentence "Change to . . . " or "Make this . . . ". For instance, while picking a label for a phone number in the Names File, a user might think, "Make this phone number the Home number." A user who is about to change the view in the Names File might think, "Change to the All Info view."  
+List pickers display items in the bold style of the system font. On an Apple MessagePad, the item names are 10-point text.  
+#### Table of Items 4  
+A list picker can include a two-dimensional table of items with any number of rows and columns. The table can contain anything that can be represented by a bitmap picture. (The entire table is actually implemented as one bitmap picture, complete with the border between cells and around the table.) [Figure 4-2](#page-130-0) shows a list picker that contains a table of items.  
+<span id="page-130-0"></span>**Figure 4-2** A list picker can contain a two-dimensional table of items  
+![](images/_page_130_Picture_3.jpeg)  
+#### Unavailable Items 4  
+An application may need to make some of a list picker's items available only in certain contexts. To make items unavailable, an application should remove them from the picker. For example, the Date Book application removes Beam and Mail from its Action picker under some circumstances. Figure 4-3 shows how to make picker items unavailable.  
+**Figure 4-3** Remove unavailable items from a list picker  
+![](images/_page_130_Picture_7.jpeg)  
+List Pickers **4-5**  
+<span id="page-131-0"></span>Applications should not attempt to imitate the interface of personal computers by dimming unavailable picker items. Although applications can designate picker items as unselectable, the system does not display them in gray text or otherwise make them visibly different from selectable items. Newton picker items should simply disappear when they are unavailable.

@@ -1,0 +1,4 @@
+<!-- Chunk 45 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 151 -->
+Nearly every application has a main view that serves as a base of operations. An application's main view may also be called the **application base view.** But strictly speaking, the main view is a user's concept and the application base view is a programmer's concept. An application base view is the view that contains all the other views that make up the application. A main view is a center of user operations.  
+Main Views **2-9**  
+<span id="page-53-0"></span>Applications are not limited to one main view. The built-in Names File and Date Book applications, for example, have several main views each.

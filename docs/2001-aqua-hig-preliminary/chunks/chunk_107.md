@@ -1,0 +1,4 @@
+<!-- Chunk 107 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 150 -->
+The keyboard's primary use is to enter text. The keyboard may also be used for navigation, but it should always be an alternative to using the mouse.  
+There are three kinds of keys: character keys, modifier keys, and function keys. A **character key** sends a character to the computer. When the user holds down a **modifier key,** it alters the meaning of the character key being pressed or the meaning of a mouse action.  
+<span id="page-127-3"></span>**Note:** Not all the keys described here exist on all Macintosh keyboards. Don't depend on a key as the only way for users to accomplish a task.

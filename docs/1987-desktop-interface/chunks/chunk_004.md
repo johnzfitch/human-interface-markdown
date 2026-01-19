@@ -1,0 +1,2 @@
+<!-- Chunk 4 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 21 -->
+This section describes the ten fundamental principles of the Apple Desktop Interface.

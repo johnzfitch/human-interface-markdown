@@ -1,0 +1,2 @@
+<!-- Chunk 248 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 90 -->
+Keyboard layouts used in the United States resemble those on standard U.S. office typewriters. The layouts used outside the United States are designed to conform to the International Standards Organization (ISO) standard. In different countries, international keyboards have different labels on the keys, but the overall layout is still based on the ISO standard.

@@ -1,0 +1,4 @@
+<!-- Chunk 43 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 187 -->
+When a window containing a highlighted selection becomes inactive, your application should maintain the selection so that users can drag previously selected data from inactive windows to the active window.  
+<span id="page-44-4"></span>Background selections are not required if the dragged item is discrete—for example, an icon or graphical object—because implicit selection can occur when an item is dragged. However, items selected only by range-selection operations—for example, text or a group of icons—must have a background selection to allow the user to drag these items out of inactive windows. Whenever an inactive window is made key, the background selection, if any, becomes highlighted as a normal selection.  
+Selection Feedback **45**

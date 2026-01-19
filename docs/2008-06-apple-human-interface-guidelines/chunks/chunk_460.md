@@ -1,0 +1,2 @@
+<!-- Chunk 460 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 46 -->
+<span id="page-333-2"></span><span id="page-333-0"></span>Separators are available in Interface Builder. To create one using Application Kit programming interfaces, use the NSBox class.

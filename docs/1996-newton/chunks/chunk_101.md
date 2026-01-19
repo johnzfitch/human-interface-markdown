@@ -1,0 +1,6 @@
+<!-- Chunk 101 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 227 -->
+The system includes pickers for specifying a time, a date, a date and time, a start and stop time, a start and stop date, or a time offset. Each of these pickers pops up when a user taps its label, which begins with a diamond. Then the user can specify a date or time by tapping in the picker. The picker does not go away automatically when a user selects a date or time in it. Date and time pickers also contain a Close box, which the user must tap to confirm the selected time or date. The user can cancel the selection and close the picker by tapping anywhere outside the picker. Figure 4-13 and [Figure 4-14](#page-143-0)  show several time and date pickers.  
+**Figure 4-13** Time pickers specify a time, a time range, or a time offset  
+![](images/_page_142_Figure_5.jpeg)  
+**Figure 4-14** Date pickers specify one date or a date range  
+<span id="page-143-0"></span>![](images/_page_143_Figure_3.jpeg)

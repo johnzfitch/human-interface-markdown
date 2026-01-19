@@ -1,0 +1,12 @@
+<!-- Chunk 21 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 566 -->
+**An iOS app never displays a Close or Quit option.** People stop using an app when they switch to another app, return to the Home screen, or put their devices in sleep mode.  
+When people switch away from your app, iOS multitasking transitions it to the background and replaces its UI with the UI of the new app. To prepare for this situation, your app should:  
+- **Save user data as soon as possible and as often as reasonable.** Do this because an app in the background can be told to exit or terminate at any time.
+- **Save the current state when stopping at the finest level of detail possible.** In this way, people don't lose their context when they switch back to your app. For example, if your app displays scrolling data, save the currentscroll position. You can learn more about efficient waysto preserve and restore your app's state in "State Preservation and Restoration".  
+Some apps may need to keep running in the background while users run another app in the foreground. For example, users might want to keep listening to the song that's playing in one app while they're using a different app to check their to-do list or play a game. Learn how to handle multitasking correctly and gracefully in ["Multitasking"](#page-94-0) (page 95).  
+**Never quit an iOS app programmatically.** People tend to interpret this as a crash. If something prevents your app from functioning as intended, you need to tell users about the situation and explain what they can do about it. Here are two good ways to do this:  
+![](images/_page_27_Picture_5.jpeg)  
+**If all app features are unavailable, display a screen that describes the situation and suggests a correction.** The information gives feedback to users and reassures them that there's nothing wrong with your app. It also puts users in control, letting them decide whether they want to take corrective action and continue using your app or switch to another app.  
+**If only some app features are unavailable, display either a screen or an alert when people try to use the feature.**  
+Otherwise, people should be able to use the rest of the app. If you decide to use an alert, be sure to display it *only* when people try to access the feature that isn't functioning.  
+![](images/_page_28_Figure_3.jpeg)

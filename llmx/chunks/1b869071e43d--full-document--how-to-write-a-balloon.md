@@ -1,0 +1,32 @@
+---
+chunk_index: 2923
+ref: "1b869071e43d"
+id: "1b869071e43d117d21664e4379279925253045f1b6f4bb41f73e935a6343331a"
+slug: "full-document--how-to-write-a-balloon"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [5025, 5040]
+token_estimate: 727
+content_sha256: "12e453cf1996c5e203c9cd6785107e704fc4edc22fe65f923d76661166f92170"
+compacted: false
+heading_path: ["Balloon Help","How to Write a Balloon"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## How to Write a Balloon
+
+Users turn on Balloon Help when they need information about something they don't understand. Sometimes this happens when they are exploring the interface. Other times, users are looking for some helpful information to get them out of a situation that confuses them. Users are most likely to read and understand your balloons in either situation if you use the fewest possible words. If your balloons will be translated from English into another language, the text will most likely get longer. The text in balloons can be up to 255 characters long, or it can use up to 32 KB if you include graphics such as styled text. In order to keep translated balloons within this limit, it's a good idea to limit messages to a maximum of approximately 180 characters in English.
+
+Use active voice in your help balloons. Active voice uses fewer words and is easier to read than passive voice. For example, you could say "To resize the window, drag this box." In passive voice the same explanation would be "This size box is used to resize the window. The box is dragged to resize the window." The second example is a lot longer than the first and requires the user to think about two sentences before acting.
+
+In help balloons, you can use sentence fragments, leaving out the subject of the sentence if the item is named on screen. Put the thing that the user really wants to know first in the balloon. For example, you could write "Saves changes to the active document" to describe what the Save command does. This sentence fragment makes it immediately clear to the user what the command will do if the user chooses it. Use sentences fragments with menu commands, checkboxes and radio buttons that aren't available, and radio buttons that are selected.
+
+Define unfamiliar words by using other words that explain the concept, especially for menu items and buttons. This helps users who aren't sure what the item means. For example, don't describe the Undo command by writing "Undoes your last action." Instead, use different wording that has the same meaning, such as "Cancels your last action."
+
+When you are describing how to use an onscreen element, include only one way of doing something. You can include descriptions of other ways to do actions in your printed or online documentation. In help balloons, describe just the simplest method.
+
+You can use help balloons to draw a user's attention to a few interesting features in your application that the user may not readily discover on his or her own. But be selective about the features for which you provide hints. Don't provide help balloons for obscure features that few users will ever need. And if you do include a hint, place it on a separate line at the end of the balloon. Be careful not to include too many hints because this will make your balloons longer and more difficult to understand.
+
+![](images/_page_342_Picture_5.jpeg)

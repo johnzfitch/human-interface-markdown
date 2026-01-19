@@ -1,0 +1,5 @@
+<!-- Chunk 163 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 197 -->
+<span id="page-178-2"></span>The *Apple Publications Style Guide (APSG)* defines style and usage issues, and is the key reference for how Apple uses language. This document is available at http:// developer.apple.com/techpubs/faq.html.  
+For information about specific Mac OS X interface terms, see ["Mac OS X](#page-196-0)  [Terminology Guidelines" \(page 197\)](#page-196-0).  
+For issues that aren't covered in the *APSG* or the Mac OS X terminology appendix, Apple recommends three other works: *The American Heritage Dictionary, The Chicago Manual of Style,* and *Words Into Type*. In cases where these books give conflicting rules, *The Chicago Manual of Style* takes precedence for questions of usage and the *American Heritage Dictionary* for questions of spelling.  
+Style **179**

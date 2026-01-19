@@ -1,0 +1,2 @@
+<!-- Chunk 383 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 66 -->
+<span id="page-293-0"></span>The date-picker control is available in Interface Builder. You can change the style from textual to graphical in the Attributes pane of the inspector. To create one using Application Kit programming interfaces, use the NSDatePicker class.

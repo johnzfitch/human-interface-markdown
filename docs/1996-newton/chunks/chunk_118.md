@@ -1,0 +1,4 @@
+<!-- Chunk 118 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 191 -->
+Use icons consistently throughout your application. If there is an existing design for an icon, use it. Don't invent new designs for icons that have a standard design, such as the icons for printing, faxing, beaming, mailing, duplicating, and deleting. Figure 5-4 shows that the icon for faxing is the same in an Action picker, in the Fax routing slip, and in the Out Box.  
+**Figure 5-4** Use icon elements consistently Fax icon in Action picker Fax icon in Out Box Fax icon in Fax routing slip  
+People generally assume that different icons have different functions or behaviors, and they may try to find operational differences even if none exist. In contrast, where applications use standard icons consistently, users can quickly learn what those icons represent.

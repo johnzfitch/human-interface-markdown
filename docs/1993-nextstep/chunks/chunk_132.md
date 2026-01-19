@@ -1,0 +1,3 @@
+<!-- Chunk 132 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 134 -->
+Command names should be short, consisting of a single word if possible, a short phrase if not. Avoid abbreviations in commands, especially those that aren't standardized or widely used. Applications in the same language should follow the same capitalization rules. For English, commands are capitalized as they would be in a title-the first and last words begin with uppercase letters, as well as major words in between.  
+Each command name should be unique. No two comnlands, even if they're in different menus, should have the same name.

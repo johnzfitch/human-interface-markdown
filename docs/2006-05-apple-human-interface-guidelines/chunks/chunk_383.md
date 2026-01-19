@@ -1,0 +1,4 @@
+<!-- Chunk 383 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 200 -->
+Although less concrete than the other guidelines, this guideline encompasses some of the most important qualities of great software. Fundamentally, users delight in applications that seem to understand them, anticipating their needs and providing them with powerful, intuitive, and streamlined solutions. The best way to follow this guideline is to keep the user's mental model firmly in mind as you design your application (for a discussion of this concept, see ["Reflect](#page-39-0) the User's Mental [Model"](#page-39-0) (page 40)). Briefly,you should discoveryour users'workflow, expectations, and real-world experiences and mirror them in your application's terminology, window layout, menu organization and hierarchy, and toolbar contents.  
+#### **APPENDIX B**  
+Prioritizing Design Decisions

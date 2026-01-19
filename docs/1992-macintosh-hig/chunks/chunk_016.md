@@ -1,0 +1,4 @@
+<!-- Chunk 16 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 217 -->
+![](images/_page_21_Picture_2.jpeg)  
+In previous years, the human interface guidelines were published in *Inside Macintosh,* in *Human Interface Guidelines: The Apple Desktop Interface,*  and in *Human Interface Notes*. This book contains all the current human interface guidelines pertaining to all types of products that work with Macintosh computers.  
+In the current *Inside Macintosh*, you'll find human interface information and guidelines included in the individual chapters about each topic, such as the Edition Manager or the Dialog Manager. These chapters also have technical implementation information about the Macintosh Operating System. *Inside Macintosh* doesn't contain the philosophy of the Macintosh interface or the rationale about how to use the interface elements properly, so to create your product, you'll need *Inside Macintosh* and this book.

@@ -1,0 +1,3 @@
+<!-- Chunk 109 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 155 -->
+Attention panels that come up as the result of a command or a commandlike user action should be named after the action that brings them to the screen. For example, the panel that appears as the result of choosing a Save, Save As, Save To, or Save All command should be named *Save.* The panel that comes up when the user wants to close an edited but unsaved document should be named *Close,* whether it's invoked from the close button or through the Close or Close Window commands. The panel's name appears just to the right of the application icon, as shown in the following figure.  
+![](images/_page_97_Picture_0.jpeg)

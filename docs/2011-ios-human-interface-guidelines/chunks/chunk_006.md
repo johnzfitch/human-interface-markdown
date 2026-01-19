@@ -1,0 +1,2 @@
+<!-- Chunk 6 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 106 -->
+[Application](#page-141-0) Icons 142 [Small](#page-143-0) Icons 144 [Document](#page-144-0) Icons 145 Document Icon [Specifications](#page-144-1) for iPhone 145 Document Icon [Specifications](#page-145-0) for iPad 146 Web Clip [Icons](#page-147-0) 148 Icons for [Navigation](#page-148-0) Bars, Toolbars, and Tab Bars 149 [Launch](#page-149-0) Images 150 Tips for [Creating](#page-152-0) Great Artwork for the Retina Display 153

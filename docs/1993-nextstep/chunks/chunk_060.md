@@ -1,0 +1,2 @@
+<!-- Chunk 60 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 35 -->
+Cursor handling is largely handled by the Application Kit. However, your application might need to hide the cursor or change its appearance.

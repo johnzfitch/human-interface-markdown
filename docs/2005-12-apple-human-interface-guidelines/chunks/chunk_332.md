@@ -1,0 +1,8 @@
+<!-- Chunk 332 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 59 -->
+**Figure 14-26** Combo box dimensions  
+#### **Full-size combo box**  
+![](images/_page_247_Picture_5.jpeg)  
+#### **Small combo box**  
+![](images/_page_247_Picture_7.jpeg)  
+#### **Mini combo box**  
+![](images/_page_247_Figure_9.jpeg)

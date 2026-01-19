@@ -1,0 +1,2 @@
+<!-- Chunk 170 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 121 -->
+In text-oriented applications, the Tab key moves the insertion point to the next tab stop. In other contexts, Tab is a signal to proceed; it means "move to the next item in a sequence." The next item can be a table cell or a dialog text field. Shift-Tab navigates in the reverse direction. Pressing Tab can cause data to be entered before focus moves to the next item. For more details about navigating with the Tab key, see ["Keyboard Focus and Navigation" \(page 168\)](#page-167-2).

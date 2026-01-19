@@ -1,0 +1,2 @@
+<!-- Chunk 414 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 40 -->
+A model for extending a continuous selection using Shift-click, in which new text is added to a selection. See also ["fixed-point model"](#page-321-0) (page 322).

@@ -1,0 +1,4 @@
+<!-- Chunk 60 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 219 -->
+The most straightforward method of selecting an object is by clicking on it once. Most things that can be selected in windowing applications can be selected this way.  
+Some applications support selection by double-clicking and triple-clicking. As always with multiple clicks, the second click extends the effect of the first click, and the third click extends the effect of the second click. In the case of selection, this means that the second click selects the same sort of thing as the first click, only more of them. The same holds true for the third click.  
+For example, in text, the first click selects an insertion point, whereas the second click selects a whole word. The third click might select a whole block or paragraph of text. In graphics, the first click selects a single object, and double- and triple-clicks might select increasingly larger groups of objects.

@@ -1,0 +1,2 @@
+<!-- Chunk 107 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 98 -->
+Paste is the last stage of a copy or move operation. It pastes the contents of the Clipboard to the document, replacing the current selection. The user can choose Paste several times in a row to paste multiple copies. After a paste, the new selection is the object that was pasted, except in text, where it's an insertion point immediately after the pasted text. The Clipboard remains unchanged.

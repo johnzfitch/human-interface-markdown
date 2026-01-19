@@ -1,0 +1,2 @@
+<!-- Chunk 206 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 31 -->
+Think twice before including icons in pickers. They're hard to design and have limited benefit. See page [5-12.](#page-165-0)

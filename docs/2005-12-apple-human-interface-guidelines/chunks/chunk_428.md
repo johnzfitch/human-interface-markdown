@@ -1,0 +1,2 @@
+<!-- Chunk 428 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+A property of some controls that enables user to activate them in an inactive window. Whether a control supports click-throught depends on the context.

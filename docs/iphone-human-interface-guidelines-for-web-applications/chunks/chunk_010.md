@@ -1,0 +1,21 @@
+<!-- Chunk 10 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 1047 -->
+Users use their fingersto operate the iPhone user interface, tapping, flicking, and pinching to select, navigate, and read web content and use built-in applications. There are real advantages to using fingers to operate a device: They are always available, they are capable of many different movements, and they give users a sense of immediacy and connection to the device that's impossible to achieve with an external input device, such as a mouse.  
+However, fingers have one major disadvantage: They are much bigger than a mouse pointer, regardless of their size, their shape, or the dexterity of their owner. In the context of a display screen, fingers can never be as precise as a mouse pointer. Additionally, there are some actions users can take with the combination of a mouse and keyboard that are difficult to replicate using fingers alone,such astextselection, drag-and-drop operations, and cut, copy, and paste actions.  
+Fortunately, you can meet the challenges of a finger-based input system by good user interface design. For the most part, this means making sure your layout accommodates the average size of a fingertip and finding alternatives to drag-and-drop and cut, copy, and paste. For specific guidelines on how to lay out your user interface to make it easy to use, see "Metrics, Layout [Guidelines,](#page-30-0) and Tips" (page 31).  
+<span id="page-12-1"></span>iPhone users perform specific movements, called **gestures**, to get particular results. Table 1-1 liststhe gestures users can perform. It's vital to realize, however, that you do not receive an event for most of these gestures. Instead, the majority of these gestures are interpreted by Safari on iPhone and applied to the way iPhone displays content, instead of being passed directly to your content. For more information on how to handle events created on iPhone, see Handling Events.  
+**Table 1-1** Gestures users make to interact with iPhone  
+| Gesture           | Action                                                                                                                                           |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tap               | To press or select a control or link (analogous to a single mouse click).                                                                        |
+|                   | You receive the onclick event for this gesture.                                                                                                  |
+| Double tap        | To zoom in and center a block of content or an image.                                                                                            |
+|                   | To zoom out (if already zoomed in).                                                                                                              |
+| Flick             | To scroll or pan quickly.                                                                                                                        |
+| Drag              | To move the viewport or pan.                                                                                                                     |
+| Pinch open        | To zoom in.                                                                                                                                      |
+| Pinch close       | To zoom out.                                                                                                                                     |
+| Touch and hold    | To display an information bubble, magnify content under the finger, or perform specific<br>actions in built-in iPhone applications and features. |
+| Two-finger scroll | To scroll up or down within a text area, an inline frame, or an element with overflow<br>capability, depending on the direction of the movement. |
+|                   | You can receive a mousewheel event for this gesture.                                                                                             |  
+#### **CHAPTER 1**  
+iPhone and the User's Environment

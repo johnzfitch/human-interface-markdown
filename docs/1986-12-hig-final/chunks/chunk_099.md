@@ -1,0 +1,20 @@
+<!-- Chunk 99 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 966 -->
+The user selects a range of objects by dragging through them. Although the exact meaning of the selection depends on the type of application, the procedure is always the same:  
+- 1. The user positions the pointer at one corner of the range and presses the mouse button. This position is called the anchor point of the range.
+- 2. Without releasing the button, the user moves the pointer in any direction. As the pointer is moved, visual feedback indicates the objects that would be selected if the mouse button were released. For text and arrays, the selected area is continuously highlighted. For graphics, a dotted rectangle expands or contracts to show the range that will be selected. (If possible, the view should scroll to allow extending the selection beyond one windowful.)
+- 3. When the feedback shows the desired range, the user releases the mouse button. The point at which the button is released is called the active end of the range.  
+#### Extending a selection  
+A user can change the extent of an existing selection by holding down the Shift key and clicking the mouse button (**Shift-click**). Exactly what happens next depends on the context.  
+In text or an array, the result of a Shift-click is always the selection of a range. The position where the button is clicked becomes the new endpoint or anchor point of the range; the selection can be extended in any direction. If the user Shift-clicks *within* the current range, the new range will be smaller than the old range.  
+![](images/_page_119_Figure_0.jpeg)  
+Figure 54
+Expanding and shrinking a text selection  
+Extended selections can even be made across the panes of a split window.  
+#### Making a discontinuous selection  
+In graphics applications, objects aren't usually considered to be in any particular sequence. A selection is extended by adding objects to it, and the added objects do not have to be adjacent to the objects already selected. The user can add either an individual object or a range of objects to the selection by holding down the Shift key before making the additional selection (Shift-click). When the user does this, the objects between the current selection and the new object are not automatically included in the selection. This kind of selection is called a **discontinuous selection**. If the user holds down the Shift key and selects one or more objects that are already highlighted, the objects are deselected.  
+In the case of graphics, *all* selections are discontinuous selections because graphic objects are discrete. This is not the case with arrays and text, in which an extended selection made by a Shift-click always includes everything between the old selection and the new endpoint. In arrays and text, the Apple-click is function provides for discontinuous selection.  
+To make a discontinuous selection in a text or array application, the user selects the first piece in the usual way and holds down the Apple key while selecting the remaining pieces. Each piece is selected in the same way as if it were the whole selection, but because the Apple key is held down, the new pieces are *added to* the existing selection instead of replacing it. If one of the pieces selected with Apple-click is already within an existing part of the selection, then instead of being added to the selection it's removed from the selection. Figure 55 shows a sequence in which several pieces are selected and deselected.  
+![](images/_page_121_Figure_0.jpeg)  
+Figure 55
+Discontinuous selection within an array  
+Not all applications support discontinuous selections, and those that do might restrict the operations a user can perform on them. For example, a word processor might allow the user to choose a font after making a discontinuous selection, but wouldn't allow the user to type replacement characters (which part of the selection would they replace?).

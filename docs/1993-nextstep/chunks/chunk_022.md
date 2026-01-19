@@ -1,0 +1,3 @@
+<!-- Chunk 22 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 130 -->
+The workspace and the tools for working in it (the keyboard and mouse) belong to the user, not to anyone application. Users should always be free to choose which application and which window they will work in, and to rearrange windows in the workspace to suit their own tastes and needs.  
+When working in an application, the user should be afforded the widest possible freedom of action. It's inappropriate for an application to arbitrarily restrict what the user can do. If an action makes sense, it should be allowed.

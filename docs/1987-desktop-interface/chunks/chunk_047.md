@@ -1,0 +1,19 @@
+<!-- Chunk 47 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 881 -->
+The primary unifying metaphor in the Apple Desktop Interface is the desktop itself, shown in Figure 3-1. It provides a sense of apparent stability, remaining constant while its content changes.  
+![](images/_page_54_Figure_0.jpeg)  
+Figure 3-1 The Finder desktop  
+Desktop icons are graphic representations of such things as disks, folders, applications, documents, stationery, and the trash can, as shown in Figure 3-2.  
+![](images/_page_54_Picture_3.jpeg)  
+Figure 3-2 Six kinds of Finder icons  
+Applications are the programs with which users do their work or play—from word processors to music composers to spreadsheets. **Documents** are the user's data files—the place where all the work done in an application is stored. **Stationery** files are templates that can contain anything a regular document can contain: a memo or overhead template, or only page setup or layout information. **Folders** let the user organize the desktop; they can contain applications, documents, stationery templates, other folders, or any other sort of file. All of these objects can be stored on **disks**, and can be erased by dragging their icons to the **Trash** on the screen.  
+Icons contribute greatly to the clarity and attractiveness of an application. The use of icons in addition to (or instead of) words can also make it easier to translate programs into other languages, except where the icons have different meanings in different cultures. An item is easier to remember when it's represented by an icon with text than if it's represented by either an icon alone or text alone. Wherever an explanation or label is needed, consider using an icon.  
+The two basic subsystems of the desktop are the **windows** that allow flexible display of information, and the **menus** (including palettes) that make many operations immediately available.  
+#### Windows  
+The way the user accesses any document is through a window. A window is a view into the document—if the document is larger than the window, the window is a view of a portion of the document. The application puts one or more windows on the screen, each window showing a view of a document or of auxiliary information used in processing the document.  
+Generally, it is unwise to allow multiple windows for the same document because it confuses the relationship of windows to icons ("Which window do I close to close the document?"). If multiple views are desirable, the window can be split. (See the section "Splitting a Window.")  
+There are several kinds of windows. Standard document windows are the most obvious kind, but dialog and alert boxes are technically windows too. Most of this section deals with document windows. Controls, dialog boxes, and alert boxes are discussed together after the discussion of document windows.  
+This section is about a window's structural components, or window frame. For a standard document window, these components include the title bar, size box, close box, zoom box, and scroll bars. The application determines the *content* of the window.  
+#### **Document windows**  
+Because a document may contain more information than a window can display at one time, the window provides a view of a portion of a document. Document windows also provide a graphic representation of opening, closing, and other operations performed on documents. Windows are usually, but not necessarily, rectangles. Figure 3-3 shows a standard document window and its components.  
+![](images/_page_56_Picture_2.jpeg)  
+Figure 3-3 Standard document window

@@ -1,0 +1,4 @@
+<!-- Chunk 83 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 161 -->
+As you design your application, think about the operationsthat could be performed in parallel. Multithreading your application improvesthe responsiveness of your user interface by moving long calculationsinto separate threads and away from your main event loop. Multithreading can also improve the speed of performing some tasks, especially on multiprocessor systems. Of course, threading also requires great care during implementation to ensure that shared data structures are not corrupted by different threads. For more information on threading technologies, see *Threading Programming Guide*.  
+#### **CHAPTER 5**  
+The Mac OS X Environment

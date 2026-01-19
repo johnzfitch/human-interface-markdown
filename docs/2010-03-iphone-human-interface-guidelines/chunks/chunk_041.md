@@ -1,0 +1,3 @@
+<!-- Chunk 41 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 122 -->
+Allow users, not your application, to initiate and control actions. Keep actions simple and straightforward so users can easily understand and remember them. Whenever possible, use standard controls and behaviors that users are already familiar with.  
+Provide ample opportunity to cancel operations before they begin, and be sure to get confirmation when the user initiates a potentially destructive action. Whenever possible, allow users to gracefully stop an operation that's underway.

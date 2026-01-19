@@ -1,0 +1,10 @@
+<!-- Chunk 451 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 483 -->
+<span id="page-328-4"></span>Use a tab view when you want to present a small number of different content views in one place within a window. Depending on the size of the window, you can create a tab view that contains between two and about six tabs.  
+The content area below a tab is called a **pane**, and each tab is attached to a specific pane. Within a pane, provide controls and information that affect only the objects contained in the pane, not objects in the rest of the window or in other panes.  
+You can position a tab view in two different ways (see "Tab View [Specifications"](#page-329-0) (page 330) for examples of these styles):  
+■ Extend the side and bottom edges of the tab view to the window edges, so there is no window-body area visible to the sides or below the tab view.  
+Use this style when you want the contents of the entire window-body area below the tab control to be managed by the tabs.  
+■ Inset the tab view in the window, so that a margin of window-body area is visible on all sides of the tab view.  
+Use this style when you want to be able to provide controls that affect the entire window, not just the current pane. (The global controlsshould be in the window-body area below the tab view;see "Tab [View](#page-329-0) [Specifications"](#page-329-0) (page 330) for layout guidelines for this style.)  
+**Note:** Multiple rows of tabs are not supported in Mac OS X.  
+Iif you have too many tabs to fit into a window properly it's acceptable, although not highly recommended, to use instead a pop-up menu to change the contents of a group box [\(Figure](#page-331-2) 15-87 (page 332) shows how this looks). Another alternative to a tab view is a segmented control, which also provides a way to switch among panes. A segmented control looks similar to a tab view, but it is not attached to the panes (see ["Segmented](#page-276-0) Controls" (page 277) for more information about segmented controls).

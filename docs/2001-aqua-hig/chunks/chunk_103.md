@@ -1,0 +1,4 @@
+<!-- Chunk 103 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 146 -->
+- Don't use sheets for dialogs that apply to several windows. Sheets are strictly intended to be used in situations when a particular dialog is associated only with the window to which it is attached.
+- Sheets are not appropriate for modeless operations where the dialog should be left open to allow the user to observe the effects of changes applied. Such tasks are better suited to modeless dialogs, utility windows (palettes), or drawers.
+- <span id="page-94-3"></span>■ Don't use a sheet on a window that doesn't have a title bar. Sheets should emerge from a definite visual edge.

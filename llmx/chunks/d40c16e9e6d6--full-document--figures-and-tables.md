@@ -1,0 +1,86 @@
+---
+chunk_index: 2604
+ref: "d40c16e9e6d6"
+id: "d40c16e9e6d648a74060c2d65af287b48ae34664ecf737d7a4bbfc5e4c5ef837"
+slug: "full-document--figures-and-tables"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [322, 390]
+token_estimate: 2011
+content_sha256: "65a7cac23b47a983cc1bc9d9219bc2e2662882ec2608e3dbff7dcc4e65c54b09"
+compacted: false
+heading_path: ["Figures and Tables"]
+symbol: null
+address: null
+asset_path: null
+---
+
+|           | Figure 4-76                | The Clipboard<br>112                                                        |
+|           | Figure 4-77                | The Undo and Redo commands<br>114                                           |
+|           | Figure 4-78                | The results of using the Paste command<br>116                               |
+|           | Figure 4-79                | The Create Publisher command and dialog box<br>118                          |
+|           | Figure 4-80                | The Subscribe To command and dialog box<br>118                              |
+|           | Figure 4-81                | The Publisher Options dialog box<br>119                                     |
+|           | Figure 4-82                | The Subscriber Options dialog box<br>119                                    |
+|           | Figure 4-83                | A Font menu<br>121                                                          |
+|           | Figure 4-84                | Don't combine the Font menu with other menus<br>122                         |
+|           | Figure 4-85                | A Size menu<br>122                                                          |
+|           | Figure 4-86                | A sample pull-down Size menu and font size dialog box<br>123                |
+|           | Figure 4-87                | A Style menu<br>124                                                         |
+|           | Figure 4-88                | The Help menu<br>125                                                        |
+|           | Figure 4-89                | The Keyboard menu<br>126                                                    |
+|           | Table 4-1                  | Apple-reserved keyboard equivalents for all systems<br>128                  |
+|           | Table 4-2                  | Additional reserved keyboard equivalents for                                |
+|           |                            | worldwide systems<br>128                                                    |
+|           | Table 4-3                  | Common keyboard equivalents that are not reserved<br>129                    |
+| Chapter 5 | Windows<br>131             |                                                                             |
+|           | Figure 5-1                 | Examples of standard windows<br>133                                         |
+|           | Figure 5-2                 | Standard document window parts<br>134                                       |
+|           | Figure 5-3                 | Windows on a color screen<br>135                                            |
+|           | Figure 5-4                 | Standard window components in color<br>136                                  |
+|           | Figure 5-5                 | Colors that the user can choose for windows<br>137                          |
+|           | Figure 5-6                 | A utility window<br>137                                                     |
+|           | Figure 5-7                 | Make it clear where text will appear<br>138                                 |
+|           | Figure 5-8                 | The active window<br>139                                                    |
+|           | Figure 5-9                 | Don't show a selection in an inactive window<br>141                         |
+|           | Figure 5-10                | Appropriate window titles for a series of unnamed windows<br>142            |
+|           | Figure 5-11                | Examples of correct and incorrect window titles<br>143                      |
+|           |                            |                                                                             |
+
+|           | Figure 5-12  | Display order of document windows and modeless<br>dialog boxes<br>144                |
+|-----------|--------------|--------------------------------------------------------------------------------------|
+|           | Figure 5-13  | Adding floating windows to the desktop<br>145                                        |
+|           | Figure 5-14  | Adding a movable modal dialog box to the desktop<br>146                              |
+|           | Figure 5-15  | Window positions on a single screen<br>147                                           |
+|           | Figure 5-16  | The standard window position on two sizes of screens<br>148                          |
+|           | Figure 5-17  | The standard window position on multiple screens<br>149                              |
+|           | Figure 5-18  | A window displayed across two screens<br>150                                         |
+|           | Figure 5-19  | Standard position of an alert box<br>151                                             |
+|           | Figure 5-20  | Alert box position in relation to the active document window<br>151                  |
+|           | Figure 5-21  | Standard alert box position with more than one screen<br>152                         |
+|           | Figure 5-22  | The close box<br>153                                                                 |
+|           | Figure 5-23  | The save changes alert box<br>154                                                    |
+|           | Figure 5-24  | Moving a window<br>155                                                               |
+|           | Figure 5-25  | Multiple monitors and conceptual work space<br>156                                   |
+|           | Figure 5-26  | A window growing larger<br>157                                                       |
+|           | Figure 5-27  | Relationship between a window and a document<br>158                                  |
+|           | Figure 5-28  | The elements of a scroll bar<br>159                                                  |
+|           | Figure 5-29  | Using scroll arrows and the scroll box<br>159                                        |
+|           | Figure 5-30  | Inactive scroll bars in active and inactive document<br>windows<br>160               |
+|           | Figure 5-31  | Background between the content and the window frame<br>161                           |
+|           | Figure 5-32  | Acceptable additions to the scroll bar region<br>162                                 |
+|           | Figure 5-33  | Too many controls in the scroll bar<br>162                                           |
+|           | Figure 5-34  | Scrolling by clicking a scroll arrow<br>163                                          |
+|           | Figure 5-35  | Scrolling by clicking in the gray area<br>164                                        |
+|           | Figure 5-36  | Scrolling by dragging the scroll box<br>165                                          |
+|           | Figure 5-37  | Automatic scrolling<br>166                                                           |
+|           | Figure 5-38  | The zoom box<br>168                                                                  |
+|           | Figure 5-39  | The standard state and the user state of a document<br>169                           |
+|           | Figure 5-40  | A split window<br>171                                                                |
+|           | Figure 5-41  | Split bar size<br>171                                                                |
+|           | Figure 5-42  | Independent and locked scrolling of window panes<br>172                              |
+| Chapter 6 | Dialog Boxes | 175                                                                                  |
+|           | Figure 6-1   | Examples of dialog box types<br>177                                                  |
+|           | Figure 6-2   | A typical modeless dialog box<br>178                                                 |
+|           | Figure 6-3   | Two open modeless dialog boxes<br>179                                                |
+|           | Figure 6-4   | The essential elements of a modeless dialog box<br>180                               |

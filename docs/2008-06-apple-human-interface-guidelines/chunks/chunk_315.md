@@ -1,0 +1,2 @@
+<!-- Chunk 315 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 62 -->
+<span id="page-260-2"></span><span id="page-260-0"></span>Push buttons are available in Interface Builder. To create one using Application Kit programming interfaces, create an NSButton object of type NSMomentaryPushInButton or NSMomentaryLightButton.

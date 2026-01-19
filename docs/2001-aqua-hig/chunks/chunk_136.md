@@ -1,0 +1,2 @@
+<!-- Chunk 136 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 87 -->
+The user can type any appropriate characters into the text field. If the user types in an item already in the menu or list, or types in a few characters that match the first characters of an item in the menu or list, the item is highlighted when the user opens the menu or list. A user-typed item does *not* get added to the permanent menu or list.

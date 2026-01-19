@@ -1,0 +1,4 @@
+<!-- Chunk 72 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 181 -->
+Users plug in headsets and headphonesto hearsounds privately and to free their hands. Users have different expectations for application behavior, depending on whether they're plugging in or unplugging these accessories.  
+When users plug in a headset or headphones, they intend to continue listening to the current audio, but privately. For this reason, they expect an application that is currently playing audio to continue playing without pause.  
+When users unplug a headset or headphones, they don't want to automatically share what they've been listening to with others. For this reason, they expect an application that is currently playing audio to pause, allowing them to explicitly restart playback when they're ready.

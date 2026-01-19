@@ -1,0 +1,3 @@
+<!-- Chunk 12 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 120 -->
+It's essential to keep the user experience uppermost in your mind as you design every aspect of your app, from the way you enable a task, to the way your app starts and stops, to the way you use a button. Discover the guidelines that influence the look and behavior of your app, in matters both general and specific.  
+<span id="page-9-2"></span>**Relevant Chapters:** "User Experience [Guidelines"](#page-46-0) (page 47) and "iOS UI Element Usage [Guidelines"](#page-96-0) (page 97)

@@ -1,0 +1,4 @@
+<!-- Chunk 5 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 162 -->
+Every app, regardless of how much custom artwork it uses, needs a beautiful, eye-catching icon for the App Store. Some apps also need custom icons for toolbar buttons or to represent the documents that users can create. Ensure that you know how to design these icons so that they look great on the user's desktop.  
+Every app, even the most graphical, needs to display at least some text. Make sure that your app feels at home in OS X by writing text that is clear and concise and that follows Apple's style guidelines.  
+**Relevant Chapters:** "Icon Design [Guidelines"](#page-110-0) (page 111) and "Text Style [Guidelines"](#page-299-0) (page 300)

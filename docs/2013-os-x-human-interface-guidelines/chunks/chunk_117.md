@@ -1,0 +1,29 @@
+<!-- Chunk 117 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 1385 -->
+All windows should have a title bar even if the window doesn't have a title (which should be a very rare exception). In a full-screen window, the title bar is hidden.  
+<span id="page-174-1"></span>There are only four elementsthat can appear in the title bar: the window title, the title bar buttons, the full-screen button, and a proxy icon (in document windows). For the most part, you directly control only the window title; the system provides the other title-bar elements, depending on how you define your app's behavior.  
+#### The Window Title  
+The window title is centered in the title bar. If the title is too long for the width of the window, it is truncated and an ellipsis is added, if necessary.  
+**Name each window appropriately.** The title of a document window should be the name of the document that it displays. The title of an app window isthe app name. Panelsshould display a descriptive title appropriate for that window, such as Media or Layout.  
+**If necessary, change the title of the window to reflect the current context.** This might be appropriate if, for example, users can change the contents of the window. For example, in the Keynote inspector panel, the title of the window changes to reflect which pane the user has selected.  
+**Separate multiple items in a title with an em dash (—) with space on either side.** For example, when users select a mailbox the Mail message viewer window displays the name of the mailbox followed by the account name. When users open a message in its own window, the message title (that is, the subject) is displayed, followed by the mailbox name.  
+**Don't display pathnames in window titles.** When displaying document titles, use the display name and show the extension if the user has elected to show extensions. If you need to display a path in the body of a window you can use the path control, described in "Path [Control"](#page-265-0) (page 266).  
+#### <span id="page-175-0"></span>Title Bar Buttons  
+The close, minimize, and zoom buttons, which are known collectively as the **title bar buttons**, appear in all windows except alerts and modal dialogs.  
+Document and app windows always display active close and minimize buttons. (For details on what these buttons do,see "Closing [Windows"](#page-199-0) (page 200) and ["Minimizing](#page-198-0) and Expanding Windows" (page 199).) The zoom button appearsif the window can be adjusted in size. (Information on how the zoom button worksisin ["Resizing](#page-197-0) and Zooming [Windows"](#page-197-0) (page 198).)  
+Panels always display an active close button but never an active minimize button, because an open panel hides or minimizes together with its associated app or document window.  
+In general, inactive title bar buttons are visible in their inactive state; that is, they don't disappear when they're inactive. The exception isin panels, where it is acceptable to display only the close button. To learn more about panels and their title bar buttons, see ["Panels"](#page-205-0) (page 206).  
+You can see the appropriate configurations of title bar buttons for app and document windows (and alerts and modal dialogs) below.  
+![](images/_page_175_Picture_8.jpeg)  
+Note that in an app that is not document-based, the close button might display a dot to indicate that the window contains unsaved changes. Document-based apps rarely need to do this, because Auto Save allows users to stop worrying about the saved state of their documents. For more information about Auto Save, see "Auto Save and [Versions"](#page-101-0) (page 102).  
+#### <span id="page-176-0"></span>The Full-Screen Button  
+If you use the standard AppKit programming interfacesto enable a window to go fullscreen, the system-provided full-screen button appears in the right end of the title bar by default (shown here in Mail).  
+![](images/_page_176_Picture_3.jpeg)  
+Users can click the full screen button to take a window full screen; in the full-screen window, they click the button again to return the window to its standard size. To learn more about enabling full-screen windows in your app, see "Allow Users to Go Full Screen (if [Appropriate\)"](#page-40-0) (page 41).  
+#### <span id="page-176-1"></span>The Proxy Icon and Title Bar Menu  
+The title bar of a document window can include a proxy icon (after the content is saved at least once) and a menu that lets users rename, move, tag, or lock a document.  
+A **proxy icon** is a small icon that represents the document itself. After pressing a proxy icon for a brief period, users can manipulate it as if they were manipulating the actual document. For example, users can attach a document to an email message by dragging its proxy icon into the email message, as shown below.  
+![](images/_page_176_Figure_8.jpeg)  
+When users Command-click the document title or the proxy icon, a pop-up menu displays the document path. (Note that you don't place a standard pop-up menu control in the title bar to provide this behavior.) Because OS X is a multiuser environment, it's especially important to show the complete path of a document to avoid confusion. For example, in the Preview document shown here, the document path displays the document itself and all its containing folders, including the volume that contains the user's home directory.  
+![](images/_page_177_Picture_2.jpeg)  
+The **title bar menu** gives users a shortcut way to rename, move, or assign tags to a document or lock it (which prevents unauthorized editing).  
+![](images/_page_177_Picture_4.jpeg)

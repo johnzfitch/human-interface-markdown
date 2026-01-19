@@ -1,0 +1,16 @@
+<!-- Chunk 248 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 744 -->
+Typically, icon buttons are used to displayclickable icons in a toolbar(as described i[n"Window-Frame](#page-259-0) [Controls"](#page-259-0) (page 260), an icon button is one of three standard window-body controls you can use in a toolbar). If you want to use icon buttons in your toolbar, avoid mixing them with rectangular-style or capsule-style toolbar controls. Icon buttons should not be used in a bottom bar.  
+An icon button can have a pop-up menu attached. See "Icon [Buttons](#page-290-0) and Bevel Buttons With Pop-Up [Menus"](#page-290-0) (page 291) for more information about this usage.  
+#### Icon Button Contents and Labeling  
+<span id="page-272-1"></span>Icon buttons contain icons; in addition, they can display a text label that users can choose to view. Icon buttons can also contain a single downward-pointing arrow, which indicates the presence of a pop-up menu.  
+Icon button labels should name a thing (such as Network or Accounts) or describe an action (such as Mask or Show Art). Remember that users can choose to view the icon without the label, so make sure the meaning of the icon is clear and unambiguous. See ["Designing](#page-153-0) Icons for Icon Buttons" (page 154) for more information on designing attractive and useful toolbar icons.  
+#### Icon Button Specifications  
+**Control sizes**: The outer dimensions of an icon button are not visible, but they determine the hit target area. Typically, the outer dimensions of an icon button include a margin of about 10 pixels all the way around the icon and label.  
+**Label spacing and fonts**: Use the small system font for the labels. The text should be below the icon as shown in Figure 15-11.  
+**Icon sizes**: Icons for icon buttons work best when they are between 24 x 24 pixels and 32 x 32 pixels in size. For example, the icon shown in Figure 15-11 is 32 x 32 pixels.  
+<span id="page-273-1"></span>**Figure 15-11** Example relationships of the icon, button, and hit-target dimensions in an icon button  
+![](images/_page_273_Picture_4.jpeg)  
+**Control spacing**:For buttonswith a 24 x 24 pixel (orlarger) icon, leave at least 8 pixels between button edges (not between icon edges), stacked vertically or aligned horizontally.  
+#### Icon Button Implementation  
+To create an icon button in Interface Builder, draga bevel button or a square button intoyourwindow, add your icon, and deselect the Bordered checkbox in the Attributes pane of the inspector. To create one using Application Kit programminginterfaces, use the setBezelStyle method of NSButtonCell with NSShadowlessSquareBezelStyle as the argument.  
+<span id="page-273-0"></span>You can also use Interface Builder to create an icon button that includes a pop-up menu. First, drag a pop-up button into your window then, in the Attributes pane of the inspector, change the type to Pull Down. Finally, in the same pane, change the style to either Bevel or Square (it doesn't matter which) and deselect the Bordered checkbox.

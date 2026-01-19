@@ -1,0 +1,2 @@
+<!-- Chunk 235 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 84 -->
+Although you may want the final icon to look like a photograph, in most cases it's inadvisable to start with an actual photograph. An illustration provides much more flexibility for conveying a concept in a very small space. An illustration also gives you necessary control over details, perspective, light and shadow, texture, and so on.

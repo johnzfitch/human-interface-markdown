@@ -1,0 +1,2 @@
+<!-- Chunk 156 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+<span id="page-139-1"></span>Application icons are the most visible to users. Since they are seen in the Finder and the Dock even when your application is not running, they form a significant part of a user's first impressions.

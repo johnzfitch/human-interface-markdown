@@ -1,0 +1,3 @@
+<!-- Chunk 118 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 131 -->
+<span id="page-90-5"></span>There are fourkinds ofkeys: characterkeys, modifierkeys, arrowkeys, and function keys. A **character key**sends a characterto the computer. When the user holds down a **modifier key,** it alters the meaning of the character key being pressed or the meaning of a mouse action.  
+**Note:** Not all the keys described here exist on all keyboards. Don't depend on a key as the only way for users to accomplish a task. You cannot assume anythingaboutwhich keyboard (if any) is connected to a computer.

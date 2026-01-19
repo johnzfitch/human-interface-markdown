@@ -1,0 +1,6 @@
+<!-- Chunk 140 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 312 -->
+Ifyour application isn't primarilya text application, but it has text entryfields in dialogs, for example, you may not need to provide the full text-editing features described in this section. The application should support the following features:  
+- The user can select the whole field and type in a new value, delete text, select a substring of the field and replace it, and select a word by double-clicking.
+- The user can choose Undo, Cut, Copy, Paste, and Delete, as described in "The Edit [Menu"](#page-156-0)(page 157).
+- The application performs appropriate edit checks. For example, if the only legitimate value for a field is a string of digits, the application should alert the user if any nondigits are typed. For a more complete discussion of when to check for errors and apply changes in text fields, see ["Accepting](#page-204-0) Changes" (page 205).  
+<span id="page-107-1"></span>When possible, support automatically filling in text fields as users type. You might fill in a field with frequently typed information or information from a history list. If you do this, indicate what you are automatically filling in, perhaps by highlighting it, so it is clear what the user has typed and what information your application is providing.

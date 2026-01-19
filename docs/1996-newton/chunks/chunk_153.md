@@ -1,0 +1,4 @@
+<!-- Chunk 153 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 212 -->
+The In/Out Box shows the same header information for each item it displays in the In Box or Out Box. Each item's header consists of an icon that identifies the transport, followed by the item's title and status. A second line shows the name of the sender or recipient, followed by the date and time the item was put in the In/Out Box. [Table 7-1](#page-210-0) explains the meanings of the standard status words displayed in the In/Out Box headers.  
+**Status Meaning** In Box New Body has not been displayed yet Read Body has been displayed Remote Body has not been received yet (just header) Logged Item logged (header kept; body deleted) Out Box Pending Item not ready for sending (routing slip incomplete) Ready Item ready for sending Sent Item sent  
+<span id="page-210-0"></span>**Table 7-1** Meanings of status words in the In/Out Box headers

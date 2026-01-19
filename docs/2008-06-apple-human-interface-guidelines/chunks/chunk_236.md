@@ -1,0 +1,2 @@
+<!-- Chunk 236 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+All windows should have a title bar even if the window doesn't have a title (which should be a very rare exception). In Mac OS X v10.5 and later, all windows display the title bar unified with the toolbar, if a toolbar is present. The following sections describe the components of the title bar.

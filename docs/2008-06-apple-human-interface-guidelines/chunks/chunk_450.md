@@ -1,0 +1,4 @@
+<!-- Chunk 450 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 129 -->
+<span id="page-328-1"></span>A **tab view** provides a convenient way to present information in a multipane format. The tab control is displayed horizontally centered across the top edge of a content area. Users click a tab to see the content associated with it. For example, QuickTime preferences provides five tabs, each of which displays a group of preference settings, as shown in Figure 15-84.  
+**Figure 15-84** A tab view allows switching among multiple panes in a window  
+![](images/_page_328_Picture_7.jpeg)

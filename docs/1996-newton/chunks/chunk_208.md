@@ -1,0 +1,2 @@
+<!-- Chunk 208 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 73 -->
+Name a slip's take-action button with a specific verb such as Print, Fax, or File. Only use vaguely affirmative names such as OK and Yes where you want to force users to scan other parts of the slip to verify what action the button initiates. See pages [3-4](#page-97-0) and [3-5.](#page-98-0)

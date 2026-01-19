@@ -1,0 +1,2 @@
+<!-- Chunk 177 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 35 -->
+<span id="page-150-4"></span><span id="page-150-1"></span>Printing dialogs include the Print dialog, the Fax dialog, and the Page Setup dialog.

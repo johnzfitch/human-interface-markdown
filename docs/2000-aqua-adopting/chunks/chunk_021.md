@@ -1,0 +1,2 @@
+<!-- Chunk 21 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 53 -->
+List elements, including browser and table views in Interface Builder, should be vertically sized to show only full lines of text. If you use the default font, this works out to (number of lines x 16) + 4 pixels.

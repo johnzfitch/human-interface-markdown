@@ -1,0 +1,10 @@
+<!-- Chunk 99 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 429 -->
+Menus present lists of items—commands, attributes, or states—from which the user can choose.  
+Users refer to menus frequently, especially when they are seeking a function for which they know of no other interface. Ensuring that menus are correctly organized, are worded clearly, and behave correctly is crucial to the user's ability to explore and access the functionality of your app.  
+Menus have a few different forms in the OS X interface:  
+- A **menu bar menu** displays the current app's commands in the single menu bar at the top of the display. An app typically displays several menus in the menu bar (for an overview of the menu bar, see "All [Apps](#page-15-0) Use the [Single](#page-15-0) Menu Bar" (page 16)).
+- A **Dock menu** contains system-defined commands (such as Reveal in Finder and Keep in Dock) and, optionally, app-specific commands (such as New Window). To reveal a Dock menu, users Control-click or press and hold an app's Dock icon.
+- A **contextual menu** displays commands that are directly related to an item. To reveal a contextual menu, users Control-click an onscreen area or a selection.  
+You can see examples of these menu types in the TextEdit Edit menu, the Mail Dock menu, and a Finder contextual menu (from left to right).  
+![](images/_page_131_Figure_8.jpeg)  
+There are also a few controls that display menus, such as pop-up menus, command pop-down menus, and pop-up icon buttons and bevel buttons. Many of the guidelines in this chapter also apply to these control menus because they share several characteristics with app menus. To learn how to use the controlsthemselves, see the control-specific sections in "UI Element [Guidelines:](#page-239-0) Controls" (page 240).

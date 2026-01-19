@@ -1,0 +1,2 @@
+<!-- Chunk 267 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 56 -->
+This section presents information about a number of different subjects related to human-computer design. It includes resources for several of the human interface principles described in Chapter 1, "Human Interface Principles."

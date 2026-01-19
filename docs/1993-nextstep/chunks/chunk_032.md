@@ -1,0 +1,4 @@
+<!-- Chunk 32 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 143 -->
+Users give instructions to the computer through their actions on the mouse (or a comparable pointing device) and keyboard.  
+===========-==--\_ ... - \_.\_. ===========~===:::;;;;--:;,:.;:'-= -!-.-=-.~.~--..  
+**In** general, the keyboard is needed only to enter text. The mouse is used for all other operations, such as using controls and making selections. However, for the user's convenience, many operations can also be accomplished using the keyboard. The keyboard is also the only way to access certain computerwide functionality, such as turning the power on and off.

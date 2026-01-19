@@ -1,0 +1,2 @@
+<!-- Chunk 388 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 69 -->
+You can use Interface Builder to create a command pop-down menu: select an NSPopUpButton object and change its type to Pull Down in the Attributes pane of the inspector. To create a command pop-down menu using Application Kit programming interfaces, use the NSPopUpButton class.

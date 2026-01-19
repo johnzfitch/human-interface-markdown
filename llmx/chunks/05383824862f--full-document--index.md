@@ -1,0 +1,99 @@
+---
+chunk_index: 3004
+ref: "05383824862f"
+id: "05383824862fcfbdd3720991c9c886e911bd1addf86457ddb935db16b6c6e107"
+slug: "full-document--index"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [6638, 6719]
+token_estimate: 1986
+content_sha256: "9ff20beb32a35cf87beb4e9cb1cbafdfa89e1861a1e8a7ed2f578907efcad24a"
+compacted: false
+heading_path: ["Index"]
+symbol: null
+address: null
+asset_path: null
+---
+
+| communications with other users 30               | DA, correct terminology for 307              |
+| complexity of interface design 35–38             | dashes in menus 64–66                        |
+| conceptual space on multiple monitors 156        | database extension, as correct term 307      |
+| concurrent help systems 314                      | data encryption 30                           |
+| consistency                                      | data loss and alert boxes 195                |
+| as design principle 7–8                          | dates 17                                     |
+| in use of icon elements 233                      | ddev, correct terminology for 307            |
+| within icon families 233, 245                    | deaf people. See hearing disabilities        |
+| context as a clarifying tool 228                 | default color tables 264                     |
+| context clues for communication 30               | default icons 245–255                        |
+| context-sensitive help 314                       | for applications 246                         |
+| control definition functions 259                 | for documents 247                            |
+| Control key 280                                  | for editions 250                             |
+| control panels                                   | for extensions 250                           |
+| Color 259                                        | for keyboards 252                            |
+| Mouse 272                                        | for query documents 249                      |
+| providing icons for 251                          | for stationery pads 249                      |
+| Sound 26                                         | Del (Forward Delete) key 285                 |
+| controls                                         | Delete (Backspace) key 277                   |
+| alignment of 20                                  | deleting                                     |
+| buttons 204–209                                  | text 300                                     |
+| checkboxes 211–213                               | using the Cut command 114                    |
+| defined 204                                      | design principles 4–14                       |
+| help balloons for 318                            | desk accessory, as correct term 307          |
+| in document windows 134                          | desktop metaphor 5                           |
+| in scroll region 161, 162                        | desktop pattern and icons 239                |
+| little arrows 216–217                            | diacritical marks 24                         |
+| not supported by the Macintosh Toolbox 214–218   |                                              |
+|                                                  |                                              |
+
+| E<br>dialog boxes 176–202. See also alert boxes<br>alignment of elements in 20–22         |  |
+|-------------------------------------------------------------------------------------------|--|
+|                                                                                           |  |
+| and ellipsis character in menus 68–70<br>editing                                          |  |
+| and pop-up menus 82, 83–85<br>in fields 302–303                                           |  |
+| as windows 176<br>passwords 29                                                            |  |
+| color design for 258<br>shared information 30                                             |  |
+| default display positions in 150–152<br>text 300–303                                      |  |
+| dismissing with the Return key 276<br>edition icons 250                                   |  |
+| for font size 123<br>Edition Manager commands 110–111, 117–120                            |  |
+| keyboard input in 198–199<br>Edit menu 109–120, 187–188, 191–192                          |  |
+| messages in 199, 310–312<br>adding commands to 110                                        |  |
+| modal 188–193<br>and modal dialog boxes 191                                               |  |
+| movable modal 185–188<br>and movable modal dialog boxes 187–188                           |  |
+| position in window display order 144<br>Clear command in 117                              |  |
+| preferences and 38<br>Clipboard and 111–112                                               |  |
+| Print 108–109<br>Copy command in 115                                                      |  |
+| providing feedback in 9<br>Create Publisher command in 117–118                            |  |
+| Publisher Options 118–120<br>Cut command in 114                                           |  |
+| Save As 106–107<br>Edition Manager commands in 110–111, 117–120                           |  |
+| standard file 101, 200<br>Paste command in 115–116                                        |  |
+| Subscriber Options 118–120<br>Publisher/Subscriber Options command in 118–120             |  |
+| type selection in 198<br>Select All command in 117                                        |  |
+| dialog box messages, how to write 310–312<br>Show Clipboard/Hide Clipboard command in 117 |  |
+| Dialog Manager 191, 192<br>Subscribe To command in 118                                    |  |
+| diamond mark in Application menu 71–72<br>Undo/Redo command in 113–114                    |  |
+| dimmed items in menus 60<br>electronic documentation help systems 314–316                 |  |
+| direct manipulation 6, 226<br>ellipsis character                                          |  |
+| directory dialog box, as correct term 307<br>and modeless dialog boxes 180                |  |
+| disabilities 24–27. See also universal access<br>as subpalette indicator 39               |  |
+| hearing 26<br>in menus 67–70                                                              |  |
+| physical 25<br>empty documents and the insertion point 282                                |  |
+| seizure disorder 27<br>End key 285                                                        |  |
+| speech and language 27<br>entering data                                                   |  |
+| discontinuous selections 291, 299<br>with the Enter key 275                               |  |
+| dividers in menus 62–63<br>with the Return key 276                                        |  |
+| documentation<br>Enter key 275                                                            |  |
+| avoiding jargon in 307, 313<br>error checking in modeless dialog boxes 182                |  |
+| learning paths in 313<br>error messages, how to write 311                                 |  |
+| document icons 247–248<br>Escape (Esc) key 277                                            |  |
+| document names in dialog box messages 199<br>extension icons 250                          |  |
+| documents. See also windows                                                               |  |
+| and outline triangles 218                                                                 |  |
+| and windows 132                                                                           |  |
+| F<br>defined 308                                                                          |  |
+| names of and window titles 142–143                                                        |  |
+| opening 101–102<br>F (function) keys 164, 284–286                                         |  |
+| document windows. See windows<br>feature cascade 35                                       |  |
+| Done button 208<br>feedback                                                               |  |
+| dots in menus. See ellipsis character<br>and asynchronous operations 56                   |  |
+| double-clicking 272–273<br>and changes in modeless dialog boxes 182                       |  |
+| dragging 274, 289<br>and selecting 286                                                    |  |

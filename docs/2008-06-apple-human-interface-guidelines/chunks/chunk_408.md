@@ -1,0 +1,5 @@
+<!-- Chunk 408 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 198 -->
+A **text input field**, also called an editable text field, is a rectangular area in which the user enters text or modifies existing text. The text input field can be active or disabled. Itsupports keyboard focus and password entry. For example, iTunes preferences allows the user to specify a library name for sharing, as shown in Figure 15-70.  
+<span id="page-313-0"></span>**Figure 15-70** A text input field allows the user to supply information  
+![](images/_page_313_Picture_3.jpeg)  
+Be sure to use a combination box control when you want a text input field combined with a menu or list of choices; don't try to create one by putting a text input field and a menu together. See ["Combination](#page-285-0) [Boxes"](#page-285-0) (page 286) for more information about combination boxes.

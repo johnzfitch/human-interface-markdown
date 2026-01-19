@@ -1,0 +1,2 @@
+<!-- Chunk 31 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 91 -->
+The success of an application's interface depends on real users. There's no substitute for having users try out the interface-even before there's any functionality behind it-to see whether it makes sense to them and lets them accomplish what they want. Some books with information on user testing are listed in the "Suggested Reading" section at the end of this book.

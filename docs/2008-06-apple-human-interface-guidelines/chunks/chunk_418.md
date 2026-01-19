@@ -1,0 +1,3 @@
+<!-- Chunk 418 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 130 -->
+Use a search field to allow users to search for terms within your application. A search field supports keyboard focus, so if searching is important in your application, provide the keyboard shortcut Command-Option-F, which allows users to navigate to a search field without using the mouse.  
+Depending on how you implement searching functionality in your application, you can specify a search field that begins searching as soon as the user starts typing, or that begins the search when the user presses Return or Enter.

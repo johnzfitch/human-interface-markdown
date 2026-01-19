@@ -1,0 +1,5 @@
+<!-- Chunk 284 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 212 -->
+Users who are just starting to learn how to use an application need a type of help different from that which experienced users need. It's a good idea to provide more than one type of help so that you can meet the needs of users at all levels. Use the Help menu to divide your help into components for different levels of users. For example, an application might add three commands to the Help menu: Tutorial, Help, and Shortcuts.  
+**11**  
+#### <span id="page-338-0"></span>Language  
+The Tutorial command would provide an introduction for users who are new to an application or need an overview of its features. The Help command would assist casual and regular users who have reached an impasse using the application. The Shortcuts commands would provide intermediate users with tips to increase the efficiency with which they use the application.

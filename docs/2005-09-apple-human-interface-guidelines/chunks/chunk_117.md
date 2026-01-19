@@ -1,0 +1,12 @@
+<!-- Chunk 117 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 538 -->
+Pressing the Forward Delete (labeled Del) key deletes the character *after* the insertion point, shifting everything following the removed character one position back. The effect is that the insertion point remains stationary while it "vacuums" the character or selection ahead of it.  
+If somethingis selectedwhen Fwd Del is pressed, it has the same effect as pressing Delete (Backspace) or choosing Delete from the Edit menu.  
+You can support Option–Fwd Del to delete the next larger semantic unit, as described in ["Moving](#page-91-0) the [Insertion](#page-91-0) Point" (page 92), but deleting more than one word at a time is inadvisable. Users prefer to select large amounts of text with the mouse so they have more control over what they're deleting.  
+#### <span id="page-94-1"></span>**Home, End**  
+Pressing the Home key is equivalent to moving the scrollers all the way to the top and to the left. In a text document, for example, pressing Home scrolls to the beginningof the document; in a spreadsheet, it may scroll to the beginning of the spreadsheet or to the beginning of a row. These keys should also work in scrolling lists to display the top or bottom of the list.  
+End is the opposite of Home: It scrolls to the end of a document.  
+<span id="page-94-6"></span>If the beginningor end of the document is alreadyreached, pressing Home or End produces a system alert sound. Pressing the Home or End key has no effect on the location of the insertion point or selected data.  
+#### **Page Up, Page Down**  
+Pressing Page Up or Page Down scrolls the document up or down one page. If an entire page can't be displayed in the window, these keys first scroll incrementally up or down, until the top or bottom of the page is visible, before scrolling to the next page. These keys should also work in scrolling lists.  
+If the beginning or end of the document is reached, pressing Page Up or Page Down produces a system alert sound. Pressing the Page Up or Page Down key has no effect on the location of the insertion point or selected data.  
+The Keyboard **95 2005-09-08 | © 1992, 2001-2003, 2005 Apple Computer, Inc. All Rights Reserved.**

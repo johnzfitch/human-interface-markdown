@@ -1,0 +1,8 @@
+<!-- Chunk 73 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 365 -->
+Game Center lets people play games, organize online multiplayer games, and more. Players use the built-in Game Center app to sign in to an account, discover new games, add new friends, and browse leaderboards and achievements.  
+![](images/_page_106_Figure_2.jpeg)  
+As a game developer, you use the Game Kit APIs to post scores and achievements to the Game Center service, display leaderboards in the game UI, and help users find other players. To learn how to integrate Game Center into your app, see *Game Center Programming Guide* .  
+The following guidelines can help you give people a great Game Center experience in your app.  
+**Don't create custom UI that prompts users to sign into Game Center.** When people start your Game Center-enabled app—and they're not already signed into Game Center on their device—the system automatically prompts them to sign in. Displaying custom sign-in UI is unnecessary and might confuse users.  
+**In general, use the standard Game Center UI.** In rare cases, it might make sense for a game to customize the Game Center UI, but doing so risks confusing people. The standard Game Center UI—which is familiar to both iOS and OS X users—promotes the sense of belonging to a larger gaming community.  
+**Give users the ability to turn off voice chat.** Some users might not want voice chat to be on automatically when they start your game, and most users appreciate the ability to turn off voice chat in certain situations.

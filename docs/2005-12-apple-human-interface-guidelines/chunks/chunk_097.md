@@ -1,0 +1,2 @@
+<!-- Chunk 97 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 105 -->
+<span id="page-76-2"></span>Users begin making assessments of your application based on its presentation in the physical or electronic package in which it arrives. Delivering a great user experience begins with thinking about how your product is presented prior to installation. Whether you distribute your application in a box or online, your goal should be to make the packaging aesthetically pleasing and informative.

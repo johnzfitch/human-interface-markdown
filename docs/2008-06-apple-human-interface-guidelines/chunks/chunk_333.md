@@ -1,0 +1,3 @@
+<!-- Chunk 333 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 113 -->
+Bevel buttons can behave like push buttons or can be grouped and used like radio buttons or checkboxes. For example, you could use bevel buttons to graphically represent text-alignment options.  
+Use bevel buttons in the window body. If you need a similarly versatile button for use in the window-frame areas, consider using a rectangular-style toolbar button (described in ["Rectangular-Style](#page-249-0) Toolbar [Controls"](#page-249-0) (page 250)).

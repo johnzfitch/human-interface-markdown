@@ -1,0 +1,2 @@
+<!-- Chunk 30 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 118 -->
+All built-in Newton applications and services can access a common pool of data, and so can your Newton software. This pool is the information a user enters into the Newton device. Since all applications have access to this data, a user can work more efficiently—because each piece of information needs to be entered only once. Thereafter, the data can be accessed and used in many different ways. Your application can read and write this data. Put it to the user's advantage.

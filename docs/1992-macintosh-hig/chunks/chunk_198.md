@@ -1,0 +1,2 @@
+<!-- Chunk 198 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 43 -->
+Colors look best against a background of neutral gray. Colors within your application will stand out more if the background and surrounding areas are gray or black and white.

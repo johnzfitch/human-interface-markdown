@@ -1,0 +1,2 @@
+<!-- Chunk 104 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 73 -->
+The conventional position for an overview picker is centered at the bottom of the screen. Overview pickers are large, so your application should not attempt to position one near the diamond label or other control that makes it appear. The usual size of an overview picker is 234 × 231 pixels.

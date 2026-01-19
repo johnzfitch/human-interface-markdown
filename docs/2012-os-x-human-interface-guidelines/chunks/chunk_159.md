@@ -1,0 +1,2 @@
+<!-- Chunk 159 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 60 -->
+Keyboard shortcuts provide an easy way for sophisticated users to perform actions. Be sure to respect the system-reserved keyboard shortcuts in your app so that users aren't confused when the shortcuts they know work differently in your app.

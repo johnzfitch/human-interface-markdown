@@ -1,0 +1,14 @@
+<!-- Chunk 59 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 702 -->
+A **toggled menu item** changes between two states each time a user choosesit. There are three types of toggled menu items:  
+- A set of two menu items that indicate opposite states or actions, for example, Grid On and Grid Off. Users know which menu item is currently in effect because it displays a checkmark or it appears inactive.
+- One menu item whose name changes to reflect the current state, for example, Show Ruler and Hide Ruler.
+- A menu item that has a checkmark next to it when it is in effect, for example, a style attribute such as Bold.  
+Toggled menu items can be convenient, but they are rarely necessary. If you want to use toggled menu items in your app, use the following guidelines to make sure that they provide value to users.  
+**As much as possible, display both items in a set.** When users can see both states or actions at the same time, there's less chance of confusion about each item's effect. For example, the Mailbox menu in Mail includes both the Take All Accounts Online and Take All Accounts Offline items. When the user's accounts are online, only the Take All Accounts Offline menu item is available, which leaves no doubt about the effect of this action.  
+![](images/_page_80_Picture_2.jpeg)  
+**Use a changeable menu item name if there isn't enough room to show both items.** You might also choose to use this type of toggled menu item if you're confident that users will reopen the menu and see the opposite item. The best way to make sure that the command names are completely unambiguous is to use two verbs that express opposite actions.  
+For example, the commands Turn Grid On and Turn Grid Off are unambiguous. By contrast, it's unclear what the opposite of the command Use Grid might be. Some users might expect the opposite command to be Don't Use Grid, because they interpret the command as an action. Other users might expect to see a checkmark next to Use Grid after choosing the command, because they interpret Use Grid as a description of the current state. For example, Mail uses changeable toggled menu items in the View menu to allow users to show or hide features such as the mailbox list and toolbar.  
+![](images/_page_81_Picture_2.jpeg)  
+**Use a checkmark when the toggled items represent an attribute that is currently in effect.** It's easy for users to scan for checkmarks in a list of attributes to find the ones that are in effect. For example, in the Mail Format menu, users can see at a glance which styles have been applied to the selected text.  
+![](images/_page_81_Picture_4.jpeg)  
+**Don't use a checkmark when the toggled item indicates the presence or absence of a feature.** In such a case, users can't be sure whether the checkmark means that the feature is currently in effect or that choosing the command turns the feature on.

@@ -1,0 +1,6 @@
+<!-- Chunk 36 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 263 -->
+If, after deciding on a few audience characteristics, you end up with just a few features, you're on the right track: Great iOS applications have a laser focus on the task users want to accomplish.  
+For example, consider the large number of possible features for the grocery-shopping app you listed in Step 1. Even though these are all useful features, it's not likely that every feature would be equally useful to every user. More importantly, it's not likely that every feature would be equally appreciated by the audience you defined in Step 2.  
+When you examine your feature list in the context of your target audience, you conclude that your application should focus on three main features: Creating lists, getting and using coupons, and getting recipes.  
+<span id="page-25-2"></span>Now you can craft your application definition statement, concretely summarizing what the app does and for whom. A good application definition statement for this grocery-shopping app might be:  
+"A shopping list creation tool for thrifty people who love to cook."

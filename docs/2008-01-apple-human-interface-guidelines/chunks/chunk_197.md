@@ -1,0 +1,14 @@
+<!-- Chunk 197 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 714 -->
+The **Window menu** contains commands for organizingand managingan application'swindows. The menu should list an application's open document windows (including minimized windows) in the order in which they were opened, with the most recently opened document first. If a document contains unsaved changes, a bullet should appear next to its name.  
+Other than Minimize and Zoom (discussed below), the Window menu does not contain commands that affect the way a user views a window's contents. The View menu (described in "The [View](#page-184-0) [Menu"](#page-184-0) (page 185)) contains all commands that adjust how a user views a window's contents.  
+<span id="page-186-1"></span>**Figure 13-22** A Window menu  
+![](images/_page_186_Picture_4.jpeg)  
+Mac OS X does not automatically add panels to the list in the Window menu and you should not list individual panels in this menu. You can, however, add a command to the Window menu to show or hide panels in your application. (For more information about panels, see ["Panels"](#page-229-0) (page 230).)  
+The Minimize and Zoom commands are in the Window menu so that people using full keyboard access can implement these functions with the keyboard. Even if your application consists of only one window, include a Window menu for the Minimize and Zoom commands.  
+<span id="page-186-4"></span>Window menu items should appearin this order: Minimize,Zoom, separator, application-specific window commands, separator, Bring All to Front (optional), separator, list of open documents. Note that the Close command should appear in the File menu, below the Open command (see ["The](#page-178-0) File [Menu"](#page-178-0) (page 179)).  
+<span id="page-186-6"></span><span id="page-186-5"></span>**Minimize (Command-M).** Minimizes the active window to the Dock.  
+**Minimize All (Command-Option-M).** Minimizes all the windows of the active application to the Dock.  
+<span id="page-186-3"></span>**Zoom.** Toggles between a predefined size appropriate to the window's content and the window size the user has set. This command should *not* expand thewindowto the full screen size. See ["Resizing](#page-222-1) and Zooming [Windows"](#page-222-1) (page 223).  
+<span id="page-186-9"></span><span id="page-186-2"></span>**Bring All to Front.** Brings forward all of an application's open windows, maintaining their onscreen location, size, and layering order. This should happen whenever a user clicks the application icon in the Dock. See "Window [Layering"](#page-223-2) (page 224).  
+<span id="page-186-0"></span>You can make this command an Option-enabled toggle with Arrange in Front.  
+<span id="page-186-8"></span><span id="page-186-7"></span>**Arrange in Front.** Brings forward all of the application's windows in their current layering order and changes their location and size so they are neatly tiled.

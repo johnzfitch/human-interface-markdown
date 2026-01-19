@@ -1,0 +1,24 @@
+<!-- Chunk 26 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 1196 -->
+As you design the user interface of your webpage or iPhone web application, you need to know how much display space Safari on iPhone makes available to you. By default, Safari on iPhone displays a status bar, a URL text field, and a button bar, all of which extend across the full width of the screen, in both portrait and landscape orientation. The status bar can show battery charge, network status, and time. The URL text field displays a bookmark button and a refresh button, in addition to a text field in which users can type a URL. The **button bar** at the bottom of the screen displays buttonsthat act on the current iPhone feature or built-in application. The button bar is the toolbar of the Safari on iPhone application.  
+Safari on iPhone displays your content between the lower edge of the URL text field and the top edge of the button bar. Figure 4-5 shows the metrics of the Safari on iPhone controls and the visible area in which you can display your content when iPhone is in portrait orientation.  
+<span id="page-33-0"></span>**Figure 4-5** Portrait orientation layout metrics in pixels  
+![](images/_page_33_Picture_3.jpeg)  
+<span id="page-33-1"></span>When iPhone isin landscape orientation the metrics change, although the relative arrangement of the status bar, URL text field, and button bar is the same. Figure 4-6 shows the dimensions of the visible area available for your content when iPhone is in landscape orientation.  
+**Figure 4-6** Landscape orientation layout metrics in pixels  
+![](images/_page_33_Figure_6.jpeg)  
+**Note:** Although it is possible for your iPhone web application to scroll the URL text field off the top edge of the screen, it cannot change the position of the button bar or the status bar. You can, however, change the appearance of the status bar. See "Changing the Status Bar Appearance" in *Safari Web Content Guide for iPhone OS* for information on how to do this.  
+As mentioned in "The iPhone [Viewport"](#page-10-1) (page 11), the iPhone viewport determines how your content is laid out on iPhone. When Safari on iPhone loads a webpage, it sets the viewport's initial scale property so that the full width of the webpage fits the width of the iPhone screen. It also sets the viewport's width property to 980 pixels, which is the width of most webpages.  
+You might need to change the default values of these properties if the width of your webpage is much different from 980 pixels, especially if it is narrower. This is because if the width of your webpage is less than 980 pixels, your content scales too small, making it very difficult for users to see without zooming. If the width of your webpage is greater than 980 pixels, users must pan to see all the content on the page. Figure 4-7 shows a narrow webpage before and after its width property is set appropriately.  
+<span id="page-34-0"></span>**Figure 4-7** Setting the width property of a narrow webpage  
+Default width Custom width  
+![](images/_page_34_Picture_8.jpeg)  
+980 pixels 590 pixels  
+It's especially important for iPhone web applications to specify the correct values for viewport width and height, because it means that the user interface fits the screen precisely, without requiring users to zoom or pan. This strengthens the user's perception of the content as a standalone application and reduces the user's awareness of Safari on iPhone. For example, Figure 4-8 shows how an application looks when it incorrectly sets the width to 980 pixels (on the left) and how it looks when the width is corrected to equal the width of the iPhone screen (on the right).  
+<span id="page-35-1"></span>**Figure 4-8** Setting the width property to display an application correctly  
+Default width Width set to **device-width**  
+![](images/_page_35_Picture_5.jpeg)  
+![](images/_page_35_Picture_6.jpeg)  
+980 pixels 320 pixels  
+If you're developing an iPhone web application using Safari on iPhone 1.1.1 and later, you should use the device-width and device-height constants to set the viewport width and height properties to the size of the iPhone screen. This ensuresthat Safari on iPhone rendersthe application with a scale of 1.0 and doesn't change the layout of the user interface when users switch from portrait to landscape orientation.  
+It is also recommended that you turn off user scaling in your iPhone web application. This means that Safari on iPhone does not zoom in your content when users double-tap or pinch open.  
+<span id="page-35-0"></span>To supply values for viewport properties, use the viewport metatag. In addition to width and height, you can also use the metatag to specify values that control scaling. For more information about using the metatag to set viewport properties, including sample code, see Configuring the Viewport.

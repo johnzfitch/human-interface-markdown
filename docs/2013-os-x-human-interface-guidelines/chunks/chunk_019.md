@@ -1,0 +1,3 @@
+<!-- Chunk 19 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 154 -->
+App bundles are the preferred mechanism for software distribution because they simplify installation and are easy for the user to move around in the Finder. In addition, if you want to submit your app to the App Store, it is expected that your app will use bundles.  
+A bundle includes all an app's required resources and it helps manage the coordination of global and localized resources. Bundles also allow apps to avoid storing data in a resource fork, which is no longer an appropriate way to store app resources. To learn more about app bundles, see "The OS X Application Bundle" in *Mac App Programming Guide* .

@@ -1,0 +1,4 @@
+<!-- Chunk 105 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 221 -->
+<span id="page-97-2"></span>When appropriate, your application's dialogs should display default values for controls and text fields so the user can verify information rather than generating it from scratch. Display a selection or an insertion point in the first location—a text entry field or a list, for example—that accepts user input.  
+When it provides an obvious user benefit, text in a dialog should be selectable. Some error message text, for example, could be selectable. Facilitating the copying of text (such as a serial number or a hostname) so it can be pasted accurately into another context is another example.  
+In dialogs that display columns and are user resizable, such as the Open dialog, as the dialog is made bigger, the columns grow and additional columns appear. All other elements remain the same size and anchor to the right, center, or left side of the dialog.

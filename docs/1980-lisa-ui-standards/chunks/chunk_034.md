@@ -1,0 +1,3 @@
+<!-- Chunk 34 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 142 -->
+TAB is a character. In the word processor TAB is used to advance to the next tab stop, (See the Word Processor ERS for details). Within a field of a form TAB means to accept the entire field as it is, check the field, and if the edit check passes, advance to the next field. Shift-TAB does the same except advancing to the previous field after accepting the entry.  
+If the edit check fails, a beep is sounded and the typeahead buffer is flushed. If the edit check passes, the field is accepted by the form, and the next field is automatically selected in its entirety.

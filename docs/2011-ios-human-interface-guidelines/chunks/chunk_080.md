@@ -1,0 +1,19 @@
+<!-- Chunk 80 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 880 -->
+Popovers and modal views are similar, in the sense that people typically can't interact with the main view while a popover or modal view is open. But a modal view is always modal, whereas a popover can be used in two different ways:  
+- Modal, in which case the popover dims the screen area around it and requires an explicit dismissal. This behavior is very similar to that of a modal view, but a popover's appearance tendsto give the experience a lighter weight.
+- Nonmodal, in which case the popover does not dim the screen area around it and people can tap anywhere outside its bounds (including the control that reveals the popover) to dismiss it. This behavior makes a nonmodal popover seem like another view in the application.  
+In addition, a popover always has an arrow that points to the control or area the user tapped to reveal it. This visual tie-in helps people remember their previous context. It also makes a modal popover seem like a more transient state than a modal view, which takes over the screen without indicating where it came from.  
+If you use modal views to enable self-contained tasks in your iPhone application, you might be able to use popovers instead. To help you decide when this might be appropriate, consider these questions:  
+● **Does the task require more than one types of input?** If so, use a popover.  
+Although a keyboard can accompany either a popover or a modal view, a popover is better for displaying a picker or a list of options.  
+● **Does the task require people to drill down through a hierarchy of views?** If so, use a popover.  
+The frame of a popover is bettersuited to displaying multiple pages, because there isless chance people will confuse it with the main view.  
+● **Might people wantto do something in the main view before they finish the task?** Ifso, use a nonmodal popover.  
+Because people can see the main view around a nonmodal popover and they can dismiss it by tapping in the main view, you should allow them to suspend the popover's task and come right back to it.  
+● **Is the task fairly in-depth and does it represent one of the application's main functions?** If so, you might want to use a modal view.  
+The greater context shift of a modal view helps people stay focused on the task until they finish it. The greater screen space of most modal view styles makes it easier for people to provide a lot of input.  
+If, on the other hand, the task represents an important part of application functionality, but it is not in-depth, a modal popover can be a better choice. This is because the lighter visual weight of a popover can be more pleasant for frequently performed tasks.  
+● **Is the task performed only once or very infrequently, as with a setup task?** If so, consider using a modal view.  
+People aren't as concerned about staying in the current context when they perform a task only once or very infrequently.  
+There are a number of other uses for popovers, such as to provide auxiliary tools (for complete usage guidelines, see ["Popover](#page-102-1) (iPad Only)" (page 103)). Also, iPad apps display action sheets inside popovers (for more information, see ["Action](#page-118-0) Sheet" (page 119)).  
+If you decide to use a modal view, be sure to read about the different presentation styles you can use (they're described in ["Modal](#page-120-0) View" (page 121)). In your iPad application, you can choose the presentation style that's best suited to the modal task you need to enable. toolbar\_at\_top.pdf 3/19/10 11:19:21 AM

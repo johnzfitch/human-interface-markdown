@@ -1,0 +1,5 @@
+<!-- Chunk 63 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 207 -->
+In graphics applications, objects aren't usually considered to be in any particular sequence. Therefore, the user can use Open-Apple-click to extend a selection by a single object, even if that object is nowhere near the current selection. When this happens, the objects between the current selection and the new object are not automatically included in the selection. This kind of selection is called a discontinuous selection. In the case of graphics, all selections are discontinuous selections.  
+This is not the case with arrays and text, however. In these two kinds of applications, an extended selection made by an Open-Apple-click always includes everything between the old selection and the new endpoint. To provide the possibility of a discontinuous selection in  
+1/15/84 Tognazzini  
+![](images/_page_89_Figure_5.jpeg)

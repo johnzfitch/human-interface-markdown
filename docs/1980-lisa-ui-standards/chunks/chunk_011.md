@@ -1,0 +1,2 @@
+<!-- Chunk 11 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 65 -->
+The text in title tabs, menu titles, and menu items is usually written in the standard system font. This font is not normally available to the user. It will also be used in the dialog box for the system side of user-system dialogs, to make it plain who said what.

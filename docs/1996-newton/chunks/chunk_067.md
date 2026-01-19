@@ -1,0 +1,54 @@
+<!-- Chunk 67 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 2703 -->
+An application that deals with multiple instances of similar information multiple notes in the Notepad, multiple names in the Name File, multiple days in the Date Book, and so on—can't display all the instances at once in a single view. People **scroll** the information to move currently displayed information out of view and bring other information into view. The information appears to roll out at one edge of the view and roll in at the opposite edge. Figure 2-29 shows a conceptual view of notes ready to be scrolled in the Notepad's main view.  
+**Figure 2-29** Ready to scroll Notepad notes into view from above or below  
+![](images/_page_79_Picture_5.jpeg)  
+#### <span id="page-80-0"></span>Scrolling With Scroll Arrows 2  
+A user scrolls information in a view by tapping scroll arrows on a Newton device. Scroll arrows always come in pairs, each arrow pointing away from the other and toward information that is currently hidden. Tapping an arrow means "Show me more of the information that's hidden in this direction." For example, when a user taps a scroll arrow that points down, the information moves up, bringing up what was just below the view. Pressing and holding the pen on a scroll arrow causes continuous movement in the appropriate direction. Figure 2-30 shows the change when a user scrolls the Notepad by tapping a down arrow.  
+**Figure 2-30** Scrolling by tapping a down arrow  
+![](images/_page_80_Figure_5.jpeg)  
+1. Before tapping the down arrow 2. After tapping the down arrow  
+![](images/_page_80_Figure_7.jpeg)  
+How Views Work **2-37**  
+<span id="page-81-0"></span>Each tap on a scroll arrow moves one unit in the chosen direction. Your application determines how much one unit is. For example, the Notepad moves one note for each tap on the arrow; for a note longer than the view, each tap scrolls the number of displayed lines minus one. The Names File application moves one "card" for each tap. The Date Book's day-at-a-time view moves one day for each tap, and the week-at-glance view moves a week per tap. Time Zones moves from city to city alphabetically. If your application's information falls naturally into sections, each tap on a scroll arrow should scroll one section. If not, scroll a screenful minus one line at a time (a "page").  
+Whether your application should scroll smoothly or unevenly depends on the type of information being scrolled. With smooth scrolling, each tap on a scroll arrow moves the same amount. That is how the Date Book, Names File, Calculator, and Time Zones applications work, for example. In some cases, uneven scrolling is better than smooth scrolling. The Notepad scrolls by uneven increments—note by note—to take advantage of a user's visual memory of where he or she wrote things.  
+While scrolling up by uneven increments, an application may encounter an item that is too large to display all at once. Since the application can't show the whole item, it must either show the bottom of the item or the top of the item. The appropriate response depends on whether the view scrolls page-bypage or continuously like a roll of paper. A view that scrolls continuously should scroll up to the bottom of an item that is too large to show all at once. A view that scrolls page-by page should scroll up to the top of an item that is too large to show all at once. For instance, the Notepad (which scrolls like a roll of paper) scrolls up to the bottom of a note that is taller than the height of the Notepad main view. In contrast, the Out Box (which scrolls detail items page-by-page) would scroll up to the top of the same note.  
+#### Universal Scroll Arrows 2  
+Newton devices have two universal scroll arrows for user control of scrolling. The universal scroll arrows are part of the Newton system; they are not attached to one view. On an Apple MessagePad 120, they are located in the center of the screen, below the display area. [Figure 2-31](#page-82-0) shows the universal scroll arrows.  
+<span id="page-82-0"></span>**Figure 2-31** The universal scroll arrows at the bottom of a MessagePad screen  
+![](images/_page_82_Picture_3.jpeg)  
+Any view can have its scrolling controlled by user taps on the universal scroll arrows, but they only affect one of the open views. To be affected, a view must meet two requirements. First, the view must be set up during application development to receive taps on the universal scroll arrows. Second, it must be in front of all other open views that have also been set up to receive those taps. It is entirely possible for the view that is affected by the universal scroll arrows to be partially or completely covered by other open views that were not set up to receive scroll-arrow taps. (A view that receives scroll-arrow taps also receives taps on the Overview button, which is described in ["Overview" on page 2-44](#page-87-0)).  
+There is no convention for indicating what will scroll when a user taps a universal scroll arrow. Users must learn by experience what will scroll when they tap the universal scroll arrows.  
+Generally, the universal scroll arrows should scroll most of the information in a view. An application should not use the universal scroll arrows to scroll part of the information embedded in a view. For instance, the built-in Date Book application uses the universal scroll arrows for scrolling from day to day, not for scrolling from hour to hour or month to month.  
+#### Local Scroll Arrows 2  
+For scrolling part of the information embedded in a view, an application should use local scroll arrows. For instance, the Date Book has a set of local scroll arrows for scrolling from hour to hour and another set for scrolling from month to month. [Figure 2-32](#page-83-0) illustrates the Date Book's use of scroll arrows.  
+How Views Work **2-39**  
+**Figure 2-32** How scroll arrows work in the Date Book's Day view  
+<span id="page-83-0"></span>![](images/_page_83_Figure_3.jpeg)  
+Usually each tap on a local scroll arrow scrolls one item of information. If a user presses and holds the pen on a local scroll arrow, items scroll by continuously. After five items have scrolled by, the application can begin scrolling page by page. For scrolling purposes, the size of a page is one less than the number of items that fit in the view. As a shortcut, a user can doubletap a local scroll arrow to scroll a page. These two forms of accelerated scrolling are optional, but an application that features accelerated scrolling should behave as described here.  
+A view can contain local scroll arrows even if it does not respond to the universal scroll arrows. The local scroll arrows shouldn't scroll the whole view; they should only scroll some part of the view.  
+<span id="page-84-0"></span>Local scroll arrows can use color—white or black—to indicate whether scrolling will bring more items or any more empty space into view. An arrow is black if tapping it will bring more items into view. An arrow is white if tapping it will not bring more items into view. Figure 2-33 illustrates the use of color in local scroll arrows.  
+**Figure 2-33** Scroll arrow color may indicate what scrolling will reveal  
+![](images/_page_84_Picture_4.jpeg)  
+If you implement local scrolling in your application and want users to easily recognize your local scroll arrows, make them look like the arrows in the built-in applications. Do not design your own scroll arrows or make them look like scroll arrows on personal computers.  
+#### Four-way Scrolling 2  
+A view that allows the user to pan up, down, left, and right across a map, drawing, or other large document must provide a four-way (two-dimension) scrolling control. The four-way scroller should be centered at the bottom of the view. [Figure 2-34](#page-85-0) shows how the standard four-way scroller looks.  
+How Views Work **2-41**  
+**Figure 2-34** A control for scrolling in four directions  
+<span id="page-85-0"></span>![](images/_page_85_Figure_3.jpeg)  
+There's an alternate four-way scroller that may be better in some situations. The alternate scroller is more compact than the standard scroller, but users find the standard scroller easier to target. Figure 2-35 shows the alternate four-way scroller.  
+**Figure 2-35** An alternate control for scrolling in four directions  
+![](images/_page_85_Picture_6.jpeg)  
+#### <span id="page-86-0"></span>Automatic Scrolling 2  
+In the discussions of scrolling behavior and appearance in the previous sections, the user controls scrolling by deciding which scroll arrow to use and how long to use it. Most of the time the user should be in control, but sometimes an application should scroll a view automatically. When your application performs an operation and the effect is to select something that's not currently visible, your application must scroll to show the new selection. For example, when the user searches for some text, your application locates the desired text. If this text appears in a part of the information that isn't currently visible, your application should scroll the information to show the found text. Figure 2-36 shows the effect of automatic scrolling in the Names File.  
+**Figure 2-36** Automatic scrolling  
+![](images/_page_86_Picture_5.jpeg)  
+![](images/_page_86_Picture_6.jpeg)  
+![](images/_page_86_Picture_7.jpeg)  
+An application should not scroll automatically any more than is necessary to bring a selection into view. Users want to control what shows in a scrollable view. If part of a selection is showing in the view after the user performs an operation, don't scroll at all. For example, if the user increases the text size of a lengthy selection so that the bottom part extends out of view, your application should not automatically scroll to the end of the selection.  
+How Views Work **2-43**  
+#### <span id="page-87-0"></span>Scrolling Performance 2  
+Scrolling the contents of a view can sometimes seem slow. Here are some techniques you can use to improve scrolling speed:  
+- Implement the accelerated scrolling behavior described in ["Local Scroll](#page-82-0)  [Arrows" on page 2-39](#page-82-0).
+- Scroll multiple lines at a time, rather than just a single line at a time, when the user taps a scroll arrow.
+- Reduce the number of child views that need to be redrawn, if possible. For example, make a list that is implemented as several paragraphs (each a separate view) into a single paragraph.
+- Set the view fill to white. Many views need no fill color, so you may be inclined to set the fill color to none when you create such a view. However, it's best to fill the view with white if you don't need a transparent view. This can increase the performance of your application because when the system is redrawing the screen, it doesn't have to update views behind those filled with a solid color such as white.

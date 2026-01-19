@@ -1,0 +1,2 @@
+<!-- Chunk 33 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 37 -->
+The OS X user experience is streamlined, powerful, and elegant. To ensure that your app feels at home in OS X, keep the following guidelines in mind.

@@ -1,0 +1,6 @@
+<!-- Chunk 39 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 272 -->
+The principle of user control presumes that the user, not the computer, should initiate and control actions. This principle can be challenging to follow for two reasons:  
+- The ideal user experience lies somewhere between expecting users to provide instructions for every step of every action and preventing users from initiating any but the most basic actions.
+- The right amount of user control depends on the sophistication of the user audience.  
+For example, novice users often appreciate apps that shield them from the details associated with a task, whereas experienced users tend to appreciate apps that give them as much control as possible.  
+The technique of **progressive disclosure**—that is, hiding additional information or more complex UI until the user needs or requests it—can help you provide the right level of user control. In a nutshell, progressive disclosure helps novice users understand an app without being overwhelmed with information or features they don't need, while at the same time giving more experienced users access to the advanced features they want.

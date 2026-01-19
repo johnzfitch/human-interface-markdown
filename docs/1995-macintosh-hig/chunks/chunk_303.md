@@ -1,0 +1,2 @@
+<!-- Chunk 303 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 77 -->
+The monthly journal *Human Factors Society Bulletin* features articles of interest to human factors practitioners; timely information about conferences, elections, publications, employment opportunities, and local chapter and technical group activities; and book reviews, editorials, and letters to the editor.

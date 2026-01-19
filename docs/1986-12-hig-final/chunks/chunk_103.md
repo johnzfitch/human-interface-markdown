@@ -1,0 +1,2 @@
+<!-- Chunk 103 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 34 -->
+In addition to the editing features that the user accesses through the Edit menu, there are ways to edit text without using menu commands.

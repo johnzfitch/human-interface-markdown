@@ -1,0 +1,6 @@
+<!-- Chunk 130 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 254 -->
+Standard document windows have standard structural components. These components include the title bar, size box, close box, zoom box, and scroll bars. Figure 5-2 shows the structural components of standard document windows.  
+![](images/_page_157_Picture_8.jpeg)  
+![](images/_page_157_Picture_9.jpeg)  
+<span id="page-158-0"></span>![](images/_page_158_Picture_4.jpeg)  
+Windows are designed for visual consistency across all monitors from black-and-white displays to 24-bit color displays. For display on color monitors, colors and shades of gray have been added to the frames of windows and to user controls to emphasize those areas that users interact with, such as scroll boxes and arrows, zoom boxes, close boxes, and size boxes. The window content area remains white on all systems and the window contents remain black and white, unless the user assigns color to the content. This updated design takes advantage of the color capabilities of the Macintosh but maintains the consistency of the Macintosh interface.

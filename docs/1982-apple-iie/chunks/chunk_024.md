@@ -1,0 +1,2 @@
+<!-- Chunk 24 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 36 -->
+Do not lie to your users. Do not say, "File loaded" when the file is not loaded, only the name of the file has been "loaded," whatever that means.

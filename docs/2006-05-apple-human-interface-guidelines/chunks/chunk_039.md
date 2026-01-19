@@ -1,0 +1,2 @@
+<!-- Chunk 39 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+Interoperabilityrefers to a program's abilityto communicate across environments. This communication can occur at either the user or the program level and can involve processes on the current computer or on remote computers. At the program level, an interoperable program supports ways to move

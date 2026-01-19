@@ -1,0 +1,2 @@
+<!-- Chunk 495 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 41 -->
+A list in a pane of an application window used to organize and navigate data. The width of the pane is adjustable. The Finder Sidebar is an example of a source list.

@@ -1,0 +1,2 @@
+<!-- Chunk 24 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 101 -->
+Allow users, not your application, to initiate and control actions. Keep actions simple and straightforward so users can easily understand and remember them. Provide ample opportunity to cancel operations before they begin, and wherever possible allow users to gracefully stop an operation that's underway. Be careful about unleashing agents, experts, or wizards that will do things behind a user's back.

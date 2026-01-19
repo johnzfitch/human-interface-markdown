@@ -1,0 +1,6 @@
+<!-- Chunk 117 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 229 -->
+The Clear command removes data that the user selects just prior to choosing the command. Unlike Cut and Copy, the Clear command does not put the selection in the Clipboard. The Clipboard is unchanged and your application displays the new selection in the same way as it would after a cut operation.  
+Pressing the Delete (Backspace) key or the Clear key has the same effect as choosing the Clear command from the File menu. (Note that the Backspace key and the Clear key do not appear on all keyboards.)  
+#### Select All 4  
+The Select All command highlights every object in the document. In a word processor, Select All selects every character as well as all graphics in the document. This command is useful if a user wants to copy or reformat an entire document.  
+The Command-A combination is reserved as a keyboard equivalent for the Select All command in the Edit menu. It shouldn't be used for any other purpose.

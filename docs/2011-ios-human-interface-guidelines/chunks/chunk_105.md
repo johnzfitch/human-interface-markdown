@@ -1,0 +1,21 @@
+<!-- Chunk 105 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 1002 -->
+You can use a navigation bar to enable navigation among different views, or provide controls that manage the items in a view.  
+**Use the title of the current view as the title of the navigation bar**. When the user navigates to a new level, two things should happen:  
+- The bar title should change to the new level's title.
+- A back button should appear to the left of the title, and it should be labeled with the previous level's title.  
+**Make sure it's easy to read the text in the navigation bar**. The system font provides maximum readability, but you can specify a different font, if appropriate.  
+**Use a toolbar instead of a navigation bar** if you need to offer a larger set of controls, or you do not need to enable navigation.  
+**Consider putting a segmented control in a navigation bar at the top level of an application**. This is especially useful if doing so helps to flatten your information hierarchy and makes it easier for people to find what they're looking for. If you use a segmented control in a navigation bar, be sure to choose accurate back-button titles. (For usage guidelines, see ["Segmented](#page-131-0) Control" (page 132).)  
+**Avoid crowding a navigation bar with additional controls, even if there appears to be enough space**. The navigation bar should contain no more than a view's current title, the back button, and one control that manages the view's contents. If, instead, you use a segmented control in the navigation bar, the bar should not display a title and it should not contain any controls other than the segmented control.  
+**Use system-provided buttons according to their documented meaning**. For more information,see ["Standard](#page-135-0) Buttons for Use in Toolbars and [Navigation](#page-135-0) Bars" (page 136). If you decide to create your own navigation bar controls, see "Icons for [Navigation](#page-148-0) Bars, Toolbars, and Tab Bars" (page 149) for advice on how to design them.  
+**Specify the color or translucency of a navigation bar, when appropriate**. If you want the navigation bar to coordinate with the overall look of your app, you can specify a custom color. You can make a navigation bar translucent if you want to encourage people to pay more attention to the content underneath the bar. If you customize a navigation bar in these ways, make sure its look is consistent with the look of the rest of your application. If you use a translucent navigation bar, for example, don't combine it with an opaque toolbar. Also, avoid changing the color or translucency of the navigation bar in different screens in the same orientation.  
+**Avoid altering the back button's appearance or behavior**. Users rely on the standard back button to help them retrace their steps through a hierarchy of information.  
+**Don't create a multisegment back button**.  
+![](images/_page_99_Picture_5.jpeg)  
+Creating a multisegment back button (as in the example above) causes several problems:  
+- The extended width of a multisegment back button does not leave room for the title of the current screen.
+- There is no way to program such a multisegment button to indicate the selected state of an individual segment.
+- The more segments there are, the smaller the hit region for each one, which makes it difficult for users to tap a specific one.
+- Choosing which levels to display as users navigate deeper in the hierarchy is problematic.  
+If you think users might get lost without a multisegment back button that displays a type of breadcrumb path, it probably means that users must go too deeply into the information hierarchy to find what they need. To address this, you should flatten your information hierarchy.  
+<span id="page-99-0"></span>**On iPhone, take into account the automatic change in navigation bar height that occurs on device rotation**. In particular, make sure your custom navigation bar icons fit well in the thinner bar that appears in landscape orientation. Don't specify the height of a navigation bar programmatically.

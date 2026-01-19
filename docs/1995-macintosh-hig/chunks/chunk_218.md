@@ -1,0 +1,4 @@
+<!-- Chunk 218 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 159 -->
+This section describes the use of color with standard Macintosh interface elements and provides recommendations about how your application can fit in with the color scheme of system software.  
+The appearance of the Macintosh interface elements is enhanced by the color capabilities of the Macintosh. Color distinguishes the active window from other windows and enhances user controls on the window frame. Color in the interface should help users focus their attention on their work not draw attention to the interface itself. In general, the use of color makes the interface more visually pleasing.  
+![](images/_page_281_Picture_8.jpeg)

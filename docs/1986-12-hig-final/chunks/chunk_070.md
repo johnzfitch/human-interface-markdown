@@ -1,0 +1,2 @@
+<!-- Chunk 70 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 52 -->
+Opens a new, untitled document for the current application. The user names the document the first time it's saved. New is disabled when the maximum number of documents allowed by the application is already open.

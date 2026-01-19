@@ -1,0 +1,7 @@
+<!-- Chunk 118 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 371 -->
+A **Share menu** is a specific type of pop-up menu that displays a list of app extensions and system services, such as AirDrop, that users can use to share content. To learn more about app extensions, see [App](#page-234-0) [Extensions](#page-234-0) (page 235). Users reveal a Share menu by clicking the Share button shown here.  
+![](images/_page_193_Picture_7.jpeg)  
+**API Note:** To create a Share button in Interface Builder, first select the appropriate button. Then, in the Attributes pane of the inspector,specify NSImageNameShareTemplate for the image. To define a Share button in your code, use NSImageNameShareTemplate to add an image to a button (NSButton). If you create the button programmatically, be sure to set sendActionOn:NSLeftMouseDownMask so that the button behaves as users expect.  
+**Important:** A Share menu should be used in a window-frame area. To learn more about controls that are designed specifically for use in window-frame areas, see Some [Controls](#page-176-1) Can Be Used on the Window [Frame](#page-176-1) (page 177).  
+A Share button displays the system-provided Share image. The button does not display a label because users are familiar with the meaning of the Share image.  
+**Don't create a custom version of the Share image.** It's essential that you use the system-provided Share image so that users understand what the control does. For more information on the system-provided images, see [System-Provided](#page-328-0) Images (page 329).

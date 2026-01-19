@@ -1,0 +1,2 @@
+<!-- Chunk 245 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 58 -->
+*Communications of the ACM* is a journal published monthly by the ACM. It contains topical articles, a calendar of events, and listings for available positions in the fields of computer science, information science, and engineering.

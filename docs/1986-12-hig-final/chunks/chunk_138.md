@@ -1,0 +1,2 @@
+<!-- Chunk 138 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 45 -->
+The user can change the volume of sounds, or turn sound off altogether, using the Control Panel desk accessory. You should remember this, and should never override this capability.

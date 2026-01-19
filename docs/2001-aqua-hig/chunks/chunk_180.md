@@ -1,0 +1,3 @@
+<!-- Chunk 180 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 128 -->
+On most keyboards, the Command key is labeled with a cloverleaf ( ) symbol and an Apple logo (). Pressing the Command key at the same time as a character key tells the application to interpret the key as a command rather than a character. These key combinations are described in ["Keyboard Equivalents" \(page 172\).](#page-171-1)  
+In some applications, the Command key is used with other keys to provide special functions or shortcuts. It can also be used with the mouse to modify the effect of a click or drag.

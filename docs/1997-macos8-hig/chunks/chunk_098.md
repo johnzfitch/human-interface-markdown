@@ -1,0 +1,2 @@
+<!-- Chunk 98 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 40 -->
+A brief description of the control panel's purpose should be included as a CCI™ (Conflict Catcher Information™) resource string for use by the Extensions Manager.

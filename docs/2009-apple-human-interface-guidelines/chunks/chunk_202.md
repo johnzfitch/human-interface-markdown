@@ -1,0 +1,13 @@
+<!-- Chunk 202 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 643 -->
+<span id="page-189-3"></span><span id="page-189-2"></span>When users Control-click the Dock icon of a running application, a customizable Dock menu appears. By default, this menu displays the same items as the minimal Dock menu that is displayed when users press and hold the application's Dock icon (for more information about different styles of Dock menus, see ["The](#page-61-0) [Dock"](#page-61-0) (page 62)). In addition, this menu can contain application-specific items, such as the playback-focused commands in the customized iTunes Dock menu, shown in Figure 13-25.  
+<span id="page-189-1"></span>**Figure 13-25** The customized iTunes Dock menu  
+![](images/_page_189_Picture_5.jpeg)  
+You can customize your application's Dock menu by adding to the default items provided by the Dock. These additional items appear in the Dock menu only when the application is open and the user Control-clicks the Dock icon. Potential additional items include:  
+- Common commands to initiate actions in your application when it is not frontmost
+- Commands that are applicable when there is no open document window
+- Status and informational text  
+<span id="page-189-4"></span>For example, a mail application could provide commands to initiate a new message or to check for new messages.  
+Any command you add to the Dock menu should also be available in your application's pull-down menus. Application-specific items appear above the standard Dock menu items. See *Dock Tile Programming Guide* to learn how to customize the Dock menu for your application.  
+<span id="page-190-2"></span><span id="page-190-0"></span>Windows provide a frame for viewing and interacting with applications and data.  
+From a developer's perspective, there are several types of windows in Mac OS X. Although users tend to see them all as windows, the distinctions in behavior (layering, zooming, minimizing) and appearance (presence or absence of title bars) among the various types of windows contribute to the Macintosh user experience. It is important that you understand the different types of windows available, general window behavior, and behavior specific to each type of window.  
+This chapter first introducesthe different types of windows and then focuses on the appearance and behavior of document and application windows and panels. Dialogs and alert windows are unique types of windows with guidelines in addition to those for standard windows. They are discussed in detail in ["Dialogs"](#page-234-0) (page 235). Note that unless explicitly stated, dialogs should behave like windows.

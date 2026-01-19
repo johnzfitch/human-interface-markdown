@@ -1,0 +1,2 @@
+<!-- Chunk 491 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 55 -->
+A dialog attached to a specific window, ensuring that the user never loses track of which window the dialog belongs to. A Print dialog is an example of a sheet. See also ["document-modal dialog"](#page-321-1) (page 322).

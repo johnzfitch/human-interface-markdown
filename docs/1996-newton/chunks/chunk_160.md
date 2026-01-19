@@ -1,0 +1,2 @@
+<!-- Chunk 160 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 96 -->
+As mentioned earlier, users receive incoming data items through the In Box part of the built-in In/Out Box application. The items come from Newton transports that connect to sources of incoming items, retrieve items, and transfer the items to the In Box. For example, the built-in fax transport can connect to a calling fax machine, retrieve a fax, and transfer it to the Newton In Box.

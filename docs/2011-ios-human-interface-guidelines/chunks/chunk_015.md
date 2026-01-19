@@ -1,0 +1,2 @@
+<!-- Chunk 15 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 66 -->
+iOS-based devices share several unique characteristics that influence the user experience of all applications that run on them. The most successful apps embrace these characteristics and provide a user experience that integrates with the device they're running on.

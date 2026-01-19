@@ -1,0 +1,2 @@
+<!-- Chunk 25 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 107 -->
+This section describes a basic set of control layout guidelines. In an effort to simplify the process of resizing and repositioning existing layouts, most values are based on a multiple of 4 pixels. These guidelines use many of the default control sizes defined in Interface Builder; any exceptions are noted. When creating or changing dialog layouts, use the default fonts described in ["Standard Fonts" \(page 32\).](#page-31-0)

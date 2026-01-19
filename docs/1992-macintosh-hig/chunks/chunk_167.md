@@ -1,0 +1,3 @@
+<!-- Chunk 167 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 92 -->
+You should optimize your design for the display on which it will most often be seen. For example, some games run on only 4-bit and black-and-white monitors. In this case, you should optimize your design by choosing colors from the 4-bit color palette, rather than starting with the 8-bit version and trying to scale down from there.  
+![](images/_page_256_Picture_2.jpeg)

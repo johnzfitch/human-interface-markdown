@@ -1,0 +1,3 @@
+<!-- Chunk 23 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 89 -->
+Test early, and test often.  
+As early in the development cycle as possible, and at every stage after that, test your application and its manual on people who represent the product's intended market—people who are not already familiar with the product. You may find that menus, messages, and icons that you thought were perfectly clear aren't clear at all.

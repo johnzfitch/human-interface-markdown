@@ -1,0 +1,3 @@
+<!-- Chunk 203 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 149 -->
+The basic mouse actions in the Macintosh interface are pointing, clicking, double-clicking, pressing, and dragging.  
+In general, just moving the mouse changes nothing except the location, and possibly the shape, of the pointer. Pressing the mouse button indicates the intention to do something, and releasing the mouse button completes the action. Pressing by itself should have no more effect than clicking has—except in well-defined areas, such as scroll arrows, where it has the same effect as repeated clicking. For example, if you click an icon in the Finder, you select the icon and no more.

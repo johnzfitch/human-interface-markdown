@@ -1,0 +1,6 @@
+<!-- Chunk 270 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 315 -->
+An **inspector** is a panel that allows usersto view the attributes of a selection. Inspectors(also called inspector windows) can also provide ways to modify these attributes. Pages, Keynote, and the Finder all make use of inspectors. Figure 14-40 shows an inspector window in Numbers.  
+<span id="page-224-1"></span>**Figure 14-40** An inspector window  
+![](images/_page_224_Picture_3.jpeg)  
+Inspectors should update dynamically based on the current selection. Contrast this behavior with that of an Info window, which shows the attributes of the item that was selected when the window was opened, even after the focus has been changed to another item. Also, an Info window is not a panel; it is listed in the application's Window menu and it does not hide when the application becomes inactive.  
+<span id="page-224-2"></span><span id="page-224-0"></span>You can provide both inspectors and Info windowsin your application, because in some casesit's more useful to have one window in which context changes when each new item is selected (an inspector) and in other cases it's more useful to be able to see the attributes of more than one item at the same time (a set of Info windows). Multiple inspector windows and Info windows can be open at the same time.

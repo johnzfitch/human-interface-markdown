@@ -1,0 +1,2 @@
+<!-- Chunk 26 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 85 -->
+iPhone applications handle many common tasks in ways that may seem different to you, if your experience is with desktop or laptop computer applications. Thissection describesthese tasksfrom the human interface perspective; for the technical details you need to implement these guidelines in code, see *iPhone Application Programming Guide*.

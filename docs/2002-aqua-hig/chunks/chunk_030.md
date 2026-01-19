@@ -1,0 +1,5 @@
+<!-- Chunk 30 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 241 -->
+The Macintosh interface is designed to provide an understandable, familiar, and predictable environment.  
+To give users a visual sense of stability, the interface defines many consistent graphics elements, such as the menu bar, window controls, and so on. Users encounter a familiar environment in which they know how things behave and what to do with them.  
+To give users a conceptual sense of stability, the interface provides a clear, finite set of objects and a clear, finite set of actions to perform on those objects. For example, when a menu command doesn't apply to a selected object or to the object in its current state, it is shown dimmed (grayed out) rather than being omitted.  
+<span id="page-30-6"></span>To help preserve the perception of stability, when a user sets up his or her onscreen environment in a certain layout, it should stay that way until the user changes it. Preserve user-modified settings such as window dimensions and locations.

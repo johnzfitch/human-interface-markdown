@@ -1,0 +1,4 @@
+<!-- Chunk 65 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 139 -->
+![](images/_page_89_Figure_4.jpeg)  
+**In general, avoid increasing control sizes.** If you use the minimum tappable size for controlsin your app—that is, no smaller than 44 x 44 points—you should not need to adjust them for iPhone 5. However, you might choose to add a little more space between existing controls.  
+**Don't use the extra space to display an additional bar or banner.** People expect to see more content on iPhone 5. To avoid disappointing your users, resist the temptation to use the extra vertical space for a custom button bar or banner.

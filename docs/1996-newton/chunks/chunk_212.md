@@ -1,0 +1,4 @@
+<!-- Chunk 212 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 132 -->
+To avoid overlapping icons in the Extras Drawer, make yours no more than 29 pixels tall and wide. Leaving a little space helps separate icons. See page [5-8](#page-161-0).  
+Limit the length of an Extras Drawer icon's name to between 9 and 11 characters per line. Put a blank space in the name where you want it to break and wrap onto another line. See page [5-9](#page-162-0).  
+Make a Newton icon more distinctive and easier to identify by giving it a distinctive silhouette rather than a boxy shape. See page [5-3](#page-156-0).

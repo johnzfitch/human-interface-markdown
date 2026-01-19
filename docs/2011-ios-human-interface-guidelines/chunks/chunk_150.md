@@ -1,0 +1,4 @@
+<!-- Chunk 150 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 149 -->
+Use an Info button to reveal configuration details or options about an application. You can use the style of Info button that coordinates best with the UI of your app.  
+**On iPhone, use an Info button to flip the screen and reveal more information**. Typically, the back of a screen displays configuration options that don't need to be in the main UI.  
+<span id="page-126-0"></span>**On iPad, avoid using an Info button to flip the entire screen**. Instead, you might use an Info button to show people that they can access an expanded view that contains related information or additional details.

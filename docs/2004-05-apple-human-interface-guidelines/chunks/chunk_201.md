@@ -1,0 +1,2 @@
+<!-- Chunk 201 | Source: 2004-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+<span id="page-202-4"></span><span id="page-202-3"></span>This chapter contains example window and dialog layouts along with specific guidelines for laying out controls within your windows.

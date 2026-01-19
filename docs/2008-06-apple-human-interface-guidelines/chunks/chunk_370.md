@@ -1,0 +1,2 @@
+<!-- Chunk 370 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+Use a combo box when you want to give users the convenience of selecting an item from a list combined with the freedom of specifying their own custom item. A combo box does not allow multiple selections, so be sure to offer users a list of items from which they can choose only one at a time.

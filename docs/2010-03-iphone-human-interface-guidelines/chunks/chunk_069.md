@@ -1,0 +1,7 @@
+<!-- Chunk 69 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 300 -->
+Users expect great sound from iPhone OS–based devices, whether they're hearing system sounds, such as ringtones and alertsounds, or application sounds,such as media playback, ambientsounds, and soundtracks. In addition, users expect sounds from their devices to obey both their preferences and their intentions.  
+Users decide how loud sounds should be and whether they want to hear them at all. Sometimes, however, users expect to hear certain sounds even when their current settings indicate that they prefer silence. For example, users always expect to hear alarms that they have set. Essentially, users want to hear sounds they ask for, but avoid hearing sounds they don't ask for.  
+To help you accommodate this, iPhone OS provides programming interfaces you can use to:  
+- Describe how your application's sounds should fit in with other sounds on the device
+- Ensure that your application's sounds play according to users' expectations  
+<span id="page-52-1"></span>Before you decide how to handle sound in your application, you need to understand how users expect applications and the device to behave when they adjust device controls and use external devices, such as headphones and headsets.

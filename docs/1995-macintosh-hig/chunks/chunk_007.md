@@ -1,0 +1,3 @@
+<!-- Chunk 7 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 152 -->
+Color Design of Standard Interface Elements [258](#page-281-0) Windows and Dialog Boxes [258](#page-281-0) Menus [260](#page-283-0) Pointers [260](#page-283-0) Highlighting and Selection [260](#page-283-0)  
+Color Application Guidelines [261](#page-284-0) Match Complexity to the Level of User [261](#page-284-0) Design for the Macintosh [262](#page-285-0) Design for Black and White First [263](#page-286-0) Limit the Number of Colors [264](#page-287-0) Colors on Gray [265](#page-288-0) Beware of Blue [265](#page-288-0) Small Objects [265](#page-288-0) Color for Categorizing Information [265](#page-288-0)

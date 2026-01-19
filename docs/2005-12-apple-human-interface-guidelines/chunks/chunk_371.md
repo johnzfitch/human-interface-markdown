@@ -1,0 +1,2 @@
+<!-- Chunk 371 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+<span id="page-265-4"></span><span id="page-265-3"></span><span id="page-265-1"></span>The following controls allow users to modify how information is presented to them or select which information to view.

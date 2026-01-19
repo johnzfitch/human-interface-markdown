@@ -1,0 +1,2 @@
+<!-- Chunk 9 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 111 -->
+The new OPEN-APPLE key is connected to the pushbutton of hand control #0, and the new SOLID-APPLE key is connected to the pushbutton of hand control #1. Therefore, do not have a program check for the absence of hand controls by checking whether both pushbuttons have been pressed. Instead, have the program wait for a count of 512 (twice the normal count) and see if the hand control timer has timed out. If not, no hand controls are connected.

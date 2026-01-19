@@ -1,0 +1,5 @@
+<!-- Chunk 34 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 197 -->
+User interface elements in iPhone OS include views and controls. **Views** provide content regions with well-defined sets of functionality. **Controls** are graphic objects that cause instant actions or visible results. Although all an application's views and controls are contained in the application's single window, users see and interact with them in **screens**, which roughly correspond to different visual states in the application.  
+iPhone OS definesthe standard appearance of these user interface elements, and delivers consistent behaviors that users expect. Read Part II to learn about the types of user interface elements available and how to use them to build the user interface of your application.  
+#### **PART II**  
+Designing the User Interface of Your iPhone Application

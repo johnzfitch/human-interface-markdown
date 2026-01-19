@@ -1,0 +1,4 @@
+<!-- Chunk 20 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 139 -->
+Your product should let users feel that they are directly controlling something tangible, not abstract. Make sure objects on the screen remain visible while a user performs actions on them, and make the result of the user's actions immediately visible. For example, a user can reschedule a meeting in the built-in Date Book application by dragging the meeting's icon from one time to another. Figure 1-2 illustrates direct manipulation.  
+**Figure 1-2** Users should feel they are directly controlling something tangible  
+![](images/_page_29_Figure_5.jpeg)

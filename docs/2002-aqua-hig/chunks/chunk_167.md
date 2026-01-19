@@ -1,0 +1,2 @@
+<!-- Chunk 167 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 57 -->
+Character keys include letters, numbers, punctuation, the Space bar, and nonprinting characters—Tab, Enter, Return, Delete (or Backspace), Clear, and Escape (Esc). It is essential that your application use these keys consistently.

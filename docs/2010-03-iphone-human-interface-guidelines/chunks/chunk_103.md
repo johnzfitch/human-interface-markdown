@@ -1,0 +1,17 @@
+<!-- Chunk 103 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 841 -->
+- Keep the message short enough to display on one or two lines, if possible. If the message is too long, it will scroll.
+- Always use sentence-style capitalization and appropriate ending punctuation. The alert message should be a complete sentence.  
+**Avoid lengthening your alert text with descriptions of which button to tap**, such as "Tap View to see the information." Ideally, the combination of unambiguous alert text and logical button labels gives people enough information to understand the situation and their choices. However, if you must provide detailed guidance, follow these guidelines:  
+- Be sure to use the word "tap" (not "touch" or "click" or "choose") to describe the selection action.
+- Don't enclose a button title in quotes, but do preserve its capitalization.  
+**Be sure to testthe appearance of your alertin both orientations**. Because the height of an alert is constrained in landscape, it might look different than it does in portrait. It's recommended that you optimize the length of the alert text so that it looks good (and avoids scrolling) in both orientations.  
+**Prefer a two-button alert**. A two-button alert is often the most useful, because it is easiest for people to choose between two alternatives. It is rarely a good idea to display an alert with a single button because such an alert is merely informative; it does not give people any control over the situation. An alert that containsthree or more buttonsissignificantly more complex than a two-button alert, and should be avoided if possible. In fact, if you find that you need to offer people more than two choices, you should consider using an action sheet instead (see "Using Action [Sheets"](#page-80-0) (page 81) and ["Designing](#page-83-0) an Action Sheet" (page 84) for more information on this type of view).  
+**Use alert button colors appropriately**. Alert buttons are colored either dark or light. In an alert with two buttons, the button on the left is always dark-colored and the button on the right is always light-colored. In a one-button alert, the button is always light-colored.  
+- In a two-button alert that proposes a potentially risky action, the button that cancels the action should be on the right (and light-colored).
+- In a two-button alert that proposes a benign action that people are likely to want, the button that cancels the action should be on the left (and dark-colored).  
+**Note:** A Cancel button may be either light-colored or dark-colored and it may be on the right or the left, depending on whether the alternate choice is destructive. Be sure to properly identify which button is the Cancel button in your code (for more information, see *UIAlertView Class Reference*).  
+**Give alert buttons short, logical titles**. The best titles consist of one or two words that make sense in the context of the alert text. Follow these guidelines as you create titles for alert buttons:  
+- As with all button titles, use title-style capitalization and no ending punctuation.
+- Prefer verbs and verb phrases, such as "Cancel," "Allow," "Reply," or "Ignore" that relate directly to the alert text.
+- Prefer "OK" for a simple acceptance option if there is no better alternative. Avoid using "Yes" or "No."
+- Avoid "you," "your," and "me" as much as possible. Button titles that use these words are often both ambiguous and patronizing.

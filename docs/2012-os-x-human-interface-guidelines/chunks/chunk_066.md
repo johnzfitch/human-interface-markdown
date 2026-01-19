@@ -1,0 +1,42 @@
+<!-- Chunk 66 | Source: 2012 OS X Human Interface Guidelines.pdf | Est. Tokens: 2069 -->
+Notification Center gives users a single, convenient place in which to view notifications from their apps. Users appreciate the unobtrusive interface of Notification Center, and they value the ability to customize the way each app can present its notifications.  
+![](images/_page_74_Picture_3.jpeg)  
+Notification Center uses a sectioned list to display recent notification items from the apps that users are interested in.  
+Mac apps can use local or push notifications to let people know when interesting things happen, such as:  
+- A message has arrived.
+- An event is about to occur.
+- New data is available for download.
+- The status of something has changed.  
+A **local notification** is scheduled by an app and delivered by OS X on the same device, regardless of whether the app is currently running in the foreground. For example, a calendar or to-do app can schedule a local notification to alert people of an upcoming meeting or due date.  
+A **push notification** is sent by an app's remote server to the Apple Push Notification Service, which pushes the notification to all devices that have the app installed. For example, a game that a user can play against remote opponents can update all players with the latest move.  
+You can still receive local and push notifications when your app is running in the foreground, but you pass the information to your users in an app-specific way.  
+Mac apps that support local or push notifications can participate in Notification Center in various ways, depending on the user's preferences. To ensure that users can customize their notification experience, you should support as many as possible of the following notification styles:  
+- Banner
+- Alert
+- Badge
+- Sound  
+A **banner** is a small view that appears in the upper-right corner and then disappears after a few seconds. In addition to displaying your notification message, OS X displays the small version of your app icon in a banner, so that people can see at a glance which app is notifying them (to learn more about app icons, see ["About](#page-110-1) App Icon Genres and [Families"](#page-110-1) (page 111)).  
+An **alert** is a standard alert view that appears onscreen and requires user interaction to dismiss. An alert contains the alert message, informative text, action buttons, and your app icon. You have no control over the background appearance of the alert or the buttons. See ["Alerts"](#page-235-0) (page 236) for more information about using alerts.  
+A **badge** is a small red oval that displays the number of pending notification items (a badge appears over the upper-right corner of an app's icon in the Dock, similar to the unread messages badge in Mail shown here).  
+![](images/_page_75_Picture_12.jpeg)  
+A badge contains only numbers, not letters or punctuation. You have no control over the size or color of a badge.  
+A custom or system-provided **sound** can accompany any of the other three notification delivery styles.  
+**Note:** Apps that use local notifications can provide banners, alerts, badges, and sounds. But an app that uses push notifications instead of local notifications can provide only the notification types that correspond to the push categoriesfor which the app isregistered. For example, if a push-notification app registers for alerts only, users aren't given the choice to receive badges or sounds when a notification arrives.  
+As you design the content that your notifications can deliver, be sure to observe the following guidelines.  
+**Respect users' Notification Center preferences.** In System Preferences, users can choose their preferred notification style for your app from the available formats. If your app uses all styles, users can choose whether to receive notifications as alerts, banners, or neither. They can choose whether to show badges and play sounds for your app. Additionally, users can choose to turn off all notifications. Respect users' notification preferences to ensure that your app provides information unobtrusively.  
+**Do not useNotification Centerto display error messages.** Although users can launch your app from Notification Center, notifications do not provide a way for usersto resolve a problem. If you need to display an error message or a message requiring some action, use an application-driven alert dialog. For example, if users need to be connected to the Internet in order to complete a task, you could inform users through an alert dialog with an action button labeled Turn WiFi On.  
+**Keep badge contents up to date.** It's especially important to update a badge as soon as users have attended to the new information, so that they don't think additional notifications have arrived. Note that setting the badge contents to zero also removes the related notification items from Notification Center.  
+**Don't use a badge to indicate information other than a pending notification.** Users can choose to turn off badges for your app. If your app uses a badge to provide critical information, these users will miss out.  
+**Don't try to copy the appearance of a badge.** If you mimic the appearance of a badge, users who have turned off badges may be frustrated that they appear to be receiving badge notifications anyway.  
+**Don't send multiple notifications for the same event.** Users can attend to notification items when they choose; the items don't disappear until users handle them in some way. If you send multiple notifications for the same event, you fill up the Notification Center list and users are likely to turn off notifications from your app.  
+**Choose an appropriate default style for your notifications.** Use an alert when you need to deliver information that users need to know about right now. Because banners disappear after a few seconds, do not use banners for information that is critical for users to see. And because alerts interrupt the user's workflow, it's best to use them only when users would rather be interrupted than miss your notification. If users become annoyed with alerts, they may turn off notifications for your app.  
+**Provide a custom message that does not include your app name.** Your custom message is displayed in alerts and banners, and in Notification Center list items. You should not include your app's name in your custom message, because OS X automatically displays the name with your message.  
+To be useful, a local or push notification message should:  
+- Not rely on alert buttons for users to understand the notification message. Because users can decide whether to receive your app's notifications as banners or alerts, make sure your message is clear in either style.
+- Focus on the information, not on user actions. Avoid telling people which alert button to click or how to open your app.
+- Be short enough to display in one or two lines. Long messages are difficult for users to read quickly, and they can force alerts to scroll.
+- Use sentence-style capitalization and appropriate ending punctuation. When possible, use a complete sentence.  
+**Note:** In general, a Notification Center item can display more of a notification message than a banner can. If necessary, OS X truncates your message so that it fits well in each notification delivery style; for best results, you should not truncate your message.  
+**Label alert buttons with actions that clearly describe what the buttons do.** Provide custom titlesfor buttons in a notification alert if you provide custom behavior. For example, Reminders uses Snooze to allow you to repeat the alert at a later time. Remember that OS X may truncate the label to fit.  
+**Provide a sound that users can choose to hear when a notification arrives.** A sound can get people's attention when they're not looking at the device screen. Users might want to enable sounds when they're expecting a notification that they consider important. For example, a calendar app might play a sound with an alert that reminds people about an imminent event. Or a collaborative task management app might play a sound with a badge update to signal that a remote colleague has completed an assignment.  
+You can supply a custom sound, or you can use a built-in alert sound. If you create a custom sound, be sure it is short, distinctive, and professionally produced.

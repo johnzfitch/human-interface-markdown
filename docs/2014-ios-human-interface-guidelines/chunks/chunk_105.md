@@ -1,0 +1,8 @@
+<!-- Chunk 105 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 421 -->
+A **container view controller** manages and presents its set of child views—or view controllers—in a custom way. Examples of system-defined container view controllers are tab bar view controllers, navigation view controllers, and split view controllers (you can learn more about these elements in ["Tab](#page-149-0) Bar" (page 150), ["Navigation](#page-143-0) Bar" (page 144), and "Split View [Controller](#page-170-0) (iPad Only)" (page 171)).  
+**API Note:** To learn more about defining a custom container view controller in your code, see *UIViewController Class Reference* .  
+A container view controller has no predefined appearance or behavior.  
+Use a container view controller to present content through which users navigate in a custom way.  
+**Ask yourself whether a custom container view controller is really necessary.** Users are comfortable with the appearance and behavior of standard container view controllers, such as split view controllers and tab bar view controllers. You need to be sure that the potential advantages of your custom container view outweigh the fact that users won't recognize it or instantly know how it works.  
+**Make sure that your custom container view controller works in both orientations.** It's important to design a container view controller that gives users a consistent experience in both portrait and landscape.  
+**In general, avoid flashy view transitions.** When you use storyboards to design a custom view controller, it's easy to define custom animations for the transitions between content views. But in most cases, flamboyant view transitions distract people from their task and often decrease the aesthetic appeal of your app.

@@ -1,0 +1,6 @@
+<!-- Chunk 169 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 232 -->
+Use icon elements consistently throughout your designs. If there is an existing shape for an icon element, don't change it. For example, don't invent new designs for entities that have a standard design in system-provided icons, such as folders and documents. For example, in Figure 8-16, the icon of the Macintosh computer is the same when it appears in the Finder, in the Application menu, and within the System Folder icon. Unless you are representing a different model of Macintosh computer, use the Macintosh Classic icon to represent the Macintosh computer. People often assume that different shapes have different meanings and may try to read meaning in where none is intended. Users can learn what icon elements represent when they are used consistently.  
+**Figure 8-16** Consistent use of icon elements  
+![](images/_page_257_Picture_3.jpeg)  
+![](images/_page_257_Picture_4.jpeg)  
+![](images/_page_257_Picture_5.jpeg)

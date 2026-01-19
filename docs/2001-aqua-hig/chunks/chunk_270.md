@@ -1,0 +1,3 @@
+<!-- Chunk 270 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 124 -->
+Mac OS X creates a suite of directories for each new user account. This structure is provided to assist users in organizing related types of files, provide a default location for task-specific applications (such as iMovie), and facilitate transferring files to and from iDisks.  
+<span id="page-234-2"></span>This chapter contains guidelines for where to place application-support files and user-created files. For more information about the file system layout, see Inside Mac OS X: System Overview.

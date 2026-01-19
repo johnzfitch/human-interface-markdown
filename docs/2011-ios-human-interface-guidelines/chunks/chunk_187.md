@@ -1,0 +1,8 @@
+<!-- Chunk 187 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 352 -->
+To promote a consistent user experience (and to make your job easier) iOS provides numerous standard buttons for use in navigation bars and toolbars, and icons for use in tab bars.  
+You should familiarize yourself with the guidelines that govern the use of the system-provided buttons and icons regardless of the type of application you're developing, so that you can:  
+- Use the system-provided items correctly
+- Avoid designing a custom icon that looks too similar to a system-provided icon  
+**Note:** The system-provided buttons and icons are not provided as separate files. Instead, you use API symbol names to specify them when you create standard UIKit buttons. For example, the symbol that identifies the Action button (listed in [Table](#page-135-1) 7-2 (page 136)) is UIBarButtonSystemItemAction.  
+You can also specify these symbol names in Interface Builder: In the Attributes inspector for your bar button item, choose an icon from the Identifier pop-up menu. For more information about this, see "Setting the Appearance of Bar Button Items" in *Interface Builder User Guide*.  
+If you can't find a system-provided toolbar or navigation bar button or tab bar icon that has the appropriate meaning for a specific function in your app, you should design a custom button or icon. For guidelines to help you do this, see "Icons for [Navigation](#page-148-0) Bars, Toolbars, and Tab Bars" (page 149).

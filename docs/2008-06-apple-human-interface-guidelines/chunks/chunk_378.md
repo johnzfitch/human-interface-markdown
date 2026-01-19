@@ -1,0 +1,2 @@
+<!-- Chunk 378 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 59 -->
+The path control is available in Interface Builder. You can change the style of the control in the Attributes pane of the inspector panel. To create this control using Application Kit programming interfaces, use the NSPathControl class.

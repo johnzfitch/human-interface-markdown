@@ -1,0 +1,8 @@
+<!-- Chunk 68 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 378 -->
+The **Window menu** contains commands for managing document windows. The menu lists an application's open document windows, including minimized windows, in the order in which they were opened. If a document contains unsaved changes, a bullet appears next to its name.  
+<span id="page-59-2"></span>**Figure 4-11** A Window menu  
+![](images/_page_59_Picture_9.jpeg)  
+Mac OS X does not automatically add utility windows to the list in the Window menu. You can add a command to the Window menu to show or hide utility windows in your application.  
+The Minimize and Zoom commands are provided in the Window menu so that people using full keyboard access can implement these functions with the keyboard. Even if your application consists of only one window, include a Window menu for the Minimize command.  
+Window menu items appear in this order: Minimize, Zoom, <separator>, <application-specific window commands>, <separator>, Bring All to Front (optional), <separator>, <list of open documents>. The Close command should appear in the File menu, below the Open command.  
+<span id="page-60-5"></span><span id="page-60-4"></span><span id="page-60-3"></span>Bring All to Front brings forward all of an application's open windows, maintaining their onscreen location, size, and layering order. You can make this command an Option-enabled toggle with Arrange in Front, which brings forward all of the application's windows in their current layering order and changes their location and size so they are neatly tiled.

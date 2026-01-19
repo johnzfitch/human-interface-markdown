@@ -1,0 +1,2 @@
+<!-- Chunk 90 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 95 -->
+One of the strongest ways in which applications can take advantage of the consistency of the windowing user interface is by using standard menus. The operations controlled by these menus occur so frequently that it saves considerable time for users if they always match exactly. Three of these menus, the ? or Solid-Apple, File, and Edit menus, appear in almost every application.

@@ -1,0 +1,4 @@
+<!-- Chunk 28 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 203 -->
+In applications in which users can format data for printing, make sure there are no significant differences between what the user sees onscreen and what the user receives after printing. When the user makes changes to a document, display the results immediately; the user shouldn't have to wait for a printout or make mental calculations of how the document will look when printed. Use a print preview function if necessary.  
+WYSIWYG is not about only printing; all data experienced by users—movies, audio, and so on—should be faithfully represented in all media.  
+People should be able to find all the available features in your application. Don't hide features by using abstract commands. For example, menus present lists of commands so people can see their choices instead of having to remember command names.

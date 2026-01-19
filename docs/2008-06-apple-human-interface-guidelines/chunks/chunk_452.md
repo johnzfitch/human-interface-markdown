@@ -1,0 +1,3 @@
+<!-- Chunk 452 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 153 -->
+Each tab requires a label that describes the contents of the attached pane. Nouns or very short noun phrases are generally best, although a verb (or short verb phrase) might make sense in some contexts. Tab labels should have title-style capitalization (see ["Capitalization](#page-130-1) of Interface Element Labels and Text" (page 131) for more information on this style).  
+<span id="page-329-0"></span>Within a pane, you can use standard window-body controls, such as push buttons, checkboxes, sliders, and text fields. You can also provide icons and information displayed as static text fields, when necessary.

@@ -1,0 +1,5 @@
+<!-- Chunk 211 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 185 -->
+A **bottom bar** is a window-frame area that is below the window body. Bottom bars give users access to controls that directly affect the contents or organization of the window body.  
+In general, controls in a bottom bar are frequently used, but are somewhat less important than controls in a toolbar. For example, the bottom-bar controls in iChat allow users to add buddies to the list and to text message, call, or video chat with a selected buddy, whereas the controls in the toolbar are focused on the user of the application. Figure 14-25 shows the iChat bottom bar.  
+<span id="page-213-1"></span>**Figure 14-25** A bottom bar contains controls that affect the window-body contents or organization  
+![](images/_page_213_Picture_6.jpeg)

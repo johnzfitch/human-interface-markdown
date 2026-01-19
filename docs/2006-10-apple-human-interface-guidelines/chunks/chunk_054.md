@@ -1,0 +1,4 @@
+<!-- Chunk 54 | Source: 2006-10 Apple Human Interface Guidelines.pdf | Est. Tokens: 221 -->
+Macintosh system software is designed to address the complex problems you encounter when you create an application intended to be compatiblewith regional, linguistic, andwritingsystems around theglobe. Be aware thatyour users might be more comfortablewith another language or culture even  
+if they live in your home country. It's much easier to include worldwide compatibility from the beginning of your development process than to try to incorporate support for script systems after your product development is complete. For more information, see [Getting](http://developer.apple.com/referencelibrary/GettingStarted/GS_Internationalization/index.html) Started With [Internationalization.](http://developer.apple.com/referencelibrary/GettingStarted/GS_Internationalization/index.html)  
+Beforeyou develop software forworldwide use, considerthe issues discussed in the followingsections.

@@ -1,0 +1,2 @@
+<!-- Chunk 246 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 107 -->
+<span id="page-222-4"></span>Your application should provide drag feedback as soon as the user drags an item at least three pixels. If a user holds the mouse button down on an object or selected text, it should become draggable immediately and stay draggable as long as the mouse remains down. Typically, applications have to provide an image to drag and have to handle the receiver frame. In Aqua, dragged items are transparent.

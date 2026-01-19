@@ -1,0 +1,8 @@
+<!-- Chunk 30 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 344 -->
+Successful branding involves more than adding brand assets to an app. The best apps integrate existing assets with a unique look and feel to give users a delightful, memorable experience.  
+iOS makes it easy to use custom icons, colors, and fonts to create a distinctive UI that sets your app apart from the rest. As you design these elements, keep two things in mind:  
+- Each custom element should look good and function well by itself, but it should also look like it belongs with the other elements in the app, whether they're custom or standard.
+- To feel at home in iOS 7, an app doesn't have to look like the built-in apps but it does need to integrate deference, clarity, and depth (to learn more about these themes, see ["Designing](#page-8-0) for iOS 7" (page 9)). Take the time to figure out what deference, clarity, and depth mean in your app and then express this meaning in your custom elements.  
+When you need to remind users of an existing brand within your app, follow these guidelines.  
+**Incorporate a brand's assets in a refined, unobtrusive way.** People use your app to get things done or be entertained; they don't want to feel as if they're being forced to watch an advertisement. For the best user experience, you want to quietly remind users of the brand identity through your choice of font, color, and imagery.  
+![](images/_page_50_Picture_2.jpeg)

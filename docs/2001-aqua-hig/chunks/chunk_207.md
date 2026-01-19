@@ -1,0 +1,2 @@
+<!-- Chunk 207 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 63 -->
+<span id="page-181-3"></span>■ Triple-clicking selects the next logical unit, as defined by the application. In a word-processing document, triple-clicking in a word selects the paragraph containing the word. In a table, triple-clicking selects the cell.

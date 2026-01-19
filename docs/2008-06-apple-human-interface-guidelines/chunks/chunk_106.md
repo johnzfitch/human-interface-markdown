@@ -1,0 +1,3 @@
+<!-- Chunk 106 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 164 -->
+<span id="page-83-4"></span>You should ensure that installing your software is a quick and painless experience. This section provides guidelines on how to handle the installation of your software. For more information on how to implement different installation mechanisms, see *Software Delivery Guide*.  
+Whichever installation method you choose, be sure to avoid creating application-specific subfolders in the user's Downloads folder (which is accessible as a stack in the Dock). If you do so you degrade the utility of the Downloads stack, because clicking the stack in the Dock will no longer accurately represent the contents of the Downloads folder.

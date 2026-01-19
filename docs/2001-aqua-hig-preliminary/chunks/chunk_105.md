@@ -1,0 +1,2 @@
+<!-- Chunk 105 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 46 -->
+Pressing means holding down the mouse button while the mouse remains stationary. Pressing certain objects, such as scroll arrows, has the same effect as repeatedly clicking the object.

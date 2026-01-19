@@ -1,0 +1,5 @@
+<!-- Chunk 70 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 185 -->
+This part of *Apple Human Interface Guidelines* presents an overview of the user-centric, integrated design of Mac OS X. Read this part to learn about the design principles and technologies used in Mac OS X and how your application fits into that environment. You can also find out how to leverage existing technologies to add value to your user interface.  
+#### **P A R T I I**  
+The Macintosh Experience  
+<span id="page-54-0"></span>This chapter covers relevant features of Mac OS X that can influence the design of your software. These features are not always associated with a single technology or developer type but sometimes apply to development in general. You should be familiar with these guidelines before developing your software.

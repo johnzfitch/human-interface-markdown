@@ -1,0 +1,3 @@
+<!-- Chunk 293 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 118 -->
+- Can a user install your application by dragging a single file or folder? Did you provide an application bundle so that users can manipulate only certain files? Are you using the Mac OS X interface to handle plug-ins?
+- <span id="page-262-3"></span>■ Does your application put application support files—user preference settings, plug-ins, databases, and so on—in the user's Library folder? Does it avoid putting files in the Documents folder (except for user-created files)?

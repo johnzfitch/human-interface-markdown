@@ -1,0 +1,5 @@
+<!-- Chunk 67 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 262 -->
+<span id="page-71-5"></span>Your Mac OS X application can use these types of dialogs (each of which is described in detail below):  
+- **Modeless:** Modeless dialogs enable users to change settings in a dialog while still interacting with document windows; the "find and replace" feature in many word processors is an example of a modeless dialog. Modeless dialogs have title bar controls (close, minimize, zoom).
+- **Document modal:** Prevents the user from doing anything else within a particular document. The user can switch to other documents in the application, and to other applications. Document-modal dialogs should be **sheets.**
+- **Application modal:** Prevents the user from doing anything else within the owner application; the user can still switch applications. An **alert** that communicates an error condition within an application is an example of an application-modal dialog. Modal dialogs typically don't have standard title bar controls; the user dismisses most modal dialogs by clicking a push button, such as Save or Cancel.

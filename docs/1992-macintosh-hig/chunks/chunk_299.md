@@ -1,0 +1,14 @@
+<!-- Chunk 299 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 225 -->
+- Do you provide Balloon Help for items in dialog boxes, alert boxes, and menus?
+- Do you provide Balloon Help for application window contents?  
+- Do you provide a custom help balloon for your application icon, if appropriate?
+- Do your help balloons answer at least one of these questions:
+- What is this?
+- What does this do?
+- What happens if I click this?
+- Is the content of the help balloons short and easy to understand?
+- Do you use clear, concise phrases and active constructions?
+- Do you use terminology consistently?
+- When a balloon appears, is it positioned so that it does not obstruct any interface elements being referred to by the balloon?
+- Do you provide different balloon messages for different states of an item (such as enabled, disabled, and checked)?
+- Do you add a menu item for help-related information to the Help menu? Does this menu item use the name of your application?

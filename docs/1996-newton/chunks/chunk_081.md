@@ -1,0 +1,4 @@
+<!-- Chunk 81 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 130 -->
+The Newton interface also includes a **slider,** with which users can set a magnitude, position, probability, or other value in a range. Users set a value by dragging a diamond-shaped knob. The knob indicates the current value relative to the maximum and minimum values. A slider should have labels that identify the range and direction of the slider. [Figure 3-20](#page-114-0) shows an example of a slider.  
+<span id="page-114-0"></span>**Figure 3-20** A slider used for data input  
+![](images/_page_114_Picture_3.jpeg)

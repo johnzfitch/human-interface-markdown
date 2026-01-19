@@ -1,0 +1,2 @@
+<!-- Chunk 153 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 82 -->
+This section describes the standard behaviors and the issues that you need to resolve when you implement modeless dialog boxes in your application. It includes discussions of how to use modeless dialog boxes to change attributes in a document or an application and how to use modeless dialog boxes to perform actions on a document.

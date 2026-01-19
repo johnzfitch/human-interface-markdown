@@ -1,0 +1,3 @@
+<!-- Chunk 105 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 124 -->
+**Controls** are graphic objects that cause instant actions or visible results when users manipulate them. **Views** are UI elements that display content to users. The AppKit framework defines the controls and views you can use in your app, such as push buttons, radio buttons, text fields, table views, tab views, and popovers. Here you can see some of the controls and views (among other objects) that Interface Builder makes available in the Object library.  
+![](images/_page_175_Picture_2.jpeg)

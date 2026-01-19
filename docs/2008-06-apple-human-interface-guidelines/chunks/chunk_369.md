@@ -1,0 +1,10 @@
+<!-- Chunk 369 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 454 -->
+A **combination box** (or combo box) is a text entry field combined with a drop-down list. Combo boxes can display a list of likely choices while still allowing the user to type in an item not in the list. For example, Safari allows usersto set a preference for the minimum fontsize to display. In its Advanced preferences pane (shown in Figure 15-35), Safari lists several font sizes in a combo box, and users can supply a custom font size if none of the listed choices is suitable.  
+<span id="page-286-0"></span>**Figure 15-35** A combo box allows users to select from a list or supply their own item  
+![](images/_page_286_Picture_3.jpeg)  
+Users can type any appropriate characters into the text field. If a user types in an item already in the list, or types in a few characters that match the first characters of an item in the list, the item is highlighted when the user opens the list. A user-typed item is *not* added to the permanent list.  
+Users open the list by pressing or clicking the arrow to the right of the text field. The list descends from the text field; it is the same width as the text field plus the arrow box, and it has a drop shadow.  
+When the user selects an item in the list, the item replaces whatever is in the text entry field and the list closes. If the list was opened by pressing the arrow, the user selects an item in the list by dragging to it. If the list was opened by clicking the arrow, the user selects an item by clicking it or by pressing the Up Arrow or Down Arrow key. The user can accept an item by pressing the Space bar, Enter, or Return.  
+<span id="page-286-1"></span>If the list is open and the user clicks outside it, including within the text entry field, the list closes.  
+**Figure 15-36** A combo box with the list open  
+![](images/_page_286_Picture_9.jpeg)

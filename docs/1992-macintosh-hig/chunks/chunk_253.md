@@ -1,0 +1,2 @@
+<!-- Chunk 253 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 52 -->
+Apple Computer, Inc. offers developers a number of different sources of information. This section lists several developer organizations and describes how to contact the organizations to learn more about them.

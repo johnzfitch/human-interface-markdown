@@ -1,0 +1,3 @@
+<!-- Chunk 49 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 118 -->
+A fundamental object in windowing software is the icon, a small graphic object that is usually symbolic of an operation or of a larger entity such as a document.  
+Icons should be sprinkled liberally over the screen. Wherever an explanation or label is needed, first consider using an icon instead of using text as the label or explanation. Icons not only contribute to the clarity and attractiveness of the system, they don't need to be translated into foreign languages.

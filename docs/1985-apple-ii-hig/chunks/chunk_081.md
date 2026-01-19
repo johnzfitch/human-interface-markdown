@@ -1,0 +1,4 @@
+<!-- Chunk 81 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 153 -->
+If a document window is more or less permanently divided into different regions, each of which has different content, these regions are called panels. Unlike panes, which show different parts of the same document but are functionally identical, panels are functionally different from each other but might show different interpretations of the same part of the document. For example, one panel might show a graphic version of the document while another panel shows a textual version.  
+1/15/85 Tognazzini  
+Apple ][ Human Interface Guidelines (pre-release) -- 1985 -- DigiBarn Computer Museum -- Apple Computer, Inc.

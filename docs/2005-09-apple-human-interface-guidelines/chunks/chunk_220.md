@@ -1,0 +1,11 @@
+<!-- Chunk 220 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 515 -->
+<span id="page-175-4"></span>**Toolbars** are useful for giving users immediate access to the most frequently used commands. Any item in a toolbar should also be available as a menu command. An application-wide toolbar in its ownwindowis also called a **tool palette;** for more information, see "Utility [Windows"](#page-193-0) (page 194). This section describes toolbars that are part of a window with other content.  
+The set of toolbar items you provide should fit in the default window size; users should be able to customize which items appear in the toolbar and in what order. As the default, a toolbar should display icons with text labels; users should be able to change the display to icons only or text only. You can provide these options with a Customize Toolbar command in the View menu.  
+When the user has selected an item in the toolbar, it should either maintain its pressed state to indicate that item is selected, or the icon itself should change to indicate the current state.  
+Toolbar items can support click-through, which means that the user can activate the item when the containing window is inactive. You can choose to support click-through for any subset of toolbar items; for guidelines on when this might be appropriate, see ["Click-Through"](#page-189-1) (page 190).  
+<span id="page-175-2"></span>If your application uses toolbars as part of a window with other content, include a control in the window's title bar for showing and hiding the toolbar, as shown in Figure 13-8. You should also put commands for showing and hiding the toolbar in the View menu (see "The View [Menu"](#page-160-0) (page 161)).  
+**Figure 13-8** The toolbar control  
+![](images/_page_175_Picture_9.jpeg)  
+For information about designing icons for toolbars, see ["Toolbar](#page-128-0) Icons" (page 129).  
+<span id="page-175-1"></span>**Carbon:** Create a toolbar with the HIToolBarCreate function. See *HIToolbar Programming Guide* in Carbon User Experience Documentation for more information.  
+**Cocoa:** Create a toolbar with the NSToolbar class.

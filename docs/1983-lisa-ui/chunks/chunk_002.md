@@ -1,0 +1,2 @@
+<!-- Chunk 2 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 41 -->
+The Lisa system is both a hardware system and a software system. This document describes the software interface; a brief description of the hardware is in Appendix A.

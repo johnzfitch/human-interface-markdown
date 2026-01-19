@@ -1,0 +1,3 @@
+<!-- Chunk 108 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 135 -->
+<span id="page-100-4"></span>As described in ["Filename Extension Hiding" \(page 25\),](#page-24-0) your application should pass in a filename extension as part of every filename. Users can control its visibility using the "Hide extension" checkbox in the expanded Save dialog; for more information, see ["The Expanded Save Dialog" \(page 103\).](#page-102-0) Existing documents do not get extensions added to or removed from their filenames unless the user chooses Save As and changes the setting in the Save dialog.  
+Dialog Behavior **101**

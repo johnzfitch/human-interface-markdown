@@ -1,0 +1,2 @@
+<!-- Chunk 59 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 55 -->
+OS X provides a wealth of highly developed technologies that users appreciate. Taking advantage of these fully integrated technologies enhances the way your app interacts with the system and with other apps on the platform.

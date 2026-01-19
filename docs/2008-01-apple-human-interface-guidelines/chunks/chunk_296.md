@@ -1,0 +1,4 @@
+<!-- Chunk 296 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 160 -->
+**Control sizes**: Split views are available with a horizontal splitter (the views are stacked one above another) or a vertical splitter (the views are side by side), and splitters can be either zero-width (1 pixel wide) or "thick" (9 pixels wide).  
+#### Split View Implementation  
+<span id="page-341-2"></span>Split views are available in Interface Builder. Specify the splitter width by selecting Thick divider or Thin divider from the Style pop-up menu in the Attributes pane of the inspector. To create one using Application Kit programming interfaces, use the NSSplitView class (note that the splitter bars are horizontal by default).

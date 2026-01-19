@@ -1,0 +1,2 @@
+<!-- Chunk 165 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 101 -->
+<span id="page-129-0"></span>Use a progress view to provide feedback to people on a task that has a well-defined duration, especially when it's important to show them approximately how long the task will take. When you display a progress view, you tell the user that their task is being performed and you give them enough information to decide if they want to wait until the task is complete or cancel it.

@@ -1,0 +1,3 @@
+<!-- Chunk 109 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 101 -->
+An application that saves the contents of individual windows—which would be most text and graphics applications—should use document-specific sheets for its Save dialogs. In Aqua, the Save dialog has two states: minimal and expanded. Clicking the disclosure button toggles between these states. If the user changes the state, the next Save dialog should open in the selected state.  
+Dialog Behavior **105**

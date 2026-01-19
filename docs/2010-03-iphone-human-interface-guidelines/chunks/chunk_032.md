@@ -1,0 +1,2 @@
+<!-- Chunk 32 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 116 -->
+<span id="page-24-2"></span>To help you visualize ways you can create an iPhone OS version of a desktop computer application, this section describes some of the design differences between familiar Mac OS X applications and their iPhone OS counterparts. As you learn about which features and functions in each application were adapted for its iPhone OS version, you will gain insight into the types of design decisions you need to make for your own iPhone application.

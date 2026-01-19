@@ -1,0 +1,5 @@
+<!-- Chunk 217 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 228 -->
+![](images/_page_280_Picture_3.jpeg)  
+This chapter presents information on how to use color in the Macintosh interface as well as in applications that deal with color. Apple's goal in adding color to the interface is to enhance meaning, not just to color things to improve aesthetics. If used carefully, color can be a valuable additional channel of information to the user.  
+<span id="page-281-0"></span>![](images/_page_281_Picture_3.jpeg)  
+Ultimately, color is the domain of the user. The user should control color in most cases, modifying or removing any color scheme that your application uses as a default. To implement color successfully in an application, you need to understand some of the complex issues surrounding its use. There are many books available on the use of color. This chapter covers the basic issues of color that relate to its implementation in the Macintosh interface and applications.

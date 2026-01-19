@@ -1,0 +1,6 @@
+<!-- Chunk 247 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 229 -->
+A **source list** (also called a **sidebar**) is an area of a window, usually set off by a movable splitter, that provides users with a way to navigate or select objects in the application (for more information on splitters, see ["Split](#page-326-0) [Views"](#page-326-0) (page 327)). Typically, users select an object in the source list that they act on in the main part of the window. You can provide a source list asthe primary means of navigating or viewing within your application, as the Finder and iTunes do, or as a way to select a view in a part of the application, as some panes in System Preferences do.  
+Figure 14-22 shows some examples of source lists that function as primary navigation and selection mechanisms.  
+Window Elements **203**  
+<span id="page-203-0"></span>**Figure 14-22** Source lists help users navigate and select collections of objects or data  
+![](images/_page_203_Picture_3.jpeg)

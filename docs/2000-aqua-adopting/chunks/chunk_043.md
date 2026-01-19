@@ -1,0 +1,5 @@
+<!-- Chunk 43 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 261 -->
+Icon design in Mac OS X is significantly different from previous versions of Mac OS. Icon design in Mac OS 8 and 9 is highly abstracted and conceptualized due to graphical limitations. These limitations constrained designers to use a style that emphasized straight lines rotated in increments of 45 degrees. A familiar example of this is the standard diamond-like application icon, as shown in [Figure 1-31.](#page-38-1)  
+<span id="page-38-1"></span>**Figure 1-31** Standard application icon for Mac OS 8 and 9  
+![](images/_page_38_Picture_5.jpeg)  
+Building on the icon style defined in previous versions of Mac OS, Mac OS X offers icons that are stylistically vibrant and emotive. Icons can be represented in 128 x 128 pixels to allow ample room for detail. Anti-aliasing makes curves and nonrectilinear lines possible. Alpha channels and transparency allow for complex shading and dimensionality. All of these qualities pave the way for lush and vibrant imagery that allows you to create icons that communicate in ways never before possible.

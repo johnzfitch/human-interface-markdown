@@ -1,0 +1,14 @@
+<!-- Chunk 137 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 653 -->
+Whenever your application displays a window on the screen, you must decide where to put it and how big it should be. To determine where to place a window, consider what kind of window your application is opening, what other windows are open and where, and the relationship between the content of the window and other windows or dialog boxes. Whenever a change has been made to the initial size or location of a window, maintain the user's preferred size and position for the window.  
+<span id="page-170-0"></span>The sections that follow present examples for the most common situations. You should consider how your application compares to these common situations to determine the best ways to position your application's windows, including dialog boxes and alert boxes.  
+#### The Default Position on a Single Screen 5  
+When your application opens a new document window, position it in the upper-left corner of the screen. Open each additional new document window below and to the right of its predecessor. Figure 5-15 shows windows positioned on a single screen.  
+**Figure 5-15** Window positions on a single screen  
+![](images/_page_170_Picture_8.jpeg)  
+Before closing a window, check to see whether the user has changed its size or position. Save window positions, and reopen windows in the size and position in which the user left them. If a user opens, moves, and closes a document window without making any other changes, save the new window position but don't modify the date stamp of the document. If the user does not change the size or position of the window, don't save the position when the user closes the window.  
+Before reopening a window, check to make sure that the size and state are reasonable for the user's current monitor or monitors, which may not be the same as the monitor on which the document was last open. For example, a user might start working on a word-processing document on a full-page display at work and then take the document home and work on it on a computer with a 13-inch monitor. In a situation like this, your application should open the document in a window sized appropriately for the smaller monitor and not necessarily in the saved size. See the section "The Zoom Box and Window Behavior," beginning on page 168, for more information on appropriate window size.  
+Window Behaviors **147**  
+Figure 5-16 shows the standard position of a window on a 19-inch screen and a 13-inch screen.  
+<span id="page-171-0"></span>**Figure 5-16** The standard window position on two sizes of screens  
+![](images/_page_171_Picture_4.jpeg)  
+![](images/_page_171_Picture_5.jpeg)

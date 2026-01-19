@@ -1,0 +1,2 @@
+<!-- Chunk 431 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 35 -->
+A control that displays textual listings of hierarchical data in vertical columns. Navigation between columns reveals levels of the hierarchy.

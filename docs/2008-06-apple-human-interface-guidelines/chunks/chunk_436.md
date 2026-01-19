@@ -1,0 +1,2 @@
+<!-- Chunk 436 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 73 -->
+**Control sizes**: A disclosure button should be aligned with the pop-up menu or other list-based selection control (such as a command pop-down menu) it affects. In addition, the disclosure button should be close enough to the associated control to clearly indicate a relationship between them.

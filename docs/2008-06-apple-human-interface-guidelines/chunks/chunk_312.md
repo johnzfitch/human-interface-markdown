@@ -1,0 +1,5 @@
+<!-- Chunk 312 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 195 -->
+Because users expect an immediate action to occur when they press a push button, it is important to avoid using push buttons to merely display information or to mimic the behavior of other controls. In particular:  
+- Do not use a push button to indicate a state, such as on or off. Instead, you can use checkboxes to indicate state, as described in ["Checkboxes"](#page-274-0) (page 275).
+- Do not use a push button as a label. Instead, use static text to label elements and provide information in the interface (for more information, see "Static Text [Fields"](#page-311-1) (page 312)).
+- Avoid associating a menu with a push button. If you need to associate a menu with a button, use a bevel button instead (see "Bevel [Buttons"](#page-268-0) (page 269) to learn how to do this).

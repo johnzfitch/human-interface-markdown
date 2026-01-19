@@ -1,0 +1,6 @@
+<!-- Chunk 133 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 255 -->
+A **token field** creates a movable token out of text.  
+**API Note:** To define a token field in your code, use the NSTokenField class.  
+**In general, use a token field control in a text input field.** As the user types in the text input field, the token field control invokes text completion after a delay that you specify. When the user types the comma character or presses Return, the preceding text input is transformed into a token. For more information about text input fields, see Text [Input](#page-212-2) Field (page 213).  
+**If appropriate, add a contextual menu to a token.** (Note that you have to add code to support the addition of a contextual menu.) In a token field's menu, you might offer more information about the token and ways to manipulate it. In Mail, for example, the token menu displays information about the token (the email address associated with the name) and items that allow the user to edit the token or add its associated information to Contacts.  
+![](images/_page_214_Picture_2.jpeg)

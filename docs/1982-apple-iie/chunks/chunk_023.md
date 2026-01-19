@@ -1,0 +1,3 @@
+<!-- Chunk 23 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 113 -->
+Programs that are not used literally every single day will be forgotten. Users will not remember command words, the names of their files, nor the fact that you are accepting data not with RETURN, but with CTRL-V. (Violet was the name of your very first computer science teacher.)  
+Computers are notoriously good at remembering the above type of information. Share it with your user: make sure the information needed is available where and when needed.

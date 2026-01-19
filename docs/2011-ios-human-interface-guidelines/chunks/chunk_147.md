@@ -1,0 +1,2 @@
+<!-- Chunk 147 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 82 -->
+<span id="page-125-1"></span>Typically, you use a detail disclosure button in a table view to give users a way to see more details or functionality related to a list item. However, you can also use this element in other types of views to provide a way to reveal more information or functionality related to an item in that view.

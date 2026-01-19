@@ -1,0 +1,2 @@
+<!-- Chunk 376 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 108 -->
+All three path-control styles display text in addition to icons for applications, folders, and document types. When users click the pop-up style path control, a pop-up menu appears, which lists all locations in the path and a Choose menu item. Users can use the Open dialog opened by the Choose item to view the contents of the selected folder. (See "The Open [Dialog"](#page-239-0) (page 240) for more information on the Open dialog.)

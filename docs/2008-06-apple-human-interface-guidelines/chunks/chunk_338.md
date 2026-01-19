@@ -1,0 +1,3 @@
+<!-- Chunk 338 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 116 -->
+Round buttons are seldom used, but they can be useful when you need a simple iconic push button that initiates an immediate action. Typically, round buttons are used as navigation controls.  
+Don't use a round button to create a Help button. If you provide onscreen help, use the standard Help button instead (see "The Help [Button"](#page-267-0) (page 268) for more on this control). In addtion, you should not use round buttons as radio buttons or as checkboxes.

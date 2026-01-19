@@ -1,0 +1,44 @@
+---
+chunk_index: 2964
+ref: "52e59dabc345"
+id: "52e59dabc3455b3790a409fee1d86e11137b679d0378916c260d23c163269f05"
+slug: "full-document--metaphors"
+path: "marker/1992 Macintosh Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [5540, 5567]
+token_estimate: 405
+content_sha256: "da237dc176dae65bf568841f64353d1b207aa9fd819a3aa3a5190ca7b142de45"
+compacted: false
+heading_path: ["Human-Computer Design","Metaphors"]
+symbol: null
+address: null
+asset_path: null
+---
+
+## Metaphors
+
+Carroll, J. M., and others. "Interface Metaphors and User Interface Design." In *Handbook of Human-Computer Interaction*, edited by M. Helander. North-Holland: Elsevier Science Publishers B.V., 1988.
+
+A comprehensive review of research and theoretical work on metaphors, coupled with a discussion of designing with metaphors.
+
+Erickson, T. D. "Working With Interface Metaphors." In *The Art of Human Computer Interface Design*, edited by Brenda Laurel. Reading, MA: Addison-Wesley, 1990.
+
+A discussion of the role of metaphors in the human interface, and a discussion and example of how to design interface metaphors.
+
+Lakoff, George, and Mark Johnson. *Metaphors We Live By*. Chicago: University of Chicago Press, 1980.
+
+A delightful book that discusses the ubiquity of metaphors in language. It makes the point that metaphors are not so much picturesque uses of words, as systems of concepts that affect how we describe, think about, and experience the world.
+
+Malone, T. W. "How Do People Organize Their Desks: Implications for Designing Office Automation Systems." *ACM Transactions on Office Information Systems* 1 (1983): 99–112.
+
+Wozny, L. A. "The Application of Metaphor, Analogy, and Conceptual Models in Computer Systems." *Interacting With Computers* 1, no. 3 (December 1989): 273–283.
+
+A paper that clearly describes the differences between metaphor, analogy, and conceptual models and discusses their applications in the computer domain.
+
+![](images/_page_365_Picture_17.jpeg)
+
+![](images/_page_365_Picture_18.jpeg)
+
+![](images/_page_365_Picture_19.jpeg)
+
+![](images/_page_365_Picture_20.jpeg)

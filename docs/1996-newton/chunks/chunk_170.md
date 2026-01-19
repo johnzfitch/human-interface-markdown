@@ -1,0 +1,5 @@
+<!-- Chunk 170 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 196 -->
+The system lets users know when it is temporarily busy and may be unable to respond to their input by displaying a small graphic, called the **busy cursor,**  at the top of the screen. Your application or transport does not need to do anything to benefit from this feedback; the system displays the busy cursor automatically as needed. Figure 8-1 shows a busy cursor.  
+**Figure 8-1** A busy cursor indicates the system is temporarily engaged  
+![](images/_page_243_Figure_5.jpeg)  
+The automatic busy cursor is not meant to provide complete feedback during a lengthy operation. If your application or transport begins an operation that may take more than a few seconds to complete, it should display a status slip (see the next section and ["Status Slips" on page 2-20\)](#page-63-0).

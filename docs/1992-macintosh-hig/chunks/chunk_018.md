@@ -1,0 +1,2 @@
+<!-- Chunk 18 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 68 -->
+This book contains three major sections. You can read it from start to finish or use it as a reference in which to look up specific pieces of information that you need to know. The paragraphs that follow describe the type of information you'll find in each part of the book.

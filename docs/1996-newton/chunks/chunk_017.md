@@ -1,0 +1,4 @@
+<!-- Chunk 17 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 208 -->
+Your software needs to appeal to and be useful to people with a wide range of abilities and backgrounds. There are likely to be members of your target audience who are different from the so-called average user that you envision. Users will undoubtedly vary in their ages, styles, and abilities. They may also have physical or cognitive limitations, linguistic differences, or other differences you need to consider. Identify how the individuals in your target audience differ and what special needs they may have.  
+Know Your Audience **1-3**  
+<span id="page-27-0"></span>Make your application accessible to people around the world by including support for worldwide capabilities in your designs from the beginning of your development process. Take stock of the cultural and linguistic needs and expectations of your target audiences.

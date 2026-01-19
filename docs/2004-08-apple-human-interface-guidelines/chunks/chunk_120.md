@@ -1,0 +1,5 @@
+<!-- Chunk 120 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 189 -->
+Reserved for use by Apple, the right side of the menu bar may contain items that provide feedback on and access to certain hardware or network settings. Menu bar extras display some type of status in the menu bar and have a menu to change settings. The icon for the battery strength indicator, for example, dynamically displays the current state of the battery for a portable computer, and the menu has common battery settings. Users can display or hide a menu bar extra in the appropriate preferences pane.  
+#### **Important**  
+Don't create your own menu bar extras. Use the Dock menu functions to open a menu from your application's icon in the Dock.  
+If there is not enough room in the menu bar to display all menus, menu bar extras are not displayed.

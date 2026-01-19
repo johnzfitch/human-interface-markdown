@@ -1,0 +1,8 @@
+<!-- Chunk 85 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 355 -->
+<span id="page-66-6"></span><span id="page-66-5"></span><span id="page-66-4"></span>If your application stores or uses contact information, use the Address Book framework to manage that information. Contact information consists of information such as names, phone numbers, fax numbers, and email addresses of the people known to the current user. Using the Address Book framework, you can access contact information from the user's database or display it in a customizable window.  
+Although the Address Book interfacesthat allow you to customize the display window use the terms"people picker" and "picker," these are not acceptable names to use in your application's user interface. Instead, you should give the display window a name that describes its contents as they relate to your application, such as "Addresses" or "Contacts."  
+<span id="page-66-2"></span>The appearance of a people-picker window is customizable to allow you to display only the data relevant to your application. For example, Mail customizes this window to show the email addresses of the contacts, as shown in Figure 6-1.  
+![](images/_page_66_Picture_7.jpeg)  
+**Figure 6-1** A people-picker window as used in Mail  
+You customize the appearance of a people-picker window using the interfaces of the Address Book framework. See *Address Book Programming Guide for Mac OS X* for more information on using this framework.  
+Address Book **67**

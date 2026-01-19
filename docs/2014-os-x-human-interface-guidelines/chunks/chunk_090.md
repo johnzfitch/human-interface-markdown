@@ -1,0 +1,13 @@
+<!-- Chunk 90 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 629 -->
+The behavior of a **translucent panel** issimilar to the behavior of a standard panel, but its appearance is designed to complement apps that focus on highly visual content or that provide an immersive experience, such as a full-screen slide show. For example, QuickTime Player uses a translucent panel to display inspector information without obstructing too much of the user's content.  
+![](images/_page_147_Picture_4.jpeg)  
+**Have a good reason to use a translucent panel instead of a standard panel.** Users can be distracted or confused by a translucent panel when there is no logical reason for its presence. In general, use translucent panels only when at least one of the following statements is true:  
+- Your app is media-oriented, that is, focused on movies, photos, or slides.
+- Users use your app in a dark environment or in an immersion mode (frequently, this type of app also uses a dark, custom UI).
+- Users make only quick adjustments in the panel and dismiss it quickly.
+- A standard panel would obscure the content that users need to adjust.  
+**Use a combination of standard and translucent panels, if appropriate.** If your app focuses on highly visual content only at specific times or only in some modes, use the panel type that is best suited to the current task and environment.  
+**Don't change a panel's type when your app changes its mode.** For example, if you use a translucent panel when your app is in an immersive mode, don't transform it into a standard panel when your app switches to a nonimmersive mode.  
+**As much as possible, use simple adjustment controls in a translucent panel.** In particular, avoid using controls that require users to type or to select items, because these controls force users to shift their attention from their content to the panel. Instead, consider using controls such as sliders and steppers, because they're easy for users to use without focusing on them.  
+**Use color sparingly.** In the dark UI of a translucent panel, too much color can lessen its impact and distract users. Often, you need only small amounts of high-contrast color to enhance the information you display in a translucent panel.  
+**In general, keep translucent panels (and their contents) small.** Translucent panels are designed to be unobtrusively useful, so allowing them to grow too big defeats their primary purpose. Don't let a translucent panel obscure the content that the user is trying to adjust, and don't let it compete with the content for the user's attention.

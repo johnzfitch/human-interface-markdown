@@ -1,0 +1,2 @@
+<!-- Chunk 48 | Source: 2008-11 iPhone Human Interface Guidelines.pdf | Est. Tokens: 117 -->
+Table views, text views, and web views are versatile elements that lend themselves to different uses in your iPhone application. For example, table views can be configured to display short lists of choices, grouped lists of detailed information, or long, indexed lists of items. Text views and web views are relatively unconstrained containers you can use to accept and display content. This chapter provides guidance for using these elements in your iPhone application.

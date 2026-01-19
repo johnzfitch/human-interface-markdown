@@ -1,0 +1,5 @@
+<!-- Chunk 20 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 202 -->
+Text input fields should be 22 pixels high to accommodate the system font (which is 16 pixels high without including line spacing). When the user selects text in a text input field, the selection rectangle is also 16 pixels high. The relationship of the text rectangle to the field is shown in [Figure 1-17.](#page-19-0) If you specify the small system font, the field dimensions are reduced proportionally. When a text input field has keyboard focus, a dark, translucent rectangle (which is 2 pixels wide at the top and 3 pixels wide on the other three sides) appears around the outside edge of the field. You should adjust your layout to make room for this focus ring.  
+Control Dimensions **19**  
+**Figure 1-17** Text input field dimensions  
+<span id="page-19-0"></span>![](images/_page_19_Figure_3.jpeg)

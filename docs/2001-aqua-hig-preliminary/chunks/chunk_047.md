@@ -1,0 +1,8 @@
+<!-- Chunk 47 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 357 -->
+An ellipsis character (…) after a menu item or button label indicates to the user that additional information is required to complete a command. You should use an ellipsis in the following cases:  
+- An action that requires further user input to complete or presents an alert allowing the user to cancel the action. Examples include Open, Page Setup, and Print. Typically the windows displayed by these commands are modal and are dismissed after completing the action.
+- An action that opens a nonmodal dialog that requires additional user input to complete a task. Examples include Find, Go To, and Spelling.
+- An action that opens a settings window. The main function of settings windows is to allow the user to change some aspect of the application, not the document content. Examples include Set Title, Preferences, and Options.  
+Don't use an ellipsis in the following cases:  
+- An action that requires no further user input to complete and does not present an alert. Often the item to be acted upon is already selected. Examples: New, Cut, Bold, Print One, and Quit.
+- An action that opens an informational, accessory, or tool window. These windows can be implemented as either utility windows (as in the case of a color palette), or modeless windows. These windows provide tools that help create or manage the content in the main window and are frequently left open to assist in accomplishing the task of the main window.

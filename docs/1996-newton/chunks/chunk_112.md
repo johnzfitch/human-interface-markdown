@@ -1,0 +1,2 @@
+<!-- Chunk 112 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 99 -->
+This section presents some basic guidelines for designing effective icons. Remember that all your icon designs must work in the context of a Newton device. The theme of the Newton interface is communications. You want to build on this theme and diverge from it as little as possible. You must also consider other important facets of the Newton interface described here when you're designing icons.

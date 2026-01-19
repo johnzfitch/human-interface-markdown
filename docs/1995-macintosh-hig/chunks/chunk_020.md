@@ -1,0 +1,2 @@
+<!-- Chunk 20 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 99 -->
+The second part of this book defines various parts of the Macintosh interface. It presents examples of the right and wrong ways to use interface elements and behaviors and contains specific implementation information you can use while you're creating a product. This part of the book also shows how to combine interface elements with behaviors, aesthetics, and language to create a superior product.

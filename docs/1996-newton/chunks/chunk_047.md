@@ -1,0 +1,6 @@
+<!-- Chunk 47 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 245 -->
+An application's primary controls go at the bottom of its main view, usually on a **status bar.** A status bar is not strictly required, but it helps to visually anchor the controls. Figure 2-10 shows sample status bars with assorted controls.  
+**Figure 2-10** A status bar anchors primary controls at the bottom of a main view  
+![](images/_page_54_Picture_5.jpeg)  
+Each application can have a different set of controls, but an application's main view must have a Close box unless the application is the backdrop (see ["The](#page-72-0)  [Backdrop" on page 2-29](#page-72-0) and ["Closing a Main View" on page 2-32](#page-75-0)). Close boxes and other standard status-bar controls are described in ["Close Boxes" on](#page-107-0)  [page 3-14](#page-107-0) and ["Standard Newton Buttons" on page 3-22](#page-115-0).  
+On an Apple MessagePad, the status bar is a black line two pixels thick, with end points two pixels from the right and left edges of the application's main view.

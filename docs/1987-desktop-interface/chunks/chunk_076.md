@@ -1,0 +1,2 @@
+<!-- Chunk 76 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 46 -->
+This section discusses four alternate types of menus: hierarchical menus, pop-up menus, graphic menus called palettes, and a hybrid of palettes and pull-down menus called tear-off menus.

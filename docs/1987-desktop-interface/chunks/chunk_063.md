@@ -1,0 +1,2 @@
+<!-- Chunk 63 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 60 -->
+Menus make it possible for the user to browse through and choose among the whole range of available operations. The standard menu structure consists of the menu bar (which displays the menu titles), the menus, and each menu's items (commands).

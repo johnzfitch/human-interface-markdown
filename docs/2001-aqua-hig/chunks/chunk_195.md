@@ -1,0 +1,2 @@
+<!-- Chunk 195 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 59 -->
+Mac OS X reserves certain keyboard combinations as equivalents to menu commands; these shortcuts affect all applications. Even if your application doesn't support all the combinations shown in Table 9-4, don't use any of them for another

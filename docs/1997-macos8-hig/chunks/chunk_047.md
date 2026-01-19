@@ -1,0 +1,5 @@
+<!-- Chunk 47 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 206 -->
+The caution alert box, the second level of alert box, is more severe than the note alert box. The caution alert box icon is the triangle with an exclamation point. Caution alert boxes provide a safety net by warning the user in advance of a potentially dangerous action.  
+Caution alert boxes always contain two buttons, an OK button (which can use more specific "go ahead" labels such as Continue or Delete) and a Cancel button, in addition to an optional Help button. This choice allows the user to continue the potentially dangerous action or to cancel it. The OK or Continue button should be the default button, unless the user has to perform some other task in order to prevent the loss of data. Figure 3-7 shows an example of a caution alert box.  
+**Figure 3-7** A caution alert box  
+![](images/_page_62_Picture_6.jpeg)

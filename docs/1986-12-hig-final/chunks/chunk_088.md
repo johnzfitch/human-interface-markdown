@@ -1,0 +1,2 @@
+<!-- Chunk 88 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 79 -->
+The U.S. keyboards resemble those on standard American office typewriters. The layout of the international version is designed to conform to the International Standards Organization (ISO) standard. International keyboards have different labels on the keys in different countries, but the overall *layout* is the same.

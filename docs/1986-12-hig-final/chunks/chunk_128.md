@@ -1,0 +1,4 @@
+<!-- Chunk 128 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 132 -->
+Generally, all interface elements (menus, window frames, etc.) should maintain a white background, using color to replace only pixels that are black in the black and white interface. Maintaining the white background helps keep the clarity and the "look and feel" of the Desktop Interface.  
+#### Leave Outlines Black  
+Outlines of menus, windows, alerts and dialogs should remain in black. Edges formed by color differences alone are hard for the eye to focus on, and these objects may appear against a colored desktop or window.

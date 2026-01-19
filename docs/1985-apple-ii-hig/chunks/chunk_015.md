@@ -1,0 +1,8 @@
+<!-- Chunk 15 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 347 -->
+- 1. Staged learning curve. Must feel comfortable in a minimum time. Extended features can be picked up later.
+- Facility. Must be able to create and edit scenarios quickly.
+The windowing system should be considered first, as it enables the most freedom of movement (and looks the flashiest to the client).
+- 3. Clear instructions and error messages. User may have never touched a computer before. Help should be aimed toward problems in the use of the system, rather than explanations of the difference between Short- and Long-term capital gains.
+- 4. Professional appearance. Accountants will be using this package not only to help their clients, but to impress them. The vocabulary used on the display and in printed reports should be serious and professional. It may contain accounting jargon in areas that will not cause confusion to clients. The accountant must be protected against embarrassing errors (and alert messages); he may have a client sitting beside him.
+- 5. Supplementary Features: accountants surveyed currently add or subtract amounts from the "accurate" figures produced by tax planners. Such items as a rough guesstimate of state tax liability may need to be figured into reports. Provide this facility.
+- 6. Accountants are habitual users of adding machines: they may be expected to do all intermediate calculations on their own adder. No calculator need be provided.

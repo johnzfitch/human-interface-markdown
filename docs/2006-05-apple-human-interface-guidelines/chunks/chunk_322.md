@@ -1,0 +1,2 @@
+<!-- Chunk 322 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 30 -->
+<span id="page-257-1"></span>This section discusses controls that allow users to graphically adjust settings or parameters.

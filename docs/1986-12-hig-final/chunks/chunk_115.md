@@ -1,0 +1,2 @@
+<!-- Chunk 115 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 100 -->
+The International Utilities Package provides routines for dealing with sorting, currency, measurement systems, and date and time formatting. It is important that you use the routines in this package, rather than the System Utility routines contained in the Macintosh ROM—the ROM routines are not as accurate and (because they are used by the File System) they can't be localized for different countries.

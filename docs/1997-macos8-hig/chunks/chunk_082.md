@@ -1,0 +1,7 @@
+<!-- Chunk 82 | Source: 1997 Mac OS 8 Human Interface Guidelines.pdf | Est. Tokens: 298 -->
+Control panels should follow the guidelines established in *Macintosh Human Interface Guidelines*. In addition you must observe the following:  
+■ Each control panel has one window—a modeless dialog box—that opens when the control panel is launched. The preferred maximum size for this window is 400 x 300 pixels (width x height), but it may be larger if necessary. The absolute maximum size for the control panel window is 492 x 340.  
+About Control Panels **109**  
+- <span id="page-109-0"></span>■ The window must have a close box. The control panel quits whenever the window closes.
+- You should put as many of the control panel's settings as possible in the window. Infrequently used settings or minor features may be relegated to modal or movable modal dialog boxes. These dialog boxes should be accessible by controls (usually push buttons) in the control panel window. Only if the window cannot accommodate such controls should menu commands be used instead.
+- If the control panel contains a large number of frequently used settings, you can make the window a multi-pane modeless dialog box. In this case, any secondary dialog boxes opened from the control panel window should be modal.

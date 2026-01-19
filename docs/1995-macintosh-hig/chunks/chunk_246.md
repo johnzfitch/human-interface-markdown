@@ -1,0 +1,5 @@
+<!-- Chunk 246 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 232 -->
+The Command key is labeled with a propeller (x) symbol and, on some keyboards, an Apple symbol (K) as well. Pressing a character key while holding down the Command key usually tells the application to interpret the key as a command, not as a character. These combinations are called *keyboard equivalents*, as described in Chapter 4, "Menus," in the section "Keyboard Equivalents" on page 128.  
+In some applications, the Command key is used with other keys to provide special functions or shortcuts. For example, pressing Command-Shift-3 on a Macintosh saves a snapshot of the current screen on disk. The Command key can also be used in conjunction with the mouse to modify the effect of a click or drag.  
+#### Control 10  
+The Control key is used with terminal-emulation programs for Control-key sequences. For all other applications, it is reserved for shortcut key sequences that the user defines using a macro-key facility.

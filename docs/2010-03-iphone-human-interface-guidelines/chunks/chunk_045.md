@@ -1,0 +1,2 @@
+<!-- Chunk 45 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 79 -->
+<span id="page-35-1"></span>Great iPhone applications do precisely what users need while providing the experience users want. To help you achieve this balance in your application, thissection examinessome of the characteristics of great iPhone applications and provides advice on how to build them into your product.

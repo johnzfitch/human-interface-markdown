@@ -1,0 +1,10 @@
+<!-- Chunk 195 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 473 -->
+As you work on creating your icon, you will probably need to spend some time scaling artwork to different sizes. As stated in ["Creating](#page-142-0) Icons" (page 143), applications should include icon resources in these sizes:  
+- 512 x 512 pixels
+- 128 x 128 pixels
+- 32 x 32 pixels
+- 16 x 16 pixels  
+If your practice is to start with a large master art file and scale it down to the smaller sizes, it's especially useful to create your master image in a dimension that is a multiple of the icon sizes you need. If you also use an appropriate grid size in your image-editing application as you create the master image, you'll be able to keep each smaller icon version crisp and reduce the amount of retouching and sharpening you need to do.  
+For example, to create icons in the recommended sizes listed above, create a 1024 x 1024 pixel version of your master file. In your image-editing application, you can set up an 8-pixel grid as you create the master file. This means that each block in the grid measures 8 x 8 pixels and represents one pixel in the 128 x 128 pixel icon. As you create your master file, "snap" the image to the grid and keep it within the boundaries to minimize the half pixels and blurry details that can result when you scale it down.  
+Although using an 8-pixel grid works fine when you need to create 512 x 512 pixel icons, you may prefer the increased precision you get when you use a 2-pixel grid to create the master image.  
+If you're not satisfied with the results when you scale art down to the 32 x 32 pixel and 16 x 16 pixel sizes, you can redraw the image at these sizes instead. If you decide to do this, setting up the proper grid can still help reduce extra work. For example, using a 32-pixel grid with a 1024 x 1024 pixel master file works well for creating the 32 x 32 pixel size, and a 64-pixel grid works well for creating the 16 x 16 pixel size.

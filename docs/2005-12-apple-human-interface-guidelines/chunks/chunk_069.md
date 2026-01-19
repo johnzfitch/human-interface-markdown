@@ -1,0 +1,4 @@
+<!-- Chunk 69 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 211 -->
+Clicking an application icon in the Dock should always result in a window becoming active.  
+- <span id="page-55-7"></span>■ If the application is not open, a new window should open. In a document-based application, the application should open a new, untitled window. In an application that is not document-based, the main application window should open.
+- When a user clicks an open application's icon in the Dock, the application becomes active and all open unminimized windows are brought to the front; minimized document windows remain in the Dock. If there are no unminimized windows when the user clicks the Dock icon, the last minimized window should be expanded and made active. If no windows are open, the application should open a new window—a new untitled window for document-based applications, otherwise the main application window.

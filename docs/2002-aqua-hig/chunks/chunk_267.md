@@ -1,0 +1,4 @@
+<!-- Chunk 267 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 177 -->
+When users refer to help, it is usually because they are having difficulty accomplishing a task—they know what they want to do, but not how to accomplish it. When faced with an impasse, most users first try to figure it out for themselves by exploring and experimenting with the interface. If that fails, they ask someone else for assistance; if no one is available, they may consult the onscreen help.  
+Users come to help with a specific goal in mind, bringing their cumulative Macintosh experience and the recent and cumulative experience of using the product. In all likelihood, they are somewhat impatient and frustrated at having failed to figure out how to accomplish their goal.  
+#### **CHAPTER 14**

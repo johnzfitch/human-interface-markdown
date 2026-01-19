@@ -1,0 +1,2 @@
+<!-- Chunk 3 | Source: 1980 Lisa UI Standards.pdf | Est. Tokens: 59 -->
+A LISA computer will have at least 128 Kbytes of main memory, of which 32K is dedicated to the display. Thus system overhead, fonts, memory resident program segments, and memory resident data cannot require more than 96 Kbytes of storage.

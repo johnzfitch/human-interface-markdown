@@ -1,0 +1,2 @@
+<!-- Chunk 447 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 82 -->
+<span id="page-321-2"></span>A dialog that prevents the user from performing further operations in the document until the user dismisses the dialog. All sheets are document modal and all Aqua document-modal dialogs should be sheets. See also ["application-modal dialog"](#page-318-2) (page 319); ["sheet"](#page-324-0) (page 325).

@@ -1,0 +1,4 @@
+<!-- Chunk 61 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 170 -->
+![](images/_page_54_Picture_7.jpeg)  
+![](images/_page_54_Picture_8.jpeg)  
+When people working on different kinds of computers or in different computing environments communicate with one another, be aware that messages may lose a lot of their contextual clues. For example, if the person on the receiving end does not have the fonts that the sender has, the message sent may appear quite different than anticipated. As much as possible, try to preserve the integrity of communication in order that messages seen by collaborators are as similar as possible. If you know that some data will be lost when it migrates from one system to another, notify the user on the receiving end.

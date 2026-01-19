@@ -1,0 +1,2 @@
+<!-- Chunk 508 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+A window that floats above other windows and provides tools or controls that users can work with while documents are open. See also ["document](#page-321-2) [window"](#page-321-2) (page 322).

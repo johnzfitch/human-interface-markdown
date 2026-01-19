@@ -1,0 +1,6 @@
+<!-- Chunk 126 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 235 -->
+If your application isn't primarily a text application, but it has text entry fields in dialogs, for example, you may not need to provide the full text-editing features described in this section. The application should, however, be forward-compatible with the full text-editing capabilities. The application should support the following capabilities:  
+- The user can select the whole field and type in a new value, delete text, select a substring of the field and replace it, and select a word by double-clicking.
+- The user can choose Undo, Cut, Copy, Paste, and Clear, as described in ["The](#page-44-0)  [Edit Menu" \(page 45\)](#page-44-0).  
+Your application can also support intelligent cut and paste.  
+Even applications with only minimal text editing should perform appropriate edit checks. For example, if the only legitimate value for a field is a string of digits, the application should alert the user if any nondigits are typed.

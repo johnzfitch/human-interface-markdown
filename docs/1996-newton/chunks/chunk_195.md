@@ -1,0 +1,2 @@
+<!-- Chunk 195 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 85 -->
+Use the Info button—with the "i" icon—and its picker for information options such as Help, About, and Prefs. Always place the Info button at the far left end of the status bar unless your application includes an Analog Clock, which is optional. See pages [3-23](#page-116-0), [4-24,](#page-149-0) [8-28,](#page-269-0) and [8-30.](#page-271-0)

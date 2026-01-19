@@ -1,0 +1,2 @@
+<!-- Chunk 199 | Source: 1992 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 76 -->
+The color that is most difficult to distinguish is light blue, which should be avoided for text, thin lines, and small shapes. Adjacent colors that differ only in the amount of blue should also be avoided. However, for things that you want to make unobtrusive, such as grid lines, blue is the perfect color.

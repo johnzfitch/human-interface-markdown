@@ -1,0 +1,3 @@
+<!-- Chunk 255 | Source: 2008-01 Apple Human Interface Guidelines.pdf | Est. Tokens: 148 -->
+Like a push button, a **round button** initiates an immediate action. Unlike a push button, however, a round button does not contain text.  
+Round buttons, like bevel buttons, are seldom used in applications running in Mac OS X v10.4 and later. You might be able to use a gradient button that contains a system-provided (or custom) image as an alternative. See ["Gradient](#page-276-0) Buttons" (page 277) for more information aboutgradient buttons; see ["System-Provided](#page-154-0) Images" (page 155) for more information about system-provided images available in Mac OS X v10.5 and later.

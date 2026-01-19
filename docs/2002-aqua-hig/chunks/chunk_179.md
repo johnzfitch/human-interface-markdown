@@ -1,0 +1,4 @@
+<!-- Chunk 179 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 175 -->
+<span id="page-169-6"></span>The Control key is used to modify the functions of other keys, with terminal-emulation programs for Control-key sequences, and, with a mouse click, to display contextual menus (see ["Contextual Menus" \(page 64\)\)](#page-63-0).  
+In Mac OS X 10.1 and later, Control-F7 temporarily overrides a user's preference for simple navigation or full keyboard navigation in windows and dialogs. For more information, see ["Keyboard Focus and Navigation" \(page 182\).](#page-181-2)  
+Cocoa developers should also consider additional behaviors, as described in the Programming Topic "Text System Defaults and Key Bindings," available on the Mac OS X developer documentation website.

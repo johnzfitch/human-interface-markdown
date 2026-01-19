@@ -1,0 +1,2 @@
+<!-- Chunk 325 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 97 -->
+<span id="page-264-0"></span>Scope buttons are available in Interface Builder. You can also use Application Kit programming interfaces to create them. To create a recessed scope button, use the setBezelStyle: method of NSButtonCell with NSRecessedBezelStyle as the argument. To create a round rectangle scope button, pass NSRoundRectBezelStyle as the argument to the setBezelStyle: method.

@@ -1,0 +1,5 @@
+<!-- Chunk 58 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 252 -->
+iOS devices are personal devices, but they also encourage collaboration and sharing with others. Enhance your app by helping people collaborate and connect with others.  
+**When appropriate, make it easy for people to interact with others and share things like their location, opinions, and high scores**. People generally expect to be able to share information that'simportant to them.  
+Most applications can add value by allowing people to go beyond the application and share data with other tools they use. For example, an iOS application can act as a mobile complement to a computer application. Or, an iPad application might allow its users to communicate with the users of the iPhone version of the app.  
+**For iPad, think of ways to allow more than one person to use your app on the same device**. For example, two people might be able to play a game on opposing sides of an onscreen board. Or a band application might allow different people to play different instruments together on a single device.

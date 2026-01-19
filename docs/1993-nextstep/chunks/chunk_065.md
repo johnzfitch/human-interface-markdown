@@ -1,0 +1,5 @@
+<!-- Chunk 65 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 182 -->
+When the user drags a rectangle for the purpose of selection, what is selected depends on the type of material. In serially arranged material-such as characters in connected textthe selection includes the entire series between the anchor and end points. For material consisting of objects that can be independently arranged-such as icons or the graphic elements that make up a picture-the selection generally includes everything that's even partially within the rectangle defined by the anchor and end points. The highlighted material below shows the difference between selection in text and graphics.  
+: to build up. Enormous press du~ed .. .!rrti~~~ were  
+![](images/_page_60_Picture_7.jpeg)  
+Selecting text Selecting graphics

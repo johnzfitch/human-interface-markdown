@@ -1,0 +1,16 @@
+<!-- Chunk 100 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 782 -->
+Users expect most documentsto be printable, or to include a printable version. OS X providesstandard dialogs that your app can display so that users can have a consistent printing experience in every app they use.  
+The Print dialog isfocused on printing the current document, but it also includesfeaturesthat can be provided by individual apps and by printer modules. The Page Setup dialog gives users a way to set the scaling and orientation options for a document, based on the intended output paper size and the printer.  
+By default, the Print dialog appears in its minimal form (shown here in the dialog attached to a TextEdit document). Users can get additional functionality in the expanded Print dialog by clicking Show Details.  
+![](images/_page_163_Picture_3.jpeg)  
+In the expanded Print dialog, user options are provided through the features pop-up menu, which displays panes that are drawn and controlled by printing dialog extensions (PDEs). PDEs are provided by the operating system, printer modules, and apps. Apple provides a number of printing panes. In the expanded Print dialog shown here, you can see the "Print header and footer" and "Rewrap contents to fit page" options that TextEdit provides.  
+![](images/_page_164_Picture_2.jpeg)  
+You might want to provide custom print panes that give users options that are relevant to the types of content your app handles. For example, Contacts helps users print their contact information in different styles, such as mailing label, envelope, and list. Here are some specific guidelines to keep in mind if you implement custom printing features:  
+- Choose a menu item name that doesn't conflict with menu items already in the features pop-up menu, and that accurately describesthe content of the pane. For an app, the menu item should be the app name.
+- Make sure the features you implement are appropriate for your app. For example, an option to print in reverse order should be provided by the operating system, not by your app. (Implementing this feature requires the app to know the hardware's capabilities.)
+- Make interdependencies among options clear to users. For example, if a userselects double-sided printing, the option to print on transparencies should become unavailable.  
+- Separate more advanced features from frequently used features. When the user chooses to display the advanced features, there should be an "advanced options" title above the advanced controls.
+- When appropriate, show users what effect their choices will have. For example, a thumbnail image that shows the effect of changing a tone control helps users determine desired settings.
+- Save a user's printing preferences for a document, at least while the document is open, and provide a way for users to save custom settings.  
+If you think users would appreciate being able to set printing attributes for different printers or different paper sizes, provide a Page Setup dialog in your app. Be sure to save the settings that users make in this dialog with the document. Below, you can see the Page Setup dialog that TextEdit provides.  
+![](images/_page_165_Picture_5.jpeg)

@@ -1,0 +1,5 @@
+<!-- Chunk 90 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 248 -->
+If your application provides a number of actions users can take in the current context, it might be appropriate to provide a toolbar. A toolbar appears at the bottom edge of the screen and contains buttons that perform actions related to objects in the current view. A toolbar should not be used to switch among different modes in an application; if you need to do this, use a tab bar instead (see "Tab [Bars"](#page-72-1) (page 73) for more information).  
+For example, when users view a message in Mail, the application provides a toolbar that contains items for deleting, replying to, and moving the message, in addition to checking for new mail and composing a new message. In this way, users can stay within the message-viewing context and still have accessto the commands they need to manage their email. Figure 6-8 shows what this looks like.  
+<span id="page-71-1"></span>**Figure 6-8** A toolbar provides functionality within the context of a task  
+![](images/_page_71_Picture_3.jpeg)

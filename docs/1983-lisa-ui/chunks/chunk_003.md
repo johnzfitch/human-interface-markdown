@@ -1,0 +1,7 @@
+<!-- Chunk 3 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 373 -->
+The Lisa user interface was designed with the following principles in mind:  
+- 1) It is easy to learn and to remember because the basic operations are natural and intuitive. They are natural because they resemble things people do when they aren't using computers, and they are intuitive because they work the way people would expect without giving it much thought. For example, when the user moves the mouse around, the pointer moves so quickly and conforms so closely to the path of the mouse that the user is not really aware of the steps that intervene between the mouse movement and the pointer movement. If the "reaction time" of the pointer were much slower, the user would be aware of the delay, and mouse movement would seem less intuitive.
+- 2) It is consistent among applications. Whenever two applications do the same thing, they tend to do it in the same way.
+- 3) It is nich enough to fit many types of applications. Currently, the applications available include text-oriented applications (Lisawrite), graphics-oriented applications (Lisawrite), table-oriented applications (Lisawrite) and Lisawrite), table-oriented applications (Lisawrite) and Lisawrite) and one graphics-table hybrid (Lisawrite). More categories, particularly forms, will be added later.
+- 4) It is friendly and permissive. Whenever possible, the system tries to put a logical interpretation on user actions.  
+The most important principle for creating a permissive user interface is the applition of modes.

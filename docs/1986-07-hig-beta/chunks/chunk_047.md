@@ -1,0 +1,3 @@
+<!-- Chunk 47 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 88 -->
+To insert text, the user selects an insertion point by clicking where the text is to go, then starts typing. As the user types, the application continually moves the insertion point to the right, as each new character is added.  
+Applications with multiline text blocks should support **word wraparound**. That is, no word should be broken between lines.

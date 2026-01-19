@@ -1,0 +1,2 @@
+<!-- Chunk 189 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 50 -->
+Pressing the Help key (or Command-? or Command-/) invokes the application's help, if it's available. If a help system isn't available, the Help key should at least display some sort of helpful screen.

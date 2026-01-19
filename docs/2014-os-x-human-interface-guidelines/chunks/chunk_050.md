@@ -1,0 +1,10 @@
+<!-- Chunk 50 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 101 -->
+- About [Menus](#page-70-0) (page 71)
+- [Naming](#page-74-0) Menus and Items (page 75)
+- [Grouping](#page-76-0) Menu Items (page 77)
+- [Changing](#page-78-0) a Menu's Items (page 79)
+- Using Icons and [Symbols](#page-83-0) (page 84)
+- Menu Bar [Menus](#page-86-0) (page 87)
+- [Hierarchical](#page-104-0) Menus (page 105)
+- [Contextual](#page-106-0) Menus (page 107)
+- Dock [Menus](#page-110-0) (page 111)

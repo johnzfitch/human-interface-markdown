@@ -1,0 +1,10 @@
+<!-- Chunk 43 | Source: 2013 OS X Human Interface Guidelines.pdf | Est. Tokens: 443 -->
+OS X provides a wide range of built-in UI elements, such as controls, menus, and dialogs. Using these elements in your app confers several important benefits:  
+- Users are familiar with the built-in elements, so they already know how to use them in your app.
+- Your development time is shorter because you don't have to design a full set of custom elements.
+- The system-provided elements help ensure consistency within your app and with the rest of the system.
+- When there are changes to the appearance of system-provided controls, your app automatically acquires the updated look.  
+To realize these benefits, it's crucial that you use the built-in elements correctly. Follow these guidelines as you use Aqua UI elements in your app.  
+**Don't assign new behaviors to built-in UI elements.** It's essential to use the system-provided elements according to the guidelinesin this document. If you misuse standard elements, you make your UI unpredictable and hard for users to figure out.  
+**In general, don't create a custom UI element to replicate the behavior of a built-in element.** Unless you're designing a game or other completely custom experience, it's not appropriate to replace familiar elements with custom ones. This is because when users see a custom control, they generally expect it to behave in a custom way. Outside of a game-like context, a custom control that behaves the same as a built-in control causes users to wonder why the control isn't standard.  
+<span id="page-47-1"></span>**If you really need a new behavior, design a new element forit.** Don't try to stretch the behavior of an existing UI element. For some tips on how to create a custom UI element, see "Be Cautious When [Extending](#page-62-0) the [Interface"](#page-62-0) (page 63).

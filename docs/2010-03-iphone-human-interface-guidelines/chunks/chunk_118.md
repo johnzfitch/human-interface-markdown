@@ -1,0 +1,3 @@
+<!-- Chunk 118 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 156 -->
+iPhone OS provides several controls you can use in your application, most of which are already familiar to users of iPhone OS–based devices. Many of these controls are intended for use in specific places, such as in a table view, but some are available for more general usage. This chapter describes the controls that you can use in arbitrary views in your application.  
+As you design the user interface of your application, always remember that users expect familiar controls to behave as they do in the built-in applications. This is to your advantage, as long as you use these controls appropriately in your application.

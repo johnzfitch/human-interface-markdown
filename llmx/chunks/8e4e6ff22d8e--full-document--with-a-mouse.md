@@ -1,0 +1,46 @@
+---
+chunk_index: 556
+ref: "8e4e6ff22d8e"
+id: "8e4e6ff22d8ec93de0902b2c9a9ece758accf73f16531980286aa50a8a245a3e"
+slug: "full-document--with-a-mouse"
+path: "marker/1985 Apple II Human Interface Guidelines/full_document.md"
+kind: "markdown"
+lines: [1586, 1615]
+token_estimate: 719
+content_sha256: "cf9b260ac22f598cb20d49b37fe892462ecf0263f75952be216d5739d054459d"
+compacted: false
+heading_path: ["COMMANDS","The Menu Bar","... With A Mouse"]
+symbol: null
+address: null
+asset_path: null
+---
+
+### ... With A Mouse
+
+To choose a command, the user positions the pointer over the menu title and presses the mouse button. The application highlights the title and displays the menu, as shown in Figure 15.
+
+1/15/85 Tognazzini
+
+![](images/_page_105_Picture_2.jpeg)
+
+selected by pressing Return. If the user is on the title of a menu or on a disabled item when Return is pressed, no action will be taken.
+
+The user may also select an item when in the menu by pressing it's keyboard equivalent key (see: Keyboard Equivalents, below). The keyboard equivalent command will be carried out and the menu operation will be cancelled. The user can choose simply to cancel the menu operation by pressing Escape to return to the application.
+
+Escape is normally defined on the Apple II as, "move me one level up in the program". This definition is retained in windowing software, as Escape will cancel dialog boxes, current inputs, and so forth. The only addition is that when the user is already at the top level (the application), it will toggle between application and menu.
+
+If a command can be chosen directly from the keyboard, it's followed by the Open-Apple, Solid-Apple, or Control key (diamond) symbol and the character used to choose it. To choose a command this way, the user holds down the appropriate modifier key and then presses the character key.
+
+Whenever practical, make all keyboard equivalents be Open-Apple combinations. If you want to provide a keyboard macro capability, let the user program macros to the Solid-Apple key. Otherwise, accept Solid-Apple keystrokes for Open-Apple commands. Avoid assigning two different commands to the same key, with only the use of Open- or Solid-Apple to differentiate. Generally, users do not recognize the difference between the two modifier keys.
+
+While the toolkits enable you to use control characters for keyboard equivalents, we generally recommend against it for the following reasons:
+
+- Most control keys are either tied to the hardware of the computer or are otherwise reserved. (See: Control combinations.)
+- The diamond symbol for control is not generally recognized by users.
+- Control keys are generally reserved for basic, simple, repetitive functions, such as moving by or deleting individual characters.
+
+The advantage to control keys is their typeability: the current location of the Open- and Solid-Apple keys is such that they are difficult to touch-type with any speed or accuracy. We therefore recommend that you reserve control keys for only those things that must be done repetitively and unconciously. We suggest that even in these cases, you also enable the same key used with Open-Apple, as we have done with cut, copy, and paste. This tends to make documenting and learning easier, with the experienced user picking up the control shortcut at an appropriate time.
+
+1/15/85 Tognazzini
+
+COMMANDS 91

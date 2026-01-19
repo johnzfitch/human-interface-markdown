@@ -1,0 +1,5 @@
+<!-- Chunk 210 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 210 -->
+There are several conventions for selecting graphic objects. This section describes two ways to show selection feedback; other situations may require other solutions.  
+An object-based graphics document is a collection of individual graphic objects. To select an object, the user clicks it once. The object is then bracketed with handles, which the user can use to move or resize the item.  
+In object-based graphics applications, there are two ways to select more than one object at a time. A user can drag a dotted rectangle and select every object that falls completely within the rectangle's outline, or the user can use the Shift key to select particular objects.  
+In a bitmap-based graphics document—where images are a series of pixels rather than discrete objects—a user selects the range of pixels enclosed within a selection tool.

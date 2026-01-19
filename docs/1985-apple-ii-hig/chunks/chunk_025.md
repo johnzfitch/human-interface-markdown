@@ -1,0 +1,3 @@
+<!-- Chunk 25 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 102 -->
+There is only one current physical versions of the Apple IIe and Apple IIc keyboard. The standard layout on the European version is designed to conform to the ISO (Internation Standards Organization) standard; the U.S. key layout mimics that of common American office typewriters. European keyboards have different labels on the keys in different countries, but the overall layout is the same.  
+THE KEYBOARD 37

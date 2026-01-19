@@ -1,0 +1,15 @@
+<!-- Chunk 173 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 680 -->
+OS X services are features that apps can make available to each other. Using services, you can share your app's resources and capabilities with other apps and, in turn, allow your users to take advantage of resources and capabilities that other apps provide.  
+**Note:** App extensions also provide various services to apps, but in a much more integrated way. To learn more about app extensions, see App [Extensions](#page-234-0) (page 235).  
+By default, the app menu contains a Services submenu that lists services that are appropriate for the currently selected or targeted content in your app. Thissubmenu automatically includes a command that opens Services preferences in Keyboard Shortcuts preferences. The services listed in the submenu can be provided by apps installed anywhere on the system. For example, the Services that are available when an image file is selected in a Finder window can include options for using it as the desktop picture and opening with a specific app.  
+![](images/_page_284_Picture_4.jpeg)  
+To vend services to other apps, your app provides information about each service, such as:  
+- The data types on which it operates
+- The command that can appear in the Services menu
+- The keyboard shortcut for invoking the command, if appropriate. Note that if the keyboard shortcut you choose conflicts with a keyboard shortcut used by the current "host" app, the host app'sshortcut is always used.  
+To learn the programmatic steps you need to take both to provide services and to take advantage of them, read *Services Implementation Guide* .  
+To ensure a good user experience, follow these guidelines when defining the servicesthat your app can provide.  
+**Give each service a short, focused title that describes exactly what it does.** Strive to create a unique service title. If there are two or more services with identical names, the app name is automatically displayed after each service to distinguish them.  
+**Use proper capitalization in your service title.** As with all menu-item names, use title-style capitalization for the service title and, in general, avoid including definite or indefinite articles. Good examples are "Look Up in Dictionary" and "Make New Sticky Note." (For more information about capitalization in the UI, see [Use](#page-46-0) the Right [Capitalization](#page-46-0) Style in Labels and Text (page 47).)  
+**Avoid providing an "Open in My App" service.** Instead, users can view the apps that can open a selected file in the Open With menu item of the Finder.  
+**Don't use services for sharing user content.** For sharing user content with other apps and social services, use a Share extension (described in Share [Extensions](#page-238-0) (page 239)).

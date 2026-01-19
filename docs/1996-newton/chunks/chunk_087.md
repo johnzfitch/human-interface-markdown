@@ -1,0 +1,5 @@
+<!-- Chunk 87 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 235 -->
+A Keyboard button lets users bring up an on-screen keyboard. Users can also use the Keyboard button to switch between the available styles of on-screen keyboards. If users can enter text in your application, it should have a Keyboard button to the right of the Recognizer button in the status bar. Alternatively, a Keyboard button can go in the lower left corner of each slip in which users can enter text. The Keyboard button comes in two sizes, regular and small. Use the small size only if space doesn't permit using the regular size. Figure 3-26 shows both sizes of Keyboard button on status bars and in slips.  
+**Figure 3-26** Where a Keyboard buttons goes  
+![](images/_page_118_Picture_6.jpeg)  
+Tapping the Keyboard button brings up an on-screen keyboard. Tapping the Keyboard button while a keyboard is displayed pops up the Keyboard picker. Keyboards and the Keyboard picker are described in ["Typing" on page 6-32](#page-199-0).

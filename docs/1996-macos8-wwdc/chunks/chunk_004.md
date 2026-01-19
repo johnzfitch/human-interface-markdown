@@ -1,0 +1,8 @@
+<!-- Chunk 4 | Source: 1996 Human Interface Guidelines for Mac OS 8 (WWDC Release).pdf | Est. Tokens: 350 -->
+This document provides an introduction to the human interface guidelines for Mac OS 8. It discusses what's new for Mac OS 8 and previews new human interface elements.  
+This document is evolving and is the first in a series of drafts of the book *Human Interface Guidelines for Mac OS 8*. This book will replace *Macintosh Human Interface Guidelines* when Mac OS 8 ships. Until that time, you need to continue to follow the guidelines in *Macintosh Human Interface Guidelines*. Much of the information in *Macintosh Human Interface Guidelines* will continue to be valid and will be carried forth into *Human Interface Guidelines for Mac OS 8.*  
+In addition to reading this document, you should also read *Human Interface Toolbox*. It contains information that you need to know to implement your application's human interface.  
+#### ▲ **WARNING**  
+This document is preliminary and incomplete. All information presented here is subject to change in later developer releases. ▲  
+In order to be compatible with the new appearance of Mac OS 8, it is essential that you use the Mac OS 8 Toolbox. By using the Mac OS 8 Toolbox, you ensure that your application appears consistent with the rest of the system regardless of which theme the user chooses to display. You should avoid custom drawing procedures whenever possible because the system appearance style can change at any time.  
+Introduction **5**

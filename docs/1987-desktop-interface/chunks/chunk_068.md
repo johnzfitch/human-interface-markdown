@@ -1,0 +1,2 @@
+<!-- Chunk 68 | Source: 1987 Apple Human Interface Guidelines - The Apple Desktop Interface.pdf | Est. Tokens: 63 -->
+One other reserved Apple-key combination is not <sup>a</sup> keyboard equivalent for <sup>a</sup> menu item. Apple-period (Apple-.) is used to stop the current operation before it completes. The Escape key, on keyboards that have it,does the same thing.

@@ -1,0 +1,4 @@
+<!-- Chunk 22 | Source: iPhone Human Interface Guidelines for Web Applications.pdf | Est. Tokens: 161 -->
+Users can view iPhone content in landscape or portrait orientation, and they can be connected through Wi-Fi or EDGE. Your webpage or application, however, probably won't know when these things change. Fundamentally, this means two things:  
+- Avoid making assumptions about the way users view your content or the speed of the connection. Design and optimize your webpage or application to work well at slower connection speeds and in both portrait and landscape orientations.
+- If possible, avoid absolute positioning in your layout. This is because text that appears in absolute-positioned elements can overflow the screen after users zoom in.

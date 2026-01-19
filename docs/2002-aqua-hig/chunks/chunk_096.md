@@ -1,0 +1,11 @@
+<!-- Chunk 96 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 529 -->
+<span id="page-90-1"></span>You can create a modeless utility window, such as a tools palette, to present controls or settings that affect the active document window. Utility windows are useful for keeping extremely important controls or information accessible at all times in the context of a user task. Because utility windows take up screen space, however, don't use them when you can solve the need with a modeless dialog (the user changes settings and then closes the dialog) or by adding a few appropriate controls to a window frame.  
+A user can open several utility windows at a time; they float on top of document windows. When a user makes a document active, all of the application's utility windows should be brought to the front, regardless of which document was active when the user opened the utility window. When your application is inactive, its utility windows should be hidden. Utility windows should not be listed in the Window menu as documents, but you may put commands to show or hide utility windows in the Window menu.  
+<span id="page-90-3"></span>**Figure 5-15** Examples of tool palettes (utility windows)  
+![](images/_page_90_Picture_7.jpeg)  
+Special Windows **91**  
+A utility window may have a title. An untitled utility window should nonetheless have an 11-pixel title-bar region for dragging the window.  
+<span id="page-91-4"></span><span id="page-91-3"></span>Utility windows cannot be minimized (the minimize button is always unavailable in utility windows). If you don't want users to access the zoom button, you could show only the close button. Don't hide only the zoom or only the minimize button; a utility window should have either all three title-bar controls or only the close button, as shown in Figure 5-15. Carbon developers can specify which of these controls is visible with the ChangeWindowAttributes function.  
+**Figure 5-16** Utility window controls  
+![](images/_page_91_Picture_5.jpeg)  
+<span id="page-91-2"></span>For information about designing palette windows for Mac OS X, see ["Using Small](#page-159-0)  [Versions of Controls" \(page 160\).](#page-159-0)

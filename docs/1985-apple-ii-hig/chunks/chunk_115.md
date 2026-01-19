@@ -1,0 +1,3 @@
+<!-- Chunk 115 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 135 -->
+To insert text, the user selects an insertion point by clicking where the text is to go, then starts typing it. Alternatively, the user can move the current insertion point location, using the cursor keys, and then resume typing. As the user types, the application continually moves the insertion point to the right of each new character.  
+Applications with multiline text blocks should support word wraparound, according to the definition of a word detailed above under "Selecting a Word". The intent is that no word be broken between lines.

@@ -1,0 +1,20 @@
+<!-- Chunk 61 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 964 -->
+This is used to open an existing document. To select *which* document, the user is presented with a dialog box. This dialog box shows a list of all the documents, on the disk whose name is displayed, that can be handled by the current application.  
+![](images/_page_65_Picture_1.jpeg)  
+Figure 25. Open Dialog Box  
+In the case of Macintosh's ROM-based Hierarchical File System (HFS), the user also has the opportunity to browse through various folders, or subdirectories. The user can scroll this list forward and backward. The dialog box also gives the user the chance to look at documents on another disk or to eject a disk.  
+Using Open, the user can open only a document that can be processed by the current application. To open a document that can be processed only by some other application, the user must ordinarily leave the application and return to the Finder.  
+When an application starts up by putting an empty untitled document on the screen, the Open option can remain enabled (not dimmed) even if the application allows only one open document at a time. In this case, selecting Open from the File menu simultaneously closes the empty document (why save an empty document?) and opens another.  
+#### Close  
+This is used to close the active window, which may be a document window, a desk accessory, or any other type of window. Clicking in a window's close box is the same as choosing Close.  
+When the user chooses Close or Quit, and the active document has been changed since the last save, the Close dialog box appears, asking Save changes before closing? A great deal of work can be lost if a user mistakenly clicks No instead of Yes. To avoid confusion, all applications should use the same standard close dialog box. This is especially important to Switcher users, who often move from one application to another and become less aware of  
+subtle differences between applications.  
+![](images/_page_66_Picture_2.jpeg)  
+Figure 26. Standard Close Dialog Box  
+Yes and No, the two direct responses to the question, are placed together on the left side of the box. Yes is the default button. Cancel, which cancels Close, is to the right, separate from Yes and No.  
+The text of the question is generally Save changes before closing? but if the user sees this message after choosing Quit, the text would instead be Save changes before quitting? If the application supports multiple windows, the text is Save changes to [document name] before closing? Regardless of the text of the question, the box should always look the same and appear in the same place on the screen.  
+#### Save  
+This menu item lets the user write (to the appropriate disk file) the active document, including any changes made to the that document since the last time it was saved. The document remains open. Users appreciate seeing, at this point, a message (or at least a wristwatch pointer) telling them the document is indeed being saved.  
+If no changes have been made since the last save, the Save option should be dimmed. Save becomes available as soon as any change has been made to the document—the user can save changes as often as she likes. If Save isn't dimmed and the user chooses Save even though no changes have been made, an application shouldn't simply ignore the Save request—it should instead display a brief message noting that no save is being done, and why.  
+If the user chooses Save for a new untitled document (one the user hasn't named yet), the application presents the Save As dialog box (shown below). This dialog box allows the user to name the document before the application continues with the save. The active document remains active.  
+If there's not enough room on the disk to save the document, the application says so. The application then suggests that the user can choose Save As instead, to save the document on another disk.

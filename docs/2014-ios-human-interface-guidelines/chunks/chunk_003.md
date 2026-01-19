@@ -1,0 +1,2 @@
+<!-- Chunk 3 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 49 -->
+Users Know the [Standard](#page-38-1) Gestures 39 [Interactive](#page-40-0) Elements Invite Touch 41 Feedback Aids [Understanding](#page-46-0) 47 Inputting [Information](#page-47-0) Should Be Easy 48

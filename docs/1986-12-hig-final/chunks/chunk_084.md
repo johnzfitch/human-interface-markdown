@@ -1,0 +1,4 @@
+<!-- Chunk 84 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 160 -->
+Because—in the Apple Desktop Interface—the pointing device is used for pointing and manipulating, users don't have to use the keyboard to type commands. The keyboard is used primarily for entering text.  
+The standard keys on the keyboard are arranged in familiar typewriter fashion. Because keyboards vary from one computer to another, no specific keyboard is illustrated here.  
+There are two kinds of keys: character keys and modifier keys. A **character key** sends characters to the computer. When held down, a **modifier key** can alter the meaning of the character key being pressed, or alter or amplify the meaning of a mouse action.

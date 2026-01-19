@@ -1,0 +1,4 @@
+<!-- Chunk 5 | Source: 1983 Lisa UI Guidelines.pdf | Est. Tokens: 171 -->
+The characteristic way of doing things in Lisa is to first select the thing to be operated on (usually with the mouse), then choose the appropriate menu item. You can think of this as "object followed by verb." There are two exceptions to this two-step rule:  
+- 1) Trilings that you do directly with the mouse, not with a menu item. Example: moving an icon from one part of the desktop to another.
+- 2) Menu Items that operate on something other than the current selection. These are usually Items that affect the whole active document. Example: The Type Style menu in LisaList and LisaCaic affects the whole document, regardless of what is selected, as long as the document is active.

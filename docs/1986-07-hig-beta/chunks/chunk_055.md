@@ -1,0 +1,40 @@
+<!-- Chunk 55 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 1982 -->
+The menu structure consists of the menu bar (which displays the menu titles), the menus, and each menu's menu items.  
+Once a user has selected the object, text, or whatever, that he wants to do something to, he chooses an operation from a menu. The menu bar extends across the top of the screen and displays the title of each available menu. A menu itself is not visible until the user selects it be pressing its title. Figure 18 shows an example of a menu bar that extends across the top of the Macintosh screen.  
+**Figure 18.** Menu Bar [Fig. 1 in Inside Mac's Menu Manager Chapter]  
+If the user moves the pointer to the Edit portion of the menu bar and presses the mouse button, the Edit menu appears, as shown in Figure 19.  
+**Figure 19.** Menu [Fig. 2 in 1M's Menu Manager Chapter]  
+Menu items should be either verbs or adjectives. Use verbs (or verb phrases) to show the user what can be *done-Copy,* Find, and Show Page, for example. Use adjectives (or adjective phrases) to let the user specify an attribute of a selected object-Chicago [font], Underline, and Double Space, for example. Menu items usually apply to the current selection, although some apply to the whole document or window.  
+When you're designing an application program, don't assume that *everything* has to be done through menus. Menus are often the best method, but sometimes it's more appropriate for an operation to take place as a result of direct user manipulation of a graphic object on the screen, such as a control or icon. Alternatively, a single menu item can execute complicated instructions if it brings up a dialog box for the user to fJlI in.  
+#### **The Menu Bar**  
+/  
+(  
+The menu bar contains a number of words and phrases that are the titles of the menus associated with the current application. Each application has its own menu bar. The names of the menus do not change, except when the user opens a desk accessory that then adds a new menu to the menu bar.  
+Nothing but menu titles can appear in the menu bar. If *all* the operations in a given menu are currently disabled (that is, the user can't choose them), the menu title should be dimmed (drawn in gray) but should remain visible in the menu bar. The user must always be able  
+to pull down the menu and see the names of the operations even when none of them can, at the moment, be chosen.  
+#### Choosing a Menu Item  
+To choose a menu item, the user positions the pointer in the menu bar and over the menu's title, and presses the mouse button. The application highlights the title and displays the menu.  
+While holding down the mouse button, the user drags the pointer through the menu. Each line is highlighted in turn. When the user releases the mouse button, the operation that's highlighted is chosen. As soon as the mouse button is released, the menu item blinks briefly, the menu disappears, and the operation is executed. The menu title in the menu bar remains highlighted until the operation is completed.  
+Nothing actually happens until the user chooses the operation. The user can *look* at any of the menus without making a commitment to do anything. The user can also move the pointer all over the screen (except back into the menu bar) without losing sight of the menu, as long as the mouse button is pressed. Moving the pointer away from the menu, and then releasing the button, is one way to close a menu without choosing an operation.  
+The most frequently used operations should be at the top of a menu. The least frequently used (such as Quit) should be at the bottom.  
+#### Appearance of Menu Items  
+The itemss in a particular menu should be logically related to the title of the menu. Names must be terse, preferably one word with the first letter capitalized. If it's necessary to use more than one word (Save As or Page Setup, for example), the first word should be capitalized, as well as other important words in the name. In addition to the names, three features of menus help the user understand what each item does: grouping, toggles, and special visual features.  
+#### Grouping Operations in Menus  
+As mentioned earlier, menu items can be divided into two kinds: verbs (actions) and adjectives (attributes). An attribute stays in effect until it's canceled, while an action ceases to be relevant after it has been performed. A single menu can contain both actions and attributes, but the actions should be grouped together and the attributes grouped together. The two groups are separated by dotted lines.  
+Another reason to group operations is to break up a menu so it's easier to read. Operations grouped for this reason are logically related, but independent. Operations that are actions are usually grouped this way, such as Cut, Copy, Paste, and Clear in the Edit menu.  
+Attribute operations that are interdependent are grouped, either as mutually exclusive groups or as accumulating groups.  
+In a mutually exclusive attribute group, only one item in the group is in effect at any one time. The item that's in effect is preceded in the menu by a check mark. If the user chooses a different item in the group, the check mark is moved to the new item. An  
+example is MacWrite's Font menu, where only one font at a time can be in effect for a particular selection. Radio button controls, where pressing one button disables all the others, are also mutually exclusive.  
+In an accumulating attribute group, any number of attributes can be in effect at the same time. One of the items in the group cancels all the others. An example is MacWrite's Style menu, where the user can choose any combination of Bold, Italic, Underline, Outline, or Shadow—but Plain Text cancels all the others. Check-box controls, in which all, none, or any other number of the boxes may be in effect at a time, are also examples of accumulating attributes.  
+Another way to show the presence or absence of an attribute is by a **toggled operation**. In this case, an attribute has two states, and a single menu item allows the user to toggle between the states. You can show the user that an operation is toggled either with check marks or by changing the wording.  
+MacWrite's View menu is a good example of check marks that indicate the state of a toggled attribute. When View by Icon has been chosen, there is a check mark to the left of "by Icon" and all other views in the menu are not checked.  
+Here's an example of changing the wording in a toggled menu item. When rulers are showing in a program that uses rulers, one item in the Format menu is Hide Rulers. If the user chooses this item, the rulers are hidden, and the name changes to Show Rulers. Use this technique only when the wording of the items makes it obvious that they're opposite sides of the same thing—Undo and Redo are another good example.  
+#### Special Visual Features  
+In addition to the way menu items are name and grouped, menus have other features that provide added information:  
+- An ellipsis (...) after a name means that after that item is chosen, more information will still be needed before the operation can be carried out. Usually, the user must fill in a dialog box and click an OK button or its equivalent. Don't use the ellipsis when the dialog that will appear is merely a confirmation or warning (for example, "Save changes before quitting?").
+- Check marks indicate attributes that are currently in effect.
+- The application dims an item when the user can't choose it. If the user moves the pointer over a dimmed item, that item isn't highlighted.
+- If an item has a keyboard equivalen (if it can be chosen from the keyboard as well as from a menu), its name in the menu is followed by the Apple (or cloverleaf) symbol and a character. To choose an item this way, the user presses the character key while holding down the Apple (Command) key.  
+![](images/_page_59_Figure_1.jpeg)  
+![](images/_page_59_Figure_2.jpeg)  
+Figure 20Visual Features of Menus

@@ -1,0 +1,2 @@
+<!-- Chunk 43 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 78 -->
+As you develop an iPhone application you need to learn how iPhone OS and various aspects of the mobile environment impact your design decisions. This chapter covers a range of guidelines for application design issues, from product definition to branding, and describes how to address them in an iPhone application.

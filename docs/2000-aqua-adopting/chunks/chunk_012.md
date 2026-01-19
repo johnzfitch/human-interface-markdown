@@ -1,0 +1,3 @@
+<!-- Chunk 12 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 143 -->
+The Trash is always the rightmost icon in the Dock and it cannot be moved or deleted by the user. Unlike in Mac OS 9, dragging an item to the Trash from an application does not cause a layer switch to the Finder. This means that you can use the Trash as a convenient way to delete items from within your application. For example, users can delete a message in the Mac OS X Mail application by using the  
+Delete toolbar button or by dragging the message to the Trash icon. (Note that in either case, the deleted message appears in the Deleted Messages folder, not the Trash.)

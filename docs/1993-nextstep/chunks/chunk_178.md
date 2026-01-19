@@ -1,0 +1,4 @@
+<!-- Chunk 178 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 197 -->
+The Net folder gives the user access to file systems that are physically located on remote machines. The immediate folders under Net name the machines where the file systems are located. The next level of folders name the root folders of the file systems on those machines. For example, !Net/willow/mise is where the mise file system located on the willow computer would be mounted.  
+Net contains folders only if the user's computer is set up to be connected to other machines over a network.  
+All the folders in the root *(I)* folder, including Net, are physically located on the disk that the user's machine was booted from. If a user boots from a local hard disk, for example, NextLibrary and all its folders will be stored on the local disk. Remote folders are mounted only under Net.

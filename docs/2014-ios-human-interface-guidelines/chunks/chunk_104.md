@@ -1,0 +1,13 @@
+<!-- Chunk 104 | Source: 2014 iOS Human Interface Guidelines.pdf | Est. Tokens: 644 -->
+A **collection view** manages an ordered collection of items and presents them in a customizable layout.  
+![](images/_page_159_Picture_4.jpeg)  
+**API Note:** To learn more about defining a collection view in your code, see *Collection View Programming Guide for iOS* .  
+#### A collection view:  
+● Can contain optional views that visually distinguish subsets of items or provide decorative items, such as custom backgrounds  
+- Supports custom animated transitions between layouts (by default, a collection view provides animations when users insert, move, or delete items)
+- Supports the addition of gesture recognizers to perform custom actions. By default, a collection view recognizes tap (to select an item) and touch-and-hold (to edit an item).  
+Use a collection view to give users a way to view and manipulate a set of items that don't need to be displayed in a list. Because a collection view doesn't enforce a strictly linear layout, it's particularly well suited to display items that differ in size.  
+A collection view supports extensive customization, so it's essential to avoid becoming distracted by your ability to create radical new designs. You want a collection view to enhance the user's task; you don't want a collection view to become the focus of the user experience. The following guidelines can help you create collection views that people appreciate.  
+**Don't use a collection view when a table view is a better choice.** Sometimes it's easier for people to view and understand information when it's presented in a list. For example, it can be simpler and more efficient for people to view and interact with textual information when it's in a scrolling list.  
+**Make it easy for people to select an item.** If it's hard for users to tap an item in your collection view, they're lesslikely to enjoy using your app. As with all UI objectsthat users might want to tap, ensure that the minimum target area for each item in a collection view is 44 x 44 points.  
+**Use caution if you make dynamic layout changes.** A collection view allows you to change the layout of items while users are viewing and interacting with them. If you decide to dynamically adjust a collection view's layout, be sure that the change makes sense and is easy for users to track. Changing a collection view's layout without an obvious motivation can give people the impression that your app is unpredictable and hard to use. And if the current focus or context is lost during a dynamic layout change, users are likely to feel that they're no longer in control of your app.

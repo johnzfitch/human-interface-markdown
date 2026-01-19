@@ -1,0 +1,2 @@
+<!-- Chunk 117 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 92 -->
+Pressing means holding down the mouse button while the mouse remains stationary. Pressing by itself should have no more effect than clicking does, except in well-defined areas such as scroll arrows, where it has the same effect as repeated clicking, or in a Dock tile, where it displays a menu. For example, pressing a Finder icon should select the icon but not open it.

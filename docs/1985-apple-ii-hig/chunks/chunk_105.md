@@ -1,0 +1,5 @@
+<!-- Chunk 105 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 217 -->
+The user chooses Cut either to delete the current selection or to move it. If it's a move, it's eventually completed by choosing Paste.  
+When the user chooses Cut, the application removes the current selection from the document and puts it in the Clipboard, replacing the Clipboard's previous contents. The place where the selection used to be becomes the new selection; the visual implications of this vary among applications. For example, in text, the new selection is an insertion point, while in an array, it's an empty but highlighted cell. If the user chooses Paste immediately after choosing Cut, the document should be just as it was before the cut; the Clipboard is unchanged.  
+1/15/85 Tognazzini  
+When the user chooses Cut, the application doesn't know if it's a deletion or the first step of a move. Therefore, it must be prepared for either possibility.

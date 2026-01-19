@@ -1,0 +1,4 @@
+<!-- Chunk 116 | Source: 2005-09 Apple Human Interface Guidelines.pdf | Est. Tokens: 191 -->
+<span id="page-94-5"></span>There are 15 nondedicated function keys on desktop Macintosh keyboards (F1 through F15). Desktop Macintosh keyboards provide the following six dedicated function keys with standard behaviors. Because not all Macintosh computers have all function keys, don't rely on these keys for critical keyboard shortcuts. For example, portable computers usually have 12 nondedicated function keys (F1 through F12), not 15 and don't have Help keys or Forward Delete keys.  
+#### <span id="page-94-4"></span>**Help**  
+<span id="page-94-0"></span>Pressing the Help key may invoke the application's help in Help Viewer. The key combination Command-Shift-/ (sometimes shortened to Command-?) should always display the application's help in Help Viewer.

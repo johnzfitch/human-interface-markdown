@@ -1,0 +1,2 @@
+<!-- Chunk 207 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 116 -->
+If dismissing a slip does not cause an action to take place (other than accepting changes made to data in the slip), use a Close box for putting away the slip. In this context the Close box means "close" or "put away." Use a take-action button and a Close box if users have a choice when dismissing the slip of initiating an action or canceling. In this context the Close box means "cancel." See pages [2-16](#page-59-0), [2-23,](#page-66-0) and [2-33](#page-76-0).

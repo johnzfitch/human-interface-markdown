@@ -1,0 +1,9 @@
+<!-- Chunk 48 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 450 -->
+In a view that may display more than one variable-sized item at once, like the notes in the Notepad, a **separator bar** heads each item. A separator bar identifies the item below it and carries controls that apply only to that item. [Figure 2-11](#page-55-0) shows some separator bars in the Notepad.  
+Main Views **2-11**  
+**Figure 2-11** Separator bars separate multiple items in a scrolling view  
+<span id="page-55-0"></span>![](images/_page_55_Figure_3.jpeg)  
+A user creates a separator bar, also called a divider bar, by drawing a line across the view or by tapping a New button on the view's status bar. Tapping the New button always scrolls to the last item and adds a new blank item below it. Making the line gesture adds a new blank item below the line, before the following item.  
+A separator bar is a heavy black line with various buttons and text. At the left end of each separator bar is a picture button, called the **Item Info button,**  which indicates the type of item below it. Next to that button is the item's title, displayed in the bold style of the system font. For more information on the Item Info button, [see "Item Info Button" on page 3-29.](#page-122-0)  
+At the right end of each separator bar is an Action button for routing the item. If the application allows users to file items in folders, a Filing button appears on each separator bar next to the Action button, and the name of the item's folder appears next to the Filing button whenever the view is showing the items of all folders. For more information on those buttons, see ["Action](#page-213-0)  [Button and Picker" on page 7-8](#page-213-0) and ["Filing Button and Slip" on page 8-14](#page-255-0).  
+On an Apple MessagePad, the separator line is two pixels thick and the title is in 9- or 10-point text.

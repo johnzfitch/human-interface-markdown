@@ -1,0 +1,5 @@
+<!-- Chunk 137 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 243 -->
+Use a pop-up menu to display up to 12 choices. If you want to offer more than 12 items, use a scrolling list.  
+The user opens the menu or list by pressing the arrows to the right of the text field. The menu or list is a window that descends from the text field; the window is the same width as the text field and has a drop shadow. Don't extend the right edge of the menu or list beyond the right edge of the arrow box; if an item is too long, it gets truncated.  
+When the user selects an item in the menu or list, the item replaces whatever is in the text entry field and the menu or list closes. If the user presses the Up Arrow or Down Arrow key to move through the items, the selected item is highlighted and appears in the text entry field. The user can accept an item by pressing the Space bar, Enter, or Return.  
+<span id="page-124-2"></span>If the menu or list is open and the user clicks outside it, including within the text entry field, the menu or list closes.

@@ -1,0 +1,2 @@
+<!-- Chunk 155 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 47 -->
+The network activity indicator spins in the status bar while network activity proceeds. It disappears when network activity stops. Users do not interact with the network activity indicator.

@@ -1,0 +1,3 @@
+<!-- Chunk 92 | Source: 2009 Apple Human Interface Guidelines.pdf | Est. Tokens: 153 -->
+If you provide users with a downloadable version of your application on the Internet, you can simplify the installation process by packaging your software in an Internet-enabled disk image. Disk images eliminate the need to compress your files, because the disk image itself can compress the enclosed data. After the disk image is downloaded, Mac OS X automatically opens it and mounts it on the user's desktop. All the user has to do is copy over the desired files or run the installer.  
+<span id="page-85-2"></span>For information on how to create an Internet-enabled disk image, see *Software Delivery Guide*.

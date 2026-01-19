@@ -1,0 +1,8 @@
+<!-- Chunk 56 | Source: 1993 NeXTSTEP User Interface Guidelines - Release 3.pdf | Est. Tokens: 395 -->
+The user can drag a movable object by positioning the cursor over it, pressing the mouse button, and moving the mouse while the button is down. The object should move so that it remains aligned with the cursor on-screen. If the object is constrained within a particular area or track-as is a scroller knob, for example-it should remain as closely aligned with the cursor as possible.  
+The Application Kit contains support for moving objects between and within applications. It even changes the cursor to indicate whether the object is being moved, copied, or linked. See "Managing the Cursor," later in this chapter, for more information on changing the cursor.  
+#### **Defining a Range**  
+The user can also drag over an area or through a series of items (such as text characters) to define a range. The position of the cursor when the mouse button is pressed is the *anchor point.* Its position when the mouse button is released is the *end point.* The difference between the anchor point and end point determines the area or objects inside the range.  
+Dragging to define a range is mostly used to make a selection (such as a string of text characters or a group of icons) for the targeted-action paradigm.  
+When the user drags to define a rectangular range (as in a drawing program), applications often drag out-or "rubberband" -a rectangle to show the area covered between the anchor point and end point. See "The Range that Dragging Should Select," later in this chapter, for more information on dragging to define a rectangular range.  
+![](images/_page_55_Picture_7.jpeg)

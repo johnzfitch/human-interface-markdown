@@ -1,0 +1,3 @@
+<!-- Chunk 101 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 149 -->
+A Find window is a modeless dialog that opensin response to the Find command and that provides an interface for specifying items to search for.  
+Find windows can be useful in document-creation apps, because users can use one Find window to search for a term in several different open documents. If it makes sense in your UI, however, offer find functionality in a scope bar. A scope bar is attached to a window and provides both search and filtering capabilities to users. For more information about scope bars and how to use them in your app, see [Searching](#page-130-0) In a Window (page 131).

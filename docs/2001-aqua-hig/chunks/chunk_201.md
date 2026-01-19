@@ -1,0 +1,2 @@
+<!-- Chunk 201 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 31 -->
+The most straightforward method of selecting an object is by clicking it once. Icons, for example, are selected in this way.

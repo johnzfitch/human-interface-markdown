@@ -1,0 +1,2 @@
+<!-- Chunk 231 | Source: 1995 Macintosh Human Interface Guidelines.pdf | Est. Tokens: 106 -->
+If you use color to code categories of information in your application, try to limit the use of color elsewhere in the application. Using color to code categories—for example, to label or distinguish groups of items—can make information clear. Providing the user with a small initial selection of distinct colors—for example, from four to seven—and with the capability to change those colors or add more is the best solution.

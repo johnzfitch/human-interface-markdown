@@ -1,0 +1,3 @@
+<!-- Chunk 21 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 148 -->
+<span id="page-29-2"></span>You can encourage people to explore your application by building in forgiveness that is, making most actions reversible. People need to feel that they can try things without damaging the system; create safety nets so that people feel comfortable learning and using your product.  
+Always warn people before they initiate a task that will cause irretrievable data loss. If alerts appear frequently, however, it may mean that the program has some design flaws; when options are presented clearly and feedback is timely, using a program should be relatively error-free.

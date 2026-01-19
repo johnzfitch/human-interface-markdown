@@ -1,0 +1,11 @@
+<!-- Chunk 112 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 486 -->
+Pressing this key deletes the character *after* the insertion point, shifting everything following the removed character one position back. The effect is that the insertion point remains stationary while it "vacuums" the character or selection ahead of it.  
+If something is selected when Del is pressed, it has the same effect as pressing Delete (Backspace) or choosing Clear from the Edit menu.  
+You can support Option-Del to delete the next larger semantic unit, as described in ["Moving the Insertion Point" \(page 132\)](#page-131-1), but deleting more than one word at a time is inadvisable. Users prefer to select large amounts of text with the mouse so that they have more control over what they're deleting.  
+#### <span id="page-135-2"></span>Home, End  
+Pressing the Home key is equivalent to moving the scrollers all the way to the top and left. In a text document, for example, pressing Home scrolls to the beginning of the document; in a spreadsheet, it may scroll to the beginning of the spreadsheet or to the beginning of a row.  
+End is the opposite of Home: It scrolls to the end of a document.  
+If the beginning or end of the document is already reached, pressing Home or End causes a system beep. *Pressing the Home or End key has no effect on the location of the insertion point or selected data.*  
+#### <span id="page-135-3"></span>Page Up, Page Down  
+<span id="page-135-6"></span>Pressing Page Up or Page Down scrolls the document up or down one page (the equivalent of clicking in the gray area of the scroll bar). If an entire page can't be displayed in the window, these keys first scroll incrementally up or down, until the top or bottom of the page is visible, before scrolling to the next page.  
+If the beginning or end of the document is reached, pressing Page Up or Page Down causes a system beep. *Pressing the Page Up or Page Down key has no effect on the location of the insertion point or selected data.*

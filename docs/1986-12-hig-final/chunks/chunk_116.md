@@ -1,0 +1,2 @@
+<!-- Chunk 116 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 119 -->
+The Script Manager contains routines that allow an application to function correctly with non-Roman scripts. It also contains utility routines for text processing and parsing, which are useful for applications that do a lot of text manipulation. General applications don't need to call Script Manager routines directly, but can be localized for non-Roman alphabets through such script interface systems as Apple's Kanji Interface System (KanjiTalk) and Arabic Interface System.

@@ -1,0 +1,3 @@
+<!-- Chunk 102 | Source: 2001 Aqua Human Interface Guidelines (Preliminary).pdf | Est. Tokens: 139 -->
+<span id="page-125-4"></span>Just *moving* the mouse changes only the pointer's location, and possibly its shape. *Pressing* the mouse button indicates the intention to do something, and *releasing* the mouse button completes the action. Pressing by itself should have no more effect than clicking does, except in well-defined areas, such as scroll arrows, where it has the same effect as repeated clicking. For example, pressing a Finder icon should select the icon but not open it.  
+The mouse devices provided with Macintosh computers have only one button.

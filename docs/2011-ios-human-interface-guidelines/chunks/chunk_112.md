@@ -1,0 +1,2 @@
+<!-- Chunk 112 | Source: 2011 iOS Human Interface Guidelines.pdf | Est. Tokens: 51 -->
+iOS provides a few views that are intended to display custom application content. Each view has certain properties and behaviors that make it especially well-suited to display certain types of information.

@@ -1,0 +1,2 @@
+<!-- Chunk 56 | Source: 1986-07 Human Interface Guidelines (Second Beta Draft).pdf | Est. Tokens: 32 -->
+Dont't worry about menus getting too long to fit on the screen. A routine in ROM causes menus to scroll when they get that long.

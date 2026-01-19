@@ -1,0 +1,2 @@
+<!-- Chunk 28 | Source: 1982 Apple IIe Design Guidelines.pdf | Est. Tokens: 35 -->
+If a user wishes to complete an input, she knows to always press the RETURN key. ESCAPE always allows the user to escape back whence she came.

@@ -1,0 +1,2 @@
+<!-- Chunk 14 | Source: 2000 Adopting the Aqua Interface.pdf | Est. Tokens: 71 -->
+For Carbon developers, the Human Interface Toolkit determines the height of all controls except for bevel buttons, group boxes, and text input fields. However, you must set the sizing for other aspects of the controls, including placement of text, according to the following guidelines.

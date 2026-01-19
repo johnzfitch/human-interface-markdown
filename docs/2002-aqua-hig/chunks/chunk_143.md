@@ -1,0 +1,5 @@
+<!-- Chunk 143 | Source: 2002 Aqua Human Interface Guidelines.pdf | Est. Tokens: 208 -->
+The **tab control** provides a convenient way to present information in a multipage format. Tabs can display centered horizontally across the top or bottom edge, or centered vertically along the left or right side. Figure 7-22 shows the proper orientation of text on tabs on each of the four sides.  
+<span id="page-137-1"></span>**Figure 7-22** Orientation of tab text on each side  
+![](images/_page_137_Picture_5.jpeg)  
+<span id="page-137-3"></span>The content area below a tab is called a **pane.** You can use other controls, such as push buttons and text entry fields, in tabbed windows too. The controls can be global—affecting the settings of all panes—or specific to an individual pane; make it clear through labeling and placement (within or outside of a tab pane's boundary) whether a control affects one pane or all panes.

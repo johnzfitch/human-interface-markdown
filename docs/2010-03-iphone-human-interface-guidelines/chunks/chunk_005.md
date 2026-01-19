@@ -1,0 +1,2 @@
+<!-- Chunk 5 | Source: 2010-03 iPhone Human Interface Guidelines.pdf | Est. Tokens: 70 -->
+Using [System-Provided](#page-122-1) Buttons and Icons 123 Standard Buttons for Use in Toolbars and [Navigation](#page-123-0) Bars 124 [Standard](#page-125-0) Icons for Use in Tab Bars 126 Standard Buttons for Use in Table Rows and Other User Interface [Elements](#page-126-0) 127

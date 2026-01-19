@@ -1,0 +1,2 @@
+<!-- Chunk 7 | Source: 2001 Aqua Human Interface Guidelines.pdf | Est. Tokens: 46 -->
+[Positioning Controls in Dialogs and Windows](#page-142-1) 143 [Group Boxes](#page-143-0) 144 [Sample Dialog Layouts](#page-146-0) 147 [Using Small Versions of Controls](#page-152-0) 153

@@ -1,0 +1,19 @@
+<!-- Chunk 123 | Source: 2014 OS X Human Interface Guidelines.pdf | Est. Tokens: 956 -->
+A **slider** lets users choose from a continuousrange of allowable values(shown here with tick marks and labels).  
+![](images/_page_199_Picture_9.jpeg)  
+A slider can be linear or circular.  
+The movable part of a linear slider is called the **thumb**, and it can be either directional or round. The slider shown above has a directional thumb.  
+By default, a linear slider that has a round thumb (and no tick marks) is tinted.  
+![](images/_page_199_Picture_13.jpeg)  
+A circular slider displays a small circular dimple that provides the same functionality as the thumb of a linear slider: Users drag the dimple clockwise or counter-clockwise to change the values.  
+![](images/_page_199_Picture_15.jpeg)  
+If a circular slider includes tick marks, they appear as dots that are evenly spaced around the circumference of the slider.  
+Use a slider to allow users to make fine-grained adjustments or choices throughout a range of values. Sliders support live feedback (live dragging), so they're especially useful when you want users to be able to see the effects of moving a slider in real time. For example, users can watch the size of Dock icons change as they move the Dock Size slider in Dock preferences.  
+**Ensure that the slider moves as users expect.** By default, users scroll content in the "natural" manner (that is, the content moves in the same direction as the user's fingers on a trackpad). But users can change this setting so that the content moves in the opposite direction of the gesture. You need to make sure that a slider always moves in the direction that makes the most sense, regardless of the user's setting. For example, the user should be able to move a vertical volume slider upwards for greater volume and downwards for lower volume.  
+**In general, use a directional thumb in a linear slider with tick marks.** The point of the thumb helps show users the current value. (Note that you can also display a directional-thumb slider without tick marks.)  
+**In general, use a round thumb in a linear slider without tick marks.** The rounded lower edge of the thumb works well in a slider without tick marks because it does not appear to point to a specific value.  
+**In general, label at least the starting and ending values in a linear slider with tick marks.** You can create labels that use numbers or words, depending on what the values represent. If each tick mark represents an equal fraction of the entire range, it might not be necessary to label each one. However, if users can't deduce the value of each tick mark from its position in the range, you probably should label each one to prevent confusion. For example, it's important to label some of the interior tick marks in Energy Saver preferences.  
+![](images/_page_200_Figure_7.jpeg)  
+In addition, it's a good idea to set the context for a slider with an introductory label so users know what they're changing.  
+**As much as possible, match the slider style to the values it represents.** For example, a linear slider is appropriate in Energy Saver preferences (shown above) because the values range from very small (the screen saver should start after 3 minutes) to very large (the screen saver should never start) and don't increase at consistent intervals. In this case, a linear slider brings to mind a number line that stretches from the origin to infinity.  
+**Display tick marks when it helps users understand their choices.** In general, you should display tick marks when it's important for users to understand the scale of the measurements or when users need to be able to select specific values. If, on the other hand, users don't need to be aware of the specific values the slider passes through (as in the Dock size and magnification preferences, for example), you might choose to display a slider without tick marks.

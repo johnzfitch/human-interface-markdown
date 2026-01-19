@@ -1,0 +1,8 @@
+<!-- Chunk 179 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 389 -->
+The system-supplied Find slip always contains radio buttons labeled Everywhere and Selected. If the currently active application supports the Find service, it is represented by a radio button in this slip as well.  
+To search just the currently active application, a user selects its radio button in the Find slip. To search all available applications registered with the Find service, a user selects the Everywhere radio button in the Find slip. In this case, applications need not be open to be searched.  
+To search some applications and not others, a user taps the Selected radio button in the Find slip. Tapping the Selected radio button causes a checklist to appear at the top of the Find slip. Included in the list are all currently available applications that are registered with the Find service. The user can tap items in the list to place a check mark next to those applications in which  
+<span id="page-250-0"></span>the system is to conduct a search. The Find slip in Figure 8-8 depicts a search for the word "Daphne" in the Notepad and Dates applications.  
+**Figure 8-8** Searching specified applications  
+![](images/_page_250_Picture_4.jpeg)  
+Normally the Find service searches applications in their entirety, but the currently active application can separate its data and list the separate parts in the checklist that appears when a user selects the Selected radio button in the Find slip. For example, a personal finance application could allow users to search its check register, credit card register, and accounts list independently.

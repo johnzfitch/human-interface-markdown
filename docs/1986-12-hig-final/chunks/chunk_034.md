@@ -1,0 +1,4 @@
+<!-- Chunk 34 | Source: 1986-12 Human Interface Guidelines (Final Draft).pdf | Est. Tokens: 134 -->
+The look and feel of the Apple Desktop Interface has been defined very carefully to make it approachable by both new and experienced computer users, and to let those users focus on their tasks rather than on the computer. This is accomplished with just a few basic objects (the desktop, windows, menus) and with a few basic actions (pointing, selecting, and keyboard input). This simplicity is key to delivering on the promise of human-computer interaction described in Chapter 1.  
+![](images/_page_42_Picture_0.jpeg)  
+**Specifications**

@@ -1,0 +1,2 @@
+<!-- Chunk 109 | Source: 1985 Apple II Human Interface Guidelines.pdf | Est. Tokens: 55 -->
+Show Clipboard is a toggled command. Initially, the Clipboard isn't displayed, and the command is "Show Clipboard". If the user chooses the command, the Clipboard is displayed and the command changes to "Hide Clipboard".

@@ -1,0 +1,4 @@
+<!-- Chunk 271 | Source: 2008-06 Apple Human Interface Guidelines.pdf | Est. Tokens: 145 -->
+A **transparent panel** gives users a way to make quick adjustments to their content or task without being distracted from their work. Although the behavior of a transparent panel is similar to the behavior of a standard panel, its appearance is designed to complement applications that focus on highly visual content or that provide an immersive experience, such as a full-screen slide show. For example, Figure 14-41 shows a transparent panel iChat provides.  
+<span id="page-225-0"></span>**Figure 14-41** An example of a transparent panel  
+![](images/_page_225_Picture_3.jpeg)

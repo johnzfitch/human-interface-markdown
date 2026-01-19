@@ -1,0 +1,8 @@
+<!-- Chunk 194 | Source: 1996 Newton 2.0 User Interface Guidelines.pdf | Est. Tokens: 336 -->
+Applications provide access to their preference settings through the Info picker (see ["Info Picker" on page 4-24](#page-149-0)). When a user chooses Prefs from an Info picker, the application displays a preferences slip in which the user can see and change application-specific preference settings. Figure 8-27 shows the preferences slips for some built-in applications.  
+**Figure 8-27** A preferences slip contains application-specific settings  
+![](images/_page_272_Picture_5.jpeg)  
+If your application stores data items, its Preferences slip should aid users in managing data by including a checkbox for setting the storage location of new items. This checkbox should have a label similar to "Always store new items internally," where the word *items* is replaced by the application's particular type of item. This check box helps to mitigate the problem users commonly have of managing where their data is stored.  
+Preferences **8-31**  
+Preferences should be settings that users change infrequently. If you provide choices to users that they will change many times while working with your application, you should implement those choices with a button and picker on the status bar or some other interface element to which users have easy access.  
+This appendix summarizes what you should do to avoid the top 20 user interface mistakes.

@@ -1,0 +1,2 @@
+<!-- Chunk 120 | Source: 2005-12 Apple Human Interface Guidelines.pdf | Est. Tokens: 71 -->
+<span id="page-90-3"></span>Pressing Esc should never cause the user to back out of an operation that would require extensive time or work to reenter. When the user presses Esc during a lengthy operation, display a confirmation dialog to be sure that the key wasn't pressed accidentally.

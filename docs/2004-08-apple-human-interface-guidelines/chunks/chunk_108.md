@@ -1,0 +1,17 @@
+<!-- Chunk 108 | Source: 2004-08 Apple Human Interface Guidelines.pdf | Est. Tokens: 827 -->
+The **menu bar** extends across the top of the main screen and contains pull-down menus. There is only one menu bar at the top of the screen; don't put menu bars in windows. The menu bar reflects the principles of perceived stability and aesthetic integrity. It provides a stable location where people can look for commands. Each application, including the Finder, has its own menu bar consisting of a few standard menus, application-specific menus, and menu extras. The menu bar:  
+- Is always visible and available, except in circumstances such as a slideshow (see discussion below)
+- Always has the Apple menu (provided by the operating system); the application menu, containing items that apply to the active application as a whole; and a Window menu
+- <span id="page-84-2"></span>■ Can also contain File, Edit, and Help menus, as well as application-specific menus
+- May contain menu bar extras (determined by users)  
+**Figure 7-12** The menu bar displayed when the Finder is active  
+![](images/_page_84_Figure_12.jpeg)  
+If there is insufficient room to display all of an application's menus, the menu bar status items are omitted. If there is still insufficient room to display all menus, the application's menus may be omitted, starting with the rightmost menu.  
+If your application can display full-screen images (such as slideshows), you may allow users to hide the menu bar. If you implement this feature, provide a clearly visible way, such as a button, for the user to make the menu bar reappear. If there is no button visible, pressing the Escape key or moving the mouse to the top of the screen should display the menu bar.  
+<span id="page-85-4"></span><span id="page-85-1"></span>If *all* of a menu's commands are unavailable (dimmed) at the same time, dim the menu title. Users should still be able to open a dimmed menu to see its contents.  
+<span id="page-85-2"></span>**Figure 7-13** Dimmed menu title when all items are unavailable  
+![](images/_page_85_Picture_6.jpeg)  
+<span id="page-85-5"></span>**Carbon:** The Menu Manager handles the dimming of menu items automatically if you set the kMenuAttrAutoDisable attribute with the ChangeMenuItemAttribute function. See *Menu Manager Reference* in Carbon User Experience Documentation.  
+**Cocoa:** See *Application Menus and Pop-up Lists* in Cocoa User Experience Documentation.  
+The following sections discuss the individual menus in the menu bar. The sections are listed in the order that the menus should appear in the menu bar. A checkmark ( ) next to a menu item indicates that unless your application cannot support the item's action or attribute, you should include that item in the menu. The unmarked commands are ones that are not appropriate for all applications, but if they are appropriate in yours, you should implement and label them as discussed.  
+<span id="page-85-0"></span>If there is an appropriate keyboard shortcut for a menu item, it is listed. Except for those items with a checkmark next to them, you should implement keyboard shortcuts only for those commands that will be frequently used. Unnecessary use of keyboard shortcuts can make your application confusing. For more discussion on assigning keyboard shortcuts for pull-down menu items, see ["Keyboard](#page-27-0) [Shortcuts"](#page-27-0) (page 28).

@@ -1,0 +1,3 @@
+<!-- Chunk 6 | Source: 2006-05 Apple Human Interface Guidelines.pdf | Est. Tokens: 100 -->
+Icon Genres and [Families](#page-130-1) 131 [Application](#page-132-0) Icons 133 [Document](#page-134-0) Icons 135 Icons for [Plug-ins](#page-135-0) 136  
+Hardware and [Removable](#page-135-1) Media Icons 136 [Toolbar](#page-136-0) Icons 137 Icon [Perspectives](#page-138-0) and Materials 139 [Suggested](#page-139-0) Process for Creating Aqua Icons 140 Tips for [Designing](#page-140-0) Aqua Icons 141
