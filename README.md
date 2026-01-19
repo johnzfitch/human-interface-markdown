@@ -11,13 +11,13 @@
 **A curated archive of Apple's Human Interface Guidelines spanning 34 years**
 From Lisa's pioneering GUI to iOS's touch revolution
 
-[📖 Browse Timeline](#timeline) • [🤖 For LLMs](#for-llms) • [👨‍💻 For Humans](#for-humans) • [📊 Statistics](#statistics)
+[![ Book](.github/assets/icons/book-64x64.png) Browse Timeline](#timeline) • [![Robot](.github/assets/icons/icatch21-alien1-ui-set-icon-64x64.png) For LLMs](#for-llms) • [![Developer](.github/assets/icons/businessicons-png-128-user-business-office-ui-103x128.png) For Humans](#for-humans) • [![Statistics](.github/assets/icons/statistics-24x24.png) Statistics](#statistics)
 
 </div>
 
 ---
 
-## ✨ What is This?
+## ![Star](.github/assets/icons/star-48x48.png) What is This?
 
 This repository preserves **35 historical documents** that defined how millions of people interact with computers. Track the evolution from:
 
@@ -37,7 +37,7 @@ Each document is preserved in clean markdown with:
 
 ---
 
-## 🚀 Quick Start
+## ![Rocket](.github/assets/icons/rocket-48x48.png) Quick Start
 
 ### For LLMs
 
@@ -61,9 +61,9 @@ git clone https://github.com/johnzfitch/human-interface-markdown.git
 
 ---
 
-## 📅 Timeline
+## ![Calendar](.github/assets/icons/calendar-64x64.png) Timeline
 
-### 🖥️ Pre-Mac Era (1980-1984)
+### ![Computer](.github/assets/icons/monitor-24x24-64x64.png) Pre-Mac Era (1980-1984)
 
 The birth of modern graphical user interfaces.
 
@@ -85,7 +85,7 @@ The birth of modern graphical user interfaces.
 
 ---
 
-### 🎨 Classic Macintosh Era (1985-1992)
+### ![Palette](.github/assets/icons/color-palette-32x32.png) Classic Macintosh Era (1985-1992)
 
 Defining the desktop computing paradigm.
 
@@ -109,7 +109,7 @@ Defining the desktop computing paradigm.
 
 ---
 
-### 🔷 NeXT & Newton Era (1993-1996)
+### ![Gem](.github/assets/icons/gem-icon-by-cha.png) NeXT & Newton Era (1993-1996)
 
 Object-oriented UI and mobile computing pioneers.
 
@@ -138,7 +138,7 @@ Object-oriented UI and mobile computing pioneers.
 
 ---
 
-### 🪟 Mac OS 8/9 Era (1997-1999)
+### ![Window](.github/assets/icons/application-split-16x16.png) Mac OS 8/9 Era (1997-1999)
 
 Transitional period toward modern Mac OS.
 
@@ -148,7 +148,7 @@ Transitional period toward modern Mac OS.
 
 ---
 
-### 💧 Aqua Era (2000-2007)
+### ![Water](.github/assets/icons/pensieve-48x48.png) Aqua Era (2000-2007)
 
 Mac OS X revolutionizes desktop design.
 
@@ -174,7 +174,7 @@ Mac OS X revolutionizes desktop design.
 
 ---
 
-### 📱 iPhone & iOS Era (2008-2014)
+### ![Mobile](.github/assets/icons/mobile-phone-24x24-64x64.png) iPhone & iOS Era (2008-2014)
 
 Touch interfaces transform computing.
 
@@ -210,7 +210,7 @@ Touch interfaces transform computing.
 
 ---
 
-### 🖥️ Modern OS X (2012-2014)
+### ![Computer](.github/assets/icons/monitor-24x24-64x64.png) Modern OS X (2012-2014)
 
 OS X continues to evolve alongside iOS.
 
@@ -222,7 +222,7 @@ OS X continues to evolve alongside iOS.
 
 ---
 
-## 📊 Statistics
+## ![Statistics](.github/assets/icons/statistics-24x24.png) Statistics
 
 | Metric | Count |
 |--------|-------|
@@ -235,7 +235,7 @@ OS X continues to evolve alongside iOS.
 
 ---
 
-## 🎯 Use Cases
+## ![Target](.github/assets/icons/bullseye-64x64.png) Use Cases
 
 ### For Large Language Models
 - **UI/UX Design Context**: Understand Apple's design philosophy evolution
@@ -257,7 +257,7 @@ OS X continues to evolve alongside iOS.
 
 ---
 
-## 🤖 For LLMs
+## ![Robot](.github/assets/icons/icatch21-alien1-ui-set-icon-64x64.png) For LLMs
 
 This repository implements the [llms.txt standard](https://github.com/AnswerDotAI/llms-txt) for optimal LLM discoverability.
 
@@ -283,7 +283,7 @@ All 35 documents are available at the repository root, each with:
 
 ---
 
-## 👨‍💻 For Humans
+## ![Developer](.github/assets/icons/businessicons-png-128-user-business-office-ui-103x128.png) For Humans
 
 ### Browse by Era
 Click any timeline link above to jump to that period.
@@ -313,7 +313,7 @@ Click any timeline link above to jump to that period.
 
 ---
 
-## 🔍 Key Design Principles
+## ![Search](.github/assets/icons/search-24x24.png) Key Design Principles
 
 These core concepts appear across all eras:
 
@@ -346,7 +346,7 @@ These core concepts appear across all eras:
 
 ---
 
-## 📦 Repository Structure
+## ![Box](.github/assets/icons/box-64x64.png) Repository Structure
 
 ```
 human-interface-markdown/
@@ -367,7 +367,7 @@ human-interface-markdown/
 
 ---
 
-## 🛠️ Technical Details
+## ![Tools](.github/assets/icons/tools-64x64.png) Technical Details
 
 ### Content Processing
 - **Source**: Official Apple documentation PDFs (1980-2014)
@@ -392,7 +392,7 @@ human-interface-markdown/
 
 ---
 
-## 🤝 Contributing
+## ![Contribute](.github/assets/icons/apply-24x24.png) Contributing
 
 This is a **historical preservation project**. Content is extracted from official Apple documentation.
 
@@ -416,7 +416,7 @@ This is a **historical preservation project**. Content is extracted from officia
 
 ---
 
-## 📄 License
+## ![License](.github/assets/icons/id-card-32x32.png) License
 
 **Original Content**: © Apple Inc. (1980-2014)
 These are historical Apple publications provided for research and educational purposes.
@@ -428,7 +428,7 @@ The tooling, organization, and markdown conversion are open source.
 
 ---
 
-## 🔗 Related Resources
+## ![Link](.github/assets/icons/chain-16x16.png) Related Resources
 
 ### Official Apple Resources
 - [Current Apple HIG](https://developer.apple.com/design/human-interface-guidelines/) - Modern guidelines
@@ -450,7 +450,7 @@ The tooling, organization, and markdown conversion are open source.
 
 ---
 
-## 🙏 Acknowledgments
+## ![Acknowledgments](.github/assets/icons/handshake-24x24.png) Acknowledgments
 
 - **Apple Inc.** for creating these comprehensive guidelines over 34 years
 - **The preservation community** for archiving these historical documents
@@ -460,7 +460,7 @@ The tooling, organization, and markdown conversion are open source.
 
 ---
 
-## 📬 Contact
+## ![Contact](.github/assets/icons/mail-48x48.png) Contact
 
 **Repository**: https://github.com/johnzfitch/human-interface-markdown
 **Issues**: https://github.com/johnzfitch/human-interface-markdown/issues
@@ -470,8 +470,8 @@ The tooling, organization, and markdown conversion are open source.
 
 <div align="center">
 
-**⭐ Star this repo** if you find it useful!
+**![Star](.github/assets/icons/star-48x48.png) Star this repo** if you find it useful!
 
-Made with ❤️ for designers, developers, and historians
+Made with ![Heart](.github/assets/icons/heart-24x24-64x64.png) for designers, developers, and historians
 
 </div>

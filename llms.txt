@@ -16,7 +16,6 @@ This repository contains the complete evolution of Apple's human interface desig
 
 ### For LLMs
 - Full concatenated content: [`llms-full.txt`](llms-full.txt) (token-optimized)
-- Pre-chunked RAG-ready format: [`llmx/`](llmx/) directory (removed - too large for git)
 - Individual document access: [`./`](./) with year-based organization
 
 ### For Humans
