@@ -16,64 +16,64 @@ This repository contains the complete evolution of Apple's human interface desig
 
 ### For LLMs
 - Full concatenated content: [`llms-full.txt`](llms-full.txt) (token-optimized)
-- Pre-chunked RAG-ready format: [`llmx/`](llmx/) directory with manifest.json
-- Individual document access: [`docs/`](docs/) with year-based organization
+- Pre-chunked RAG-ready format: [`llmx/`](llmx/) directory (removed - too large for git)
+- Individual document access: [`./`](./) with year-based organization
 
 ### For Humans
 - Interactive timeline: [TIMELINE.md](TIMELINE.md)
-- Browse by era: [docs/](docs/)
+- Browse by era: [./](./)
 
 ## Documents by Era
 
 ### Pre-Mac Era (1980-1984)
-- [1980 Lisa UI Standards](docs/1980-lisa-ui-standards/full_document.md) - The first comprehensive GUI guidelines
-- [1982 Apple IIe Design Guidelines](docs/1982-apple-iie/full_document.md)
-- [1983 Lisa UI Guidelines](docs/1983-lisa-ui/full_document.md)
+- [1980 Lisa UI Standards](./1980-lisa-ui-standards/full_document.md) - The first comprehensive GUI guidelines
+- [1982 Apple IIe Design Guidelines](./1982-apple-iie/full_document.md)
+- [1983 Lisa UI Guidelines](./1983-lisa-ui/full_document.md)
 
 ### Classic Macintosh (1985-1992)
-- [1985 Apple II Human Interface Guidelines](docs/1985-apple-ii-hig/full_document.md)
-- [1986 Human Interface Guidelines - Beta](docs/1986-07-hig-beta/full_document.md)
-- [1986 Human Interface Guidelines - Final](docs/1986-12-hig-final/full_document.md)
-- [1987 Apple Desktop Interface](docs/1987-desktop-interface/full_document.md)
-- [1992 Macintosh Human Interface Guidelines](docs/1992-macintosh-hig/full_document.md)
+- [1985 Apple II Human Interface Guidelines](./1985-apple-ii-hig/full_document.md)
+- [1986 Human Interface Guidelines - Beta](./1986-07-hig-beta/full_document.md)
+- [1986 Human Interface Guidelines - Final](./1986-12-hig-final/full_document.md)
+- [1987 Apple Desktop Interface](./1987-desktop-interface/full_document.md)
+- [1992 Macintosh Human Interface Guidelines](./1992-macintosh-hig/full_document.md)
 
 ### NeXT & Newton Era (1993-1996)
-- [1993 NeXTSTEP User Interface Guidelines](docs/1993-nextstep/full_document.md) - Object-oriented UI design
-- [1995 Macintosh Human Interface Guidelines](docs/1995-macintosh-hig/full_document.md)
-- [1996 Mac OS 8 HIG (WWDC Release)](docs/1996-macos8-wwdc/full_document.md)
-- [1996 Newton 2.0 User Interface Guidelines](docs/1996-newton/full_document.md) - Mobile computing pioneer
+- [1993 NeXTSTEP User Interface Guidelines](./1993-nextstep/full_document.md) - Object-oriented UI design
+- [1995 Macintosh Human Interface Guidelines](./1995-macintosh-hig/full_document.md)
+- [1996 Mac OS 8 HIG (WWDC Release)](./1996-macos8-wwdc/full_document.md)
+- [1996 Newton 2.0 User Interface Guidelines](./1996-newton/full_document.md) - Mobile computing pioneer
 
 ### Mac OS 8/9 Era (1997)
-- [1997 Mac OS 8 Human Interface Guidelines](docs/1997-macos8-hig/full_document.md)
+- [1997 Mac OS 8 Human Interface Guidelines](./1997-macos8-hig/full_document.md)
 
 ### Aqua Era (2000-2007)
-- [2000 Adopting the Aqua Interface](docs/2000-aqua-adopting/full_document.md)
-- [2001 Aqua HIG (Preliminary)](docs/2001-aqua-hig-preliminary/full_document.md)
-- [2001 Aqua Human Interface Guidelines](docs/2001-aqua-hig/full_document.md)
-- [2002 Aqua Human Interface Guidelines](docs/2002-aqua-hig/full_document.md)
-- [2004-05 Apple Human Interface Guidelines](docs/2004-05-apple-human-interface-guidelines/full_document.md)
-- [2004-08 Apple Human Interface Guidelines](docs/2004-08-apple-human-interface-guidelines/full_document.md)
-- [2005-09 Apple Human Interface Guidelines](docs/2005-09-apple-human-interface-guidelines/full_document.md)
-- [2005-12 Apple Human Interface Guidelines](docs/2005-12-apple-human-interface-guidelines/full_document.md)
-- [2006-05 Apple Human Interface Guidelines](docs/2006-05-apple-human-interface-guidelines/full_document.md)
-- [2006-10 Apple Human Interface Guidelines](docs/2006-10-apple-human-interface-guidelines/full_document.md)
+- [2000 Adopting the Aqua Interface](./2000-aqua-adopting/full_document.md)
+- [2001 Aqua HIG (Preliminary)](./2001-aqua-hig-preliminary/full_document.md)
+- [2001 Aqua Human Interface Guidelines](./2001-aqua-hig/full_document.md)
+- [2002 Aqua Human Interface Guidelines](./2002-aqua-hig/full_document.md)
+- [2004-05 Apple Human Interface Guidelines](./2004-05-apple-human-interface-guidelines/full_document.md)
+- [2004-08 Apple Human Interface Guidelines](./2004-08-apple-human-interface-guidelines/full_document.md)
+- [2005-09 Apple Human Interface Guidelines](./2005-09-apple-human-interface-guidelines/full_document.md)
+- [2005-12 Apple Human Interface Guidelines](./2005-12-apple-human-interface-guidelines/full_document.md)
+- [2006-05 Apple Human Interface Guidelines](./2006-05-apple-human-interface-guidelines/full_document.md)
+- [2006-10 Apple Human Interface Guidelines](./2006-10-apple-human-interface-guidelines/full_document.md)
 
 ### Leopard & Snow Leopard (2008-2009)
-- [2008-01 Apple Human Interface Guidelines](docs/2008-01-apple-human-interface-guidelines/full_document.md)
-- [2008-06 Apple Human Interface Guidelines](docs/2008-06-apple-human-interface-guidelines/full_document.md)
-- [2009 Apple Human Interface Guidelines](docs/2009-apple-human-interface-guidelines/full_document.md)
+- [2008-01 Apple Human Interface Guidelines](./2008-01-apple-human-interface-guidelines/full_document.md)
+- [2008-06 Apple Human Interface Guidelines](./2008-06-apple-human-interface-guidelines/full_document.md)
+- [2009 Apple Human Interface Guidelines](./2009-apple-human-interface-guidelines/full_document.md)
 
 ### iPhone & iOS Era (2008-2014)
-- [2008-11 iPhone Human Interface Guidelines](docs/2008-11-iphone-human-interface-guidelines/full_document.md) - The iPhone revolution begins
-- [2010-03 iPhone Human Interface Guidelines](docs/2010-03-iphone-human-interface-guidelines/full_document.md)
-- [2011 iOS Human Interface Guidelines](docs/2011-ios-human-interface-guidelines/full_document.md)
-- [2014 iOS Human Interface Guidelines](docs/2014-ios-human-interface-guidelines/full_document.md)
-- [iPhone HIG for Web Applications](docs/iphone-human-interface-guidelines-for-web-applications/full_document.md)
+- [2008-11 iPhone Human Interface Guidelines](./2008-11-iphone-human-interface-guidelines/full_document.md) - The iPhone revolution begins
+- [2010-03 iPhone Human Interface Guidelines](./2010-03-iphone-human-interface-guidelines/full_document.md)
+- [2011 iOS Human Interface Guidelines](./2011-ios-human-interface-guidelines/full_document.md)
+- [2014 iOS Human Interface Guidelines](./2014-ios-human-interface-guidelines/full_document.md)
+- [iPhone HIG for Web Applications](./iphone-human-interface-guidelines-for-web-applications/full_document.md)
 
 ### Modern Mac OS X (2012-2014)
-- [2012 OS X Human Interface Guidelines](docs/2012-os-x-human-interface-guidelines/full_document.md)
-- [2013 OS X Human Interface Guidelines](docs/2013-os-x-human-interface-guidelines/full_document.md)
-- [2014 OS X Human Interface Guidelines](docs/2014-os-x-human-interface-guidelines/full_document.md)
+- [2012 OS X Human Interface Guidelines](./2012-os-x-human-interface-guidelines/full_document.md)
+- [2013 OS X Human Interface Guidelines](./2013-os-x-human-interface-guidelines/full_document.md)
+- [2014 OS X Human Interface Guidelines](./2014-os-x-human-interface-guidelines/full_document.md)
 
 ## Technical Details
 
@@ -95,31 +95,27 @@ curl https://raw.githubusercontent.com/johnzfitch/human-interface-markdown/maste
 curl https://raw.githubusercontent.com/johnzfitch/human-interface-markdown/master/llms-full.txt
 ```
 
-#### Option 3: RAG Pipeline (llmx/)
-The `llmx/` directory contains:
-- `manifest.json`: Complete file index with SHA256 checksums
-- `index.json`: Semantic search index
-- `chunks/`: Pre-segmented content for vector embeddings
-- `llm.md`: Pointer manifest for efficient chunk retrieval
+#### Option 3: Individual Documents
+Each document directory contains:
+- `full_document.md`: Complete document text
+- `chunks/`: Pre-segmented content for RAG pipelines
+- `images/`: Extracted images with captions
 
 ### Repository Structure
 ```
 human-interface-markdown/
-├── README.md              # Visual timeline and navigation
-├── llms.txt               # This file - LLM discovery index
-├── llms-full.txt          # Complete concatenated content
-├── TIMELINE.md            # Interactive era-by-era guide
-├── docs/                  # 35 organized documents
-│   ├── 1980-lisa-ui-standards/
-│   │   ├── full_document.md
-│   │   ├── chunks/        # Semantic chunks
-│   │   └── images/        # Extracted images
-│   └── ...
-└── llmx/                  # RAG-ready format
-    ├── manifest.json
-    ├── index.json
-    ├── chunks/
-    └── llm.md
+├── README.md                      # Visual timeline and navigation
+├── llms.txt                       # This file - LLM discovery index
+├── llms-full.txt                  # Complete concatenated content
+├── TIMELINE.md                    # Interactive era-by-era guide
+│
+├── 1980-lisa-ui-standards/       # Document directories at root
+│   ├── full_document.md          # Complete document
+│   ├── chunks/                   # Semantic chunks for RAG
+│   └── images/                   # Extracted images
+├── 1982-apple-iie/
+├── ...
+└── 2014-os-x-human-interface-guidelines/
 ```
 
 ## Use Cases
@@ -166,16 +162,16 @@ human-interface-markdown/
 ### Common Queries
 
 **Q: How did Apple define menu bar behavior?**
-See: [1987 Desktop Interface](docs/1987-desktop-interface/full_document.md) and [1992 Macintosh HIG](docs/1992-macintosh-hig/full_document.md)
+See: [1987 Desktop Interface](./1987-desktop-interface/full_document.md) and [1992 Macintosh HIG](./1992-macintosh-hig/full_document.md)
 
 **Q: What were the original iPhone touch gesture guidelines?**
-See: [2008-11 iPhone HIG](docs/2008-11-iphone-human-interface-guidelines/full_document.md)
+See: [2008-11 iPhone HIG](./2008-11-iphone-human-interface-guidelines/full_document.md)
 
 **Q: How did Aqua interface differ from Classic Mac OS?**
-See: [2000 Adopting Aqua](docs/2000-aqua-adopting/full_document.md) and [2001 Aqua HIG](docs/2001-aqua-hig/full_document.md)
+See: [2000 Adopting Aqua](./2000-aqua-adopting/full_document.md) and [2001 Aqua HIG](./2001-aqua-hig/full_document.md)
 
 **Q: What was Newton's gesture-based UI philosophy?**
-See: [1996 Newton 2.0 Guidelines](docs/1996-newton/full_document.md)
+See: [1996 Newton 2.0 Guidelines](./1996-newton/full_document.md)
 
 ## Standards Compliance
 

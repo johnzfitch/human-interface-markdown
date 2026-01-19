@@ -23,7 +23,7 @@ A journey through 34 years of interface design evolution.
 Before 1980, computers spoke in command lines. Apple's Lisa changed everything.
 
 ### 1980: Lisa UI Standards
-**Document**: [1980 Lisa UI Standards](docs/1980-lisa-ui-standards/full_document.md)
+**Document**: [1980 Lisa UI Standards](./1980-lisa-ui-standards/full_document.md)
 
 **Historical Context**:
 - First commercial computer with GUI
@@ -51,7 +51,7 @@ Before 1980, computers spoke in command lines. Apple's Lisa changed everything.
 ---
 
 ### 1982: Apple IIe Design Guidelines
-**Document**: [1982 Apple IIe Design Guidelines](docs/1982-apple-iie/full_document.md)
+**Document**: [1982 Apple IIe Design Guidelines](./1982-apple-iie/full_document.md)
 
 **Historical Context**:
 - Apple II platform still dominant in education
@@ -67,7 +67,7 @@ Before 1980, computers spoke in command lines. Apple's Lisa changed everything.
 ---
 
 ### 1983: Lisa UI Guidelines
-**Document**: [1983 Lisa UI Guidelines](docs/1983-lisa-ui/full_document.md)
+**Document**: [1983 Lisa UI Guidelines](./1983-lisa-ui/full_document.md)
 
 **Historical Context**:
 - Lisa sales struggling but design influence growing
@@ -108,7 +108,7 @@ The Macintosh made GUI accessible and refined the paradigm.
 ---
 
 ### 1985: Apple II Human Interface Guidelines
-**Document**: [1985 Apple II HIG](docs/1985-apple-ii-hig/full_document.md)
+**Document**: [1985 Apple II HIG](./1985-apple-ii-hig/full_document.md)
 
 **Historical Context**:
 - Mac launched in 1984, still defining standards
@@ -124,7 +124,7 @@ The Macintosh made GUI accessible and refined the paradigm.
 ---
 
 ### 1986: Human Interface Guidelines - Beta Draft
-**Document**: [1986-07 HIG Beta](docs/1986-07-hig-beta/full_document.md)
+**Document**: [1986-07 HIG Beta](./1986-07-hig-beta/full_document.md)
 
 **Historical Context**:
 - First formal codification of Mac UI
@@ -143,7 +143,7 @@ The Macintosh made GUI accessible and refined the paradigm.
 ---
 
 ### 1986: Human Interface Guidelines - Final Draft
-**Document**: [1986-12 HIG Final](docs/1986-12-hig-final/full_document.md)
+**Document**: [1986-12 HIG Final](./1986-12-hig-final/full_document.md)
 
 **Historical Context**:
 - First canonical Mac interface document
@@ -163,7 +163,7 @@ Every Mac app from 1986 onwards followed these rules, creating remarkable consis
 ---
 
 ### 1987: The Apple Desktop Interface
-**Document**: [1987 Apple Desktop Interface](docs/1987-desktop-interface/full_document.md)
+**Document**: [1987 Apple Desktop Interface](./1987-desktop-interface/full_document.md)
 
 **Historical Context**:
 - System 4.x era (Finder, MultiFinder)
@@ -210,7 +210,7 @@ This document defined desktop computing. Windows, GNOME, KDE all borrowed from t
 ---
 
 ### 1992: Macintosh Human Interface Guidelines
-**Document**: [1992 Macintosh HIG](docs/1992-macintosh-hig/full_document.md)
+**Document**: [1992 Macintosh HIG](./1992-macintosh-hig/full_document.md)
 
 **Historical Context**:
 - System 7 era (color, MultiFinder standard)
@@ -275,7 +275,7 @@ While Mac matured, Apple explored new paradigms.
 ---
 
 ### 1993: NeXTSTEP User Interface Guidelines
-**Document**: [1993 NeXTSTEP Guidelines](docs/1993-nextstep/full_document.md)
+**Document**: [1993 NeXTSTEP Guidelines](./1993-nextstep/full_document.md)
 
 **Historical Context**:
 - Steve Jobs' company during Apple exile
@@ -337,7 +337,7 @@ When Steve Jobs returned to Apple (1997), NeXTSTEP became the foundation of Mac 
 ---
 
 ### 1995: Macintosh Human Interface Guidelines
-**Document**: [1995 Macintosh HIG](docs/1995-macintosh-hig/full_document.md)
+**Document**: [1995 Macintosh HIG](./1995-macintosh-hig/full_document.md)
 
 **Historical Context**:
 - System 7.5 era
@@ -355,7 +355,7 @@ When Steve Jobs returned to Apple (1997), NeXTSTEP became the foundation of Mac 
 ---
 
 ### 1996: Mac OS 8 - WWDC Release
-**Document**: [1996 Mac OS 8 WWDC](docs/1996-macos8-wwdc/full_document.md)
+**Document**: [1996 Mac OS 8 WWDC](./1996-macos8-wwdc/full_document.md)
 
 **Historical Context**:
 - WWDC preview of upcoming Platinum look
@@ -371,7 +371,7 @@ When Steve Jobs returned to Apple (1997), NeXTSTEP became the foundation of Mac 
 ---
 
 ### 1996: Newton 2.0 User Interface Guidelines
-**Document**: [1996 Newton 2.0 Guidelines](docs/1996-newton/full_document.md)
+**Document**: [1996 Newton 2.0 Guidelines](./1996-newton/full_document.md)
 
 **Historical Context**:
 - Newton MessagePad 2000
@@ -474,7 +474,7 @@ Classic Mac OS reached its peak before complete reinvention.
 ---
 
 ### 1997: Mac OS 8 Human Interface Guidelines
-**Document**: [1997 Mac OS 8 HIG](docs/1997-macos8-hig/full_document.md)
+**Document**: [1997 Mac OS 8 HIG](./1997-macos8-hig/full_document.md)
 
 **Historical Context**:
 - Steve Jobs returns to Apple
@@ -524,7 +524,7 @@ Mac OS X rewrote the rules with NeXT technology and revolutionary design.
 ---
 
 ### 2000: Adopting the Aqua Interface
-**Document**: [2000 Adopting Aqua](docs/2000-aqua-adopting/full_document.md)
+**Document**: [2000 Adopting Aqua](./2000-aqua-adopting/full_document.md)
 
 **Historical Context**:
 - Mac OS X Public Beta
@@ -568,7 +568,7 @@ Help developers migrate apps from Platinum (Mac OS 9) to Aqua (Mac OS X).
 ---
 
 ### 2001: Aqua Human Interface Guidelines (Preliminary)
-**Document**: [2001 Aqua HIG Preliminary](docs/2001-aqua-hig-preliminary/full_document.md)
+**Document**: [2001 Aqua HIG Preliminary](./2001-aqua-hig-preliminary/full_document.md)
 
 **Historical Context**:
 - Mac OS X 10.0 ships March 2001
@@ -585,7 +585,7 @@ Help developers migrate apps from Platinum (Mac OS 9) to Aqua (Mac OS X).
 ---
 
 ### 2001: Aqua Human Interface Guidelines
-**Document**: [2001 Aqua HIG](docs/2001-aqua-hig/full_document.md)
+**Document**: [2001 Aqua HIG](./2001-aqua-hig/full_document.md)
 
 **Historical Context**:
 - Mac OS X 10.1 (first usable version)
@@ -661,45 +661,45 @@ Controversial "pro app" appearance:
 
 Multiple HIG updates track Aqua's refinement:
 
-**2002: Aqua HIG** ([link](docs/2002-aqua-hig/full_document.md)) - Jaguar (10.2)
+**2002: Aqua HIG** ([link](./2002-aqua-hig/full_document.md)) - Jaguar (10.2)
 - Search integration
 - Journaling file system
 - Network improvements
 
-**2004-05: Apple HIG** ([link](docs/2004-05-apple-human-interface-guidelines/full_document.md)) - Panther (10.3)
+**2004-05: Apple HIG** ([link](./2004-05-apple-human-interface-guidelines/full_document.md)) - Panther (10.3)
 - Expose (window management)
 - Fast user switching
 - Brushed metal standardization
 
-**2004-08: Apple HIG** ([link](docs/2004-08-apple-human-interface-guidelines/full_document.md)) - Tiger development
+**2004-08: Apple HIG** ([link](./2004-08-apple-human-interface-guidelines/full_document.md)) - Tiger development
 - Spotlight search integration
 - Dashboard widgets
 - Automation
 
-**2005-09: Apple HIG** ([link](docs/2005-09-apple-human-interface-guidelines/full_document.md)) - Tiger (10.4)
+**2005-09: Apple HIG** ([link](./2005-09-apple-human-interface-guidelines/full_document.md)) - Tiger (10.4)
 - Spotlight guidelines
 - Dashboard widget design
 - Core Image effects
 
-**2005-12: Apple HIG** ([link](docs/2005-12-apple-human-interface-guidelines/full_document.md))
+**2005-12: Apple HIG** ([link](./2005-12-apple-human-interface-guidelines/full_document.md))
 - Refinements
 
-**2006-05: Apple HIG** ([link](docs/2006-05-apple-human-interface-guidelines/full_document.md)) - Leopard development
+**2006-05: Apple HIG** ([link](./2006-05-apple-human-interface-guidelines/full_document.md)) - Leopard development
 - Time Machine preparation
 - Unified toolbar refinement
 
-**2006-10: Apple HIG** ([link](docs/2006-10-apple-human-interface-guidelines/full_document.md))
+**2006-10: Apple HIG** ([link](./2006-10-apple-human-interface-guidelines/full_document.md))
 - Further refinements
 
-**2008-01: Apple HIG** ([link](docs/2008-01-apple-human-interface-guidelines/full_document.md)) - Leopard (10.5)
+**2008-01: Apple HIG** ([link](./2008-01-apple-human-interface-guidelines/full_document.md)) - Leopard (10.5)
 - Unified appearance
 - Less brushed metal
 - Cleaner aesthetic
 
-**2008-06: Apple HIG** ([link](docs/2008-06-apple-human-interface-guidelines/full_document.md))
+**2008-06: Apple HIG** ([link](./2008-06-apple-human-interface-guidelines/full_document.md))
 - Refinements
 
-**2009: Apple HIG** ([link](docs/2009-apple-human-interface-guidelines/full_document.md)) - Snow Leopard (10.6)
+**2009: Apple HIG** ([link](./2009-apple-human-interface-guidelines/full_document.md)) - Snow Leopard (10.6)
 - Polished Aqua
 - Performance over features
 - Last pure Aqua version
@@ -743,7 +743,7 @@ iPhone revolutionized computing again. No mouse, no keyboard, just fingers.
 ---
 
 ### 2008: iPhone Human Interface Guidelines
-**Document**: [2008-11 iPhone HIG](docs/2008-11-iphone-human-interface-guidelines/full_document.md)
+**Document**: [2008-11 iPhone HIG](./2008-11-iphone-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - iPhone SDK released (iOS 2.0)
@@ -833,7 +833,7 @@ Established mobile UI patterns still used today across iOS and Android.
 ---
 
 ### 2010: iPhone Human Interface Guidelines
-**Document**: [2010-03 iPhone HIG](docs/2010-03-iphone-human-interface-guidelines/full_document.md)
+**Document**: [2010-03 iPhone HIG](./2010-03-iphone-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - iOS 4.0 (multitasking)
@@ -857,7 +857,7 @@ Established mobile UI patterns still used today across iOS and Android.
 ---
 
 ### 2011: iOS Human Interface Guidelines
-**Document**: [2011 iOS HIG](docs/2011-ios-human-interface-guidelines/full_document.md)
+**Document**: [2011 iOS HIG](./2011-ios-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - Platform named "iOS" (formerly iPhone OS)
@@ -887,7 +887,7 @@ Established mobile UI patterns still used today across iOS and Android.
 ---
 
 ### iPhone Human Interface Guidelines for Web Applications
-**Document**: [iPhone Web App Guidelines](docs/iphone-human-interface-guidelines-for-web-applications/full_document.md)
+**Document**: [iPhone Web App Guidelines](./iphone-human-interface-guidelines-for-web-applications/full_document.md)
 
 **Historical Context**:
 - Pre-App Store era
@@ -908,7 +908,7 @@ Shows Apple's original vision: web as the platform. Native apps won due to perfo
 ---
 
 ### 2014: iOS Human Interface Guidelines
-**Document**: [2014 iOS HIG](docs/2014-ios-human-interface-guidelines/full_document.md)
+**Document**: [2014 iOS HIG](./2014-ios-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - iOS 7 (2013) flat design revolution
@@ -1037,7 +1037,7 @@ Mac OS X begins incorporating iOS influences.
 ---
 
 ### 2012: OS X Human Interface Guidelines
-**Document**: [2012 OS X HIG](docs/2012-os-x-human-interface-guidelines/full_document.md)
+**Document**: [2012 OS X HIG](./2012-os-x-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - Mountain Lion (10.8)
@@ -1062,7 +1062,7 @@ Mac OS X begins incorporating iOS influences.
 ---
 
 ### 2013: OS X Human Interface Guidelines
-**Document**: [2013 OS X HIG](docs/2013-os-x-human-interface-guidelines/full_document.md)
+**Document**: [2013 OS X HIG](./2013-os-x-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - Mavericks (10.9)
@@ -1079,7 +1079,7 @@ Mac OS X begins incorporating iOS influences.
 ---
 
 ### 2014: OS X Human Interface Guidelines
-**Document**: [2014 OS X HIG](docs/2014-os-x-human-interface-guidelines/full_document.md)
+**Document**: [2014 OS X HIG](./2014-os-x-human-interface-guidelines/full_document.md)
 
 **Historical Context**:
 - Yosemite (10.10)
@@ -1181,4 +1181,4 @@ The conversation continues.
 
 ---
 
-**[← Back to README](README.md)** | **[View llms.txt](llms.txt)** | **[Browse Documents](docs/)**
+**[← Back to README](README.md)** | **[View llms.txt](llms.txt)** | **[Browse Documents](./)**

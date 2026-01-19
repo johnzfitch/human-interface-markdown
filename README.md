@@ -48,10 +48,9 @@ curl https://raw.githubusercontent.com/johnzfitch/human-interface-markdown/maste
 # Get all content concatenated
 curl https://raw.githubusercontent.com/johnzfitch/human-interface-markdown/master/llms-full.txt
 
-# Clone for RAG pipeline integration
+# Clone to access all documents
 git clone https://github.com/johnzfitch/human-interface-markdown.git
-cd human-interface-markdown/llmx/
-# Use manifest.json and chunks/ directory
+# All documents available at root level with chunks/ subdirectories
 ```
 
 ### For Humans
@@ -70,9 +69,9 @@ The birth of modern graphical user interfaces.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 1980 | [Lisa UI Standards](docs/1980-lisa-ui-standards/full_document.md) | First comprehensive GUI guidelines, document-centric design |
-| 1982 | [Apple IIe Design Guidelines](docs/1982-apple-iie/full_document.md) | Text-based interface conventions |
-| 1983 | [Lisa UI Guidelines](docs/1983-lisa-ui/full_document.md) | Refined GUI patterns |
+| 1980 | [Lisa UI Standards](./1980-lisa-ui-standards/full_document.md) | First comprehensive GUI guidelines, document-centric design |
+| 1982 | [Apple IIe Design Guidelines](./1982-apple-iie/full_document.md) | Text-based interface conventions |
+| 1983 | [Lisa UI Guidelines](./1983-lisa-ui/full_document.md) | Refined GUI patterns |
 
 <details>
 <summary><b>Key Innovations</b></summary>
@@ -92,11 +91,11 @@ Defining the desktop computing paradigm.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 1985 | [Apple II HIG](docs/1985-apple-ii-hig/full_document.md) | Bridging text and GUI |
-| 1986 | [HIG Beta Draft](docs/1986-07-hig-beta/full_document.md) | Early Mac interface formalization |
-| 1986 | [HIG Final Draft](docs/1986-12-hig-final/full_document.md) | Canonical Mac interface standards |
-| 1987 | [Desktop Interface](docs/1987-desktop-interface/full_document.md) | Complete desktop paradigm definition |
-| 1992 | [Macintosh HIG](docs/1992-macintosh-hig/full_document.md) | System 7 refinements, color support |
+| 1985 | [Apple II HIG](./1985-apple-ii-hig/full_document.md) | Bridging text and GUI |
+| 1986 | [HIG Beta Draft](./1986-07-hig-beta/full_document.md) | Early Mac interface formalization |
+| 1986 | [HIG Final Draft](./1986-12-hig-final/full_document.md) | Canonical Mac interface standards |
+| 1987 | [Desktop Interface](./1987-desktop-interface/full_document.md) | Complete desktop paradigm definition |
+| 1992 | [Macintosh HIG](./1992-macintosh-hig/full_document.md) | System 7 refinements, color support |
 
 <details>
 <summary><b>Key Principles</b></summary>
@@ -116,10 +115,10 @@ Object-oriented UI and mobile computing pioneers.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 1993 | [NeXTSTEP Guidelines](docs/1993-nextstep/full_document.md) | Object-oriented UI, Interface Builder patterns |
-| 1995 | [Macintosh HIG](docs/1995-macintosh-hig/full_document.md) | System 7.5 updates |
-| 1996 | [Mac OS 8 WWDC](docs/1996-macos8-wwdc/full_document.md) | Platinum appearance |
-| 1996 | [Newton 2.0 Guidelines](docs/1996-newton/full_document.md) | Gesture recognition, handwriting, mobile UI |
+| 1993 | [NeXTSTEP Guidelines](./1993-nextstep/full_document.md) | Object-oriented UI, Interface Builder patterns |
+| 1995 | [Macintosh HIG](./1995-macintosh-hig/full_document.md) | System 7.5 updates |
+| 1996 | [Mac OS 8 WWDC](./1996-macos8-wwdc/full_document.md) | Platinum appearance |
+| 1996 | [Newton 2.0 Guidelines](./1996-newton/full_document.md) | Gesture recognition, handwriting, mobile UI |
 
 <details>
 <summary><b>Innovations</b></summary>
@@ -145,7 +144,7 @@ Transitional period toward modern Mac OS.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 1997 | [Mac OS 8 HIG](docs/1997-macos8-hig/full_document.md) | Platinum interface, appearance manager |
+| 1997 | [Mac OS 8 HIG](./1997-macos8-hig/full_document.md) | Platinum interface, appearance manager |
 
 ---
 
@@ -155,12 +154,12 @@ Mac OS X revolutionizes desktop design.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 2000 | [Adopting Aqua](docs/2000-aqua-adopting/full_document.md) | Transition guide from Classic to Aqua |
-| 2001 | [Aqua HIG (Preliminary)](docs/2001-aqua-hig-preliminary/full_document.md) | Initial Aqua design language |
-| 2001 | [Aqua HIG](docs/2001-aqua-hig/full_document.md) | Complete Aqua guidelines |
-| 2002 | [Aqua HIG](docs/2002-aqua-hig/full_document.md) | Jaguar refinements |
-| 2004-2006 | [Multiple HIG Updates](docs/) | Tiger and Leopard evolution |
-| 2008-2009 | [HIG Updates](docs/) | Snow Leopard polish |
+| 2000 | [Adopting Aqua](./2000-aqua-adopting/full_document.md) | Transition guide from Classic to Aqua |
+| 2001 | [Aqua HIG (Preliminary)](./2001-aqua-hig-preliminary/full_document.md) | Initial Aqua design language |
+| 2001 | [Aqua HIG](./2001-aqua-hig/full_document.md) | Complete Aqua guidelines |
+| 2002 | [Aqua HIG](./2002-aqua-hig/full_document.md) | Jaguar refinements |
+| 2004-2006 | [Multiple HIG Updates](./) | Tiger and Leopard evolution |
+| 2008-2009 | [HIG Updates](./) | Snow Leopard polish |
 
 <details>
 <summary><b>Aqua Design Language</b></summary>
@@ -181,11 +180,11 @@ Touch interfaces transform computing.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 2008 | [iPhone HIG](docs/2008-11-iphone-human-interface-guidelines/full_document.md) | Original iPhone touch guidelines |
-| 2010 | [iPhone HIG](docs/2010-03-iphone-human-interface-guidelines/full_document.md) | iOS 4 multitasking |
-| 2011 | [iOS HIG](docs/2011-ios-human-interface-guidelines/full_document.md) | iPad integration |
-| 2014 | [iOS HIG](docs/2014-ios-human-interface-guidelines/full_document.md) | iOS 7 flat design revolution |
-| — | [iPhone Web Apps](docs/iphone-human-interface-guidelines-for-web-applications/full_document.md) | Pre-App Store web guidelines |
+| 2008 | [iPhone HIG](./2008-11-iphone-human-interface-guidelines/full_document.md) | Original iPhone touch guidelines |
+| 2010 | [iPhone HIG](./2010-03-iphone-human-interface-guidelines/full_document.md) | iOS 4 multitasking |
+| 2011 | [iOS HIG](./2011-ios-human-interface-guidelines/full_document.md) | iPad integration |
+| 2014 | [iOS HIG](./2014-ios-human-interface-guidelines/full_document.md) | iOS 7 flat design revolution |
+| — | [iPhone Web Apps](./iphone-human-interface-guidelines-for-web-applications/full_document.md) | Pre-App Store web guidelines |
 
 <details>
 <summary><b>Touch Revolution</b></summary>
@@ -217,9 +216,9 @@ OS X continues to evolve alongside iOS.
 
 | Year | Document | Highlights |
 |------|----------|------------|
-| 2012 | [OS X HIG](docs/2012-os-x-human-interface-guidelines/full_document.md) | Mountain Lion, iOS influence |
-| 2013 | [OS X HIG](docs/2013-os-x-human-interface-guidelines/full_document.md) | Mavericks refinements |
-| 2014 | [OS X HIG](docs/2014-os-x-human-interface-guidelines/full_document.md) | Yosemite flat design |
+| 2012 | [OS X HIG](./2012-os-x-human-interface-guidelines/full_document.md) | Mountain Lion, iOS influence |
+| 2013 | [OS X HIG](./2013-os-x-human-interface-guidelines/full_document.md) | Mavericks refinements |
+| 2014 | [OS X HIG](./2014-os-x-human-interface-guidelines/full_document.md) | Yosemite flat design |
 
 ---
 
@@ -276,20 +275,11 @@ curl https://raw.githubusercontent.com/johnzfitch/human-interface-markdown/maste
 ```
 All 35 documents concatenated (~15MB).
 
-#### 3. RAG Pipeline (llmx/)
-```
-llmx/
-├── manifest.json    # Complete file index with checksums
-├── index.json       # Semantic search index
-├── chunks/          # 4,507 pre-segmented chunks
-└── llm.md           # Pointer manifest
-```
-
-Perfect for:
-- Vector embedding generation
-- Semantic search
-- Context-aware retrieval
-- Fine-tuning datasets
+#### 3. Individual Documents
+All 35 documents are available at the repository root, each with:
+- `full_document.md` - Complete document
+- `chunks/` - Semantic chunks for RAG
+- `images/` - Extracted images
 
 ---
 
@@ -301,23 +291,23 @@ Click any timeline link above to jump to that period.
 ### Explore Specific Topics
 
 **Menu Bar Design**
-→ [1987 Desktop Interface](docs/1987-desktop-interface/full_document.md), [1992 Macintosh HIG](docs/1992-macintosh-hig/full_document.md)
+→ [1987 Desktop Interface](./1987-desktop-interface/full_document.md), [1992 Macintosh HIG](./1992-macintosh-hig/full_document.md)
 
 **Touch Gestures**
-→ [2008-11 iPhone HIG](docs/2008-11-iphone-human-interface-guidelines/full_document.md)
+→ [2008-11 iPhone HIG](./2008-11-iphone-human-interface-guidelines/full_document.md)
 
 **Aqua Visual Design**
-→ [2000 Adopting Aqua](docs/2000-aqua-adopting/full_document.md), [2001 Aqua HIG](docs/2001-aqua-hig/full_document.md)
+→ [2000 Adopting Aqua](./2000-aqua-adopting/full_document.md), [2001 Aqua HIG](./2001-aqua-hig/full_document.md)
 
 **Object-Oriented UI**
-→ [1993 NeXTSTEP Guidelines](docs/1993-nextstep/full_document.md)
+→ [1993 NeXTSTEP Guidelines](./1993-nextstep/full_document.md)
 
 **Mobile Computing**
-→ [1996 Newton Guidelines](docs/1996-newton/full_document.md)
+→ [1996 Newton Guidelines](./1996-newton/full_document.md)
 
 ### Download Options
 
-**Individual Documents**: Browse `docs/` and download any full_document.md
+**Individual Documents**: Browse `./` and download any full_document.md
 **Complete Archive**: See [Releases](https://github.com/johnzfitch/human-interface-markdown/releases) for .zip downloads
 **Clone Repository**: `git clone https://github.com/johnzfitch/human-interface-markdown.git`
 
@@ -360,26 +350,19 @@ These core concepts appear across all eras:
 
 ```
 human-interface-markdown/
-├── README.md                    # This file
-├── llms.txt                     # LLM discovery index
-├── llms-full.txt                # Complete concatenated content (15MB)
-├── TIMELINE.md                  # Detailed era-by-era guide
+├── README.md                           # This file
+├── llms.txt                            # LLM discovery index
+├── llms-full.txt                       # Complete concatenated content (15MB)
+├── TIMELINE.md                         # Detailed era-by-era guide
 │
-├── docs/                        # 35 organized documents
-│   ├── 1980-lisa-ui-standards/
-│   │   ├── full_document.md    # Complete document
-│   │   ├── chunks/             # Semantic chunks
-│   │   └── images/             # Extracted images
-│   ├── 1982-apple-iie/
-│   ├── 1983-lisa-ui/
-│   ├── ...
-│   └── 2014-os-x-human-interface-guidelines/
-│
-└── llmx/                        # RAG-ready format
-    ├── manifest.json            # File index with SHA256
-    ├── index.json               # Semantic search index
-    ├── chunks/                  # 4,507 pre-segmented chunks
-    └── llm.md                   # Pointer manifest
+├── 1980-lisa-ui-standards/            # Document directories at root
+│   ├── full_document.md               # Complete document
+│   ├── chunks/                        # Semantic chunks for RAG
+│   └── images/                        # Extracted images
+├── 1982-apple-iie/
+├── 1983-lisa-ui/
+├── ...
+└── 2014-os-x-human-interface-guidelines/
 ```
 
 ---
